@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Restore and rebuild docs
+    url: https://github.com/musuhabadinandar/retrogamewebsite/blob/main/docs/INSTALL_FULL_DATA.md
+    about: Start here if your issue is really a setup or restore question.
