@@ -1,0 +1,41 @@
+
+changjing.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 2, 146
+  size: 663, 103
+  orig: 663, 103
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 2, 2
+  size: 516, 142
+  orig: 516, 142
+  offset: 0, 0
+  index: -1
+图层 584
+  rotate: false
+  xy: 667, 116
+  size: 303, 62
+  orig: 303, 62
+  offset: 0, 0
+  index: -1
+开启新场景
+  rotate: false
+  xy: 520, 42
+  size: 302, 72
+  orig: 302, 72
+  offset: 0, 0
+  index: -1
+第一章 妖兽来袭
+  rotate: false
+  xy: 667, 180
+  size: 340, 69
+  orig: 340, 69
+  offset: 0, 0
+  index: -1

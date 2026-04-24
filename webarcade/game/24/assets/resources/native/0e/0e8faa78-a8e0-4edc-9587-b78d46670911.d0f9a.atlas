@@ -1,0 +1,153 @@
+
+monster04_renoushi.png
+size: 189,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 101, 157
+  size: 59, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+shidun
+  rotate: false
+  xy: 2, 414
+  size: 171, 104
+  orig: 171, 105
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: true
+  xy: 86, 98
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: true
+  xy: 174, 111
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: false
+  xy: 101, 218
+  size: 38, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+shitou5
+  rotate: true
+  xy: 153, 21
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 213
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+touf4
+  rotate: true
+  xy: 2, 60
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 2, 312
+  size: 100, 138
+  orig: 100, 138
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 91, 127
+  size: 28, 87
+  orig: 28, 87
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 142, 244
+  size: 44, 104
+  orig: 44, 104
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 129
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 142, 350
+  size: 62, 45
+  orig: 63, 45
+  offset: 1, 0
+  index: -1
+youdabi_0
+  rotate: false
+  xy: 83, 5
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 125, 98
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 141, 218
+  size: 36, 24
+  orig: 37, 24
+  offset: 1, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 125, 16
+  size: 26, 42
+  orig: 27, 47
+  offset: 0, 4
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 2, 164
+  size: 87, 47
+  orig: 87, 47
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 101, 254
+  size: 56, 39
+  orig: 59, 40
+  offset: 3, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 2, 2
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 86, 60
+  size: 82, 36
+  orig: 82, 36
+  offset: 0, 0
+  index: -1

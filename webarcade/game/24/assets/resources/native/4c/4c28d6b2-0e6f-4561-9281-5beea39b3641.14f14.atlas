@@ -1,0 +1,118 @@
+
+monster08_daoshizhe.png
+size: 236,721
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huashou
+  rotate: true
+  xy: 2, 292
+  size: 427, 232
+  orig: 475, 232
+  offset: 48, 0
+  index: -1
+qunbai
+  rotate: false
+  xy: 119, 60
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 122, 140
+  size: 73, 150
+  orig: 74, 150
+  offset: 1, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 189
+  size: 101, 118
+  orig: 101, 118
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 197, 203
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 48, 36
+  size: 19, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 67, 57
+  size: 49, 62
+  orig: 52, 65
+  offset: 3, 2
+  index: -1
+youjiao
+  rotate: false
+  xy: 2, 11
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 2, 42
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 118, 31
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 176, 2
+  size: 31, 42
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 183, 35
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+zuodabi_0
+  rotate: true
+  xy: 2, 121
+  size: 66, 115
+  orig: 66, 115
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 2, 70
+  size: 63, 49
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 197, 151
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 197, 106
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1

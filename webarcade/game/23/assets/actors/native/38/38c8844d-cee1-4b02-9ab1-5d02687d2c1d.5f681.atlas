@@ -1,0 +1,62 @@
+
+e1.png
+size: 97,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xfl_arm_L
+  rotate: false
+  xy: 2, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+xfl_arm_R
+  rotate: false
+  xy: 76, 14
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+xfl_body
+  rotate: false
+  xy: 56, 98
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+xfl_cb_L
+  rotate: false
+  xy: 56, 30
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+xfl_head
+  rotate: false
+  xy: 56, 55
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+xfl_leg_L
+  rotate: false
+  xy: 56, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+xfl_leg_R
+  rotate: false
+  xy: 21, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 2, 20
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

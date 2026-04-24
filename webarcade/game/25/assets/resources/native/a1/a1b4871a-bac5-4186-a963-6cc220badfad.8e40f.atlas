@@ -1,0 +1,90 @@
+
+maoyao_TX.png
+size: 440,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai/VFX_1
+  rotate: false
+  xy: 2, 306
+  size: 380, 91
+  orig: 399, 92
+  offset: 1, 0
+  index: -1
+hong/VFX_1
+  rotate: false
+  xy: 2, 306
+  size: 380, 91
+  orig: 399, 92
+  offset: 1, 0
+  index: -1
+bai/VFX_2
+  rotate: false
+  xy: 195, 2
+  size: 134, 152
+  orig: 138, 155
+  offset: 1, 2
+  index: -1
+hong/VFX_2
+  rotate: false
+  xy: 195, 2
+  size: 134, 152
+  orig: 138, 155
+  offset: 1, 2
+  index: -1
+bai/VFX_3
+  rotate: false
+  xy: 2, 399
+  size: 433, 157
+  orig: 438, 160
+  offset: 2, 1
+  index: -1
+hong/VFX_3
+  rotate: false
+  xy: 2, 399
+  size: 433, 157
+  orig: 438, 160
+  offset: 2, 1
+  index: -1
+bai/VFX_4
+  rotate: false
+  xy: 2, 3
+  size: 191, 151
+  orig: 195, 153
+  offset: 1, 0
+  index: -1
+hong/VFX_4
+  rotate: false
+  xy: 2, 3
+  size: 191, 151
+  orig: 195, 153
+  offset: 1, 0
+  index: -1
+bai/VFX_5
+  rotate: false
+  xy: 2, 156
+  size: 291, 148
+  orig: 293, 152
+  offset: 2, 1
+  index: -1
+hong/VFX_5
+  rotate: false
+  xy: 2, 156
+  size: 291, 148
+  orig: 293, 152
+  offset: 2, 1
+  index: -1
+bai/VFX_6
+  rotate: false
+  xy: 331, 72
+  size: 107, 232
+  orig: 112, 236
+  offset: 3, 3
+  index: -1
+hong/VFX_6
+  rotate: false
+  xy: 331, 72
+  size: 107, 232
+  orig: 112, 236
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,90 @@
+
+success1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 980, 783
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+yaoban1b
+  rotate: false
+  xy: 455, 283
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+光环1
+  rotate: false
+  xy: 455, 390
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+墨水
+  rotate: false
+  xy: 2, 102
+  size: 577, 107
+  orig: 577, 107
+  offset: 0, 0
+  index: -1
+恭喜获得
+  rotate: true
+  xy: 867, 665
+  size: 353, 111
+  orig: 353, 111
+  offset: 0, 0
+  index: -1
+挑战成功
+  rotate: true
+  xy: 754, 663
+  size: 355, 111
+  orig: 355, 111
+  offset: 0, 0
+  index: -1
+月亮1
+  rotate: false
+  xy: 2, 211
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1
+点击任意区域关闭
+  rotate: true
+  xy: 980, 836
+  size: 182, 24
+  orig: 182, 24
+  offset: 0, 0
+  index: -1
+翅膀1
+  rotate: false
+  xy: 126, 74
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+翅膀2
+  rotate: false
+  xy: 455, 248
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+获得框
+  rotate: false
+  xy: 2, 664
+  size: 750, 354
+  orig: 750, 354
+  offset: 0, 0
+  index: -1
+道具
+  rotate: true
+  xy: 2, 2
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1

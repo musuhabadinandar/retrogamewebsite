@@ -1,0 +1,34 @@
+
+task.png
+size: 1328,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang
+  rotate: false
+  xy: 1104, 28
+  size: 166, 58
+  orig: 166, 58
+  offset: 0, 0
+  index: -1
+mb
+  rotate: false
+  xy: 2, 28
+  size: 714, 58
+  orig: 714, 58
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1272, 26
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+x5a
+  rotate: false
+  xy: 718, 2
+  size: 384, 84
+  orig: 384, 84
+  offset: 0, 0
+  index: -1

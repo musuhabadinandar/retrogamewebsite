@@ -1,0 +1,62 @@
+
+renwu9.png
+size: 280,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N9-xiao/erhuan
+  rotate: true
+  xy: 186, 146
+  size: 3, 20
+  orig: 3, 20
+  offset: 0, 0
+  index: -1
+N9-xiao/erhuan1
+  rotate: true
+  xy: 164, 145
+  size: 4, 20
+  orig: 4, 20
+  offset: 0, 0
+  index: -1
+N9-xiao/lian
+  rotate: false
+  xy: 208, 66
+  size: 67, 83
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+N9-xiao/qianbai
+  rotate: true
+  xy: 2, 132
+  size: 380, 160
+  orig: 380, 160
+  offset: 0, 0
+  index: -1
+N9-xiao/shengt
+  rotate: false
+  xy: 2, 2
+  size: 204, 128
+  orig: 204, 136
+  offset: 0, 8
+  index: -1
+N9-xiao/touf
+  rotate: false
+  xy: 164, 151
+  size: 84, 106
+  orig: 93, 119
+  offset: 5, 13
+  index: -1
+N9-xiao/youshou
+  rotate: false
+  xy: 164, 259
+  size: 114, 125
+  orig: 114, 138
+  offset: 0, 0
+  index: -1
+N9-xiao/zuoshou
+  rotate: false
+  xy: 164, 386
+  size: 114, 126
+  orig: 114, 143
+  offset: 0, 4
+  index: -1

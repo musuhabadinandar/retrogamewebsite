@@ -1,0 +1,160 @@
+
+guowang.png
+size: 475,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuancuan
+  rotate: true
+  xy: 227, 2
+  size: 92, 66
+  orig: 94, 66
+  offset: 2, 0
+  index: -1
+dao
+  rotate: true
+  xy: 133, 263
+  size: 66, 125
+  orig: 66, 125
+  offset: 0, 0
+  index: -1
+gg
+  rotate: true
+  xy: 161, 128
+  size: 133, 44
+  orig: 133, 44
+  offset: 0, 0
+  index: -1
+jiao01
+  rotate: true
+  xy: 284, 159
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+mm
+  rotate: false
+  xy: 161, 96
+  size: 112, 30
+  orig: 112, 30
+  offset: 0, 0
+  index: -1
+olian
+  rotate: true
+  xy: 2, 93
+  size: 161, 157
+  orig: 161, 157
+  offset: 0, 0
+  index: -1
+peis1
+  rotate: true
+  xy: 207, 146
+  size: 115, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 295, 19
+  size: 46, 75
+  orig: 46, 121
+  offset: 0, 39
+  index: -1
+shentiss
+  rotate: false
+  xy: 2, 256
+  size: 129, 217
+  orig: 129, 218
+  offset: 0, 1
+  index: -1
+shou01z
+  rotate: false
+  xy: 181, 332
+  size: 38, 141
+  orig: 39, 142
+  offset: 0, 1
+  index: -1
+shou02
+  rotate: true
+  xy: 207, 128
+  size: 16, 45
+  orig: 16, 45
+  offset: 0, 0
+  index: -1
+shou02z
+  rotate: false
+  xy: 133, 331
+  size: 46, 142
+  orig: 46, 142
+  offset: 0, 0
+  index: -1
+shou04
+  rotate: false
+  xy: 320, 184
+  size: 20, 44
+  orig: 20, 46
+  offset: 0, 1
+  index: -1
+tou
+  rotate: true
+  xy: 152, 10
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+tou02z
+  rotate: false
+  xy: 221, 339
+  size: 80, 134
+  orig: 82, 134
+  offset: 1, 0
+  index: -1
+tuo01z
+  rotate: true
+  xy: 18, 10
+  size: 81, 132
+  orig: 81, 132
+  offset: 0, 0
+  index: -1
+yanj01
+  rotate: true
+  xy: 315, 116
+  size: 41, 21
+  orig: 46, 36
+  offset: 2, 0
+  index: -1
+yanj02
+  rotate: true
+  xy: 284, 183
+  size: 45, 34
+  orig: 46, 34
+  offset: 1, 0
+  index: -1
+yanj03
+  rotate: true
+  xy: 284, 230
+  size: 45, 36
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+yanj04
+  rotate: true
+  xy: 275, 96
+  size: 48, 38
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+yanj05
+  rotate: true
+  xy: 260, 277
+  size: 60, 41
+  orig: 62, 42
+  offset: 1, 1
+  index: -1
+yy
+  rotate: true
+  xy: 2, 2
+  size: 89, 14
+  orig: 89, 14
+  offset: 0, 0
+  index: -1

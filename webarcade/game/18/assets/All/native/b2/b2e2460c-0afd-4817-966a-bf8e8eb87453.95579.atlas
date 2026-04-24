@@ -1,0 +1,97 @@
+
+lihui2.png
+size: 280,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lnq_cb1
+  rotate: false
+  xy: 2, 430
+  size: 160, 114
+  orig: 160, 114
+  offset: 0, 0
+  index: -1
+lnq_cb2
+  rotate: false
+  xy: 135, 136
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+lnq_lian
+  rotate: false
+  xy: 201, 9
+  size: 77, 67
+  orig: 79, 69
+  offset: 1, 1
+  index: -1
+lnq_qz1
+  rotate: false
+  xy: 2, 186
+  size: 131, 81
+  orig: 131, 81
+  offset: 0, 0
+  index: -1
+lnq_qz2
+  rotate: false
+  xy: 2, 119
+  size: 129, 65
+  orig: 129, 81
+  offset: 0, 0
+  index: -1
+lnq_s1
+  rotate: true
+  xy: 133, 78
+  size: 56, 118
+  orig: 56, 118
+  offset: 0, 0
+  index: -1
+lnq_s2
+  rotate: true
+  xy: 164, 452
+  size: 92, 111
+  orig: 92, 112
+  offset: 0, 0
+  index: -1
+lnq_st
+  rotate: true
+  xy: 2, 52
+  size: 65, 107
+  orig: 67, 109
+  offset: 1, 1
+  index: -1
+lnq_t1
+  rotate: true
+  xy: 139, 248
+  size: 42, 134
+  orig: 44, 136
+  offset: 1, 1
+  index: -1
+lnq_t2
+  rotate: true
+  xy: 2, 269
+  size: 32, 135
+  orig: 34, 137
+  offset: 1, 1
+  index: -1
+lnq_tf1
+  rotate: true
+  xy: 111, 2
+  size: 74, 88
+  orig: 86, 104
+  offset: 0, 16
+  index: -1
+lnq_tf2
+  rotate: true
+  xy: 2, 303
+  size: 125, 157
+  orig: 125, 174
+  offset: 0, 0
+  index: -1
+lnq_wb
+  rotate: true
+  xy: 164, 292
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1

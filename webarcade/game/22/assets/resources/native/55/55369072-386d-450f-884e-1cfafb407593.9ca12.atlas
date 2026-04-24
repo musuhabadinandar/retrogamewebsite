@@ -1,0 +1,62 @@
+
+sdq_03.png
+size: 388,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdq_03_body
+  rotate: false
+  xy: 2, 218
+  size: 173, 308
+  orig: 173, 308
+  offset: 0, 0
+  index: -1
+sdq_03_hand11
+  rotate: false
+  xy: 260, 112
+  size: 67, 72
+  orig: 69, 74
+  offset: 1, 1
+  index: -1
+sdq_03_hand12
+  rotate: false
+  xy: 194, 83
+  size: 64, 101
+  orig: 66, 103
+  offset: 1, 1
+  index: -1
+sdq_03_hand2
+  rotate: false
+  xy: 194, 186
+  size: 110, 91
+  orig: 112, 93
+  offset: 1, 1
+  index: -1
+sdq_03_head
+  rotate: false
+  xy: 177, 279
+  size: 209, 247
+  orig: 211, 249
+  offset: 1, 1
+  index: -1
+sdq_03_leg1
+  rotate: false
+  xy: 306, 201
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+sdq_03_leg2
+  rotate: false
+  xy: 194, 8
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+sdq_03_tail
+  rotate: true
+  xy: 2, 2
+  size: 214, 190
+  orig: 214, 190
+  offset: 0, 0
+  index: -1

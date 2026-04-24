@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Play HTML5 Game</title>
+  <meta name="description" content="Launch a curated HTML5 game from the Webarcade collection.">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body class="play-shell">
+  <div class="backdrop backdrop-a"></div>
+  <div class="backdrop backdrop-b"></div>
+
+  <main class="play-page">
+    <header class="play-header">
+      <div>
+        <p class="eyebrow">Webarcade</p>
+        <h1 id="play-title">Loading game...</h1>
+        <p id="play-hint" class="play-hint">Preparing the selected HTML5 title.</p>
+      </div>
+      <div class="hero-actions">
+        <a class="btn btn-secondary" href="index.html">Back to HTML5 Games</a>
+        <a class="btn btn-secondary" href="account.html">Account Center</a>
+        <a id="direct-open" class="btn btn-primary" href="#" target="_blank" rel="noopener">Open in New Tab</a>
+      </div>
+    </header>
+
+    <section id="play-status" class="status-banner">
+      <p>Checking publication status...</p>
+    </section>
+
+    <section id="account-panel" class="account-panel account-panel-wide">
+      <p class="panel-note">Loading account tools...</p>
+    </section>
+
+    <section id="save-panel" class="status-banner">
+      <p>Checking cloud-save status...</p>
+    </section>
+
+    <section class="frame-shell">
+      <iframe
+        id="game-frame"
+        title="HTML5 Game Player"
+        loading="eager"
+        allowfullscreen
+        referrerpolicy="strict-origin-when-cross-origin"
+      ></iframe>
+    </section>
+  </main>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

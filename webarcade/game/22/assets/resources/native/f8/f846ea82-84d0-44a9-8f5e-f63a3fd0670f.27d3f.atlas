@@ -1,0 +1,34 @@
+
+fx_contaminatedarea.png
+size: 661,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx01
+  rotate: true
+  xy: 347, 8
+  size: 260, 185
+  orig: 262, 187
+  offset: 1, 1
+  index: -1
+fx02
+  rotate: true
+  xy: 534, 75
+  size: 193, 125
+  orig: 195, 127
+  offset: 1, 1
+  index: -1
+fx_bg
+  rotate: false
+  xy: 2, 2
+  size: 343, 266
+  orig: 354, 277
+  offset: 5, 6
+  index: -1
+pp
+  rotate: true
+  xy: 534, 50
+  size: 23, 17
+  orig: 25, 19
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+e9.png
+size: 160,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bys_arm_L1
+  rotate: false
+  xy: 134, 3
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+bys_arm_L2
+  rotate: false
+  xy: 126, 99
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+bys_arm_R1
+  rotate: false
+  xy: 105, 2
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+bys_arm_R2
+  rotate: true
+  xy: 105, 35
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+bys_body1
+  rotate: false
+  xy: 31, 5
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+bys_body2
+  rotate: false
+  xy: 2, 3
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+bys_body3
+  rotate: true
+  xy: 56, 16
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+bys_gq1
+  rotate: false
+  xy: 56, 72
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+bys_head
+  rotate: false
+  xy: 126, 70
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 2, 20
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

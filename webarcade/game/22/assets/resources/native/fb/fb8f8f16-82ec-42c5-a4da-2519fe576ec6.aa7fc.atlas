@@ -1,0 +1,83 @@
+
+long_boss_hand.png
+size: 284,1057
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx0101
+  rotate: false
+  xy: 182, 166
+  size: 96, 426
+  orig: 100, 438
+  offset: 2, 1
+  index: -1
+fx0102
+  rotate: true
+  xy: 117, 25
+  size: 12, 152
+  orig: 13, 153
+  offset: 1, 1
+  index: -1
+fx0103
+  rotate: false
+  xy: 2, 80
+  size: 174, 174
+  orig: 176, 176
+  offset: 1, 1
+  index: -1
+fx0104
+  rotate: false
+  xy: 2, 256
+  size: 176, 176
+  orig: 182, 182
+  offset: 3, 3
+  index: -1
+fx0105
+  rotate: false
+  xy: 2, 434
+  size: 178, 178
+  orig: 182, 182
+  offset: 2, 2
+  index: -1
+fx0106
+  rotate: false
+  xy: 2, 779
+  size: 276, 276
+  orig: 298, 298
+  offset: 11, 11
+  index: -1
+h1
+  rotate: true
+  xy: 2, 2
+  size: 76, 113
+  orig: 171, 113
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 193, 594
+  size: 72, 82
+  orig: 171, 113
+  offset: 99, 0
+  index: -1
+h3
+  rotate: false
+  xy: 178, 39
+  size: 92, 125
+  orig: 92, 125
+  offset: 0, 0
+  index: -1
+h4
+  rotate: true
+  xy: 193, 668
+  size: 109, 89
+  orig: 109, 89
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 2, 614
+  size: 189, 163
+  orig: 189, 163
+  offset: 0, 0
+  index: -1

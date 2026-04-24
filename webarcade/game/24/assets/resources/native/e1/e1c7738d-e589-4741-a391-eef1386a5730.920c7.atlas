@@ -1,0 +1,104 @@
+
+monster02_jiangshi.png
+size: 663,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 308, 56
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 7
+  size: 148, 135
+  orig: 168, 181
+  offset: 10, 23
+  index: -1
+tun
+  rotate: true
+  xy: 434, 5
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 214, 17
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 303, 7
+  size: 63, 43
+  orig: 65, 43
+  offset: 1, 0
+  index: -1
+youjiaotui
+  rotate: false
+  xy: 462, 69
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 139, 16
+  size: 73, 139
+  orig: 73, 139
+  offset: 0, 0
+  index: -1
+zhua1
+  rotate: false
+  xy: 368, 3
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+zhua2
+  rotate: true
+  xy: 481, 2
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+zhua3
+  rotate: false
+  xy: 594, 87
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+zhua4
+  rotate: false
+  xy: 525, 84
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+zhua5
+  rotate: false
+  xy: 542, 12
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 389, 57
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 214, 52
+  size: 92, 103
+  orig: 92, 103
+  offset: 0, 0
+  index: -1

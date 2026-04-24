@@ -1,0 +1,48 @@
+
+fx_ribbons.png
+size: 64,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/r1
+  rotate: false
+  xy: 0, 0
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+img/r2
+  rotate: false
+  xy: 10, 0
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+img/r3
+  rotate: false
+  xy: 20, 0
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+img/r4
+  rotate: false
+  xy: 30, 0
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+img/r5
+  rotate: false
+  xy: 40, 0
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+img/r6
+  rotate: false
+  xy: 50, 0
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1

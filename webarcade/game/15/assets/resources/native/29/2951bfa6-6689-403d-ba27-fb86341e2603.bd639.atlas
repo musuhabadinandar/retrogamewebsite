@@ -1,0 +1,83 @@
+
+fei12.png
+size: 1234,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1
+  rotate: false
+  xy: 2, 2
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+图层 110 拷贝
+  rotate: false
+  xy: 226, 2
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 114, 2
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+形状 198
+  rotate: false
+  xy: 450, 2
+  size: 35, 104
+  orig: 35, 104
+  offset: 0, 0
+  index: -1
+形状 198 拷贝 2
+  rotate: false
+  xy: 562, 2
+  size: 33, 99
+  orig: 33, 99
+  offset: 0, 0
+  index: -1
+形状 200
+  rotate: false
+  xy: 674, 2
+  size: 110, 145
+  orig: 110, 145
+  offset: 0, 0
+  index: -1
+形状 202
+  rotate: false
+  xy: 786, 2
+  size: 46, 197
+  orig: 46, 197
+  offset: 0, 0
+  index: -1
+形状 203
+  rotate: false
+  xy: 898, 2
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+形状 86
+  rotate: false
+  xy: 338, 2
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+组 5
+  rotate: false
+  xy: 1010, 2
+  size: 18, 19
+  orig: 26, 20
+  offset: 8, 0
+  index: -1
+组 5 拷贝 3
+  rotate: false
+  xy: 1122, 2
+  size: 18, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1

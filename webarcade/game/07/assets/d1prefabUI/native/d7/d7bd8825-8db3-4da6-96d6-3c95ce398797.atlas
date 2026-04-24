@@ -1,0 +1,41 @@
+
+djtx.png
+size: 546, 293
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+q66
+  rotate: false
+  xy: 317, 128
+  size: 163, 163
+  orig: 165, 165
+  offset: 1, 1
+  index: -1
+q77
+  rotate: false
+  xy: 2, 2
+  size: 313, 289
+  orig: 319, 301
+  offset: 6, 8
+  index: -1
+ty1
+  rotate: false
+  xy: 443, 25
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+ty2
+  rotate: false
+  xy: 317, 2
+  size: 124, 124
+  orig: 126, 126
+  offset: 1, 1
+  index: -1
+形状7(5)
+  rotate: false
+  xy: 482, 267
+  size: 19, 24
+  orig: 19, 25
+  offset: 0, 0
+  index: -1

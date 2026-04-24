@@ -1,0 +1,181 @@
+
+chenggong.png
+size: 1915,1772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dongtai1
+  rotate: false
+  xy: 2, 456
+  size: 1303, 182
+  orig: 1305, 186
+  offset: 1, 2
+  index: -1
+dongtai10
+  rotate: true
+  xy: 1705, 785
+  size: 376, 146
+  orig: 1334, 302
+  offset: 479, 77
+  index: -1
+dongtai11
+  rotate: true
+  xy: 1705, 409
+  size: 374, 142
+  orig: 1334, 302
+  offset: 480, 79
+  index: -1
+dongtai2
+  rotate: false
+  xy: 2, 640
+  size: 1318, 189
+  orig: 1334, 302
+  offset: 16, 69
+  index: -1
+dongtai3
+  rotate: false
+  xy: 2, 1009
+  size: 1334, 198
+  orig: 1334, 302
+  offset: 0, 60
+  index: -1
+dongtai4
+  rotate: false
+  xy: 965, 182
+  size: 546, 158
+  orig: 1334, 302
+  offset: 0, 82
+  index: -1
+dongtai5
+  rotate: true
+  xy: 1499, 1060
+  size: 559, 158
+  orig: 1334, 302
+  offset: 775, 71
+  index: -1
+dongtai6
+  rotate: true
+  xy: 1338, 736
+  size: 883, 159
+  orig: 1334, 302
+  offset: 451, 71
+  index: -1
+dongtai7
+  rotate: false
+  xy: 893, 31
+  size: 549, 149
+  orig: 1334, 302
+  offset: 0, 76
+  index: -1
+dongtai8
+  rotate: false
+  xy: 2, 831
+  size: 1334, 176
+  orig: 1334, 302
+  offset: 0, 76
+  index: -1
+dongtai9
+  rotate: false
+  xy: 2, 2
+  size: 889, 187
+  orig: 1334, 302
+  offset: 445, 65
+  index: -1
+duihuanchenggong
+  rotate: false
+  xy: 1513, 235
+  size: 350, 111
+  orig: 352, 111
+  offset: 2, 0
+  index: -1
+fenjiechenggong
+  rotate: false
+  xy: 1513, 122
+  size: 350, 111
+  orig: 352, 111
+  offset: 2, 0
+  index: -1
+goumaichenggong
+  rotate: false
+  xy: 1338, 530
+  size: 351, 111
+  orig: 354, 115
+  offset: 1, 2
+  index: -1
+hongtiao
+  rotate: false
+  xy: 2, 342
+  size: 1334, 112
+  orig: 1334, 112
+  offset: 0, 0
+  index: -1
+huangtiao1
+  rotate: true
+  xy: 1499, 643
+  size: 415, 204
+  orig: 1334, 204
+  offset: 0, 0
+  index: -1
+huangtiao2
+  rotate: false
+  xy: 2, 1415
+  size: 1334, 204
+  orig: 1334, 204
+  offset: 0, 0
+  index: -1
+huangtiao3
+  rotate: false
+  xy: 2, 1209
+  size: 1334, 204
+  orig: 1334, 204
+  offset: 0, 0
+  index: -1
+huangtiao4
+  rotate: false
+  xy: 2, 1621
+  size: 1789, 149
+  orig: 1790, 149
+  offset: 1, 0
+  index: -1
+huangtiao5
+  rotate: false
+  xy: 2, 191
+  size: 961, 149
+  orig: 1334, 204
+  offset: 373, 27
+  index: -1
+huangtiao6
+  rotate: true
+  xy: 1793, 1163
+  size: 607, 120
+  orig: 1334, 204
+  offset: 727, 27
+  index: -1
+huangtiao7
+  rotate: false
+  xy: 1338, 348
+  size: 340, 67
+  orig: 1334, 204
+  offset: 994, 29
+  index: -1
+qianghuachenggong
+  rotate: false
+  xy: 1338, 417
+  size: 351, 111
+  orig: 354, 115
+  offset: 1, 2
+  index: -1
+shengjichenggong
+  rotate: false
+  xy: 1444, 9
+  size: 350, 111
+  orig: 354, 115
+  offset: 2, 2
+  index: -1
+zhuangbeichenggong
+  rotate: true
+  xy: 1659, 1267
+  size: 352, 111
+  orig: 352, 111
+  offset: 0, 0
+  index: -1

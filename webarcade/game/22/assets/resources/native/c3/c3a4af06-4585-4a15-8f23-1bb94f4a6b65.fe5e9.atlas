@@ -1,0 +1,55 @@
+
+fx_longspear_02a.png
+size: 888,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arms
+  rotate: true
+  xy: 2, 185
+  size: 126, 860
+  orig: 134, 877
+  offset: 4, 12
+  index: -1
+hightligight
+  rotate: false
+  xy: 762, 29
+  size: 124, 124
+  orig: 138, 138
+  offset: 7, 7
+  index: -1
+line0
+  rotate: true
+  xy: 413, 155
+  size: 28, 372
+  orig: 32, 376
+  offset: 2, 2
+  index: -1
+line1
+  rotate: true
+  xy: 2, 77
+  size: 106, 409
+  orig: 110, 413
+  offset: 2, 2
+  index: -1
+line2
+  rotate: true
+  xy: 2, 2
+  size: 73, 377
+  orig: 77, 381
+  offset: 2, 2
+  index: -1
+outlight
+  rotate: false
+  xy: 611, 4
+  size: 149, 149
+  orig: 157, 157
+  offset: 4, 4
+  index: -1
+star
+  rotate: false
+  xy: 413, 15
+  size: 196, 138
+  orig: 201, 144
+  offset: 3, 3
+  index: -1

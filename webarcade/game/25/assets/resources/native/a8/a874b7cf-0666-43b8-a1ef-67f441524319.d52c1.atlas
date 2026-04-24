@@ -1,0 +1,230 @@
+
+rengoushi_jingying.png
+size: 750,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoge/cefa
+  rotate: true
+  xy: 515, 16
+  size: 99, 24
+  orig: 99, 24
+  offset: 0, 0
+  index: -1
+daoge/dizuo
+  rotate: true
+  xy: 2, 77
+  size: 193, 166
+  orig: 193, 166
+  offset: 0, 0
+  index: -1
+daoge/hounao
+  rotate: true
+  xy: 605, 123
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+daoge/huofa
+  rotate: false
+  xy: 276, 144
+  size: 121, 126
+  orig: 121, 126
+  offset: 0, 0
+  index: -1
+daoge/qianfa
+  rotate: false
+  xy: 2, 2
+  size: 125, 73
+  orig: 125, 73
+  offset: 0, 0
+  index: -1
+daoge/qugan
+  rotate: true
+  xy: 564, 34
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+daoge/suishi
+  rotate: true
+  xy: 659, 184
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+daoge/toubu
+  rotate: false
+  xy: 170, 5
+  size: 124, 101
+  orig: 124, 101
+  offset: 0, 0
+  index: -1
+daoge/touding
+  rotate: true
+  xy: 421, 5
+  size: 109, 92
+  orig: 109, 92
+  offset: 0, 0
+  index: -1
+daoge/xiazhi
+  rotate: true
+  xy: 129, 2
+  size: 73, 39
+  orig: 74, 44
+  offset: 0, 5
+  index: -1
+daoge/yanjing
+  rotate: true
+  xy: 625, 4
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+daoge/yanjing2
+  rotate: false
+  xy: 671, 73
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+daoge/youshangbi
+  rotate: false
+  xy: 563, 123
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+daoge/yousuishi
+  rotate: false
+  xy: 708, 229
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+daoge/youxiabi
+  rotate: false
+  xy: 459, 117
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+daoge/zuoshangbi
+  rotate: false
+  xy: 366, 116
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+daoge/zuosuishi
+  rotate: false
+  xy: 679, 22
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+daoge/zuoxiabi
+  rotate: false
+  xy: 276, 111
+  size: 43, 31
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+hanbing/cefa
+  rotate: true
+  xy: 541, 16
+  size: 99, 21
+  orig: 99, 23
+  offset: 0, 2
+  index: -1
+hanbing/dizuo
+  rotate: true
+  xy: 170, 108
+  size: 162, 104
+  orig: 162, 104
+  offset: 0, 0
+  index: -1
+hanbing/huofa
+  rotate: false
+  xy: 399, 144
+  size: 121, 126
+  orig: 121, 126
+  offset: 0, 0
+  index: -1
+hanbing/qianfa
+  rotate: true
+  xy: 522, 145
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+hanbing/qugan
+  rotate: true
+  xy: 598, 183
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+hanbing/suishi
+  rotate: true
+  xy: 657, 126
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+hanbing/toubu
+  rotate: false
+  xy: 296, 8
+  size: 123, 101
+  orig: 123, 101
+  offset: 0, 0
+  index: -1
+hanbing/xiazhi
+  rotate: false
+  xy: 625, 49
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+hanbing/youshangbi
+  rotate: true
+  xy: 564, 12
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+hanbing/yousuishi
+  rotate: false
+  xy: 708, 186
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+hanbing/youxiabi
+  rotate: true
+  xy: 511, 117
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+hanbing/zuoshangbi
+  rotate: false
+  xy: 413, 116
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+hanbing/zuosuishi
+  rotate: false
+  xy: 659, 221
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+hanbing/zuoxiabi
+  rotate: false
+  xy: 321, 111
+  size: 43, 31
+  orig: 43, 32
+  offset: 0, 0
+  index: -1

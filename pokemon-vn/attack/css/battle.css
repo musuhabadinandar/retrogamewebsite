@@ -1,0 +1,59 @@
+.menu_bg {
+	/*background-image: url('../../images/battle/ui/bg.jpg');*/
+	max-width:550px;
+	min-height: 100px;
+}
+
+.pokemon_change {
+	background: url('../../images/battle/ui/poke.png');
+	background-repeat: no-repeat;
+	width:64px;
+	height:50px;
+	text-align: center;
+}
+
+.potions {
+	background-image: url('../../images/battle/ui/bg.jpg');
+	display:none;
+	color:#fff;
+	max-width:550px;
+	position: relative;
+}
+
+.item_bg {
+	height: 50px;
+	color:#000;
+	text-align: center;
+	cursor: pointer;
+}
+
+.battle_button {
+	margin: 2px;
+	max-width: 102px;
+	height: 34px;
+	font-size: 13px;
+	font-weight: bold;
+	color: #232323;
+	cursor: pointer;
+}
+
+.battle_button:hover {
+    background-position: 0px -34px;
+}
+
+.wrappers span{
+ font:normal 16pt Arial;
+ color:#FFFFFF;
+ text-shadow: 0 1px 0 #ccc,
+ 0 2px 0 #c9c9c9,
+ 0 3px 0 #bbb,
+ 0 4px 0 #b9b9b9,
+ 0 5px 0 #aaa,
+ 0 6px 1px rgba(0,0,0,.1),
+ 0 0 5px rgba(0,0,0,.1),
+ 0 1px 3px rgba(0,0,0,.3),
+ 0 3px 5px rgba(0,0,0,.2),
+ 0 5px 10px rgba(0,0,0,.25),
+ 0 10px 10px rgba(0,0,0,.2),
+ 0 20px 20px rgba(0,0,0,.15);
+}

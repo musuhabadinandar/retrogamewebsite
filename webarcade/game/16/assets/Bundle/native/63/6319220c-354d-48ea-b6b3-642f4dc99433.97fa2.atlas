@@ -1,0 +1,13 @@
+
+sklUI_flash.png
+size: 223,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 2
+  rotate: false
+  xy: 2, 149
+  size: 219, 70
+  orig: 219, 70
+  offset: 0, 0
+  index: -1

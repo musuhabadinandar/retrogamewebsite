@@ -1,0 +1,153 @@
+
+nvdaozei.png
+size: 821,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvdaozei/cefa
+  rotate: false
+  xy: 583, 59
+  size: 49, 90
+  orig: 52, 97
+  offset: 0, 7
+  index: -1
+nvdaozei/houfa
+  rotate: true
+  xy: 2, 12
+  size: 137, 170
+  orig: 137, 170
+  offset: 0, 0
+  index: -1
+nvdaozei/liuhai
+  rotate: true
+  xy: 278, 33
+  size: 116, 102
+  orig: 116, 102
+  offset: 0, 0
+  index: -1
+nvdaozei/qugan
+  rotate: false
+  xy: 174, 23
+  size: 102, 126
+  orig: 141, 148
+  offset: 15, 22
+  index: -1
+nvdaozei/toubu
+  rotate: true
+  xy: 474, 41
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+nvdaozei/yaodai
+  rotate: true
+  xy: 232, 9
+  size: 12, 85
+  orig: 12, 85
+  offset: 0, 0
+  index: -1
+nvdaozei/youdatui
+  rotate: true
+  xy: 780, 77
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+nvdaozei/youshangbi
+  rotate: true
+  xy: 634, 67
+  size: 82, 74
+  orig: 85, 93
+  offset: 0, 8
+  index: -1
+nvdaozei/youxiabi
+  rotate: false
+  xy: 319, 2
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+nvdaozei/youxiaotui
+  rotate: false
+  xy: 563, 13
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+nvdaozei/zuodatui
+  rotate: true
+  xy: 738, 14
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+nvdaozei/zuoshangbi
+  rotate: true
+  xy: 710, 74
+  size: 75, 68
+  orig: 84, 81
+  offset: 0, 9
+  index: -1
+nvdaozei/zuoxiabi
+  rotate: false
+  xy: 377, 2
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+nvdaozei/zuoxiaotui
+  rotate: true
+  xy: 435, 5
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+saji/miansha
+  rotate: false
+  xy: 382, 33
+  size: 90, 116
+  orig: 90, 116
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 494, 2
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 621, 7
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: true
+  xy: 780, 16
+  size: 59, 38
+  orig: 59, 39
+  offset: 0, 1
+  index: -1
+yanjing3
+  rotate: true
+  xy: 666, 5
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 174, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+zuiba2
+  rotate: true
+  xy: 203, 3
+  size: 18, 27
+  orig: 19, 27
+  offset: 1, 0
+  index: -1

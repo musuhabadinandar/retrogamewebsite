@@ -1,0 +1,41 @@
+
+fabao18.png
+size: 216,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao18/faguang2
+  rotate: false
+  xy: 1, 1
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+fabao18/shitou
+  rotate: false
+  xy: 138, 100
+  size: 76, 84
+  orig: 76, 84
+  offset: 0, 0
+  index: -1
+fabao18/shenzi
+  rotate: false
+  xy: 1, 119
+  size: 135, 87
+  orig: 135, 87
+  offset: 0, 0
+  index: -1
+fabao18/faguang
+  rotate: false
+  xy: 117, 1
+  size: 90, 97
+  orig: 90, 97
+  offset: 0, 0
+  index: -1
+faqi10/fabao10-diandian
+  rotate: false
+  xy: 117, 100
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1

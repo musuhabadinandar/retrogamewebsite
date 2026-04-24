@@ -1,0 +1,62 @@
+
+boss13_skill1.png
+size: 268,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 149, 438
+  size: 117, 236
+  orig: 121, 239
+  offset: 2, 1
+  index: -1
+2
+  rotate: false
+  xy: 149, 221
+  size: 117, 215
+  orig: 121, 216
+  offset: 2, 1
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 137, 85
+  orig: 141, 89
+  offset: 2, 2
+  index: -1
+4
+  rotate: false
+  xy: 2, 264
+  size: 145, 410
+  orig: 145, 410
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 89, 111
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 89, 2
+  size: 104, 110
+  orig: 105, 111
+  offset: 0, 1
+  index: -1
+yan3
+  rotate: false
+  xy: 2, 141
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+yan4
+  rotate: false
+  xy: 125, 108
+  size: 125, 111
+  orig: 125, 111
+  offset: 0, 0
+  index: -1

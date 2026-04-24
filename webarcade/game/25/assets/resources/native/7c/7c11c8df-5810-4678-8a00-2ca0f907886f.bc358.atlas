@@ -1,0 +1,13 @@
+
+TX_feidao.png
+size: 71,41
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feidao
+  rotate: false
+  xy: 2, 2
+  size: 67, 37
+  orig: 67, 37
+  offset: 0, 0
+  index: -1

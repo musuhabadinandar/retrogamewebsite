@@ -1,0 +1,104 @@
+
+fei10.png
+size: 1808,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 34, 127
+  orig: 34, 127
+  offset: 0, 0
+  index: -1
+151
+  rotate: false
+  xy: 389, 2
+  size: 31, 83
+  orig: 31, 83
+  offset: 0, 0
+  index: -1
+155
+  rotate: false
+  xy: 518, 2
+  size: 30, 85
+  orig: 30, 85
+  offset: 0, 0
+  index: -1
+172
+  rotate: false
+  xy: 647, 2
+  size: 54, 158
+  orig: 54, 158
+  offset: 0, 0
+  index: -1
+173
+  rotate: false
+  xy: 776, 2
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+174
+  rotate: false
+  xy: 905, 2
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+177
+  rotate: false
+  xy: 1034, 2
+  size: 37, 106
+  orig: 37, 106
+  offset: 0, 0
+  index: -1
+178
+  rotate: false
+  xy: 1163, 2
+  size: 73, 253
+  orig: 73, 253
+  offset: 0, 0
+  index: -1
+179
+  rotate: false
+  xy: 1292, 2
+  size: 37, 106
+  orig: 37, 106
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 260, 2
+  size: 55, 210
+  orig: 55, 210
+  offset: 0, 0
+  index: -1
+180
+  rotate: false
+  xy: 1421, 2
+  size: 46, 136
+  orig: 46, 136
+  offset: 0, 0
+  index: -1
+181
+  rotate: false
+  xy: 1550, 2
+  size: 46, 136
+  orig: 46, 136
+  offset: 0, 0
+  index: -1
+186
+  rotate: false
+  xy: 1679, 2
+  size: 55, 210
+  orig: 55, 210
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 131, 2
+  size: 127, 32
+  orig: 127, 32
+  offset: 0, 0
+  index: -1

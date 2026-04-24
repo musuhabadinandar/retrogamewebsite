@@ -1,0 +1,118 @@
+
+YinDao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DaBi_L
+  rotate: false
+  xy: 538, 21
+  size: 109, 237
+  orig: 111, 239
+  offset: 1, 1
+  index: -1
+DaBi_R
+  rotate: true
+  xy: 564, 302
+  size: 207, 146
+  orig: 211, 148
+  offset: 4, 1
+  index: -1
+Mao_1
+  rotate: false
+  xy: 846, 180
+  size: 135, 126
+  orig: 135, 126
+  offset: 0, 0
+  index: -1
+Mao_2
+  rotate: false
+  xy: 446, 260
+  size: 116, 249
+  orig: 116, 249
+  offset: 0, 0
+  index: -1
+ShanZi
+  rotate: true
+  xy: 820, 420
+  size: 89, 174
+  orig: 91, 176
+  offset: 1, 1
+  index: -1
+Shen
+  rotate: false
+  xy: 2, 66
+  size: 328, 443
+  orig: 328, 443
+  offset: 0, 0
+  index: -1
+Shou_L_2
+  rotate: true
+  xy: 332, 238
+  size: 271, 112
+  orig: 271, 112
+  offset: 0, 0
+  index: -1
+Shou_R
+  rotate: false
+  xy: 649, 112
+  size: 130, 188
+  orig: 132, 190
+  offset: 1, 1
+  index: -1
+Tou
+  rotate: false
+  xy: 332, 20
+  size: 204, 216
+  orig: 211, 218
+  offset: 1, 1
+  index: -1
+XiaoBi_R
+  rotate: true
+  xy: 846, 308
+  size: 110, 150
+  orig: 112, 153
+  offset: 1, 1
+  index: -1
+YanJing
+  rotate: false
+  xy: 117, 18
+  size: 172, 46
+  orig: 174, 48
+  offset: 1, 1
+  index: -1
+Yan_1
+  rotate: true
+  xy: 712, 305
+  size: 113, 65
+  orig: 115, 67
+  offset: 1, 1
+  index: -1
+Yan_2
+  rotate: true
+  xy: 779, 305
+  size: 113, 65
+  orig: 115, 67
+  offset: 1, 1
+  index: -1
+Yan_3
+  rotate: false
+  xy: 2, 2
+  size: 113, 62
+  orig: 115, 64
+  offset: 1, 1
+  index: -1
+Zui_1
+  rotate: true
+  xy: 649, 8
+  size: 102, 83
+  orig: 104, 85
+  offset: 1, 1
+  index: -1
+Zui_2
+  rotate: true
+  xy: 734, 10
+  size: 100, 84
+  orig: 102, 86
+  offset: 1, 1
+  index: -1

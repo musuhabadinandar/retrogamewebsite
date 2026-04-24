@@ -1,0 +1,55 @@
+
+bingzhu_TX.png
+size: 75,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw1
+  rotate: true
+  xy: 62, 37
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+bw2
+  rotate: false
+  xy: 2, 3
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+bw3
+  rotate: false
+  xy: 2, 34
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+bz1
+  rotate: false
+  xy: 50, 51
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+bz2
+  rotate: true
+  xy: 54, 2
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+bz3
+  rotate: false
+  xy: 2, 51
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 18
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1

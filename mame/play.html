@@ -1,0 +1,589 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Arcade Emulator - Nandar Games</title>
+  <link rel="icon" href="docs/favicon.ico">
+  <style>
+    :root {
+      color-scheme: dark;
+      --panel: rgba(11, 14, 22, .88);
+      --line: rgba(255,255,255,.16);
+      --text: #f6f7fb;
+      --muted: #b8c0d6;
+      --accent: #ffcc3d;
+      --accent2: #38f6c9;
+    }
+    * { box-sizing: border-box; }
+    html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; background: #05070d; color: var(--text); font-family: Trebuchet MS, Verdana, sans-serif; }
+    #game { width: 100vw; height: 100vh; background: radial-gradient(circle at 50% 35%, #19233d 0, #06070c 56%, #020308 100%); }
+    .arcade-boot {
+      position: fixed; inset: 0; z-index: 20; display: grid; place-items: center; padding: 24px;
+      background: radial-gradient(circle at 50% 25%, rgba(255,204,61,.16), transparent 28%), linear-gradient(135deg, #060912, #111827 45%, #030407);
+      pointer-events: none; transition: opacity .35s ease, visibility .35s ease;
+    }
+    .arcade-boot.is-hidden { opacity: 0; visibility: hidden; }
+    .boot-card {
+      width: min(560px, calc(100vw - 32px)); border: 1px solid var(--line); border-radius: 22px; padding: 24px;
+      background: var(--panel); box-shadow: 0 26px 90px rgba(0,0,0,.48); backdrop-filter: blur(16px);
+    }
+    .boot-kicker { color: var(--accent2); font-weight: 700; letter-spacing: .12em; text-transform: uppercase; font-size: 12px; }
+    .boot-title { margin: 10px 0 8px; font-size: clamp(28px, 7vw, 48px); letter-spacing: .02em; line-height: .95; }
+    .boot-title span { color: var(--accent); }
+    .boot-copy { color: var(--muted); line-height: 1.55; margin: 0 0 18px; }
+    .boot-grid { display: grid; gap: 8px; color: #dbe3f5; font-size: 13px; }
+    .boot-row { display: flex; justify-content: space-between; gap: 16px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 12px; background: rgba(255,255,255,.045); }
+    .boot-row b { color: #fff; }
+    .boot-note { margin-top: 14px; color: #aeb7cc; font-size: 12px; line-height: 1.45; }
+    .error { color: #ff8b8b; }
+    .controller-toggle {
+      position: fixed; left: calc(14px + env(safe-area-inset-left, 0px)); top: calc(14px + env(safe-area-inset-top, 0px));
+      z-index: 32; border: 1px solid rgba(255,255,255,.16); border-radius: 999px; padding: 8px 12px;
+      color: #f8fafc; background: rgba(3,7,18,.76); font: 800 12px/1 Trebuchet MS, Verdana, sans-serif;
+      box-shadow: 0 12px 28px rgba(0,0,0,.28); backdrop-filter: blur(10px); cursor: pointer;
+      transition: opacity .22s ease, transform .22s ease, filter .22s ease;
+    }
+    .controller-toggle:active { transform: translateY(1px) scale(.98); }
+    .controller-studio {
+      position: fixed; left: calc(14px + env(safe-area-inset-left, 0px)); top: calc(54px + env(safe-area-inset-top, 0px));
+      z-index: 33; width: min(370px, calc(100vw - 28px)); max-height: min(72vh, 520px); overflow: auto;
+      border: 1px solid rgba(255,255,255,.15); border-radius: 18px; padding: 14px;
+      color: #eef2ff; background: rgba(6,10,20,.9); box-shadow: 0 24px 70px rgba(0,0,0,.46); backdrop-filter: blur(16px);
+    }
+    .controller-studio[hidden] { display: none; }
+    .controller-studio h2 { margin: 0 0 10px; font-size: 16px; letter-spacing: .02em; }
+    .controller-studio p { margin: 10px 0 0; color: #b8c0d6; font-size: 12px; line-height: 1.45; }
+    .controller-section-title { margin: 12px 0 7px; color: #94a3b8; font-size: 11px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+    .controller-grid { display: flex; flex-wrap: wrap; gap: 8px; }
+    .controller-chip {
+      border: 1px solid rgba(255,255,255,.16); border-radius: 999px; padding: 8px 10px; color: #e5e7eb;
+      background: rgba(255,255,255,.065); font: 800 11px/1 Trebuchet MS, Verdana, sans-serif; cursor: pointer;
+    }
+    .controller-chip.is-active { color: #04111b; background: linear-gradient(135deg, #facc15, #38f6c9); border-color: transparent; }
+    .controller-chip.warn { background: linear-gradient(135deg, #9f1239, #ef4444); color: #fff; border-color: transparent; }
+    .controller-chip.ok { background: linear-gradient(135deg, #065f46, #10b981); color: #04111b; border-color: transparent; }
+    .arcade-help-pill {
+      position: fixed; left: calc(14px + env(safe-area-inset-left, 0px)); top: calc(52px + env(safe-area-inset-top, 0px));
+      z-index: 24; border: 1px solid rgba(255,255,255,.14); border-radius: 999px;
+      padding: 8px 11px; color: #dbeafe; background: rgba(3,7,18,.72); font: 700 12px/1.2 Trebuchet MS, Verdana, sans-serif;
+      box-shadow: 0 10px 24px rgba(0,0,0,.25); backdrop-filter: blur(8px);
+      transition: opacity .22s ease, transform .22s ease;
+    }
+    .arcade-control-panel {
+      position: fixed; inset: 0; z-index: 25; pointer-events: none; user-select: none;
+      transition: opacity .22s ease, transform .22s ease;
+    }
+    .arcade-action-btn {
+      position: fixed; top: calc(90px + env(safe-area-inset-top, 0px)); min-width: 82px;
+      border: 1px solid rgba(255,255,255,.2); border-radius: 999px; padding: 10px 14px;
+      color: #fff; font: 800 12px/1 Trebuchet MS, Verdana, sans-serif; letter-spacing: .04em;
+      background: linear-gradient(135deg, rgba(9,14,24,.88), rgba(31,41,55,.88));
+      box-shadow: 0 10px 28px rgba(0,0,0,.32), inset 0 1px 0 rgba(255,255,255,.14);
+      touch-action: none; cursor: pointer; pointer-events: auto;
+      transition: opacity .22s ease, transform .18s ease, filter .18s ease, box-shadow .18s ease;
+    }
+    .arcade-action-btn.coin { left: calc(14px + env(safe-area-inset-left, 0px)); background: linear-gradient(135deg, #9f1239, #ef4444 55%, #f97316); }
+    .arcade-action-btn.start { left: calc(106px + env(safe-area-inset-left, 0px)); background: linear-gradient(135deg, #064e3b, #10b981 55%, #38f6c9); color: #04111b; }
+    .arcade-action-btn:active, .arcade-action-btn.is-pressed { transform: translateY(1px) scale(.98); filter: brightness(1.18); }
+    body:not(.arcade-ready) .controller-toggle,
+    body:not(.arcade-ready) .arcade-help-pill,
+    body:not(.arcade-ready) .arcade-control-panel,
+    body.arcade-ui-hidden .arcade-help-pill,
+    body.arcade-ui-hidden .arcade-control-panel,
+    body.controller-studio-open:not(.arcade-layout-editing) .arcade-help-pill,
+    body.controller-studio-open:not(.arcade-layout-editing) .arcade-control-panel,
+    body.arcade-assist-off .arcade-help-pill,
+    body.arcade-assist-off .arcade-control-panel {
+      opacity: 0; pointer-events: none;
+    }
+    body.arcade-ui-hidden .arcade-help-pill,
+    body.arcade-assist-off .arcade-help-pill { transform: translateY(-6px); }
+    body.arcade-ui-hidden .arcade-action-btn,
+    body.arcade-assist-off .arcade-action-btn { pointer-events: none; transform: translateY(-6px) scale(.96); }
+    body.arcade-layout-editing .arcade-control-panel,
+    body.arcade-layout-editing .arcade-help-pill { opacity: 1; pointer-events: none; }
+    body.arcade-layout-editing .arcade-action-btn {
+      pointer-events: auto; outline: 2px dashed rgba(250,204,21,.82); outline-offset: 4px;
+      box-shadow: 0 0 0 6px rgba(250,204,21,.12), 0 16px 36px rgba(0,0,0,.42);
+    }
+    body.control-profile-nes .ejs_virtualGamepad_button { border-radius: 8px !important; border-color: rgba(239,68,68,.7) !important; }
+    body.control-profile-gba .ejs_virtualGamepad_button { border-radius: 999px !important; box-shadow: 0 0 0 2px rgba(56,189,248,.18) !important; }
+    body.control-profile-psx .ejs_virtualGamepad_button { border-color: rgba(148,163,184,.72) !important; background: rgba(15,23,42,.58) !important; }
+    body.control-profile-psp .ejs_virtualGamepad_button { border-color: rgba(125,211,252,.8) !important; filter: saturate(1.18) !important; }
+    body.control-profile-xbox .ejs_virtualGamepad_button { border-color: rgba(34,197,94,.8) !important; filter: hue-rotate(42deg) saturate(1.25) !important; }
+    body.control-profile-glass .ejs_virtualGamepad_button { background: rgba(255,255,255,.12) !important; backdrop-filter: blur(8px); border-color: rgba(255,255,255,.38) !important; }
+    body.control-profile-neon .ejs_virtualGamepad_button { border-color: rgba(56,246,201,.78) !important; box-shadow: 0 0 16px rgba(56,246,201,.28) !important; color: #f8fafc !important; }
+    body.control-profile-dingdong .ejs_virtualGamepad_button,
+    body.control-profile-mame .ejs_virtualGamepad_button { border-color: rgba(250,204,21,.62) !important; }
+    body.control-profile-dingdong .ejs_virtualGamepad_button.b_arcade-coin,
+    body.control-profile-mame .ejs_virtualGamepad_button.b_arcade-coin { background: rgba(239,68,68,.62) !important; color: #fff !important; }
+    body.control-profile-dingdong .ejs_virtualGamepad_button.b_arcade-start,
+    body.control-profile-mame .ejs_virtualGamepad_button.b_arcade-start { background: rgba(16,185,129,.68) !important; color: #04111b !important; }
+    body.arcade-layout-dpad .ejs_virtualGamepad_parent,
+    body.arcade-layout-analog .ejs_virtualGamepad_parent,
+    body.arcade-layout-fighting .ejs_virtualGamepad_parent,
+    body.arcade-layout-compact .ejs_virtualGamepad_parent { transition: opacity .22s ease, filter .22s ease; }
+    body.arcade-opacity-35 .ejs_virtualGamepad_parent { opacity: .35; }
+    body.arcade-opacity-55 .ejs_virtualGamepad_parent { opacity: .55; }
+    body.arcade-opacity-75 .ejs_virtualGamepad_parent { opacity: .75; }
+    body.arcade-opacity-100 .ejs_virtualGamepad_parent { opacity: 1; }
+    body.arcade-layout-compact .ejs_virtualGamepad_button.cs_arcade { width: 42px !important; height: 42px !important; line-height: 42px !important; font-size: 22px !important; }
+    body.arcade-layout-compact .ejs_dpad_main { transform: scale(.86); transform-origin: left bottom; }
+    body.arcade-layout-fighting .ejs_virtualGamepad_button.cs_arcade { box-shadow: 0 0 0 2px rgba(250,204,21,.16), 0 12px 28px rgba(0,0,0,.36) !important; }
+    body.arcade-layout-analog .ejs_dpad_main { display: none !important; }
+    @media (max-width: 760px) {
+      .controller-toggle { left: calc(10px + env(safe-area-inset-left, 0px)); top: calc(10px + env(safe-area-inset-top, 0px)); font-size: 11px; }
+      .controller-studio { left: calc(10px + env(safe-area-inset-left, 0px)); top: calc(48px + env(safe-area-inset-top, 0px)); width: min(390px, calc(100vw - 20px)); }
+      .arcade-help-pill { left: calc(10px + env(safe-area-inset-left, 0px)); top: calc(48px + env(safe-area-inset-top, 0px)); font-size: 11px; }
+      .arcade-action-btn { top: calc(82px + env(safe-area-inset-top, 0px)); min-width: 72px; padding: 10px 11px; font-size: 11px; }
+      .arcade-action-btn.coin { left: calc(10px + env(safe-area-inset-left, 0px)); }
+      .arcade-action-btn.start { left: calc(92px + env(safe-area-inset-left, 0px)); }
+    }
+    @media (max-width: 900px) and (orientation: landscape) {
+      .arcade-help-pill { top: calc(48px + env(safe-area-inset-top, 0px)); }
+      .arcade-action-btn { top: calc(82px + env(safe-area-inset-top, 0px)); min-width: 68px; padding: 9px 10px; }
+    }
+    @media (max-width: 760px) {
+      .boot-card { padding: 18px; border-radius: 18px; }
+      .boot-row { align-items: flex-start; flex-direction: column; gap: 4px; }
+    }
+  </style>
+</head>
+<body>
+  <div id="game"></div>
+  <div class="arcade-boot" id="boot">
+    <div class="boot-card">
+      <div class="boot-kicker">Nandar Arcade Lab</div>
+      <div class="boot-title">Loading <span>Arcade</span></div>
+      <p class="boot-copy" id="boot-copy">Preparing EmulatorJS and the selected arcade ROM. MAME/FBNeo compatibility depends on the ROM set version, so pilot testing matters here.</p>
+      <div class="boot-grid">
+        <div class="boot-row"><span>Core</span><b id="boot-core">mame2003</b></div>
+        <div class="boot-row"><span>ROM</span><b id="boot-rom">waiting...</b></div>
+        <div class="boot-row"><span>Hint</span><b>Keep ZIP files unextracted</b></div>
+      </div>
+      <div class="boot-note">If the screen stays black, the most likely cause is a ROM-set mismatch or missing parent/BIOS ZIP, not the website shell.</div>
+    </div>
+  </div>
+  <button type="button" class="controller-toggle" id="controller-toggle" aria-expanded="false" aria-controls="controller-studio">Controls</button>
+  <section class="controller-studio" id="controller-studio" aria-label="Controller settings" hidden>
+    <h2>Controller Studio</h2>
+    <div class="controller-section-title">Layout</div>
+    <div class="controller-grid" id="controller-layouts">
+      <button type="button" class="controller-chip" data-arcade-layout="dpad">D-Pad Only</button>
+      <button type="button" class="controller-chip" data-arcade-layout="analog">Analog Stick</button>
+      <button type="button" class="controller-chip" data-arcade-layout="fighting">Fighting 6</button>
+      <button type="button" class="controller-chip" data-arcade-layout="compact">Compact</button>
+    </div>
+    <div class="controller-section-title">Skin</div>
+    <div class="controller-grid" id="controller-profiles">
+      <button type="button" class="controller-chip" data-control-profile="mame">MAME</button>
+      <button type="button" class="controller-chip" data-control-profile="glass">Glass</button>
+      <button type="button" class="controller-chip" data-control-profile="neon">Neon</button>
+      <button type="button" class="controller-chip" data-control-profile="dingdong">Dingdong</button>
+    </div>
+    <div class="controller-section-title">Opacity</div>
+    <div class="controller-grid">
+      <button type="button" class="controller-chip" data-arcade-opacity="35">35%</button>
+      <button type="button" class="controller-chip" data-arcade-opacity="55">55%</button>
+      <button type="button" class="controller-chip" data-arcade-opacity="75">75%</button>
+      <button type="button" class="controller-chip" data-arcade-opacity="100">100%</button>
+    </div>
+    <div class="controller-section-title">Assist Layer</div>
+    <div class="controller-grid">
+      <button type="button" class="controller-chip ok" id="assist-toggle">Assist On</button>
+      <button type="button" class="controller-chip" id="layout-edit-toggle">Move Buttons</button>
+      <button type="button" class="controller-chip warn" id="controller-reset">Reset Controls</button>
+      <button type="button" class="controller-chip" id="layout-reset">Reset Assist</button>
+    </div>
+    <p>Layout changes reload the game because EmulatorJS builds the virtual gamepad at boot. D-Pad Only is the safest default for classic arcade games.</p>
+  </section>
+  <div class="arcade-help-pill" id="arcade-help">Arcade: use native COIN/START, or open Controls</div>
+  <div class="arcade-control-panel" id="arcade-controls" aria-label="MAME arcade controls">
+    <button type="button" class="arcade-action-btn coin" data-arcade-virtual="coin" data-layout-key="coin">COIN</button>
+    <button type="button" class="arcade-action-btn start" data-arcade-virtual="start" data-layout-key="start">START</button>
+  </div>
+  <script>
+    (function () {
+      const params = new URLSearchParams(window.location.search);
+      const allowedCores = {
+        mame2003: 'mame2003',
+        mame2003_plus: 'mame2003_plus',
+        fbneo: 'fbneo',
+        arcade: 'arcade'
+      };
+      const requestedCore = String(params.get('core') || 'mame2003').toLowerCase().trim();
+      const core = allowedCores[requestedCore] || 'mame2003';
+      const rawFile = String(params.get('file') || '').replace(/\\/g, '/').trim();
+      const boot = document.getElementById('boot');
+      const bootCopy = document.getElementById('boot-copy');
+      const bootCore = document.getElementById('boot-core');
+      const bootRom = document.getElementById('boot-rom');
+
+      function fail(message) {
+        bootCopy.innerHTML = '<span class="error">' + message + '</span>';
+        throw new Error(message);
+      }
+
+      function encodeSafePath(path) {
+        if (!path || path.startsWith('/') || path.startsWith('\\\\') || path.includes('..')) {
+          fail('Invalid or missing arcade ROM path.');
+        }
+        return path.split('/').filter(Boolean).map(encodeURIComponent).join('/');
+      }
+
+      const encodedFile = encodeSafePath(rawFile);
+      bootCore.textContent = core;
+      bootRom.textContent = rawFile.split('/').pop() || rawFile;
+
+      const controlStorageKey = 'nandar:mame:controller:v2';
+      const controlLayouts = ['dpad', 'analog', 'fighting', 'compact'];
+      const controlProfiles = ['mame', 'glass', 'neon', 'dingdong'];
+      const controlOpacity = ['35', '55', '75', '100'];
+      let controlState = {
+        layout: 'dpad',
+        profile: 'mame',
+        opacity: '75',
+        assist: false,
+        editing: false,
+        positions: {}
+      };
+
+      function loadControlState() {
+        try {
+          const stored = JSON.parse(window.localStorage.getItem(controlStorageKey) || '{}');
+          if (stored && typeof stored === 'object') {
+            controlState.layout = controlLayouts.includes(stored.layout) ? stored.layout : 'dpad';
+            controlState.profile = controlProfiles.includes(stored.profile) ? stored.profile : 'mame';
+            controlState.opacity = controlOpacity.includes(String(stored.opacity)) ? String(stored.opacity) : '75';
+            controlState.assist = stored.assist === true;
+            controlState.positions = stored.positions && typeof stored.positions === 'object' ? stored.positions : {};
+          }
+        } catch (error) {
+          controlState = { layout: 'dpad', profile: 'mame', opacity: '75', assist: false, editing: false, positions: {} };
+        }
+      }
+
+      function saveControlState() {
+        try {
+          window.localStorage.setItem(controlStorageKey, JSON.stringify({
+            layout: controlState.layout,
+            profile: controlState.profile,
+            opacity: controlState.opacity,
+            assist: controlState.assist,
+            positions: controlState.positions || {}
+          }));
+        } catch (error) {}
+      }
+
+      function buildArcadeVirtualGamepadSettings(state) {
+        const layout = controlLayouts.includes(state.layout) ? state.layout : 'dpad';
+        const compact = layout === 'compact';
+        const fighting = layout === 'fighting';
+        const analog = layout === 'analog';
+        const face = compact
+          ? { y: [0, 2], x: [-38, 36], b: [38, 36], a: [0, 70], font: 24 }
+          : { y: [0, 0], x: [-42, 38], b: [42, 38], a: [0, 76], font: 30 };
+        const controls = [];
+
+        if (analog) {
+          controls.push({ type: 'zone', id: 'arcade-stick', location: 'left', left: '50%', top: '50%', joystickInput: false, color: '#ef4444', inputValues: [4, 5, 6, 7] });
+        } else {
+          controls.push({ type: 'dpad', id: 'arcade-dpad', location: 'left', left: '50%', top: '50%', joystickInput: false, inputValues: [4, 5, 6, 7] });
+        }
+
+        if (fighting) {
+          controls.push(
+            { type: 'button', text: 'P1', id: 'arcade-p1', location: 'right', left: -58, top: 4, fontSize: 16, bold: true, input_value: 0 },
+            { type: 'button', text: 'P2', id: 'arcade-p2', location: 'right', left: 0, top: 4, fontSize: 16, bold: true, input_value: 8 },
+            { type: 'button', text: 'P3', id: 'arcade-p3', location: 'right', left: 58, top: 4, fontSize: 16, bold: true, input_value: 10 },
+            { type: 'button', text: 'K1', id: 'arcade-k1', location: 'right', left: -58, top: 62, fontSize: 16, bold: true, input_value: 1 },
+            { type: 'button', text: 'K2', id: 'arcade-k2', location: 'right', left: 0, top: 62, fontSize: 16, bold: true, input_value: 9 },
+            { type: 'button', text: 'K3', id: 'arcade-k3', location: 'right', left: 58, top: 62, fontSize: 16, bold: true, input_value: 11 }
+          );
+        } else {
+          controls.push(
+            { type: 'button', text: 'Y', id: 'arcade-y', location: 'right', left: face.y[0], top: face.y[1], fontSize: face.font, bold: true, input_value: 9 },
+            { type: 'button', text: 'X', id: 'arcade-x', location: 'right', left: face.x[0], top: face.x[1], fontSize: face.font, bold: true, input_value: 1 },
+            { type: 'button', text: 'B', id: 'arcade-b', location: 'right', left: face.b[0], top: face.b[1], fontSize: face.font, bold: true, input_value: 8 },
+            { type: 'button', text: 'A', id: 'arcade-a', location: 'right', left: face.a[0], top: face.a[1], fontSize: face.font, bold: true, input_value: 0 }
+          );
+        }
+
+        controls.push(
+          { type: 'button', text: 'COIN', id: 'arcade-coin', location: 'center', left: compact ? -66 : -68, fontSize: 13, block: true, input_value: 2 },
+          { type: 'button', text: 'START', id: 'arcade-start', location: 'center', left: compact ? 44 : 50, fontSize: 13, block: true, input_value: 3 }
+        );
+
+        return controls;
+      }
+
+      function reloadForArcadeLayout() {
+        arcadeHelp.textContent = 'MAME controls saved. Reloading layout...';
+        window.setTimeout(function () { window.location.reload(); }, 420);
+      }
+
+      loadControlState();
+      document.body.classList.add('arcade-layout-' + controlState.layout);
+      document.body.classList.add('arcade-opacity-' + controlState.opacity);
+
+      window.EJS_player = '#game';
+      window.EJS_core = core;
+      window.EJS_controlScheme = 'arcade';
+      window.EJS_gameUrl = 'games/' + encodedFile;
+      window.EJS_pathtodata = 'data/';
+      window.EJS_startOnLoaded = true;
+      window.EJS_disableDatabases = true;
+      window.EJS_forceLegacyCores = true;
+      window.EJS_threads = false;
+      window.EJS_VirtualGamepadSettings = buildArcadeVirtualGamepadSettings(controlState);
+      window.EJS_language = 'en-US';
+
+      const controllerToggle = document.getElementById('controller-toggle');
+      const controllerStudio = document.getElementById('controller-studio');
+      const assistToggle = document.getElementById('assist-toggle');
+      const layoutEditToggle = document.getElementById('layout-edit-toggle');
+      const layoutReset = document.getElementById('layout-reset');
+      const controllerReset = document.getElementById('controller-reset');
+      const arcadeHelp = document.getElementById('arcade-help');
+      const assistButtons = Array.prototype.slice.call(document.querySelectorAll('[data-arcade-virtual]'));
+      let assistHideTimer = 0;
+
+      function setProfile(profile) {
+        controlState.profile = controlProfiles.includes(profile) ? profile : 'mame';
+        controlProfiles.forEach(function (name) {
+          document.body.classList.toggle('control-profile-' + name, name === controlState.profile);
+        });
+        document.querySelectorAll('[data-control-profile]').forEach(function (button) {
+          button.classList.toggle('is-active', button.dataset.controlProfile === controlState.profile);
+        });
+        saveControlState();
+      }
+
+      function setArcadeLayout(layout) {
+        if (!controlLayouts.includes(layout) || controlState.layout === layout) return;
+        controlState.layout = layout;
+        saveControlState();
+        updateAssistUi();
+        reloadForArcadeLayout();
+      }
+
+      function setArcadeOpacity(opacity) {
+        const value = String(opacity);
+        if (!controlOpacity.includes(value)) return;
+        document.body.classList.remove('arcade-opacity-35', 'arcade-opacity-55', 'arcade-opacity-75', 'arcade-opacity-100');
+        controlState.opacity = value;
+        document.body.classList.add('arcade-opacity-' + controlState.opacity);
+        saveControlState();
+        updateAssistUi();
+      }
+
+      function updateAssistUi() {
+        document.body.classList.remove('arcade-layout-dpad', 'arcade-layout-analog', 'arcade-layout-fighting', 'arcade-layout-compact');
+        document.body.classList.add('arcade-layout-' + controlState.layout);
+        document.querySelectorAll('[data-arcade-layout]').forEach(function (button) {
+          button.classList.toggle('is-active', button.dataset.arcadeLayout === controlState.layout);
+        });
+        document.querySelectorAll('[data-arcade-opacity]').forEach(function (button) {
+          button.classList.toggle('is-active', button.dataset.arcadeOpacity === controlState.opacity);
+        });
+        document.body.classList.toggle('arcade-assist-off', !controlState.assist);
+        assistToggle.textContent = controlState.assist ? 'Assist On' : 'Assist Off';
+        assistToggle.classList.toggle('ok', controlState.assist);
+        assistToggle.classList.toggle('warn', !controlState.assist);
+        layoutEditToggle.textContent = controlState.editing ? 'Finish Moving' : 'Move Buttons';
+        layoutEditToggle.classList.toggle('is-active', controlState.editing);
+      }
+
+      function revealAssist(ms) {
+        if (!controlState.assist || controlState.editing) return;
+        window.clearTimeout(assistHideTimer);
+        document.body.classList.remove('arcade-ui-hidden');
+        assistHideTimer = window.setTimeout(function () {
+          document.body.classList.add('arcade-ui-hidden');
+        }, typeof ms === 'number' ? ms : 6200);
+      }
+
+      function setEditing(enabled) {
+        controlState.editing = !!enabled;
+        document.body.classList.toggle('arcade-layout-editing', controlState.editing);
+        if (controlState.editing) {
+          controlState.assist = true;
+          window.clearTimeout(assistHideTimer);
+          document.body.classList.remove('arcade-ui-hidden');
+          arcadeHelp.textContent = 'Move mode: drag COIN or START, then tap Finish Moving.';
+        } else {
+          arcadeHelp.textContent = 'Arcade: use native COIN/START, or open Controls';
+          revealAssist(3800);
+        }
+        updateAssistUi();
+        saveControlState();
+      }
+
+      function applySavedPositions() {
+        assistButtons.forEach(function (button) {
+          const key = button.dataset.layoutKey;
+          const saved = controlState.positions && controlState.positions[key];
+          if (saved && Number.isFinite(saved.left) && Number.isFinite(saved.top)) {
+            button.style.left = saved.left + 'px';
+            button.style.top = saved.top + 'px';
+          } else {
+            button.style.left = '';
+            button.style.top = '';
+          }
+        });
+      }
+
+      function resetLayout() {
+        controlState.positions = {};
+        applySavedPositions();
+        saveControlState();
+        arcadeHelp.textContent = 'Layout reset. Native EmulatorJS controls remain active.';
+        revealAssist(4200);
+      }
+
+      function pulseArcadeButton(button) {
+        button.classList.add('is-pressed');
+        window.setTimeout(function () { button.classList.remove('is-pressed'); }, 140);
+      }
+
+      function dispatchNativeTouch(target, type) {
+        target.dispatchEvent(new Event(type, { bubbles: true, cancelable: true }));
+      }
+
+      function triggerNativeArcadeButton(kind) {
+        const selector = kind === 'coin'
+          ? '.ejs_virtualGamepad_button.b_arcade-coin'
+          : '.ejs_virtualGamepad_button.b_arcade-start';
+        const virtualButton = document.querySelector(selector);
+        if (!virtualButton) return false;
+        dispatchNativeTouch(virtualButton, 'touchstart');
+        window.setTimeout(function () { dispatchNativeTouch(virtualButton, 'touchend'); }, 130);
+        return true;
+      }
+
+      function clampPosition(button, left, top) {
+        const rect = button.getBoundingClientRect();
+        const pad = 8;
+        return {
+          left: Math.max(pad, Math.min(window.innerWidth - rect.width - pad, left)),
+          top: Math.max(pad, Math.min(window.innerHeight - rect.height - pad, top))
+        };
+      }
+
+      function attachAssistButton(button) {
+        let dragging = false;
+        let dragOffsetX = 0;
+        let dragOffsetY = 0;
+
+        button.addEventListener('pointerdown', function (event) {
+          event.preventDefault();
+          if (controlState.editing) {
+            const rect = button.getBoundingClientRect();
+            dragging = true;
+            dragOffsetX = event.clientX - rect.left;
+            dragOffsetY = event.clientY - rect.top;
+            button.setPointerCapture(event.pointerId);
+            return;
+          }
+          pulseArcadeButton(button);
+          if (!triggerNativeArcadeButton(button.dataset.arcadeVirtual)) {
+            arcadeHelp.textContent = 'Native arcade buttons are still loading. Try the built-in COIN/START buttons.';
+            revealAssist(3600);
+          }
+        });
+
+        button.addEventListener('pointermove', function (event) {
+          if (!dragging || !controlState.editing) return;
+          const next = clampPosition(button, event.clientX - dragOffsetX, event.clientY - dragOffsetY);
+          button.style.left = next.left + 'px';
+          button.style.top = next.top + 'px';
+        });
+
+        button.addEventListener('pointerup', function (event) {
+          if (!dragging) return;
+          dragging = false;
+          try { button.releasePointerCapture(event.pointerId); } catch (error) {}
+          const rect = button.getBoundingClientRect();
+          controlState.positions[button.dataset.layoutKey] = { left: Math.round(rect.left), top: Math.round(rect.top) };
+          saveControlState();
+        });
+
+        button.addEventListener('pointercancel', function () {
+          dragging = false;
+        });
+      }
+
+      setProfile(controlState.profile);
+      applySavedPositions();
+      updateAssistUi();
+      assistButtons.forEach(attachAssistButton);
+
+      controllerToggle.addEventListener('click', function () {
+        const isOpen = !controllerStudio.hidden;
+      controllerStudio.hidden = isOpen;
+      controllerToggle.setAttribute('aria-expanded', String(!isOpen));
+        document.body.classList.toggle('controller-studio-open', !isOpen);
+        if (isOpen) revealAssist(3200);
+      });
+
+      document.querySelectorAll('[data-control-profile]').forEach(function (button) {
+        button.addEventListener('click', function () {
+          setProfile(button.dataset.controlProfile);
+        });
+      });
+
+      document.querySelectorAll('[data-arcade-layout]').forEach(function (button) {
+        button.addEventListener('click', function () {
+          setArcadeLayout(button.dataset.arcadeLayout);
+        });
+      });
+
+      document.querySelectorAll('[data-arcade-opacity]').forEach(function (button) {
+        button.addEventListener('click', function () {
+          setArcadeOpacity(button.dataset.arcadeOpacity);
+        });
+      });
+
+      assistToggle.addEventListener('click', function () {
+        controlState.assist = !controlState.assist;
+        if (!controlState.assist) setEditing(false);
+        updateAssistUi();
+        saveControlState();
+        if (controlState.assist) revealAssist(5200);
+      });
+
+      layoutEditToggle.addEventListener('click', function () {
+        setEditing(!controlState.editing);
+      });
+
+      layoutReset.addEventListener('click', resetLayout);
+
+      controllerReset.addEventListener('click', function () {
+        controlState.layout = 'dpad';
+        controlState.profile = 'mame';
+        controlState.opacity = '75';
+        controlState.assist = false;
+        controlState.editing = false;
+        controlState.positions = {};
+        saveControlState();
+        updateAssistUi();
+        reloadForArcadeLayout();
+      });
+
+      window.addEventListener('resize', function () {
+        if (controlState.positions && Object.keys(controlState.positions).length) applySavedPositions();
+      });
+
+      window.EJS_ready = function () {
+        setTimeout(function () {
+          boot.classList.add('is-hidden');
+          document.body.classList.add('arcade-ready');
+          revealAssist(6200);
+        }, 1800);
+      };
+    })();
+  </script>
+  <script src="data/loader.js"></script>
+</body>
+</html>

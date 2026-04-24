@@ -1,0 +1,86 @@
+# Static asset caching only. Dynamic PHP/HTML pages and EmulatorJS core data/ROM files are intentionally not cached here.
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Operational scripts and generated backups must never be browsable from the public web.
+    RewriteRule ^scripts(?:/|$) - [F,L]
+    RewriteRule ^docs(?:/|$) - [F,L]
+
+    # Keep the legacy admin panel local/private-network only. Public admin access should use a separate hardened gate.
+    RewriteCond %{REQUEST_URI} ^/admin\.php$ [NC]
+    RewriteCond %{REMOTE_ADDR} !^127\.0\.0\.1$
+    RewriteCond %{REMOTE_ADDR} !^::1$
+    RewriteCond %{REMOTE_ADDR} !^10\.
+    RewriteCond %{REMOTE_ADDR} !^192\.168\.
+    RewriteCond %{REMOTE_ADDR} !^172\.(1[6-9]|2[0-9]|3[0-1])\.
+    RewriteRule ^admin\.php$ - [F,L]
+
+    # Secondary admin/tooling surfaces are also local/private-network only.
+    RewriteCond %{REQUEST_URI} ^/(?:webarcade/admin_users\.php|pokemon-vn/xml/(?:admin|tool)\.php)$ [NC]
+    RewriteCond %{REMOTE_ADDR} !^127\.0\.0\.1$
+    RewriteCond %{REMOTE_ADDR} !^::1$
+    RewriteCond %{REMOTE_ADDR} !^10\.
+    RewriteCond %{REMOTE_ADDR} !^192\.168\.
+    RewriteCond %{REMOTE_ADDR} !^172\.(1[6-9]|2[0-9]|3[0-1])\.
+    RewriteRule ^(?:webarcade/admin_users\.php|pokemon-vn/xml/(?:admin|tool)\.php)$ - [F,L]
+</IfModule>
+
+<FilesMatch "(?i)(^\.|\.bak$|\.old$|\.orig$|\.sql$|\.env$|\.log$|\.ini$|\.ps1$|\.py$|catalog_backup_.*\.json$|_tmp_|screenshot)">
+    Require all denied
+</FilesMatch>
+
+AddType application/x-chd .chd
+AddType application/x-playstation-rom .pbp .iso .img .bin
+AddType application/x-cue .cue
+AddType application/x-cd-image .ccd .m3u
+AddType application/wasm .wasm
+AddType application/octet-stream .nes .unf .rom .gba .gb .gbc
+
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css "access plus 30 days"
+    ExpiresByType application/javascript "access plus 30 days"
+    ExpiresByType text/javascript "access plus 30 days"
+    ExpiresByType application/wasm "access plus 30 days"
+    ExpiresByType image/png "access plus 30 days"
+    ExpiresByType image/jpeg "access plus 30 days"
+    ExpiresByType image/gif "access plus 30 days"
+    ExpiresByType image/svg+xml "access plus 30 days"
+    ExpiresByType image/webp "access plus 30 days"
+    ExpiresByType image/x-icon "access plus 30 days"
+    ExpiresByType font/woff2 "access plus 30 days"
+    ExpiresByType font/woff "access plus 30 days"
+    ExpiresByType application/font-woff2 "access plus 30 days"
+    ExpiresByType application/font-woff "access plus 30 days"
+</IfModule>
+
+<IfModule mod_headers.c>
+    <FilesMatch "\.(?:css|js|mjs|png|jpe?g|gif|svg|webp|ico|cur|woff2?|ttf|eot)$">
+        Header set Cache-Control "public, max-age=2592000"
+    </FilesMatch>
+    <FilesMatch "\.(?:wasm|data)$">
+        Header set Cache-Control "public, max-age=2592000"
+    </FilesMatch>
+    <FilesMatch "\.(?:php|html?)$">
+        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+    </FilesMatch>
+    <FilesMatch "\.(?:chd|pbp|cue|bin|iso|img|ccd|m3u)$">
+        Header set Content-Disposition "inline"
+        Header set X-Content-Type-Options "nosniff"
+        Header set Cache-Control "no-store"
+    </FilesMatch>
+    <FilesMatch "\.(?:nes|unf|rom|gba|gb|gbc)$">
+        Header set Content-Disposition "inline"
+        Header set X-Content-Type-Options "nosniff"
+        Header set Cache-Control "no-store"
+    </FilesMatch>
+</IfModule>
+AddType application/zip .zip
+
+<FilesMatch "\.(?:zip)$">
+    Header set Content-Disposition "inline"
+    Header set X-Content-Type-Options "nosniff"
+    Header set Cache-Control "no-store"
+</FilesMatch>

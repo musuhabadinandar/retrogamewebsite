@@ -1,0 +1,160 @@
+
+renwu4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N4-xiao/toufahou
+  rotate: false
+  xy: 410, 89
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+N4-xiao/tui
+  rotate: false
+  xy: 1, 364
+  size: 285, 68
+  orig: 285, 68
+  offset: 0, 0
+  index: -1
+N4-xiao/qianbai
+  rotate: false
+  xy: 121, 173
+  size: 135, 120
+  orig: 135, 120
+  offset: 0, 0
+  index: -1
+N4-xiao/cebai
+  rotate: false
+  xy: 239, 1
+  size: 150, 91
+  orig: 150, 91
+  offset: 0, 0
+  index: -1
+N4-xiao/cebai1
+  rotate: false
+  xy: 258, 94
+  size: 150, 91
+  orig: 150, 91
+  offset: 0, 0
+  index: -1
+N4-xiao/qianbai1
+  rotate: false
+  xy: 369, 187
+  size: 109, 115
+  orig: 109, 115
+  offset: 0, 0
+  index: -1
+N4-xiao/qianbai0
+  rotate: false
+  xy: 258, 187
+  size: 109, 115
+  orig: 109, 115
+  offset: 0, 0
+  index: -1
+N4-xiao/xiuzi
+  rotate: false
+  xy: 119, 1
+  size: 118, 170
+  orig: 118, 170
+  offset: 0, 0
+  index: -1
+N4-xiao/xiuz
+  rotate: false
+  xy: 1, 192
+  size: 118, 170
+  orig: 118, 170
+  offset: 0, 0
+  index: -1
+N4-xiao/yifu
+  rotate: false
+  xy: 1, 1
+  size: 116, 189
+  orig: 116, 189
+  offset: 0, 0
+  index: -1
+N4-xiao/yaodai1
+  rotate: false
+  xy: 121, 295
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+N4-xiao/shipin
+  rotate: false
+  xy: 480, 182
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+N4-xiao/shipin01
+  rotate: false
+  xy: 480, 261
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+N4-xiao/shipin02
+  rotate: false
+  xy: 340, 387
+  size: 49, 101
+  orig: 49, 101
+  offset: 0, 0
+  index: -1
+N4-xiao/shipin03
+  rotate: false
+  xy: 288, 387
+  size: 50, 101
+  orig: 50, 101
+  offset: 0, 0
+  index: -1
+N4-xiao/yaodai
+  rotate: false
+  xy: 354, 304
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+N4-xiao/lian
+  rotate: false
+  xy: 288, 304
+  size: 64, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+N4-xiao/toufa
+  rotate: false
+  xy: 391, 1
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+N4-xiao/liuhai1
+  rotate: false
+  xy: 443, 304
+  size: 23, 81
+  orig: 23, 81
+  offset: 0, 0
+  index: -1
+N4-xiao/liuhai2
+  rotate: false
+  xy: 476, 86
+  size: 23, 94
+  orig: 23, 94
+  offset: 0, 0
+  index: -1
+N4-xiao/liuhai
+  rotate: false
+  xy: 218, 295
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+N4-xiao/liuhai3
+  rotate: false
+  xy: 464, 1
+  size: 28, 83
+  orig: 28, 83
+  offset: 0, 0
+  index: -1

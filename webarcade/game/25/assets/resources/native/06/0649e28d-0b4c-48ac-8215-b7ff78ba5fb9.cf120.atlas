@@ -1,0 +1,215 @@
+
+SanYingXiong.png
+size: 2036,1667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 774
+  size: 1624, 384
+  orig: 1624, 481
+  offset: 0, 60
+  index: -1
+11
+  rotate: false
+  xy: 2, 388
+  size: 1624, 384
+  orig: 1624, 433
+  offset: 0, 25
+  index: -1
+12
+  rotate: false
+  xy: 2, 2
+  size: 1624, 384
+  orig: 1624, 480
+  offset: 0, 16
+  index: -1
+15
+  rotate: true
+  xy: 1628, 134
+  size: 1473, 384
+  orig: 1624, 471
+  offset: 0, 34
+  index: -1
+9
+  rotate: false
+  xy: 2, 1160
+  size: 1624, 384
+  orig: 1624, 515
+  offset: 0, 73
+  index: -1
+Kuang_DiSe
+  rotate: false
+  xy: 2, 1621
+  size: 287, 44
+  orig: 287, 44
+  offset: 0, 0
+  index: -1
+Kuang_GuanYu
+  rotate: false
+  xy: 291, 1621
+  size: 287, 44
+  orig: 287, 44
+  offset: 0, 0
+  index: -1
+Kuang_LiuBei
+  rotate: false
+  xy: 580, 1621
+  size: 287, 44
+  orig: 287, 44
+  offset: 0, 0
+  index: -1
+Kuang_ZhangFei
+  rotate: false
+  xy: 869, 1621
+  size: 287, 44
+  orig: 287, 44
+  offset: 0, 0
+  index: -1
+Ren_GuanYu
+  rotate: false
+  xy: 1158, 1621
+  size: 126, 44
+  orig: 284, 44
+  offset: 119, 0
+  index: -1
+Ren_LiuBei
+  rotate: false
+  xy: 1286, 1621
+  size: 137, 44
+  orig: 287, 44
+  offset: 56, 0
+  index: -1
+Ren_ZhangFei
+  rotate: false
+  xy: 1425, 1621
+  size: 156, 44
+  orig: 208, 44
+  offset: 52, 0
+  index: -1
+SuiPian_GuanYu
+  rotate: false
+  xy: 1583, 1621
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+SuiPian_LiuBei
+  rotate: false
+  xy: 1694, 1621
+  size: 120, 44
+  orig: 120, 44
+  offset: 0, 0
+  index: -1
+SuiPian_ZhangFei
+  rotate: false
+  xy: 1816, 1621
+  size: 101, 44
+  orig: 101, 44
+  offset: 0, 0
+  index: -1
+Zi_GuanYu
+  rotate: false
+  xy: 2, 1562
+  size: 108, 57
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+Zi_LiuBei
+  rotate: false
+  xy: 1919, 1609
+  size: 115, 56
+  orig: 115, 57
+  offset: 0, 0
+  index: -1
+Zi_SanYingXiong
+  rotate: false
+  xy: 535, 1555
+  size: 156, 64
+  orig: 158, 70
+  offset: 2, 3
+  index: -1
+Zi_Zhangfei
+  rotate: false
+  xy: 112, 1562
+  size: 113, 57
+  orig: 114, 58
+  offset: 1, 0
+  index: -1
+fullatk_fire_0000
+  rotate: false
+  xy: 693, 1553
+  size: 101, 66
+  orig: 114, 80
+  offset: 7, 6
+  index: -1
+fullatk_fire_0001
+  rotate: false
+  xy: 330, 1557
+  size: 100, 62
+  orig: 114, 80
+  offset: 7, 7
+  index: -1
+fullatk_fire_0002
+  rotate: false
+  xy: 796, 1553
+  size: 101, 66
+  orig: 114, 78
+  offset: 6, 5
+  index: -1
+fullatk_fire_0003
+  rotate: false
+  xy: 1000, 1546
+  size: 100, 73
+  orig: 114, 80
+  offset: 7, 6
+  index: -1
+fullatk_fire_0004
+  rotate: false
+  xy: 899, 1550
+  size: 99, 69
+  orig: 116, 80
+  offset: 7, 6
+  index: -1
+fullatk_fire_0005
+  rotate: false
+  xy: 227, 1562
+  size: 101, 57
+  orig: 114, 74
+  offset: 6, 5
+  index: -1
+fullatk_fire_0006
+  rotate: false
+  xy: 432, 1556
+  size: 101, 63
+  orig: 116, 78
+  offset: 8, 5
+  index: -1
+
+SanYingXiong2.png
+size: 1628,1160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+13
+  rotate: false
+  xy: 2, 774
+  size: 1624, 384
+  orig: 1624, 477
+  offset: 0, 32
+  index: -1
+14
+  rotate: false
+  xy: 2, 388
+  size: 1624, 384
+  orig: 1624, 493
+  offset: 0, 60
+  index: -1
+16
+  rotate: false
+  xy: 2, 2
+  size: 1504, 384
+  orig: 1624, 445
+  offset: 0, 14
+  index: -1

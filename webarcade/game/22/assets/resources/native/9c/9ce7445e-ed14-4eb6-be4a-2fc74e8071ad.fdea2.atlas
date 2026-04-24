@@ -1,0 +1,76 @@
+
+role_nezha_3.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_outfit02
+  rotate: false
+  xy: 0, 2
+  size: 32, 32
+  orig: 34, 33
+  offset: 1, 0
+  index: -1
+fx_outfit03
+  rotate: false
+  xy: 86, 42
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+role_nezha_arm
+  rotate: true
+  xy: 34, 23
+  size: 11, 81
+  orig: 11, 81
+  offset: 0, 0
+  index: -1
+role_nezha_body
+  rotate: false
+  xy: 61, 3
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+role_nezha_head
+  rotate: true
+  xy: 86, 75
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+role_nezha_leg
+  rotate: false
+  xy: 34, 0
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+role_nezha_outfit01
+  rotate: false
+  xy: 0, 36
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+role_nezha_outfit02a
+  rotate: true
+  xy: 86, 9
+  size: 12, 29
+  orig: 14, 31
+  offset: 1, 1
+  index: -1
+role_nezha_outfit02b
+  rotate: false
+  xy: 117, 13
+  size: 12, 29
+  orig: 14, 31
+  offset: 1, 1
+  index: -1
+role_nezha_outfit03
+  rotate: false
+  xy: 116, 44
+  size: 26, 29
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

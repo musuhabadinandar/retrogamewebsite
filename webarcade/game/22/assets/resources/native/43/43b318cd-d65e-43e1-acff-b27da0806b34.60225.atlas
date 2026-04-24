@@ -1,0 +1,34 @@
+
+fx_orbs_hit.png
+size: 608,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit01
+  rotate: false
+  xy: 484, 32
+  size: 122, 133
+  orig: 168, 169
+  offset: 26, 24
+  index: -1
+hit02
+  rotate: false
+  xy: 338, 12
+  size: 144, 153
+  orig: 168, 169
+  offset: 16, 15
+  index: -1
+hit03
+  rotate: true
+  xy: 172, 8
+  size: 157, 164
+  orig: 168, 169
+  offset: 8, 5
+  index: -1
+hit04
+  rotate: false
+  xy: 2, 2
+  size: 168, 163
+  orig: 168, 169
+  offset: 0, 0
+  index: -1

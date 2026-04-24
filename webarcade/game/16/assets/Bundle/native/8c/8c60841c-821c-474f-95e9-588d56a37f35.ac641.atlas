@@ -1,0 +1,69 @@
+
+fabao13.png
+size: 492,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao13/txiao
+  rotate: false
+  xy: 1, 1
+  size: 167, 155
+  orig: 167, 155
+  offset: 0, 0
+  index: -1
+fabao13/tx
+  rotate: false
+  xy: 170, 1
+  size: 158, 153
+  orig: 158, 156
+  offset: 0, 0
+  index: -1
+fabao13/tx0
+  rotate: false
+  xy: 330, 126
+  size: 131, 112
+  orig: 131, 112
+  offset: 0, 0
+  index: -1
+fabao13/xian
+  rotate: false
+  xy: 94, 158
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+fabao13/gong
+  rotate: false
+  xy: 170, 156
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+fabao13/jian
+  rotate: false
+  xy: 1, 158
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+fabao13/faguang
+  rotate: false
+  xy: 330, 1
+  size: 127, 123
+  orig: 127, 123
+  offset: 0, 0
+  index: -1
+fabao12/dian1
+  rotate: false
+  xy: 459, 34
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+fabao12/dian2
+  rotate: false
+  xy: 459, 1
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+fabao13.png
+size: 382,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb1301
+  rotate: true
+  xy: 226, 206
+  size: 174, 148
+  orig: 174, 148
+  offset: 0, 0
+  index: -1
+fb1302
+  rotate: false
+  xy: 226, 78
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+fb1303
+  rotate: false
+  xy: 226, 172
+  size: 81, 32
+  orig: 81, 32
+  offset: 0, 0
+  index: -1
+fb1304
+  rotate: false
+  xy: 226, 122
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+fb1305
+  rotate: false
+  xy: 2, 192
+  size: 222, 188
+  orig: 222, 188
+  offset: 0, 0
+  index: -1
+fb1306
+  rotate: false
+  xy: 2, 2
+  size: 222, 188
+  orig: 222, 188
+  offset: 0, 0
+  index: -1

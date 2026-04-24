@@ -1,0 +1,76 @@
+
+renwu20.png
+size: 1159,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renwu8/chibang
+  rotate: true
+  xy: 386, 9
+  size: 341, 227
+  orig: 341, 227
+  offset: 0, 0
+  index: -1
+renwu8/duanxiu1
+  rotate: true
+  xy: 721, 2
+  size: 49, 103
+  orig: 50, 104
+  offset: 1, 1
+  index: -1
+renwu8/duanxiu2
+  rotate: true
+  xy: 615, 2
+  size: 49, 104
+  orig: 50, 105
+  offset: 0, 1
+  index: -1
+renwu8/face
+  rotate: false
+  xy: 1082, 265
+  size: 67, 85
+  orig: 67, 101
+  offset: 0, 0
+  index: -1
+renwu8/huan
+  rotate: false
+  xy: 875, 143
+  size: 205, 207
+  orig: 207, 209
+  offset: 1, 1
+  index: -1
+renwu8/lingzihou
+  rotate: true
+  xy: 2, 7
+  size: 343, 382
+  orig: 343, 382
+  offset: 0, 0
+  index: -1
+renwu8/shou1
+  rotate: false
+  xy: 826, 22
+  size: 92, 29
+  orig: 92, 29
+  offset: 0, 0
+  index: -1
+renwu8/toufa
+  rotate: true
+  xy: 875, 64
+  size: 77, 174
+  orig: 77, 174
+  offset: 0, 0
+  index: -1
+renwu8/waitao
+  rotate: true
+  xy: 615, 53
+  size: 297, 258
+  orig: 297, 279
+  offset: 0, 0
+  index: -1
+renwu8/xiabai
+  rotate: true
+  xy: 1051, 30
+  size: 111, 106
+  orig: 111, 117
+  offset: 0, 0
+  index: -1

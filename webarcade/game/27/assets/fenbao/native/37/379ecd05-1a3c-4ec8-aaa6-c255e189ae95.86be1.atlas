@@ -1,0 +1,167 @@
+
+monster_02.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 14
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 98, 34
+  size: 90, 83
+  orig: 114, 108
+  offset: 0, 15
+  index: -1
+face_die
+  rotate: true
+  xy: 248, 36
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+face_eye
+  rotate: false
+  xy: 528, 2
+  size: 77, 56
+  orig: 117, 95
+  offset: 2, 12
+  index: -1
+head
+  rotate: false
+  xy: 561, 68
+  size: 76, 56
+  orig: 117, 95
+  offset: 6, 12
+  index: -1
+helmet
+  rotate: true
+  xy: 406, 56
+  size: 68, 79
+  orig: 117, 95
+  offset: 30, 7
+  index: -1
+jaw
+  rotate: true
+  xy: 183, 7
+  size: 117, 63
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 757, 72
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 810, 76
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+nail_L
+  rotate: false
+  xy: 98, 11
+  size: 44, 21
+  orig: 55, 32
+  offset: 4, 4
+  index: -1
+nail_L_01
+  rotate: true
+  xy: 856, 29
+  size: 45, 42
+  orig: 71, 59
+  offset: 10, 10
+  index: -1
+nail_R
+  rotate: true
+  xy: 859, 84
+  size: 40, 36
+  orig: 48, 42
+  offset: 2, 1
+  index: -1
+nail_R_01
+  rotate: true
+  xy: 328, 3
+  size: 42, 53
+  orig: 73, 69
+  offset: 12, 7
+  index: -1
+prearm_L
+  rotate: true
+  xy: 487, 60
+  size: 64, 72
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+prearm_L_01
+  rotate: false
+  xy: 328, 47
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+prearm_R
+  rotate: false
+  xy: 439, 6
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+prearm_R_01
+  rotate: false
+  xy: 607, 18
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+shoulder_L
+  rotate: true
+  xy: 639, 72
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+shoulder_R
+  rotate: true
+  xy: 803, 18
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+sword1-effect01
+  rotate: false
+  xy: 696, 13
+  size: 52, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+sword1-effect02
+  rotate: true
+  xy: 699, 72
+  size: 52, 56
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+sword1-effect03
+  rotate: true
+  xy: 750, 16
+  size: 54, 51
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+sword1-effect04
+  rotate: false
+  xy: 383, 5
+  size: 54, 40
+  orig: 54, 57
+  offset: 0, 2
+  index: -1

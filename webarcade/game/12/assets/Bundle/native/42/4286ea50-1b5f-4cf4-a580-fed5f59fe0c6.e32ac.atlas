@@ -1,0 +1,55 @@
+
+ef12.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guo
+  rotate: false
+  xy: 282, 85
+  size: 120, 65
+  orig: 120, 65
+  offset: 0, 0
+  index: -1
+guogai
+  rotate: true
+  xy: 193, 10
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+huana
+  rotate: false
+  xy: 393, 181
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+tang
+  rotate: false
+  xy: 2, 2
+  size: 86, 30
+  orig: 86, 30
+  offset: 0, 0
+  index: -1
+zhiliaoa
+  rotate: false
+  xy: 282, 152
+  size: 109, 93
+  orig: 109, 93
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 2, 34
+  size: 189, 211
+  orig: 189, 211
+  offset: 0, 0
+  index: -1
+图层 6
+  rotate: false
+  xy: 193, 106
+  size: 87, 139
+  orig: 87, 139
+  offset: 0, 0
+  index: -1

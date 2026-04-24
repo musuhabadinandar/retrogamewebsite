@@ -1,0 +1,48 @@
+
+fabao8.png
+size: 274,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fq_baojian0201
+  rotate: true
+  xy: 2, 2
+  size: 53, 202
+  orig: 53, 202
+  offset: 0, 0
+  index: -1
+fq_baojian0202
+  rotate: true
+  xy: 70, 66
+  size: 41, 92
+  orig: 41, 92
+  offset: 0, 0
+  index: -1
+fq_baojian0203
+  rotate: true
+  xy: 206, 30
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+fq_baojian0204
+  rotate: false
+  xy: 2, 57
+  size: 66, 214
+  orig: 66, 214
+  offset: 0, 0
+  index: -1
+fq_baojian0205
+  rotate: false
+  xy: 206, 57
+  size: 66, 214
+  orig: 66, 214
+  offset: 0, 0
+  index: -1
+fq_baojian0206
+  rotate: false
+  xy: 70, 109
+  size: 92, 162
+  orig: 92, 162
+  offset: 0, 0
+  index: -1

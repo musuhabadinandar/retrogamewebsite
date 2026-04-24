@@ -1,0 +1,55 @@
+
+fei5.png
+size: 562,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+形状 171 拷贝
+  rotate: false
+  xy: 82, 2
+  size: 45, 199
+  orig: 45, 199
+  offset: 0, 0
+  index: -1
+形状 185
+  rotate: false
+  xy: 162, 2
+  size: 23, 92
+  orig: 23, 92
+  offset: 0, 0
+  index: -1
+形状 185 拷贝 3
+  rotate: false
+  xy: 242, 2
+  size: 48, 105
+  orig: 48, 105
+  offset: 0, 0
+  index: -1
+形状 192
+  rotate: false
+  xy: 322, 2
+  size: 63, 140
+  orig: 63, 140
+  offset: 0, 0
+  index: -1
+形状 86
+  rotate: false
+  xy: 2, 2
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1
+组 8
+  rotate: false
+  xy: 402, 2
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+组 8 拷贝 2
+  rotate: false
+  xy: 482, 2
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1

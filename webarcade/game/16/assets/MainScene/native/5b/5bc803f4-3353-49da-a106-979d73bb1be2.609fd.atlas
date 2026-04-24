@@ -1,0 +1,62 @@
+
+atkA_hit.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0_01
+  rotate: false
+  xy: 785, 896
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+dao6
+  rotate: false
+  xy: 527, 731
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+moji
+  rotate: false
+  xy: 2, 419
+  size: 256, 272
+  orig: 256, 272
+  offset: 0, 0
+  index: -1
+mojiB
+  rotate: false
+  xy: 269, 715
+  size: 256, 272
+  orig: 256, 272
+  offset: 0, 0
+  index: -1
+xianA
+  rotate: false
+  xy: 2, 2
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+墨迹3
+  rotate: false
+  xy: 2, 160
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+火星
+  rotate: false
+  xy: 2, 693
+  size: 265, 294
+  orig: 265, 294
+  offset: 0, 0
+  index: -1
+火星2
+  rotate: false
+  xy: 2, 30
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

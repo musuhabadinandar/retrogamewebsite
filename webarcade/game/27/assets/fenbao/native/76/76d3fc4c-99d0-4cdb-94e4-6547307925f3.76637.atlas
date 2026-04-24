@@ -1,0 +1,272 @@
+
+monster_01.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eff_Cutter_all
+  rotate: true
+  xy: 2, 6
+  size: 248, 146
+  orig: 248, 146
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 637, 5
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+eff_heal
+  rotate: true
+  xy: 1265, 56
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+eye_fx01
+  rotate: false
+  xy: 866, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eye_fx02
+  rotate: true
+  xy: 826, 2
+  size: 119, 128
+  orig: 128, 128
+  offset: 5, 0
+  index: -1
+fire_01
+  rotate: false
+  xy: 1225, 48
+  size: 38, 79
+  orig: 38, 79
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: false
+  xy: 365, 3
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+foot_R
+  rotate: false
+  xy: 417, 3
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+horse_body
+  rotate: true
+  xy: 1078, 127
+  size: 127, 90
+  orig: 127, 90
+  offset: 0, 0
+  index: -1
+horse_head
+  rotate: false
+  xy: 667, 122
+  size: 86, 132
+  orig: 86, 132
+  offset: 0, 0
+  index: -1
+horse_head_attack
+  rotate: false
+  xy: 956, 9
+  size: 83, 115
+  orig: 88, 130
+  offset: 5, 8
+  index: -1
+horse_head_die
+  rotate: false
+  xy: 581, 118
+  size: 84, 136
+  orig: 84, 136
+  offset: 0, 0
+  index: -1
+horse_jaw
+  rotate: false
+  xy: 581, 78
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+horse_jaw_attack
+  rotate: true
+  xy: 1377, 198
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+horse_jaw_die
+  rotate: true
+  xy: 1299, 132
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+horse_leg_BL
+  rotate: false
+  xy: 1162, 31
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+horse_leg_BR
+  rotate: true
+  xy: 281, 2
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+horse_leg_FL
+  rotate: false
+  xy: 1220, 172
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+horse_leg_FR
+  rotate: false
+  xy: 1270, 179
+  size: 46, 75
+  orig: 46, 75
+  offset: 0, 0
+  index: -1
+horse_neck
+  rotate: false
+  xy: 738, 4
+  size: 86, 116
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+horse_tail
+  rotate: false
+  xy: 1170, 160
+  size: 48, 94
+  orig: 48, 94
+  offset: 0, 0
+  index: -1
+leg_L
+  rotate: false
+  xy: 1259, 132
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 1225, 8
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+lighting_all
+  rotate: false
+  xy: 755, 123
+  size: 109, 131
+  orig: 191, 195
+  offset: 82, 0
+  index: -1
+prearm_L
+  rotate: true
+  xy: 469, 6
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+prearm_L_01
+  rotate: true
+  xy: 1318, 192
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+prearm_R
+  rotate: false
+  xy: 1333, 133
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+rush-effect_all
+  rotate: true
+  xy: 1123, 30
+  size: 95, 37
+  orig: 367, 37
+  offset: 0, 0
+  index: -1
+shoulder_L
+  rotate: false
+  xy: 1041, 29
+  size: 80, 95
+  orig: 80, 100
+  offset: 0, 2
+  index: -1
+shoulder_R
+  rotate: true
+  xy: 545, 6
+  size: 65, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+skill2_symbol
+  rotate: true
+  xy: 996, 126
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+smoke1-effect_all
+  rotate: false
+  xy: 150, 23
+  size: 129, 231
+  orig: 129, 231
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 486, 58
+  size: 196, 43
+  orig: 196, 70
+  offset: 0, 14
+  index: -1
+weapon_inside_0
+  rotate: true
+  xy: 531, 73
+  size: 181, 48
+  orig: 181, 48
+  offset: 0, 0
+  index: -1
+weapon_inside_eff
+  rotate: false
+  xy: 1170, 129
+  size: 87, 29
+  orig: 87, 34
+  offset: 0, 2
+  index: -1
+weapon_skill
+  rotate: true
+  xy: 421, 58
+  size: 196, 63
+  orig: 196, 70
+  offset: 0, 7
+  index: -1
+weapon_skill_open
+  rotate: true
+  xy: 281, 58
+  size: 196, 70
+  orig: 196, 70
+  offset: 0, 0
+  index: -1
+weapon_skill_open_1
+  rotate: true
+  xy: 353, 58
+  size: 196, 66
+  orig: 196, 70
+  offset: 0, 2
+  index: -1

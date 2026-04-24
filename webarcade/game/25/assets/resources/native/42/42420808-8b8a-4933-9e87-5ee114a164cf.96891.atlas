@@ -1,0 +1,27 @@
+
+daoguang_TX.png
+size: 1048,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VFX_1
+  rotate: false
+  xy: 2, 2
+  size: 514, 311
+  orig: 519, 316
+  offset: 2, 2
+  index: -1
+VFX_2
+  rotate: false
+  xy: 518, 2
+  size: 404, 311
+  orig: 408, 316
+  offset: 2, 2
+  index: -1
+VFX_3
+  rotate: false
+  xy: 924, 43
+  size: 122, 270
+  orig: 127, 275
+  offset: 2, 2
+  index: -1

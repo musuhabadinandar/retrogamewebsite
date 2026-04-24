@@ -1,0 +1,83 @@
+
+boss16_skill1.png
+size: 1267,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+怪技能/(tn)b-01.img/0
+  rotate: false
+  xy: 654, 3
+  size: 96, 38
+  orig: 96, 38
+  offset: 0, 0
+  index: -1
+怪技能/(tn)b-01.img/2
+  rotate: false
+  xy: 1124, 20
+  size: 139, 64
+  orig: 139, 64
+  offset: 0, 0
+  index: -1
+怪技能/(tn)b-01.img/3
+  rotate: false
+  xy: 979, 18
+  size: 143, 66
+  orig: 143, 66
+  offset: 0, 0
+  index: -1
+怪技能/(tn)b-01.img/4
+  rotate: true
+  xy: 1196, 140
+  size: 144, 69
+  orig: 144, 69
+  offset: 0, 0
+  index: -1
+怪技能/(tn)b-01.img/5
+  rotate: false
+  xy: 825, 11
+  size: 152, 73
+  orig: 152, 73
+  offset: 0, 0
+  index: -1
+怪技能/y00
+  rotate: true
+  xy: 825, 86
+  size: 198, 369
+  orig: 198, 369
+  offset: 0, 0
+  index: -1
+怪技能/y01
+  rotate: true
+  xy: 502, 33
+  size: 251, 150
+  orig: 288, 221
+  offset: 15, 3
+  index: -1
+怪技能/y02
+  rotate: true
+  xy: 2, 2
+  size: 282, 148
+  orig: 288, 221
+  offset: 3, 11
+  index: -1
+怪技能/y03
+  rotate: true
+  xy: 152, 5
+  size: 279, 171
+  orig: 288, 221
+  offset: 5, 19
+  index: -1
+怪技能/y04
+  rotate: true
+  xy: 325, 13
+  size: 271, 175
+  orig: 288, 221
+  offset: 7, 34
+  index: -1
+怪技能/y05
+  rotate: true
+  xy: 654, 43
+  size: 241, 169
+  orig: 288, 221
+  offset: 14, 45
+  index: -1

@@ -1,0 +1,34 @@
+
+boss05_skill1.png
+size: 651,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 536, 2
+  size: 104, 85
+  orig: 105, 87
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 536, 89
+  size: 113, 95
+  orig: 114, 98
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 432, 63
+  size: 121, 102
+  orig: 123, 103
+  offset: 2, 0
+  index: -1
+dazhangyushou
+  rotate: true
+  xy: 2, 10
+  size: 174, 428
+  orig: 205, 428
+  offset: 0, 0
+  index: -1

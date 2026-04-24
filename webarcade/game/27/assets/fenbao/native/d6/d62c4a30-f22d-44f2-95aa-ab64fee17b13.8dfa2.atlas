@@ -1,0 +1,13 @@
+
+skill_05.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet_skill_h4_arrow01
+  rotate: false
+  xy: 2, 2
+  size: 242, 56
+  orig: 242, 59
+  offset: 0, 1
+  index: -1

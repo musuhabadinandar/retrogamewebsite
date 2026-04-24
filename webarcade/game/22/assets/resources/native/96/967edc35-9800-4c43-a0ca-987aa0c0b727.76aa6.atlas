@@ -1,0 +1,69 @@
+
+fx_katanna01.png
+size: 1987,963
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: true
+  xy: 688, 286
+  size: 675, 641
+  orig: 688, 661
+  offset: 6, 15
+  index: -1
+bg2
+  rotate: false
+  xy: 1331, 464
+  size: 654, 497
+  orig: 675, 516
+  offset: 10, 10
+  index: -1
+crack1
+  rotate: false
+  xy: 665, 121
+  size: 87, 121
+  orig: 129, 476
+  offset: 22, 90
+  index: -1
+crack2
+  rotate: true
+  xy: 389, 26
+  size: 77, 276
+  orig: 129, 476
+  offset: 29, 30
+  index: -1
+crack3
+  rotate: true
+  xy: 2, 26
+  size: 77, 385
+  orig: 129, 476
+  offset: 30, 77
+  index: -1
+hl1
+  rotate: false
+  xy: 2, 244
+  size: 684, 717
+  orig: 695, 730
+  offset: 6, 9
+  index: -1
+hl2
+  rotate: false
+  xy: 1331, 2
+  size: 636, 460
+  orig: 650, 475
+  offset: 8, 10
+  index: -1
+s
+  rotate: true
+  xy: 2, 105
+  size: 137, 661
+  orig: 139, 663
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 754, 103
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1

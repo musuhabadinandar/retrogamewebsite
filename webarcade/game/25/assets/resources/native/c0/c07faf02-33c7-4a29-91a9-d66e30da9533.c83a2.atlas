@@ -1,0 +1,34 @@
+
+dszgyx_bz_tx1.png
+size: 82,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dszgyx_bz_tx_1
+  rotate: true
+  xy: 2, 2
+  size: 42, 35
+  orig: 43, 43
+  offset: 1, 8
+  index: -1
+dszgyx_bz_tx_2
+  rotate: false
+  xy: 60, 24
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dszgyx_bz_tx_3
+  rotate: false
+  xy: 60, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dszgyx_bz_tx_4
+  rotate: false
+  xy: 39, 18
+  size: 19, 26
+  orig: 26, 26
+  offset: 4, 0
+  index: -1

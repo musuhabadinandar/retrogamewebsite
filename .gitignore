@@ -1,0 +1,33 @@
+# Secrets and local overrides
+/config.local.php
+/pokemon-vn/napthe/credentials.local.php
+/.env
+/.env.*
+
+# Massive ROM libraries and local media collections
+/fc/games/
+/gba/games/
+/gb/games/
+/ps1/games/
+/mame/games/
+/webarcade/games/
+
+# Generated local artifacts
+/scripts/__pycache__/
+/scripts/english_translation_cache.json
+/scripts/gba_title_translation_cache.json
+/scripts/fc_placeholder_folders.json
+/scripts/fc_remaining_cjk_titles.json
+/scripts/fc_repaired_folders.json
+/scripts/gb_gambatte_core_backup_*/
+/scripts/tmp_*/
+
+# Backups, temp files, and editor noise
+*.bak
+*.old
+*.orig
+*.tmp
+*.temp
+*.log
+Thumbs.db
+.DS_Store

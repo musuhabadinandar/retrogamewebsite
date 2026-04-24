@@ -1,0 +1,34 @@
+
+fx_fireball.png
+size: 669,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b01
+  rotate: true
+  xy: 314, 3
+  size: 74, 172
+  orig: 75, 180
+  offset: 0, 4
+  index: -1
+b02
+  rotate: true
+  xy: 488, 2
+  size: 75, 179
+  orig: 75, 180
+  offset: 0, 1
+  index: -1
+b03
+  rotate: true
+  xy: 165, 4
+  size: 73, 147
+  orig: 75, 180
+  offset: 1, 4
+  index: -1
+b04
+  rotate: true
+  xy: 2, 8
+  size: 69, 161
+  orig: 75, 180
+  offset: 1, 4
+  index: -1

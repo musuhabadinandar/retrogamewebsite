@@ -1,0 +1,69 @@
+
+fx_lightningstrike.png
+size: 245,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 64, 2
+  size: 111, 167
+  orig: 116, 174
+  offset: 3, 3
+  index: -1
+02
+  rotate: false
+  xy: 101, 115
+  size: 125, 156
+  orig: 131, 162
+  offset: 3, 5
+  index: -1
+03
+  rotate: false
+  xy: 101, 273
+  size: 129, 156
+  orig: 134, 162
+  offset: 3, 3
+  index: -1
+04
+  rotate: false
+  xy: 2, 184
+  size: 97, 245
+  orig: 103, 252
+  offset: 3, 3
+  index: -1
+05
+  rotate: true
+  xy: 2, 607
+  size: 151, 241
+  orig: 160, 252
+  offset: 5, 4
+  index: -1
+06
+  rotate: true
+  xy: 2, 431
+  size: 174, 208
+  orig: 179, 213
+  offset: 2, 3
+  index: -1
+hl
+  rotate: false
+  xy: 2, 126
+  size: 70, 56
+  orig: 76, 62
+  offset: 3, 3
+  index: -1
+l1
+  rotate: false
+  xy: 2, 69
+  size: 60, 55
+  orig: 68, 63
+  offset: 4, 4
+  index: -1
+l2
+  rotate: true
+  xy: 212, 455
+  size: 150, 28
+  orig: 160, 32
+  offset: 5, 2
+  index: -1

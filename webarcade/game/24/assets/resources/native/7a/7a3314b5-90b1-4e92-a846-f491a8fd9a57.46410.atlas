@@ -1,0 +1,125 @@
+
+boss16_xueshanjuyuan1.png
+size: 678,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houjiao
+  rotate: false
+  xy: 150, 2
+  size: 60, 56
+  orig: 63, 61
+  offset: 2, 1
+  index: -1
+houjiao1
+  rotate: true
+  xy: 560, 5
+  size: 57, 38
+  orig: 60, 41
+  offset: 1, 1
+  index: -1
+houshangtui
+  rotate: false
+  xy: 459, 109
+  size: 61, 111
+  orig: 63, 113
+  offset: 1, 0
+  index: -1
+houshangtui1
+  rotate: false
+  xy: 312, 6
+  size: 69, 71
+  orig: 72, 74
+  offset: 2, 0
+  index: -1
+houxiatui
+  rotate: true
+  xy: 267, 4
+  size: 73, 43
+  orig: 76, 47
+  offset: 2, 3
+  index: -1
+houxiatui1
+  rotate: true
+  xy: 626, 155
+  size: 65, 50
+  orig: 67, 61
+  offset: 1, 10
+  index: -1
+qianshangbi
+  rotate: false
+  xy: 378, 106
+  size: 79, 114
+  orig: 83, 121
+  offset: 1, 0
+  index: -1
+qianshangbi1
+  rotate: false
+  xy: 559, 142
+  size: 65, 78
+  orig: 67, 81
+  offset: 0, 1
+  index: -1
+qianshou
+  rotate: false
+  xy: 212, 3
+  size: 53, 55
+  orig: 56, 58
+  offset: 2, 1
+  index: -1
+qianshou1
+  rotate: false
+  xy: 600, 9
+  size: 48, 53
+  orig: 50, 55
+  offset: 1, 1
+  index: -1
+qianxiabi
+  rotate: false
+  xy: 560, 64
+  size: 64, 76
+  orig: 66, 84
+  offset: 1, 7
+  index: -1
+qianxiabi1
+  rotate: true
+  xy: 493, 25
+  size: 82, 65
+  orig: 84, 67
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 60
+  size: 254, 160
+  orig: 264, 172
+  offset: 5, 12
+  index: -1
+texiao
+  rotate: true
+  xy: 383, 3
+  size: 101, 108
+  orig: 104, 112
+  offset: 1, 2
+  index: -1
+texiao3
+  rotate: true
+  xy: 522, 109
+  size: 111, 35
+  orig: 111, 36
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 258, 79
+  size: 118, 141
+  orig: 170, 180
+  offset: 38, 33
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 2
+  size: 146, 56
+  orig: 148, 58
+  offset: 1, 1
+  index: -1

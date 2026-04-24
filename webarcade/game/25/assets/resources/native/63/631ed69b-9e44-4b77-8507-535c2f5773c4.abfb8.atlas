@@ -1,0 +1,83 @@
+
+tiejiang.png
+size: 341,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+budong
+  rotate: true
+  xy: 182, 145
+  size: 102, 112
+  orig: 102, 112
+  offset: 0, 0
+  index: -1
+chuizi
+  rotate: true
+  xy: 204, 423
+  size: 85, 131
+  orig: 85, 131
+  offset: 0, 0
+  index: -1
+jiu
+  rotate: true
+  xy: 271, 67
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+jiu2
+  rotate: false
+  xy: 263, 3
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 204, 296
+  size: 126, 125
+  orig: 140, 284
+  offset: 14, 0
+  index: -1
+t
+  rotate: true
+  xy: 2, 356
+  size: 152, 200
+  orig: 152, 200
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 2, 182
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 2, 6
+  size: 167, 174
+  orig: 174, 194
+  offset: 7, 20
+  index: -1
+youbi
+  rotate: true
+  xy: 171, 78
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 171, 2
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 182, 249
+  size: 123, 45
+  orig: 123, 45
+  offset: 0, 0
+  index: -1

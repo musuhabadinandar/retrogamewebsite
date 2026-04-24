@@ -1,0 +1,62 @@
+
+huoqiu_TX.png
+size: 1188,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VFX_hq1
+  rotate: true
+  xy: 311, 9
+  size: 93, 307
+  orig: 94, 308
+  offset: 1, 0
+  index: -1
+VFX_hq2
+  rotate: true
+  xy: 2, 4
+  size: 98, 307
+  orig: 99, 308
+  offset: 1, 1
+  index: -1
+VFX_hq3
+  rotate: true
+  xy: 883, 136
+  size: 91, 277
+  orig: 92, 277
+  offset: 1, 0
+  index: -1
+VFX_hq4
+  rotate: true
+  xy: 641, 115
+  size: 112, 240
+  orig: 114, 241
+  offset: 1, 1
+  index: -1
+VFX_hq5
+  rotate: true
+  xy: 925, 4
+  size: 130, 261
+  orig: 131, 263
+  offset: 0, 1
+  index: -1
+VFX_hq6
+  rotate: false
+  xy: 2, 104
+  size: 341, 123
+  orig: 341, 125
+  offset: 0, 1
+  index: -1
+VFX_hq7
+  rotate: false
+  xy: 345, 111
+  size: 294, 116
+  orig: 296, 118
+  offset: 1, 1
+  index: -1
+VFX_hq8
+  rotate: true
+  xy: 620, 2
+  size: 107, 303
+  orig: 108, 303
+  offset: 0, 0
+  index: -1

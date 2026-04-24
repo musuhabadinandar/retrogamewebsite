@@ -1,0 +1,13 @@
+
+fx_sword_ready.png
+size: 185,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: false
+  xy: 2, 2
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1

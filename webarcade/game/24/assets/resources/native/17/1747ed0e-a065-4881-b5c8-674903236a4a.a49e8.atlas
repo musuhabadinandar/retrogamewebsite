@@ -1,0 +1,76 @@
+
+monster05_zhangyu.png
+size: 450,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: false
+  xy: 2, 3
+  size: 132, 74
+  orig: 132, 74
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 381, 77
+  size: 187, 54
+  orig: 187, 54
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: false
+  xy: 136, 2
+  size: 136, 31
+  orig: 136, 31
+  offset: 0, 0
+  index: -1
+jiao4
+  rotate: false
+  xy: 136, 35
+  size: 170, 42
+  orig: 171, 42
+  offset: 1, 0
+  index: -1
+jiao5
+  rotate: false
+  xy: 308, 6
+  size: 138, 35
+  orig: 138, 35
+  offset: 0, 0
+  index: -1
+pu
+  rotate: true
+  xy: 312, 43
+  size: 221, 67
+  orig: 221, 67
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 312, 266
+  size: 120, 101
+  orig: 121, 101
+  offset: 1, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 381, 46
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 415, 299
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+zhuan
+  rotate: true
+  xy: 2, 79
+  size: 307, 308
+  orig: 308, 308
+  offset: 1, 0
+  index: -1

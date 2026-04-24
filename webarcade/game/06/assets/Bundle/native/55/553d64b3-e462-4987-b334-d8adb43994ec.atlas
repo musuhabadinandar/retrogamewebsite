@@ -1,0 +1,97 @@
+
+pet_7.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet_07/a0_01
+  rotate: false
+  xy: 889, 351
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+pet_07/body
+  rotate: true
+  xy: 889, 443
+  size: 55, 132
+  orig: 55, 132
+  offset: 0, 0
+  index: -1
+pet_07/chibang
+  rotate: false
+  xy: 706, 378
+  size: 182, 120
+  orig: 182, 120
+  offset: 0, 0
+  index: -1
+pet_07/chibang2
+  rotate: false
+  xy: 217, 7
+  size: 78, 166
+  orig: 78, 166
+  offset: 0, 0
+  index: -1
+pet_07/chibang3
+  rotate: true
+  xy: 296, 83
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+pet_07/guang
+  rotate: false
+  xy: 1, 174
+  size: 346, 324
+  orig: 346, 324
+  offset: 0, 0
+  index: -1
+pet_07/guang2
+  rotate: true
+  xy: 348, 203
+  size: 117, 177
+  orig: 117, 177
+  offset: 0, 0
+  index: -1
+pet_07/tou
+  rotate: false
+  xy: 1, 1
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+pet_07/weiba
+  rotate: false
+  xy: 348, 321
+  size: 156, 177
+  orig: 156, 177
+  offset: 0, 0
+  index: -1
+pet_07/weiba2
+  rotate: true
+  xy: 296, 12
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+pet_07/weiba3
+  rotate: true
+  xy: 1, 37
+  size: 136, 215
+  orig: 136, 215
+  offset: 0, 0
+  index: -1
+pet_07/weiba4
+  rotate: true
+  xy: 505, 368
+  size: 130, 200
+  orig: 130, 200
+  offset: 0, 0
+  index: -1
+pet_07/xu
+  rotate: false
+  xy: 505, 329
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1

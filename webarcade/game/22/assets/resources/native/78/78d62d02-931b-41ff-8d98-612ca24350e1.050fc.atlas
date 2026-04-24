@@ -1,0 +1,20 @@
+
+fx_blackfield.png
+size: 1287,853
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/fx1
+  rotate: false
+  xy: 2, 2
+  size: 705, 849
+  orig: 705, 850
+  offset: 0, 0
+  index: -1
+image/fx2
+  rotate: false
+  xy: 709, 16
+  size: 576, 835
+  orig: 705, 850
+  offset: 121, 1
+  index: -1

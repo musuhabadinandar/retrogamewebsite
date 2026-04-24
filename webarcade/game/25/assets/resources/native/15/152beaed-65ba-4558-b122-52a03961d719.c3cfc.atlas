@@ -1,0 +1,55 @@
+
+XiaoYouXiFuLiJun.png
+size: 234,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 150
+  size: 230, 35
+  orig: 230, 35
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 187
+  size: 230, 212
+  orig: 230, 212
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 113
+  size: 230, 35
+  orig: 230, 35
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 76
+  size: 230, 35
+  orig: 230, 35
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 401
+  size: 230, 213
+  orig: 230, 213
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 2, 39
+  size: 230, 35
+  orig: 230, 35
+  offset: 0, 0
+  index: -1
+zuihou
+  rotate: false
+  xy: 2, 2
+  size: 230, 35
+  orig: 230, 35
+  offset: 0, 0
+  index: -1

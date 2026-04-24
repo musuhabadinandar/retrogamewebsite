@@ -1,0 +1,20 @@
+
+talk.png
+size: 763,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lt
+  rotate: true
+  xy: 498, 2
+  size: 392, 263
+  orig: 392, 263
+  offset: 0, 0
+  index: -1
+lt2
+  rotate: true
+  xy: 2, 39
+  size: 355, 494
+  orig: 355, 494
+  offset: 0, 0
+  index: -1

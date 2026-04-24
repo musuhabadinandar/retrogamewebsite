@@ -1,0 +1,27 @@
+
+fx_spark.png
+size: 123,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spark1
+  rotate: true
+  xy: 2, 2
+  size: 72, 49
+  orig: 76, 53
+  offset: 2, 2
+  index: -1
+spark2
+  rotate: false
+  xy: 53, 5
+  size: 40, 69
+  orig: 42, 73
+  offset: 1, 2
+  index: -1
+spark3
+  rotate: false
+  xy: 95, 16
+  size: 26, 58
+  orig: 28, 61
+  offset: 1, 2
+  index: -1

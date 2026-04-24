@@ -1,0 +1,48 @@
+
+fabao25.png
+size: 334,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao25/beijingguang
+  rotate: false
+  xy: 222, 1
+  size: 110, 306
+  orig: 110, 306
+  offset: 0, 0
+  index: -1
+fabao25/beijingfaguang
+  rotate: false
+  xy: 1, 211
+  size: 71, 283
+  orig: 71, 283
+  offset: 0, 0
+  index: -1
+fabao25/jian
+  rotate: false
+  xy: 131, 211
+  size: 49, 262
+  orig: 49, 262
+  offset: 0, 0
+  index: -1
+fabao25/_faguang
+  rotate: false
+  xy: 74, 211
+  size: 55, 269
+  orig: 55, 269
+  offset: 0, 0
+  index: -1
+fabao22/dian
+  rotate: false
+  xy: 1, 496
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+0036
+  rotate: false
+  xy: 1, 1
+  size: 219, 208
+  orig: 219, 208
+  offset: 0, 0
+  index: -1

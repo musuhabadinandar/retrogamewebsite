@@ -1,0 +1,104 @@
+
+p2.png
+size: 1101,1099
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 328
+  size: 265, 350
+  orig: 265, 350
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 680
+  size: 265, 417
+  orig: 265, 417
+  offset: 0, 0
+  index: -1
+images/图层 1
+  rotate: false
+  xy: 269, 837
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 10
+  rotate: false
+  xy: 264, 51
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 11
+  rotate: false
+  xy: 549, 51
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 12
+  rotate: true
+  xy: 839, 244
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 2
+  rotate: true
+  xy: 2, 43
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 3
+  rotate: false
+  xy: 269, 575
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 4
+  rotate: false
+  xy: 554, 837
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 5
+  rotate: false
+  xy: 554, 575
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 6
+  rotate: true
+  xy: 839, 814
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 7
+  rotate: false
+  xy: 269, 313
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 8
+  rotate: false
+  xy: 554, 313
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1
+images/图层 9
+  rotate: true
+  xy: 839, 529
+  size: 283, 260
+  orig: 283, 260
+  offset: 0, 0
+  index: -1

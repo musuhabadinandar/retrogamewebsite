@@ -1,0 +1,272 @@
+
+shijuren.png
+size: 1925,1063
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shijuren/qugan
+  rotate: false
+  xy: 820, 700
+  size: 410, 361
+  orig: 410, 450
+  offset: 0, 0
+  index: -1
+shijuren/toubu
+  rotate: false
+  xy: 828, 435
+  size: 283, 263
+  orig: 283, 263
+  offset: 0, 0
+  index: -1
+shijuren/xiabanshen
+  rotate: false
+  xy: 2, 665
+  size: 418, 396
+  orig: 418, 396
+  offset: 0, 0
+  index: -1
+shijuren/youmuzhi
+  rotate: false
+  xy: 1755, 96
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+tongjuren/youmuzhi
+  rotate: false
+  xy: 1755, 96
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+tujuren/youmuzhi
+  rotate: false
+  xy: 1755, 96
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+shijuren/youquan1
+  rotate: false
+  xy: 1400, 16
+  size: 92, 165
+  orig: 171, 215
+  offset: 34, 7
+  index: -1
+shijuren/youquan2
+  rotate: true
+  xy: 1050, 9
+  size: 165, 173
+  orig: 165, 173
+  offset: 0, 0
+  index: -1
+tongjuren/youquan2
+  rotate: true
+  xy: 1050, 9
+  size: 165, 173
+  orig: 165, 173
+  offset: 0, 0
+  index: -1
+shijuren/youshangbi
+  rotate: true
+  xy: 1113, 176
+  size: 233, 267
+  orig: 246, 308
+  offset: 13, 0
+  index: -1
+shijuren/youxiabi
+  rotate: false
+  xy: 1647, 159
+  size: 225, 257
+  orig: 225, 257
+  offset: 0, 0
+  index: -1
+tongjuren/youxiabi
+  rotate: false
+  xy: 1647, 159
+  size: 225, 257
+  orig: 225, 257
+  offset: 0, 0
+  index: -1
+tujuren/youxiabi
+  rotate: false
+  xy: 1647, 159
+  size: 225, 257
+  orig: 225, 257
+  offset: 0, 0
+  index: -1
+shijuren/zuomuzhi
+  rotate: true
+  xy: 1858, 467
+  size: 121, 65
+  orig: 121, 65
+  offset: 0, 0
+  index: -1
+tongjuren/zuomuzhi
+  rotate: true
+  xy: 1858, 467
+  size: 121, 65
+  orig: 121, 65
+  offset: 0, 0
+  index: -1
+tujuren/zuomuzhi
+  rotate: true
+  xy: 1858, 467
+  size: 121, 65
+  orig: 121, 65
+  offset: 0, 0
+  index: -1
+shijuren/zuoquan
+  rotate: true
+  xy: 353, 23
+  size: 242, 185
+  orig: 283, 242
+  offset: 13, 30
+  index: -1
+shijuren/zuoshangbi
+  rotate: false
+  xy: 1373, 414
+  size: 256, 286
+  orig: 275, 361
+  offset: 0, 0
+  index: -1
+shijuren/zuoxiabi
+  rotate: false
+  xy: 540, 71
+  size: 281, 210
+  orig: 281, 210
+  offset: 0, 0
+  index: -1
+tongjuren/zuoxiabi
+  rotate: false
+  xy: 540, 71
+  size: 281, 210
+  orig: 281, 210
+  offset: 0, 0
+  index: -1
+tujuren/zuoxiabi
+  rotate: false
+  xy: 540, 71
+  size: 281, 210
+  orig: 281, 210
+  offset: 0, 0
+  index: -1
+tongjuren/qugan
+  rotate: false
+  xy: 1232, 702
+  size: 410, 359
+  orig: 410, 450
+  offset: 0, 0
+  index: -1
+tongjuren/toubu
+  rotate: true
+  xy: 828, 185
+  size: 248, 283
+  orig: 263, 283
+  offset: 15, 0
+  index: -1
+tongjuren/xiabanshen
+  rotate: false
+  xy: 2, 267
+  size: 418, 396
+  orig: 418, 396
+  offset: 0, 0
+  index: -1
+tongjuren/youquan1
+  rotate: true
+  xy: 1494, 16
+  size: 165, 92
+  orig: 215, 171
+  offset: 43, 34
+  index: -1
+tongjuren/youshangbi
+  rotate: true
+  xy: 1382, 183
+  size: 229, 263
+  orig: 246, 308
+  offset: 17, 0
+  index: -1
+tongjuren/zuoquan
+  rotate: true
+  xy: 1631, 418
+  size: 170, 225
+  orig: 242, 283
+  offset: 29, 39
+  index: -1
+tongjuren/zuoshangbi
+  rotate: false
+  xy: 1113, 411
+  size: 258, 287
+  orig: 275, 361
+  offset: 0, 0
+  index: -1
+tujuren/qugan
+  rotate: false
+  xy: 422, 283
+  size: 404, 358
+  orig: 410, 450
+  offset: 0, 0
+  index: -1
+tujuren/toubu
+  rotate: true
+  xy: 1644, 821
+  size: 240, 279
+  orig: 263, 283
+  offset: 19, 0
+  index: -1
+tujuren/xiabanshen
+  rotate: false
+  xy: 422, 643
+  size: 396, 418
+  orig: 396, 418
+  offset: 0, 0
+  index: -1
+tujuren/youquan1
+  rotate: true
+  xy: 1588, 65
+  size: 92, 165
+  orig: 171, 215
+  offset: 34, 7
+  index: -1
+tujuren/youquan2
+  rotate: false
+  xy: 1225, 9
+  size: 173, 165
+  orig: 173, 165
+  offset: 0, 0
+  index: -1
+tujuren/youshangbi
+  rotate: false
+  xy: 1644, 590
+  size: 263, 229
+  orig: 308, 246
+  offset: 45, 17
+  index: -1
+tujuren/zuoquan
+  rotate: false
+  xy: 823, 13
+  size: 225, 170
+  orig: 283, 242
+  offset: 19, 43
+  index: -1
+tujuren/zuoshangbi
+  rotate: true
+  xy: 2, 2
+  size: 263, 349
+  orig: 275, 361
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 1588, 12
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 540, 30
+  size: 67, 39
+  orig: 67, 40
+  offset: 0, 1
+  index: -1

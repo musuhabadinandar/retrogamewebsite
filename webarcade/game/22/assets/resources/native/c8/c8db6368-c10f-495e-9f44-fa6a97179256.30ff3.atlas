@@ -1,0 +1,90 @@
+
+fx_longspear_03.png
+size: 1251,1025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb1
+  rotate: false
+  xy: 815, 289
+  size: 188, 278
+  orig: 190, 280
+  offset: 1, 1
+  index: -1
+bomb2
+  rotate: false
+  xy: 544, 32
+  size: 259, 261
+  orig: 261, 263
+  offset: 1, 1
+  index: -1
+bomb3
+  rotate: true
+  xy: 1005, 460
+  size: 269, 244
+  orig: 272, 247
+  offset: 1, 1
+  index: -1
+bomb4
+  rotate: true
+  xy: 1004, 731
+  size: 292, 223
+  orig: 295, 230
+  offset: 1, 5
+  index: -1
+f1
+  rotate: false
+  xy: 2, 288
+  size: 526, 735
+  orig: 539, 752
+  offset: 6, 11
+  index: -1
+f2
+  rotate: false
+  xy: 530, 569
+  size: 472, 454
+  orig: 475, 467
+  offset: 1, 12
+  index: -1
+hightligight
+  rotate: false
+  xy: 1037, 111
+  size: 124, 124
+  orig: 138, 138
+  offset: 7, 7
+  index: -1
+smoke1
+  rotate: false
+  xy: 1037, 237
+  size: 206, 221
+  orig: 212, 226
+  offset: 3, 3
+  index: -1
+smoke2
+  rotate: false
+  xy: 805, 45
+  size: 230, 242
+  orig: 235, 247
+  offset: 3, 3
+  index: -1
+smoke3
+  rotate: false
+  xy: 282, 16
+  size: 260, 270
+  orig: 266, 276
+  offset: 3, 3
+  index: -1
+smoke4
+  rotate: false
+  xy: 2, 2
+  size: 278, 284
+  orig: 284, 290
+  offset: 3, 3
+  index: -1
+smoke5
+  rotate: false
+  xy: 530, 295
+  size: 283, 272
+  orig: 289, 278
+  offset: 3, 3
+  index: -1

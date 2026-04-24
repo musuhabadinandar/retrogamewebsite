@@ -1,0 +1,69 @@
+
+pet_8.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet_8/a0_01
+  rotate: false
+  xy: 863, 60
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+pet_8/body
+  rotate: false
+  xy: 342, 71
+  size: 228, 170
+  orig: 228, 170
+  offset: 0, 0
+  index: -1
+pet_8/guang
+  rotate: false
+  xy: 1, 1
+  size: 340, 240
+  orig: 340, 240
+  offset: 0, 0
+  index: -1
+pet_8/houtui
+  rotate: true
+  xy: 342, 13
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+pet_8/jinbian
+  rotate: false
+  xy: 674, 114
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+pet_8/jinbian_
+  rotate: false
+  xy: 774, 126
+  size: 88, 115
+  orig: 88, 115
+  offset: 0, 0
+  index: -1
+pet_8/tou
+  rotate: true
+  xy: 571, 15
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+pet_8/weiba
+  rotate: false
+  xy: 863, 152
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+pet_8/zhuazi
+  rotate: false
+  xy: 571, 101
+  size: 102, 140
+  orig: 102, 140
+  offset: 0, 0
+  index: -1

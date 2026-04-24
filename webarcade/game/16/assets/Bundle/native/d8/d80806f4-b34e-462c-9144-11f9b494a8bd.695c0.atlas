@@ -1,0 +1,48 @@
+
+fabao24.png
+size: 500,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao24/liusu
+  rotate: false
+  xy: 276, 279
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+fabao24/beijingguang
+  rotate: false
+  xy: 1, 1
+  size: 275, 157
+  orig: 275, 157
+  offset: 0, 0
+  index: -1
+fabao24/beijingguang2
+  rotate: false
+  xy: 1, 160
+  size: 273, 157
+  orig: 273, 157
+  offset: 0, 0
+  index: -1
+fabao24/shanzi
+  rotate: false
+  xy: 278, 1
+  size: 214, 112
+  orig: 214, 112
+  offset: 0, 0
+  index: -1
+fabao24/faguang
+  rotate: false
+  xy: 276, 160
+  size: 216, 117
+  orig: 216, 117
+  offset: 0, 0
+  index: -1
+faqi10/fabao10-diandian
+  rotate: false
+  xy: 494, 1
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1

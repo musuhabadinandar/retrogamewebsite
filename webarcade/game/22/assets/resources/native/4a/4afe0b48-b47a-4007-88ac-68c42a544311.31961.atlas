@@ -1,0 +1,27 @@
+
+fx_ice.png
+size: 101,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fog
+  rotate: false
+  xy: 2, 2
+  size: 96, 72
+  orig: 106, 80
+  offset: 5, 4
+  index: -1
+ice
+  rotate: true
+  xy: 40, 76
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+ice2
+  rotate: true
+  xy: 2, 90
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1

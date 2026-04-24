@@ -1,0 +1,125 @@
+
+renwu1.png
+size: 491,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+face
+  rotate: false
+  xy: 417, 404
+  size: 66, 85
+  orig: 68, 87
+  offset: 1, 1
+  index: -1
+hair0
+  rotate: false
+  xy: 249, 6
+  size: 40, 19
+  orig: 42, 21
+  offset: 1, 1
+  index: -1
+hairAa
+  rotate: false
+  xy: 398, 220
+  size: 26, 97
+  orig: 28, 99
+  offset: 1, 1
+  index: -1
+hairAb
+  rotate: false
+  xy: 382, 64
+  size: 27, 85
+  orig: 29, 87
+  offset: 1, 1
+  index: -1
+hairAc
+  rotate: true
+  xy: 2, 2
+  size: 30, 75
+  orig: 32, 77
+  offset: 1, 1
+  index: -1
+hairBa
+  rotate: true
+  xy: 79, 5
+  size: 27, 109
+  orig: 29, 111
+  offset: 1, 1
+  index: -1
+hairBb
+  rotate: false
+  xy: 411, 65
+  size: 27, 77
+  orig: 29, 79
+  offset: 1, 1
+  index: -1
+hairBc
+  rotate: true
+  xy: 190, 2
+  size: 23, 57
+  orig: 25, 59
+  offset: 1, 1
+  index: -1
+hairC
+  rotate: true
+  xy: 411, 144
+  size: 74, 78
+  orig: 76, 80
+  offset: 1, 1
+  index: -1
+hairD
+  rotate: true
+  xy: 2, 34
+  size: 95, 203
+  orig: 97, 208
+  offset: 1, 1
+  index: -1
+sheng
+  rotate: false
+  xy: 207, 27
+  size: 82, 105
+  orig: 84, 108
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: false
+  xy: 2, 131
+  size: 128, 186
+  orig: 130, 188
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 132, 134
+  size: 128, 183
+  orig: 130, 185
+  offset: 1, 1
+  index: -1
+tui
+  rotate: false
+  xy: 2, 319
+  size: 413, 170
+  orig: 415, 172
+  offset: 1, 1
+  index: -1
+xiong
+  rotate: false
+  xy: 262, 151
+  size: 134, 166
+  orig: 136, 168
+  offset: 1, 1
+  index: -1
+yao
+  rotate: true
+  xy: 291, 26
+  size: 123, 89
+  orig: 125, 91
+  offset: 1, 1
+  index: -1
+ying
+  rotate: false
+  xy: 417, 347
+  size: 58, 55
+  orig: 60, 57
+  offset: 1, 1
+  index: -1

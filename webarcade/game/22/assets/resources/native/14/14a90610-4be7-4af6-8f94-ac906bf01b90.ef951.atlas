@@ -1,0 +1,20 @@
+
+gth.png
+size: 146,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gth
+  rotate: false
+  xy: 112, 40
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+qipao
+  rotate: false
+  xy: 2, 2
+  size: 108, 93
+  orig: 108, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+fx_hp01.png
+size: 333,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add
+  rotate: false
+  xy: 230, 6
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 2, 2
+  size: 74, 67
+  orig: 82, 75
+  offset: 4, 4
+  index: -1
+fx2
+  rotate: false
+  xy: 78, 2
+  size: 74, 67
+  orig: 82, 75
+  offset: 4, 4
+  index: -1
+fx3
+  rotate: false
+  xy: 154, 2
+  size: 74, 67
+  orig: 82, 75
+  offset: 4, 4
+  index: -1
+light
+  rotate: false
+  xy: 230, 33
+  size: 101, 36
+  orig: 101, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+boss17_skill1.png
+size: 441,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+怪技能/luoci01
+  rotate: true
+  xy: 358, 11
+  size: 42, 65
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
+怪技能/luoci02
+  rotate: true
+  xy: 262, 10
+  size: 22, 72
+  orig: 42, 86
+  offset: 10, 14
+  index: -1
+怪技能/ys01
+  rotate: false
+  xy: 2, 8
+  size: 126, 76
+  orig: 144, 111
+  offset: 7, 1
+  index: -1
+怪技能/ys02
+  rotate: true
+  xy: 281, 34
+  size: 140, 75
+  orig: 144, 111
+  offset: 2, 5
+  index: -1
+怪技能/ys03
+  rotate: false
+  xy: 139, 89
+  size: 140, 85
+  orig: 144, 111
+  offset: 2, 10
+  index: -1
+怪技能/ys04
+  rotate: false
+  xy: 2, 86
+  size: 135, 88
+  orig: 144, 111
+  offset: 4, 17
+  index: -1
+怪技能/ys05
+  rotate: false
+  xy: 139, 2
+  size: 121, 85
+  orig: 144, 111
+  offset: 7, 23
+  index: -1
+怪技能/ys06
+  rotate: true
+  xy: 358, 55
+  size: 119, 81
+  orig: 144, 111
+  offset: 7, 29
+  index: -1

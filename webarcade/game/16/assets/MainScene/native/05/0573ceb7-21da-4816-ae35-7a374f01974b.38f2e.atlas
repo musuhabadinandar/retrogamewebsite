@@ -1,0 +1,34 @@
+
+ZDLup.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000 (1)
+  rotate: false
+  xy: 2, 2
+  size: 150, 33
+  orig: 150, 33
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 260, 340
+  size: 166, 60
+  orig: 166, 60
+  offset: 0, 0
+  index: -1
+gc
+  rotate: false
+  xy: 2, 144
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yaoban1b
+  rotate: false
+  xy: 2, 37
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1

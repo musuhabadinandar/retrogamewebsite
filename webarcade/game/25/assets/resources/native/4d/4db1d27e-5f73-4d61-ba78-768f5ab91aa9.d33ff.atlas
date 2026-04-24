@@ -1,0 +1,83 @@
+
+taitan.png
+size: 409,1000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 180, 2
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+qugana
+  rotate: false
+  xy: 2, 564
+  size: 404, 434
+  orig: 441, 466
+  offset: 37, 0
+  index: -1
+toubu
+  rotate: true
+  xy: 2, 362
+  size: 200, 260
+  orig: 200, 260
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 253, 116
+  size: 207, 101
+  orig: 207, 101
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 2, 129
+  size: 153, 109
+  orig: 153, 109
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: false
+  xy: 264, 325
+  size: 134, 237
+  orig: 134, 237
+  offset: 0, 0
+  index: -1
+youxiabi
+  rotate: false
+  xy: 2, 240
+  size: 182, 120
+  orig: 182, 120
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 186, 243
+  size: 117, 65
+  orig: 117, 65
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 288, 22
+  size: 92, 119
+  orig: 92, 119
+  offset: 0, 0
+  index: -1
+zuojian
+  rotate: true
+  xy: 2, 8
+  size: 112, 176
+  orig: 112, 176
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 186, 122
+  size: 119, 62
+  orig: 119, 62
+  offset: 0, 0
+  index: -1

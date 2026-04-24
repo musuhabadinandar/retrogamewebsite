@@ -1,0 +1,286 @@
+
+fire.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+013
+  rotate: false
+  xy: 779, 95
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1119, 594
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1297, 752
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+a0_01
+  rotate: false
+  xy: 779, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+quan4b
+  rotate: false
+  xy: 1249, 478
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+wg
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+yanwuA_02
+  rotate: false
+  xy: 1119, 464
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_03
+  rotate: false
+  xy: 1284, 622
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_04
+  rotate: false
+  xy: 1555, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_05
+  rotate: false
+  xy: 1685, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_06
+  rotate: false
+  xy: 1815, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_07
+  rotate: false
+  xy: 958, 144
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_08
+  rotate: false
+  xy: 1414, 622
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_09
+  rotate: false
+  xy: 1477, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_10
+  rotate: false
+  xy: 1607, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_11
+  rotate: false
+  xy: 1737, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_12
+  rotate: false
+  xy: 1544, 634
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_13
+  rotate: false
+  xy: 1674, 634
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_14
+  rotate: false
+  xy: 1867, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_15
+  rotate: false
+  xy: 1804, 634
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yanwuA_16
+  rotate: false
+  xy: 958, 14
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yaoban1b
+  rotate: false
+  xy: 1297, 917
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+yaoban2b
+  rotate: true
+  xy: 1038, 472
+  size: 300, 79
+  orig: 300, 79
+  offset: 0, 0
+  index: -1
+yu01
+  rotate: false
+  xy: 1038, 435
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+水纹A1
+  rotate: false
+  xy: 2, 774
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A10
+  rotate: false
+  xy: 779, 774
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A11
+  rotate: false
+  xy: 261, 24
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A12
+  rotate: false
+  xy: 520, 274
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A13
+  rotate: false
+  xy: 779, 524
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A14
+  rotate: false
+  xy: 1038, 774
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A15
+  rotate: false
+  xy: 520, 24
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A16
+  rotate: false
+  xy: 779, 274
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A2
+  rotate: false
+  xy: 2, 524
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A3
+  rotate: false
+  xy: 261, 774
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A4
+  rotate: false
+  xy: 2, 274
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A5
+  rotate: false
+  xy: 261, 524
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A6
+  rotate: false
+  xy: 520, 774
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A7
+  rotate: false
+  xy: 2, 24
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A8
+  rotate: false
+  xy: 261, 274
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1
+水纹A9
+  rotate: false
+  xy: 520, 524
+  size: 257, 248
+  orig: 257, 248
+  offset: 0, 0
+  index: -1

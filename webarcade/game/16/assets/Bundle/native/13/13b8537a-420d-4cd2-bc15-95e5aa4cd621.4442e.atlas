@@ -1,0 +1,160 @@
+
+pet_10.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet_10/a0_01
+  rotate: false
+  xy: 914, 402
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+pet_10/body
+  rotate: false
+  xy: 251, 257
+  size: 154, 236
+  orig: 154, 236
+  offset: 0, 0
+  index: -1
+pet_10/body2
+  rotate: false
+  xy: 531, 356
+  size: 174, 137
+  orig: 174, 137
+  offset: 0, 0
+  index: -1
+pet_10/body3
+  rotate: false
+  xy: 413, 175
+  size: 74, 101
+  orig: 74, 101
+  offset: 0, 0
+  index: -1
+pet_10/changmao
+  rotate: false
+  xy: 406, 277
+  size: 124, 216
+  orig: 124, 216
+  offset: 0, 0
+  index: -1
+pet_10/chi1
+  rotate: false
+  xy: 914, 367
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1
+pet_10/chi2
+  rotate: false
+  xy: 140, 9
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1
+pet_10/chi3
+  rotate: false
+  xy: 251, 134
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+pet_10/guang
+  rotate: false
+  xy: 1, 98
+  size: 249, 395
+  orig: 249, 395
+  offset: 0, 0
+  index: -1
+pet_10/huxu1
+  rotate: false
+  xy: 251, 110
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+pet_10/huxu2
+  rotate: false
+  xy: 413, 143
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+pet_10/jianbi
+  rotate: false
+  xy: 644, 303
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+pet_10/mao
+  rotate: false
+  xy: 574, 257
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+pet_10/tou
+  rotate: false
+  xy: 706, 377
+  size: 100, 116
+  orig: 100, 116
+  offset: 0, 0
+  index: -1
+pet_10/toubumaofa
+  rotate: false
+  xy: 807, 387
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+pet_10/weiba
+  rotate: true
+  xy: 1, 1
+  size: 96, 138
+  orig: 96, 138
+  offset: 0, 0
+  index: -1
+pet_10/weibamao
+  rotate: true
+  xy: 356, 139
+  size: 117, 56
+  orig: 117, 56
+  offset: 0, 0
+  index: -1
+pet_10/xijia
+  rotate: false
+  xy: 754, 343
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+pet_10/zhuazi
+  rotate: true
+  xy: 488, 184
+  size: 92, 43
+  orig: 92, 43
+  offset: 0, 0
+  index: -1
+pet_10/zhuazi2
+  rotate: false
+  xy: 532, 198
+  size: 41, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+pet_10/zhuazi3
+  rotate: true
+  xy: 531, 287
+  size: 68, 112
+  orig: 68, 112
+  offset: 0, 0
+  index: -1
+pet_10/zhuazi4
+  rotate: false
+  xy: 706, 311
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1

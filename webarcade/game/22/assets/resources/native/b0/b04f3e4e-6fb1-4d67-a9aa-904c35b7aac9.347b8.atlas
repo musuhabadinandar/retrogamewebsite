@@ -1,0 +1,69 @@
+
+fx_stick_skill4.png
+size: 1412,305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/01
+  rotate: true
+  xy: 355, 192
+  size: 111, 167
+  orig: 116, 174
+  offset: 3, 3
+  index: -1
+img/02
+  rotate: true
+  xy: 524, 178
+  size: 125, 156
+  orig: 131, 162
+  offset: 3, 5
+  index: -1
+img/03
+  rotate: true
+  xy: 682, 174
+  size: 129, 156
+  orig: 134, 162
+  offset: 3, 3
+  index: -1
+img/04
+  rotate: true
+  xy: 108, 206
+  size: 97, 245
+  orig: 103, 252
+  offset: 3, 3
+  index: -1
+img/05
+  rotate: true
+  xy: 840, 152
+  size: 151, 241
+  orig: 160, 252
+  offset: 5, 4
+  index: -1
+img/06
+  rotate: true
+  xy: 2, 30
+  size: 174, 208
+  orig: 179, 213
+  offset: 2, 3
+  index: -1
+img/arms
+  rotate: true
+  xy: 212, 2
+  size: 145, 1198
+  orig: 145, 1198
+  offset: 0, 0
+  index: -1
+img/attackhl
+  rotate: true
+  xy: 1083, 149
+  size: 154, 318
+  orig: 160, 321
+  offset: 3, 1
+  index: -1
+img/line
+  rotate: true
+  xy: 2, 279
+  size: 24, 104
+  orig: 28, 113
+  offset: 2, 6
+  index: -1

@@ -1,0 +1,34 @@
+
+fabao25.png
+size: 415,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb2501
+  rotate: false
+  xy: 2, 29
+  size: 150, 166
+  orig: 150, 166
+  offset: 0, 0
+  index: -1
+fb2502
+  rotate: false
+  xy: 213, 197
+  size: 200, 214
+  orig: 200, 214
+  offset: 0, 0
+  index: -1
+fb2503
+  rotate: false
+  xy: 2, 197
+  size: 209, 214
+  orig: 209, 214
+  offset: 0, 0
+  index: -1
+fb2504
+  rotate: false
+  xy: 154, 29
+  size: 150, 166
+  orig: 150, 166
+  offset: 0, 0
+  index: -1

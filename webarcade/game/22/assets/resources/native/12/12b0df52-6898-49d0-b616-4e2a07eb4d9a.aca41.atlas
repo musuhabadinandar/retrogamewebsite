@@ -1,0 +1,125 @@
+
+fx_aurora.png
+size: 1337,1097
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 1025, 547
+  size: 111, 167
+  orig: 116, 174
+  offset: 3, 3
+  index: -1
+02
+  rotate: true
+  xy: 689, 20
+  size: 125, 156
+  orig: 131, 162
+  offset: 3, 5
+  index: -1
+03
+  rotate: true
+  xy: 531, 16
+  size: 129, 156
+  orig: 134, 162
+  offset: 3, 3
+  index: -1
+04
+  rotate: false
+  xy: 926, 539
+  size: 97, 245
+  orig: 103, 252
+  offset: 3, 3
+  index: -1
+05
+  rotate: true
+  xy: 1086, 215
+  size: 151, 241
+  orig: 160, 252
+  offset: 5, 4
+  index: -1
+06
+  rotate: false
+  xy: 1086, 5
+  size: 174, 208
+  orig: 179, 213
+  offset: 2, 3
+  index: -1
+bgl
+  rotate: false
+  xy: 2, 2
+  size: 379, 1093
+  orig: 379, 1093
+  offset: 0, 0
+  index: -1
+hl
+  rotate: true
+  xy: 916, 106
+  size: 260, 168
+  orig: 268, 178
+  offset: 4, 6
+  index: -1
+l11
+  rotate: false
+  xy: 482, 66
+  size: 47, 1029
+  orig: 52, 1035
+  offset: 2, 3
+  index: -1
+l12
+  rotate: false
+  xy: 435, 54
+  size: 45, 1041
+  orig: 50, 1047
+  offset: 3, 3
+  index: -1
+l13
+  rotate: false
+  xy: 383, 40
+  size: 50, 1055
+  orig: 55, 1060
+  offset: 3, 2
+  index: -1
+l21
+  rotate: false
+  xy: 531, 623
+  size: 393, 161
+  orig: 397, 166
+  offset: 2, 3
+  index: -1
+l22
+  rotate: false
+  xy: 921, 368
+  size: 384, 169
+  orig: 388, 173
+  offset: 2, 2
+  index: -1
+l23
+  rotate: false
+  xy: 531, 475
+  size: 388, 146
+  orig: 393, 151
+  offset: 3, 2
+  index: -1
+lf1
+  rotate: true
+  xy: 531, 786
+  size: 309, 494
+  orig: 315, 505
+  offset: 3, 5
+  index: -1
+lf2
+  rotate: false
+  xy: 1027, 660
+  size: 308, 435
+  orig: 316, 449
+  offset: 4, 8
+  index: -1
+lf3
+  rotate: true
+  xy: 531, 147
+  size: 326, 383
+  orig: 334, 392
+  offset: 4, 5
+  index: -1

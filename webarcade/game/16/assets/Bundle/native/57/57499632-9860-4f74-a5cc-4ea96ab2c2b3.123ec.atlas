@@ -1,0 +1,69 @@
+
+ningchong10.png
+size: 1010,976
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lc10/lc10-faguang
+  rotate: false
+  xy: 1, 1
+  size: 528, 468
+  orig: 528, 468
+  offset: 0, 0
+  index: -1
+lc10/lc10-weiba
+  rotate: false
+  xy: 531, 430
+  size: 450, 287
+  orig: 450, 287
+  offset: 0, 0
+  index: -1
+lc10/lc10-shenti2
+  rotate: false
+  xy: 685, 719
+  size: 313, 150
+  orig: 313, 150
+  offset: 0, 0
+  index: -1
+lc10/lc10-mao
+  rotate: false
+  xy: 238, 471
+  size: 208, 274
+  orig: 208, 274
+  offset: 0, 0
+  index: -1
+lc10/lc10-shenti
+  rotate: false
+  xy: 1, 471
+  size: 235, 314
+  orig: 235, 314
+  offset: 0, 0
+  index: -1
+lc10/lc10-huxu2
+  rotate: false
+  xy: 846, 871
+  size: 83, 99
+  orig: 83, 99
+  offset: 0, 0
+  index: -1
+lc10/lc10-tou
+  rotate: false
+  xy: 448, 719
+  size: 235, 226
+  orig: 235, 226
+  offset: 0, 0
+  index: -1
+lc10/lc10-huxu
+  rotate: false
+  xy: 685, 871
+  size: 159, 103
+  orig: 159, 103
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: false
+  xy: 531, 1
+  size: 477, 427
+  orig: 477, 427
+  offset: 0, 0
+  index: -1

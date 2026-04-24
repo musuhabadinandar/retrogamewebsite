@@ -1,0 +1,55 @@
+
+renwu6.png
+size: 245,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N6-xiao/lian
+  rotate: true
+  xy: 135, 199
+  size: 67, 83
+  orig: 67, 91
+  offset: 0, 0
+  index: -1
+N6-xiao/lingzi
+  rotate: true
+  xy: 2, 2
+  size: 186, 127
+  orig: 186, 131
+  offset: 0, 0
+  index: -1
+N6-xiao/qianbai
+  rotate: true
+  xy: 2, 190
+  size: 380, 131
+  orig: 380, 373
+  offset: 0, 0
+  index: -1
+N6-xiao/toufa
+  rotate: true
+  xy: 135, 346
+  size: 88, 96
+  orig: 93, 113
+  offset: 3, 17
+  index: -1
+N6-xiao/xiuzi
+  rotate: false
+  xy: 135, 436
+  size: 108, 134
+  orig: 108, 143
+  offset: 0, 0
+  index: -1
+N6-xiao/xiuzi1
+  rotate: false
+  xy: 131, 55
+  size: 112, 133
+  orig: 112, 133
+  offset: 0, 0
+  index: -1
+N6-xiao/yaodai
+  rotate: true
+  xy: 135, 268
+  size: 76, 102
+  orig: 76, 102
+  offset: 0, 0
+  index: -1

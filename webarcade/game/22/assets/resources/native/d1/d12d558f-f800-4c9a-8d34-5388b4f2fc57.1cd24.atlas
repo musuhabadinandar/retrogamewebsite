@@ -1,0 +1,27 @@
+
+fx_compound.png
+size: 239,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_compound01
+  rotate: false
+  xy: 2, 2
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+fx_compound02
+  rotate: false
+  xy: 160, 81
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+fx_compound03
+  rotate: false
+  xy: 160, 26
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1

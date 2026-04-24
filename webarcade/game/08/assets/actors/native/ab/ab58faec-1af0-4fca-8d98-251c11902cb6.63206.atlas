@@ -1,0 +1,62 @@
+
+e6.png
+size: 649,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slm_body1
+  rotate: true
+  xy: 374, 8
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+slm_eye
+  rotate: true
+  xy: 460, 14
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+yc2_bj1
+  rotate: false
+  xy: 287, 7
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+yc2_bj2
+  rotate: false
+  xy: 193, 5
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+yc2_bj3
+  rotate: false
+  xy: 100, 2
+  size: 91, 102
+  orig: 91, 102
+  offset: 0, 0
+  index: -1
+yc2_bj4
+  rotate: false
+  xy: 1, 1
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+yc2_zd
+  rotate: false
+  xy: 582, 38
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 460, 52
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+fabao28.png
+size: 557,557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb2801
+  rotate: false
+  xy: 298, 153
+  size: 159, 117
+  orig: 159, 117
+  offset: 0, 0
+  index: -1
+fb2802
+  rotate: false
+  xy: 2, 260
+  size: 294, 295
+  orig: 294, 295
+  offset: 0, 0
+  index: -1
+fb2803
+  rotate: false
+  xy: 298, 340
+  size: 214, 215
+  orig: 214, 215
+  offset: 0, 0
+  index: -1
+fb2804
+  rotate: false
+  xy: 260, 40
+  size: 151, 111
+  orig: 151, 111
+  offset: 0, 0
+  index: -1
+fb2805
+  rotate: false
+  xy: 298, 272
+  size: 178, 66
+  orig: 178, 66
+  offset: 0, 0
+  index: -1
+fb2806
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

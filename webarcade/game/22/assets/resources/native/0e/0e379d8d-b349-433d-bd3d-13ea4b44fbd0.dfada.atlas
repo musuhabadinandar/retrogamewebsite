@@ -1,0 +1,27 @@
+
+fx_qiankuncircle.png
+size: 483,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgl
+  rotate: false
+  xy: 2, 2
+  size: 179, 174
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+hl
+  rotate: true
+  xy: 183, 28
+  size: 148, 149
+  orig: 182, 152
+  offset: 3, 0
+  index: -1
+long
+  rotate: true
+  xy: 334, 25
+  size: 151, 147
+  orig: 151, 147
+  offset: 0, 0
+  index: -1

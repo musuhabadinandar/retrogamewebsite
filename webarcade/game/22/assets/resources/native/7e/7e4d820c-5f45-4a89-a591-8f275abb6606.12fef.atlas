@@ -1,0 +1,13 @@
+
+fx_buff_ad.png
+size: 23,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_promotel2
+  rotate: false
+  xy: 2, 2
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1

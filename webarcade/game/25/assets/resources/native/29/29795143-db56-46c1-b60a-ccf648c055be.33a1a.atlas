@@ -1,0 +1,69 @@
+
+pikan_TX.png
+size: 2006,1537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DG1
+  rotate: true
+  xy: 1227, 1154
+  size: 381, 777
+  orig: 1007, 905
+  offset: 4, 59
+  index: -1
+DG2
+  rotate: false
+  xy: 2, 696
+  size: 381, 839
+  orig: 1007, 905
+  offset: 0, 0
+  index: -1
+DG3
+  rotate: true
+  xy: 1227, 594
+  size: 558, 769
+  orig: 1007, 905
+  offset: 0, 0
+  index: -1
+DG4
+  rotate: false
+  xy: 2, 11
+  size: 712, 683
+  orig: 1007, 905
+  offset: 0, 0
+  index: -1
+DG5
+  rotate: true
+  xy: 385, 709
+  size: 826, 493
+  orig: 1007, 905
+  offset: 5, 0
+  index: -1
+DG6
+  rotate: true
+  xy: 880, 713
+  size: 822, 345
+  orig: 1007, 905
+  offset: 62, 0
+  index: -1
+DG7
+  rotate: true
+  xy: 716, 2
+  size: 705, 403
+  orig: 1007, 905
+  offset: 197, 6
+  index: -1
+DG8
+  rotate: true
+  xy: 1121, 24
+  size: 568, 390
+  orig: 1007, 905
+  offset: 326, 14
+  index: -1
+DG9
+  rotate: false
+  xy: 1513, 189
+  size: 415, 403
+  orig: 1007, 905
+  offset: 481, 10
+  index: -1

@@ -1,0 +1,125 @@
+
+fx_groundmeteorite1.png
+size: 1812,993
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 2, 505
+  size: 483, 486
+  orig: 501, 504
+  offset: 9, 9
+  index: -1
+b2
+  rotate: false
+  xy: 487, 625
+  size: 361, 366
+  orig: 371, 375
+  offset: 5, 4
+  index: -1
+fx_bomb/gbl_die_baoyan_14
+  rotate: false
+  xy: 1594, 793
+  size: 197, 198
+  orig: 393, 333
+  offset: 71, 43
+  index: -1
+fx_bomb/gbl_die_baoyan_16
+  rotate: false
+  xy: 1500, 374
+  size: 257, 271
+  orig: 393, 333
+  offset: 27, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_18
+  rotate: false
+  xy: 858, 52
+  size: 348, 306
+  orig: 393, 333
+  offset: 23, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_20
+  rotate: false
+  xy: 858, 360
+  size: 357, 311
+  orig: 393, 333
+  offset: 19, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_22
+  rotate: false
+  xy: 1224, 676
+  size: 368, 315
+  orig: 393, 333
+  offset: 13, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_24
+  rotate: false
+  xy: 850, 673
+  size: 372, 318
+  orig: 393, 333
+  offset: 13, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_26
+  rotate: false
+  xy: 487, 309
+  size: 369, 314
+  orig: 393, 333
+  offset: 18, 4
+  index: -1
+fx_bomb/gbl_die_baoyan_28
+  rotate: false
+  xy: 476, 2
+  size: 294, 305
+  orig: 393, 333
+  offset: 14, 5
+  index: -1
+fx_bomb/gbl_die_baoyan_30
+  rotate: false
+  xy: 1208, 55
+  size: 293, 303
+  orig: 393, 333
+  offset: 11, 5
+  index: -1
+fx_bomb/gbl_die_baoyan_32
+  rotate: true
+  xy: 1503, 77
+  size: 295, 294
+  orig: 393, 333
+  offset: 8, 9
+  index: -1
+fx_bomb/gbl_die_baoyan_34
+  rotate: true
+  xy: 1217, 371
+  size: 300, 281
+  orig: 393, 333
+  offset: 5, 13
+  index: -1
+ground
+  rotate: false
+  xy: 2, 43
+  size: 472, 460
+  orig: 482, 471
+  offset: 5, 6
+  index: -1
+ll1
+  rotate: true
+  xy: 1503, 21
+  size: 54, 174
+  orig: 60, 179
+  offset: 3, 3
+  index: -1
+ll2
+  rotate: false
+  xy: 772, 115
+  size: 79, 192
+  orig: 84, 197
+  offset: 2, 3
+  index: -1
+ll3
+  rotate: true
+  xy: 1594, 647
+  size: 144, 216
+  orig: 151, 221
+  offset: 3, 3
+  index: -1

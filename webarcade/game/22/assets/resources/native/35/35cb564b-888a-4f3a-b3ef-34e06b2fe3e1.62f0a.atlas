@@ -1,0 +1,55 @@
+
+fx_skillball2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b01
+  rotate: true
+  xy: 2, 2
+  size: 118, 180
+  orig: 122, 186
+  offset: 2, 5
+  index: -1
+b02
+  rotate: false
+  xy: 2, 122
+  size: 125, 187
+  orig: 128, 192
+  offset: 1, 4
+  index: -1
+b03
+  rotate: true
+  xy: 241, 20
+  size: 121, 163
+  orig: 124, 168
+  offset: 1, 4
+  index: -1
+b04
+  rotate: false
+  xy: 129, 136
+  size: 110, 173
+  orig: 114, 179
+  offset: 2, 5
+  index: -1
+ball
+  rotate: false
+  xy: 241, 328
+  size: 177, 177
+  orig: 183, 183
+  offset: 3, 3
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 311
+  size: 237, 194
+  orig: 237, 194
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 241, 143
+  size: 183, 168
+  orig: 183, 168
+  offset: 0, 0
+  index: -1

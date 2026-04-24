@@ -1,0 +1,83 @@
+
+fx_tachi5_black.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 783, 267
+  size: 111, 167
+  orig: 116, 174
+  offset: 3, 3
+  index: -1
+02
+  rotate: false
+  xy: 652, 120
+  size: 125, 156
+  orig: 131, 162
+  offset: 3, 5
+  index: -1
+03
+  rotate: false
+  xy: 652, 278
+  size: 129, 156
+  orig: 134, 162
+  offset: 3, 3
+  index: -1
+04
+  rotate: true
+  xy: 609, 436
+  size: 97, 245
+  orig: 103, 252
+  offset: 3, 3
+  index: -1
+05
+  rotate: true
+  xy: 203, 46
+  size: 151, 241
+  orig: 160, 252
+  offset: 5, 4
+  index: -1
+06
+  rotate: false
+  xy: 476, 211
+  size: 174, 208
+  orig: 179, 213
+  offset: 2, 3
+  index: -1
+l1
+  rotate: true
+  xy: 2, 199
+  size: 220, 472
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 2, 2
+  size: 199, 195
+  orig: 199, 201
+  offset: 0, 5
+  index: -1
+l3
+  rotate: false
+  xy: 609, 780
+  size: 369, 239
+  orig: 369, 240
+  offset: 0, 0
+  index: -1
+l4
+  rotate: false
+  xy: 609, 535
+  size: 338, 243
+  orig: 339, 243
+  offset: 1, 0
+  index: -1
+wind
+  rotate: false
+  xy: 2, 421
+  size: 605, 598
+  orig: 605, 598
+  offset: 0, 0
+  index: -1

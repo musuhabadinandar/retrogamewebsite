@@ -1,0 +1,202 @@
+
+chaishen.png
+size: 567, 141
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bbody
+  rotate: false
+  xy: 206, 66
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+bdm
+  rotate: true
+  xy: 262, 3
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+bhead
+  rotate: false
+  xy: 2, 65
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+bj1
+  rotate: false
+  xy: 530, 14
+  size: 16, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+bj2
+  rotate: false
+  xy: 548, 30
+  size: 16, 22
+  orig: 17, 23
+  offset: 0, 1
+  index: -1
+bw
+  rotate: false
+  xy: 496, 6
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+ddddd
+  rotate: false
+  xy: 110, 4
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dy
+  rotate: false
+  xy: 110, 11
+  size: 100, 52
+  orig: 100, 52
+  offset: 0, 0
+  index: -1
+m1
+  rotate: true
+  xy: 212, 2
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 334, 29
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+m3
+  rotate: false
+  xy: 410, 33
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+mm2
+  rotate: true
+  xy: 518, 76
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+ty2
+  rotate: false
+  xy: 459, 6
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+xxa
+  rotate: false
+  xy: 545, 54
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+yfds
+  rotate: false
+  xy: 2, 3
+  size: 106, 60
+  orig: 106, 60
+  offset: 0, 0
+  index: -1
+zbody
+  rotate: false
+  xy: 308, 66
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+zbq
+  rotate: true
+  xy: 391, 37
+  size: 27, 16
+  orig: 28, 17
+  offset: 1, 0
+  index: -1
+zdm
+  rotate: true
+  xy: 308, 3
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+zhead
+  rotate: false
+  xy: 104, 65
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+zj1
+  rotate: false
+  xy: 354, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zj2
+  rotate: false
+  xy: 354, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zw
+  rotate: true
+  xy: 506, 39
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+元宝
+  rotate: false
+  xy: 459, 43
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+图层492(3)
+  rotate: false
+  xy: 262, 29
+  size: 70, 35
+  orig: 71, 36
+  offset: 1, 0
+  index: -1
+手ddd
+  rotate: false
+  xy: 372, 3
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+手fff
+  rotate: false
+  xy: 402, 3
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+手ffff
+  rotate: false
+  xy: 431, 5
+  size: 26, 26
+  orig: 30, 26
+  offset: 4, 0
+  index: -1
+衣服fff
+  rotate: false
+  xy: 410, 79
+  size: 106, 60
+  orig: 106, 60
+  offset: 0, 0
+  index: -1

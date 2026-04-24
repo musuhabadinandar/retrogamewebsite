@@ -1,0 +1,69 @@
+
+e13.png
+size: 350,60
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nj1_arm_L1
+  rotate: true
+  xy: 312, 3
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+nj1_arm_L2
+  rotate: false
+  xy: 288, 4
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+nj1_arm_R1
+  rotate: true
+  xy: 312, 32
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+nj1_arm_R2
+  rotate: true
+  xy: 268, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+nj1_body1
+  rotate: false
+  xy: 124, 6
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+nj1_head1
+  rotate: false
+  xy: 189, 8
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+nj1_head2
+  rotate: true
+  xy: 240, 4
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+nj1_wq
+  rotate: false
+  xy: 240, 24
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 6
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

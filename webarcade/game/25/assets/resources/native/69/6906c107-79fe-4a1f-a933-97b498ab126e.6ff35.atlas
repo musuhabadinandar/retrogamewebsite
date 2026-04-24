@@ -1,0 +1,27 @@
+
+TX_PiKan.png
+size: 823,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PiKan1
+  rotate: false
+  xy: 2, 2
+  size: 384, 314
+  orig: 385, 315
+  offset: 0, 1
+  index: -1
+PiKan2
+  rotate: false
+  xy: 388, 22
+  size: 216, 294
+  orig: 217, 294
+  offset: 0, 0
+  index: -1
+PiKan3
+  rotate: false
+  xy: 606, 38
+  size: 215, 278
+  orig: 216, 278
+  offset: 0, 0
+  index: -1

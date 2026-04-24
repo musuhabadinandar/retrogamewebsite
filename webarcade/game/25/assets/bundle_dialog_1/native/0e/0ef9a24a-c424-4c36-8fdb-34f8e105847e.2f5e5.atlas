@@ -1,0 +1,62 @@
+
+TX_DaDiTuFire.png
+size: 1251,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1
+  rotate: true
+  xy: 2, 2
+  size: 322, 190
+  orig: 324, 190
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: true
+  xy: 354, 5
+  size: 319, 151
+  orig: 320, 154
+  offset: 1, 2
+  index: -1
+fire3
+  rotate: true
+  xy: 194, 3
+  size: 321, 158
+  orig: 321, 161
+  offset: 0, 3
+  index: -1
+fire4
+  rotate: true
+  xy: 658, 5
+  size: 319, 148
+  orig: 320, 149
+  offset: 1, 1
+  index: -1
+fire5
+  rotate: true
+  xy: 808, 5
+  size: 319, 148
+  orig: 320, 150
+  offset: 0, 2
+  index: -1
+fire6
+  rotate: true
+  xy: 507, 5
+  size: 319, 149
+  orig: 320, 151
+  offset: 1, 2
+  index: -1
+fire7
+  rotate: true
+  xy: 958, 5
+  size: 319, 145
+  orig: 320, 147
+  offset: 0, 2
+  index: -1
+fire8
+  rotate: true
+  xy: 1105, 5
+  size: 319, 144
+  orig: 320, 145
+  offset: 1, 1
+  index: -1

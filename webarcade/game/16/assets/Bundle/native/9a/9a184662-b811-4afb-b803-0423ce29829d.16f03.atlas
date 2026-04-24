@@ -1,0 +1,27 @@
+
+start.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 671, 61
+  size: 166, 60
+  orig: 166, 60
+  offset: 0, 0
+  index: -1
+yaoban1b
+  rotate: false
+  xy: 413, 16
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+开机按钮（合并）
+  rotate: false
+  xy: 2, 2
+  size: 409, 119
+  orig: 409, 119
+  offset: 0, 0
+  index: -1

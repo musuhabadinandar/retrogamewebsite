@@ -1,0 +1,90 @@
+
+role_princess.png
+size: 331,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 213, 75
+  size: 85, 128
+  orig: 85, 128
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 213, 21
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+hand11
+  rotate: false
+  xy: 254, 32
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+hand12
+  rotate: false
+  xy: 200, 2
+  size: 22, 17
+  orig: 24, 19
+  offset: 1, 1
+  index: -1
+hand21
+  rotate: false
+  xy: 224, 5
+  size: 12, 14
+  orig: 14, 16
+  offset: 1, 1
+  index: -1
+hand22
+  rotate: false
+  xy: 300, 75
+  size: 20, 16
+  orig: 22, 18
+  offset: 1, 1
+  index: -1
+l00
+  rotate: false
+  xy: 2, 22
+  size: 209, 181
+  orig: 211, 183
+  offset: 1, 1
+  index: -1
+l1
+  rotate: false
+  xy: 300, 94
+  size: 14, 109
+  orig: 14, 109
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 316, 93
+  size: 13, 110
+  orig: 13, 110
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 2, 6
+  size: 196, 14
+  orig: 198, 16
+  offset: 1, 1
+  index: -1
+l4
+  rotate: true
+  xy: 213, 48
+  size: 11, 108
+  orig: 13, 110
+  offset: 1, 1
+  index: -1
+l5
+  rotate: true
+  xy: 213, 61
+  size: 12, 107
+  orig: 14, 109
+  offset: 1, 1
+  index: -1

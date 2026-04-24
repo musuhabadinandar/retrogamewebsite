@@ -1,0 +1,41 @@
+
+TX_qianghuajiemianKuang.png
+size: 214,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong
+  rotate: true
+  xy: 154, 123
+  size: 29, 58
+  orig: 31, 61
+  offset: 0, 1
+  index: -1
+huang
+  rotate: true
+  xy: 154, 92
+  size: 29, 58
+  orig: 31, 61
+  offset: 1, 1
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+lv
+  rotate: true
+  xy: 154, 61
+  size: 29, 58
+  orig: 31, 61
+  offset: 0, 2
+  index: -1
+zi
+  rotate: true
+  xy: 154, 30
+  size: 29, 58
+  orig: 31, 61
+  offset: 1, 1
+  index: -1

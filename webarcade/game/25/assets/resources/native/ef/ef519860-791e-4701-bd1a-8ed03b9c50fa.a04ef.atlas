@@ -1,0 +1,76 @@
+
+TX_xuanwo.png
+size: 1668,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huidaoguanqia
+  rotate: true
+  xy: 1627, 252
+  size: 146, 39
+  orig: 146, 39
+  offset: 0, 0
+  index: -1
+xuanwo1
+  rotate: true
+  xy: 2, 201
+  size: 197, 415
+  orig: 220, 456
+  offset: 11, 13
+  index: -1
+xuanwo1jin
+  rotate: true
+  xy: 2, 2
+  size: 197, 415
+  orig: 220, 456
+  offset: 11, 13
+  index: -1
+xuanwo2
+  rotate: false
+  xy: 419, 6
+  size: 203, 392
+  orig: 220, 456
+  offset: 8, 28
+  index: -1
+xuanwo2jin
+  rotate: false
+  xy: 624, 6
+  size: 203, 392
+  orig: 220, 456
+  offset: 8, 28
+  index: -1
+xuanwo3
+  rotate: false
+  xy: 829, 8
+  size: 197, 390
+  orig: 220, 456
+  offset: 8, 26
+  index: -1
+xuanwo3jin
+  rotate: false
+  xy: 1028, 8
+  size: 197, 390
+  orig: 220, 456
+  offset: 8, 26
+  index: -1
+xuanwo4
+  rotate: false
+  xy: 1227, 13
+  size: 198, 385
+  orig: 220, 456
+  offset: 11, 30
+  index: -1
+xuanwo4jin
+  rotate: false
+  xy: 1427, 13
+  size: 198, 385
+  orig: 220, 456
+  offset: 11, 30
+  index: -1
+yincangguanqia
+  rotate: true
+  xy: 1627, 104
+  size: 146, 39
+  orig: 146, 39
+  offset: 0, 0
+  index: -1

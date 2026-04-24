@@ -1,0 +1,76 @@
+
+ef12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0花朵
+  rotate: false
+  xy: 604, 705
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+1花朵
+  rotate: false
+  xy: 293, 103
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+2花朵
+  rotate: false
+  xy: 604, 493
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+3花朵
+  rotate: false
+  xy: 604, 281
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+4花朵
+  rotate: false
+  xy: 505, 69
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+all花朵
+  rotate: false
+  xy: 717, 69
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+光斑
+  rotate: false
+  xy: 816, 752
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+圈
+  rotate: false
+  xy: 2, 24
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+法阵
+  rotate: false
+  xy: 2, 315
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+蒙黑
+  rotate: false
+  xy: 2, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

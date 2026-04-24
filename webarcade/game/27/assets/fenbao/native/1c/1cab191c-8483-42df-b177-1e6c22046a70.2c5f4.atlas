@@ -1,0 +1,20 @@
+
+skill_03.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_marble
+  rotate: false
+  xy: 2, 36
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+marble
+  rotate: false
+  xy: 2, 2
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1

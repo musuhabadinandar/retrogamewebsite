@@ -1,0 +1,83 @@
+
+fabao29.png
+size: 278,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb2901
+  rotate: false
+  xy: 2, 24
+  size: 135, 88
+  orig: 135, 88
+  offset: 0, 0
+  index: -1
+fb2902
+  rotate: false
+  xy: 192, 38
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+fb2903
+  rotate: false
+  xy: 173, 137
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+fb2904
+  rotate: false
+  xy: 230, 137
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+fb2905
+  rotate: false
+  xy: 239, 224
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+fb2906
+  rotate: false
+  xy: 2, 2
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+fb2907
+  rotate: false
+  xy: 139, 42
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+fb2908
+  rotate: false
+  xy: 230, 148
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+fb2909
+  rotate: false
+  xy: 192, 72
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+fb2910
+  rotate: false
+  xy: 173, 211
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fb2911
+  rotate: false
+  xy: 2, 114
+  size: 169, 161
+  orig: 169, 161
+  offset: 0, 0
+  index: -1

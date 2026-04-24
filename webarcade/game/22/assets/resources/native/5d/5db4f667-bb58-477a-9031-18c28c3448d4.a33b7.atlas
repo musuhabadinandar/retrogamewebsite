@@ -1,0 +1,34 @@
+
+fx_groundmeteorite.png
+size: 1192,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gl
+  rotate: false
+  xy: 2, 11
+  size: 479, 482
+  orig: 489, 492
+  offset: 5, 5
+  index: -1
+ground
+  rotate: true
+  xy: 483, 21
+  size: 472, 460
+  orig: 482, 471
+  offset: 5, 6
+  index: -1
+rl1
+  rotate: true
+  xy: 945, 222
+  size: 271, 230
+  orig: 281, 244
+  offset: 4, 9
+  index: -1
+rl2
+  rotate: false
+  xy: 945, 2
+  size: 245, 218
+  orig: 251, 225
+  offset: 3, 4
+  index: -1

@@ -1,0 +1,34 @@
+
+Gate_3.png
+size: 1961,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang_jz
+  rotate: false
+  xy: 1234, 85
+  size: 576, 459
+  orig: 576, 459
+  offset: 0, 0
+  index: -1
+langan_jz
+  rotate: false
+  xy: 1812, 181
+  size: 147, 363
+  orig: 150, 366
+  offset: 1, 2
+  index: -1
+mengkuang_dyjz
+  rotate: true
+  xy: 2, 2
+  size: 542, 614
+  orig: 545, 617
+  offset: 2, 2
+  index: -1
+mengkuang_jz
+  rotate: true
+  xy: 618, 2
+  size: 542, 614
+  orig: 545, 617
+  offset: 2, 2
+  index: -1

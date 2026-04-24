@@ -1,0 +1,118 @@
+
+renwu16.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N16-xiao/houfahou
+  rotate: false
+  xy: 384, 427
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+N16-xiao/tui
+  rotate: false
+  xy: 170, 340
+  size: 202, 72
+  orig: 202, 72
+  offset: 0, 0
+  index: -1
+N16-xiao/xiabai
+  rotate: false
+  xy: 356, 221
+  size: 146, 93
+  orig: 146, 93
+  offset: 0, 0
+  index: -1
+N16-xiao/xiabai1
+  rotate: false
+  xy: 170, 414
+  size: 146, 93
+  orig: 146, 93
+  offset: 0, 0
+  index: -1
+N16-xiao/qianbai_
+  rotate: false
+  xy: 385, 1
+  size: 92, 118
+  orig: 92, 118
+  offset: 0, 0
+  index: -1
+N16-xiao/xianglian
+  rotate: false
+  xy: 1, 221
+  size: 167, 222
+  orig: 167, 222
+  offset: 0, 0
+  index: -1
+N16-xiao/yaodai
+  rotate: false
+  xy: 374, 316
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+N16-xiao/toufa_0
+  rotate: false
+  xy: 479, 1
+  size: 23, 104
+  orig: 23, 104
+  offset: 0, 0
+  index: -1
+N16-xiao/toufa1
+  rotate: false
+  xy: 479, 107
+  size: 23, 103
+  orig: 23, 103
+  offset: 0, 0
+  index: -1
+N16-xiao/shou
+  rotate: false
+  xy: 170, 221
+  size: 184, 117
+  orig: 184, 117
+  offset: 0, 0
+  index: -1
+N16-xiao/jianbang
+  rotate: false
+  xy: 1, 1
+  size: 190, 218
+  orig: 190, 218
+  offset: 0, 0
+  index: -1
+N16-xiao/jianbang1
+  rotate: false
+  xy: 193, 1
+  size: 190, 218
+  orig: 190, 218
+  offset: 0, 0
+  index: -1
+N16-xiao/lian
+  rotate: false
+  xy: 318, 427
+  size: 64, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+N16-xiao/toufa
+  rotate: false
+  xy: 385, 121
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: -1
+N16-xiao/liuhai
+  rotate: false
+  xy: 488, 316
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+N16-xiao/liuhai_
+  rotate: false
+  xy: 460, 316
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1

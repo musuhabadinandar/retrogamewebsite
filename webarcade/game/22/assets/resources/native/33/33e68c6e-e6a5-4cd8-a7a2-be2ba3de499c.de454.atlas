@@ -1,0 +1,97 @@
+
+fx_stick_skill3.png
+size: 1452,394
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arms
+  rotate: true
+  xy: 2, 308
+  size: 84, 683
+  orig: 84, 683
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 409, 101
+  size: 216, 205
+  orig: 220, 209
+  offset: 2, 2
+  index: -1
+fx_ground1
+  rotate: false
+  xy: 1187, 55
+  size: 227, 148
+  orig: 227, 151
+  offset: 0, 3
+  index: -1
+fx_ground2
+  rotate: false
+  xy: 958, 39
+  size: 227, 150
+  orig: 227, 151
+  offset: 0, 0
+  index: -1
+out_b1
+  rotate: false
+  xy: 2, 101
+  size: 405, 205
+  orig: 413, 212
+  offset: 4, 3
+  index: -1
+out_b2
+  rotate: false
+  xy: 687, 191
+  size: 399, 201
+  orig: 407, 208
+  offset: 4, 3
+  index: -1
+out_b3
+  rotate: false
+  xy: 1088, 205
+  size: 362, 187
+  orig: 370, 194
+  offset: 4, 4
+  index: -1
+out_b4
+  rotate: false
+  xy: 627, 14
+  size: 329, 175
+  orig: 338, 181
+  offset: 4, 3
+  index: -1
+out_f1
+  rotate: false
+  xy: 1187, 26
+  size: 206, 27
+  orig: 209, 29
+  offset: 1, 1
+  index: -1
+out_f2
+  rotate: false
+  xy: 958, 3
+  size: 217, 34
+  orig: 219, 36
+  offset: 1, 1
+  index: -1
+out_f3
+  rotate: false
+  xy: 265, 60
+  size: 233, 39
+  orig: 235, 41
+  offset: 1, 1
+  index: -1
+out_f4
+  rotate: false
+  xy: 2, 50
+  size: 261, 49
+  orig: 263, 51
+  offset: 1, 1
+  index: -1
+out_f5
+  rotate: false
+  xy: 2, 2
+  size: 232, 46
+  orig: 234, 48
+  offset: 1, 1
+  index: -1

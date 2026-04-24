@@ -1,0 +1,90 @@
+
+die.png
+size: 561,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gung
+  rotate: false
+  xy: 2, 2
+  size: 270, 270
+  orig: 280, 280
+  offset: 5, 5
+  index: -1
+suishi01
+  rotate: true
+  xy: 479, 91
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+suishi03
+  rotate: true
+  xy: 479, 91
+  size: 88, 70
+  orig: 88, 70
+  offset: 0, 0
+  index: -1
+suishi02
+  rotate: true
+  xy: 479, 7
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+suishi04
+  rotate: false
+  xy: 342, 162
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+suishi05
+  rotate: true
+  xy: 342, 64
+  size: 96, 53
+  orig: 97, 53
+  offset: 0, 0
+  index: -1
+suishi06
+  rotate: true
+  xy: 433, 181
+  size: 91, 46
+  orig: 91, 46
+  offset: 0, 0
+  index: -1
+suishi07
+  rotate: true
+  xy: 481, 185
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+suishi08
+  rotate: true
+  xy: 342, 8
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+suishi09
+  rotate: false
+  xy: 397, 67
+  size: 80, 93
+  orig: 80, 93
+  offset: 0, 0
+  index: -1
+suishi10
+  rotate: false
+  xy: 371, 12
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+xue
+  rotate: true
+  xy: 274, 22
+  size: 250, 66
+  orig: 250, 72
+  offset: 0, 6
+  index: -1

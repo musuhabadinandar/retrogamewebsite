@@ -1,0 +1,41 @@
+
+ef7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+013ss
+  rotate: false
+  xy: 2, 160
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+a0_01
+  rotate: false
+  xy: 356, 358
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+quxian1
+  rotate: true
+  xy: 293, 217
+  size: 232, 61
+  orig: 232, 61
+  offset: 0, 0
+  index: -1
+xianA
+  rotate: false
+  xy: 2, 2
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+气流1_a
+  rotate: false
+  xy: 2, 30
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

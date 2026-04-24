@@ -1,0 +1,48 @@
+
+fabao3.png
+size: 175,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fq_yuruyi01
+  rotate: false
+  xy: 93, 78
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+fq_yuruyi02
+  rotate: false
+  xy: 125, 23
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+fq_yuruyi03
+  rotate: false
+  xy: 2, 11
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+fq_yuruyi04
+  rotate: true
+  xy: 154, 56
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+fq_yuruyi05
+  rotate: false
+  xy: 67, 9
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+fq_yuruyi06
+  rotate: false
+  xy: 2, 67
+  size: 89, 104
+  orig: 89, 104
+  offset: 0, 0
+  index: -1

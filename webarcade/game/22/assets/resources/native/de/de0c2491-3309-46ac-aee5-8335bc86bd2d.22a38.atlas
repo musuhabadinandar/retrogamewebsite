@@ -1,0 +1,97 @@
+
+role_Archi.png
+size: 571,146
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100
+  rotate: false
+  xy: 394, 110
+  size: 51, 34
+  orig: 153, 324
+  offset: 63, 211
+  index: -1
+105
+  rotate: false
+  xy: 293, 45
+  size: 59, 27
+  orig: 153, 324
+  offset: 55, 212
+  index: -1
+140
+  rotate: false
+  xy: 302, 12
+  size: 56, 31
+  orig: 153, 324
+  offset: 59, 237
+  index: -1
+180
+  rotate: false
+  xy: 360, 3
+  size: 91, 44
+  orig: 153, 324
+  offset: 39, 206
+  index: -1
+200
+  rotate: false
+  xy: 354, 49
+  size: 51, 23
+  orig: 153, 324
+  offset: 63, 244
+  index: -1
+201
+  rotate: false
+  xy: 239, 4
+  size: 61, 36
+  orig: 153, 324
+  offset: 59, 240
+  index: -1
+arms
+  rotate: true
+  xy: 179, 74
+  size: 70, 213
+  orig: 70, 213
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 453, 19
+  size: 125, 116
+  orig: 153, 324
+  offset: 15, 104
+  index: -1
+face
+  rotate: true
+  xy: 394, 79
+  size: 29, 27
+  orig: 153, 324
+  offset: 76, 237
+  index: -1
+hand1
+  rotate: true
+  xy: 121, 6
+  size: 32, 116
+  orig: 153, 324
+  offset: 14, 71
+  index: -1
+hand2
+  rotate: true
+  xy: 2, 2
+  size: 36, 117
+  orig: 153, 324
+  offset: 108, 70
+  index: -1
+head
+  rotate: true
+  xy: 2, 40
+  size: 104, 175
+  orig: 153, 324
+  offset: 31, 146
+  index: -1
+leg1
+  rotate: true
+  xy: 179, 42
+  size: 30, 112
+  orig: 153, 324
+  offset: 49, 12
+  index: -1

@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/Loading.fire",orientation:"",jsList:[],bundleVers:{internal:"d17e2",cgs:"d809b",lizi:"37c48",resources:"f9855",textures:"dea58",main:"a9fb8"}};

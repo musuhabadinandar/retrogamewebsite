@@ -1,0 +1,132 @@
+
+jzqd.png
+size: 923, 268
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bda
+  rotate: false
+  xy: 671, 14
+  size: 164, 60
+  orig: 164, 60
+  offset: 0, 0
+  index: -1
+icon_b2
+  rotate: false
+  xy: 169, 29
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+zbody
+  rotate: false
+  xy: 502, 28
+  size: 167, 121
+  orig: 167, 121
+  offset: 0, 0
+  index: -1
+zbq
+  rotate: true
+  xy: 300, 2
+  size: 44, 27
+  orig: 46, 29
+  offset: 1, 1
+  index: -1
+zdad
+  rotate: true
+  xy: 314, 60
+  size: 49, 16
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+zdm
+  rotate: true
+  xy: 789, 109
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+zhand2
+  rotate: true
+  xy: 253, 5
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+zhead
+  rotate: false
+  xy: 334, 26
+  size: 166, 123
+  orig: 166, 123
+  offset: 0, 0
+  index: -1
+zj1
+  rotate: true
+  xy: 789, 80
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+zj2
+  rotate: true
+  xy: 789, 80
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+zw
+  rotate: false
+  xy: 253, 48
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+图层组61
+  rotate: false
+  xy: 2, 12
+  size: 165, 97
+  orig: 165, 97
+  offset: 0, 0
+  index: -1
+工具
+  rotate: true
+  xy: 169, 4
+  size: 23, 66
+  orig: 23, 67
+  offset: 0, 1
+  index: -1
+帽子
+  rotate: false
+  xy: 671, 76
+  size: 116, 73
+  orig: 116, 73
+  offset: 0, 0
+  index: -1
+手
+  rotate: false
+  xy: 865, 109
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+扳手
+  rotate: false
+  xy: 837, 45
+  size: 31, 62
+  orig: 31, 63
+  offset: 0, 1
+  index: -1
+组 142
+  rotate: false
+  xy: 2, 111
+  size: 330, 155
+  orig: 331, 155
+  offset: 0, 0
+  index: -1
+组 143
+  rotate: false
+  xy: 334, 151
+  size: 587, 115
+  orig: 587, 115
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+pet_01.png
+size: 335,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_Explosion2
+  rotate: true
+  xy: 95, 4
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 106, 56
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+Head_attack
+  rotate: true
+  xy: 2, 60
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+Head_die
+  rotate: false
+  xy: 2, 156
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+Head_eye
+  rotate: false
+  xy: 117, 156
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 195, 27
+  size: 89, 84
+  orig: 90, 84
+  offset: 1, 0
+  index: -1
+boom
+  rotate: false
+  xy: 148, 16
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+cannon
+  rotate: true
+  xy: 232, 113
+  size: 156, 101
+  orig: 181, 111
+  offset: 25, 10
+  index: -1
+ear_L
+  rotate: false
+  xy: 2, 2
+  size: 91, 56
+  orig: 91, 56
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 286, 73
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 286, 37
+  size: 34, 28
+  orig: 38, 28
+  offset: 2, 0
+  index: -1
+prearm_R
+  rotate: false
+  xy: 286, 7
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+shoulder_R
+  rotate: false
+  xy: 195, 119
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1

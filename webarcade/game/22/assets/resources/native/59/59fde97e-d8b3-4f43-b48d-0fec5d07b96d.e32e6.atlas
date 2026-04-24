@@ -1,0 +1,209 @@
+
+fx_meteorite_black.png
+size: 1803,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_ground1
+  rotate: true
+  xy: 1174, 365
+  size: 227, 148
+  orig: 227, 151
+  offset: 0, 3
+  index: -1
+hl1
+  rotate: true
+  xy: 1609, 45
+  size: 140, 123
+  orig: 156, 155
+  offset: 11, 3
+  index: -1
+hl2
+  rotate: false
+  xy: 1372, 3
+  size: 120, 145
+  orig: 156, 155
+  offset: 19, 4
+  index: -1
+hl3
+  rotate: true
+  xy: 1494, 5
+  size: 143, 113
+  orig: 156, 155
+  offset: 6, 3
+  index: -1
+l1
+  rotate: false
+  xy: 1064, 349
+  size: 108, 243
+  orig: 124, 279
+  offset: 8, 4
+  index: -1
+l2
+  rotate: false
+  xy: 978, 325
+  size: 84, 267
+  orig: 124, 279
+  offset: 24, 8
+  index: -1
+l3
+  rotate: false
+  xy: 1324, 369
+  size: 116, 223
+  orig: 124, 279
+  offset: 4, 16
+  index: -1
+lline1
+  rotate: false
+  xy: 601, 288
+  size: 88, 304
+  orig: 90, 309
+  offset: 1, 2
+  index: -1
+lline2
+  rotate: false
+  xy: 1006, 2
+  size: 110, 260
+  orig: 113, 267
+  offset: 2, 4
+  index: -1
+out_b1
+  rotate: true
+  xy: 2, 187
+  size: 405, 205
+  orig: 413, 212
+  offset: 4, 3
+  index: -1
+out_b2
+  rotate: true
+  xy: 209, 193
+  size: 399, 201
+  orig: 407, 208
+  offset: 4, 3
+  index: -1
+out_b3
+  rotate: true
+  xy: 412, 230
+  size: 362, 187
+  orig: 370, 194
+  offset: 4, 4
+  index: -1
+out_b4
+  rotate: false
+  xy: 2, 10
+  size: 329, 175
+  orig: 338, 181
+  offset: 4, 3
+  index: -1
+out_f1
+  rotate: false
+  xy: 864, 264
+  size: 206, 27
+  orig: 209, 29
+  offset: 1, 1
+  index: -1
+out_f2
+  rotate: false
+  xy: 412, 194
+  size: 217, 34
+  orig: 219, 36
+  offset: 1, 1
+  index: -1
+out_f3
+  rotate: true
+  xy: 702, 2
+  size: 233, 39
+  orig: 235, 41
+  offset: 1, 1
+  index: -1
+out_f4
+  rotate: false
+  xy: 601, 237
+  size: 261, 49
+  orig: 263, 51
+  offset: 1, 1
+  index: -1
+out_f5
+  rotate: true
+  xy: 743, 3
+  size: 232, 46
+  orig: 234, 48
+  offset: 1, 1
+  index: -1
+r3
+  rotate: false
+  xy: 1118, 2
+  size: 103, 108
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+sj/sj_00010
+  rotate: true
+  xy: 1118, 112
+  size: 235, 224
+  orig: 526, 442
+  offset: 138, 85
+  index: -1
+sj/sj_00012
+  rotate: true
+  xy: 691, 293
+  size: 299, 285
+  orig: 526, 442
+  offset: 106, 69
+  index: -1
+sj/sj_00014
+  rotate: true
+  xy: 791, 8
+  size: 227, 213
+  orig: 526, 442
+  offset: 140, 72
+  index: -1
+sj/sj_00016
+  rotate: true
+  xy: 1344, 150
+  size: 217, 185
+  orig: 526, 442
+  offset: 138, 94
+  index: -1
+sj/sj_00018
+  rotate: true
+  xy: 1609, 387
+  size: 205, 192
+  orig: 526, 442
+  offset: 135, 94
+  index: -1
+sj/sj_00020
+  rotate: true
+  xy: 1531, 187
+  size: 198, 195
+  orig: 526, 442
+  offset: 135, 97
+  index: -1
+sj/sj_00022
+  rotate: true
+  xy: 333, 3
+  size: 188, 201
+  orig: 526, 442
+  offset: 148, 100
+  index: -1
+sj/sj_00024
+  rotate: false
+  xy: 1442, 388
+  size: 162, 204
+  orig: 526, 442
+  offset: 177, 104
+  index: -1
+sj/sj_00026
+  rotate: false
+  xy: 536, 5
+  size: 164, 187
+  orig: 526, 442
+  offset: 174, 115
+  index: -1
+sj/sj_00028
+  rotate: false
+  xy: 1223, 13
+  size: 147, 97
+  orig: 526, 442
+  offset: 178, 167
+  index: -1

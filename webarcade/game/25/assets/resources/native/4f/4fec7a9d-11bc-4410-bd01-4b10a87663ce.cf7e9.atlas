@@ -1,0 +1,111 @@
+
+DX_GDJ.png
+size: 677,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hityan
+  rotate: true
+  xy: 646, 111
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 167, 20
+  size: 107, 132
+  orig: 110, 132
+  offset: 3, 0
+  index: -1
+toubu_gdj
+  rotate: false
+  xy: 2, 6
+  size: 163, 146
+  orig: 163, 161
+  offset: 0, 15
+  index: -1
+toufa
+  rotate: true
+  xy: 276, 72
+  size: 80, 236
+  orig: 82, 267
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 627, 23
+  size: 44, 58
+  orig: 46, 83
+  offset: 1, 25
+  index: -1
+youshangbi
+  rotate: false
+  xy: 522, 2
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+youwuqi
+  rotate: false
+  xy: 398, 4
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+youxiabi
+  rotate: false
+  xy: 311, 3
+  size: 42, 67
+  orig: 42, 68
+  offset: 0, 1
+  index: -1
+youxiabi_gjs
+  rotate: false
+  xy: 575, 7
+  size: 50, 70
+  orig: 50, 71
+  offset: 0, 1
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 276, 2
+  size: 33, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: false
+  xy: 561, 79
+  size: 48, 73
+  orig: 51, 75
+  offset: 1, 1
+  index: -1
+zuoshangtui
+  rotate: false
+  xy: 514, 77
+  size: 45, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+zuowuqi
+  rotate: false
+  xy: 459, 6
+  size: 61, 64
+  orig: 61, 66
+  offset: 0, 1
+  index: -1
+zuoxiabi
+  rotate: false
+  xy: 355, 3
+  size: 41, 67
+  orig: 41, 68
+  offset: 0, 1
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 611, 83
+  size: 33, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1

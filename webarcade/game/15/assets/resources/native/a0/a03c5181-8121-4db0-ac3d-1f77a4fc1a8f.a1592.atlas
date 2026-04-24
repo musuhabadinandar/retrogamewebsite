@@ -1,0 +1,167 @@
+
+hero_1_tex.png
+size: 1738,1738
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1207
+  size: 201, 529
+  orig: 201, 529
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 663, 700
+  size: 194, 515
+  orig: 194, 515
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 838, 1221
+  size: 194, 515
+  orig: 194, 515
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 800, 183
+  size: 194, 515
+  orig: 194, 515
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 859, 704
+  size: 194, 515
+  orig: 194, 515
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 603, 175
+  size: 195, 515
+  orig: 195, 515
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 153
+  size: 194, 525
+  orig: 194, 525
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 198, 153
+  size: 194, 525
+  orig: 194, 525
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 2, 680
+  size: 213, 525
+  orig: 213, 525
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 205, 1211
+  size: 213, 525
+  orig: 213, 525
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 217, 687
+  size: 235, 522
+  orig: 235, 522
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 996, 106
+  size: 206, 505
+  orig: 206, 505
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 1224, 1043
+  size: 344, 512
+  orig: 344, 512
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 1224, 1389
+  size: 347, 512
+  orig: 347, 512
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 1204, 128
+  size: 216, 495
+  orig: 216, 495
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 1204, 346
+  size: 265, 496
+  orig: 265, 496
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 630, 1217
+  size: 206, 519
+  orig: 206, 519
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1055, 822
+  size: 219, 508
+  orig: 219, 508
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1055, 613
+  size: 207, 508
+  orig: 207, 508
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 420, 1215
+  size: 208, 521
+  orig: 208, 521
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 394, 164
+  size: 207, 521
+  orig: 207, 521
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 454, 692
+  size: 207, 521
+  orig: 207, 521
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1034, 1221
+  size: 188, 515
+  orig: 188, 515
+  offset: 0, 0
+  index: -1

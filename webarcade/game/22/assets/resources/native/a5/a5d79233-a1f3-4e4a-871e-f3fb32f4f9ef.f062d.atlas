@@ -1,0 +1,153 @@
+
+fx_mine02.png
+size: 1276,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6bz0001
+  rotate: false
+  xy: 606, 125
+  size: 138, 138
+  orig: 169, 157
+  offset: 15, 11
+  index: -1
+6bz0002
+  rotate: true
+  xy: 460, 115
+  size: 148, 144
+  orig: 169, 157
+  offset: 10, 8
+  index: -1
+6bz0003
+  rotate: true
+  xy: 160, 105
+  size: 158, 151
+  orig: 169, 157
+  offset: 5, 4
+  index: -1
+6bz0004
+  rotate: true
+  xy: 2, 96
+  size: 167, 156
+  orig: 169, 157
+  offset: 0, 1
+  index: -1
+6bz0005
+  rotate: true
+  xy: 313, 111
+  size: 152, 145
+  orig: 169, 157
+  offset: 7, 6
+  index: -1
+6bz0007
+  rotate: false
+  xy: 1011, 130
+  size: 130, 133
+  orig: 169, 157
+  offset: 19, 12
+  index: -1
+6bz0009
+  rotate: false
+  xy: 746, 128
+  size: 130, 135
+  orig: 169, 157
+  offset: 20, 10
+  index: -1
+6bz0011
+  rotate: true
+  xy: 878, 129
+  size: 134, 131
+  orig: 169, 157
+  offset: 18, 13
+  index: -1
+6bz0013
+  rotate: false
+  xy: 1143, 131
+  size: 130, 132
+  orig: 169, 157
+  offset: 17, 12
+  index: -1
+6bz0015
+  rotate: true
+  xy: 759, 2
+  size: 124, 125
+  orig: 169, 157
+  offset: 22, 12
+  index: -1
+6bz0017
+  rotate: false
+  xy: 1016, 5
+  size: 127, 123
+  orig: 169, 157
+  offset: 21, 13
+  index: -1
+6bz0019
+  rotate: false
+  xy: 886, 2
+  size: 128, 125
+  orig: 169, 157
+  offset: 19, 11
+  index: -1
+6bz0021
+  rotate: false
+  xy: 1145, 14
+  size: 129, 115
+  orig: 169, 157
+  offset: 19, 21
+  index: -1
+6bz0023
+  rotate: false
+  xy: 629, 7
+  size: 128, 116
+  orig: 169, 157
+  offset: 20, 20
+  index: -1
+6bz0025
+  rotate: false
+  xy: 178, 5
+  size: 120, 98
+  orig: 169, 157
+  offset: 20, 37
+  index: -1
+6bz0027
+  rotate: false
+  xy: 543, 28
+  size: 84, 85
+  orig: 169, 157
+  offset: 40, 36
+  index: -1
+6bz0029
+  rotate: true
+  xy: 372, 20
+  size: 89, 84
+  orig: 169, 157
+  offset: 39, 36
+  index: -1
+6bz0031
+  rotate: true
+  xy: 458, 20
+  size: 89, 83
+  orig: 169, 157
+  offset: 39, 37
+  index: -1
+6bz0033
+  rotate: false
+  xy: 90, 4
+  size: 86, 90
+  orig: 169, 157
+  offset: 42, 32
+  index: -1
+6bz0035
+  rotate: false
+  xy: 2, 2
+  size: 86, 92
+  orig: 169, 157
+  offset: 42, 30
+  index: -1
+6bz0037
+  rotate: false
+  xy: 300, 10
+  size: 70, 93
+  orig: 169, 157
+  offset: 41, 30
+  index: -1

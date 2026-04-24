@@ -1,0 +1,160 @@
+
+fx_meteorite.png
+size: 1982,465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb01
+  rotate: false
+  xy: 1822, 313
+  size: 158, 150
+  orig: 369, 432
+  offset: 104, 18
+  index: -1
+bomb02
+  rotate: true
+  xy: 1598, 194
+  size: 269, 222
+  orig: 369, 432
+  offset: 51, 26
+  index: -1
+bomb03
+  rotate: false
+  xy: 325, 128
+  size: 289, 335
+  orig: 369, 432
+  offset: 30, 26
+  index: -1
+bomb04
+  rotate: false
+  xy: 2, 95
+  size: 321, 368
+  orig: 369, 432
+  offset: 11, 17
+  index: -1
+bomb05
+  rotate: true
+  xy: 990, 141
+  size: 322, 238
+  orig: 369, 432
+  offset: 21, 173
+  index: -1
+bomb06
+  rotate: true
+  xy: 616, 132
+  size: 331, 209
+  orig: 369, 432
+  offset: 17, 209
+  index: -1
+bomb07
+  rotate: true
+  xy: 827, 139
+  size: 324, 161
+  orig: 369, 432
+  offset: 15, 262
+  index: -1
+meteorite01
+  rotate: true
+  xy: 1245, 7
+  size: 150, 280
+  orig: 192, 291
+  offset: 27, 8
+  index: -1
+meteorite02
+  rotate: true
+  xy: 1527, 16
+  size: 175, 268
+  orig: 192, 291
+  offset: 7, 8
+  index: -1
+meteorite03
+  rotate: false
+  xy: 1432, 193
+  size: 164, 270
+  orig: 192, 291
+  offset: 19, 8
+  index: -1
+meteorite04
+  rotate: false
+  xy: 1822, 58
+  size: 148, 253
+  orig: 192, 291
+  offset: 28, 8
+  index: -1
+rock01
+  rotate: false
+  xy: 198, 57
+  size: 114, 36
+  orig: 180, 209
+  offset: 34, 32
+  index: -1
+rock02
+  rotate: true
+  xy: 443, 4
+  size: 122, 108
+  orig: 180, 209
+  offset: 33, 16
+  index: -1
+rock03
+  rotate: false
+  xy: 553, 11
+  size: 142, 115
+  orig: 180, 209
+  offset: 20, 38
+  index: -1
+rock04
+  rotate: true
+  xy: 325, 2
+  size: 124, 116
+  orig: 180, 209
+  offset: 29, 54
+  index: -1
+rock05
+  rotate: true
+  xy: 198, 31
+  size: 24, 124
+  orig: 180, 209
+  offset: 32, 61
+  index: -1
+rock06
+  rotate: false
+  xy: 198, 5
+  size: 19, 24
+  orig: 180, 209
+  offset: 29, 74
+  index: -1
+smoke01
+  rotate: false
+  xy: 2, 2
+  size: 194, 91
+  orig: 310, 135
+  offset: 53, 17
+  index: -1
+smoke02
+  rotate: false
+  xy: 980, 31
+  size: 263, 106
+  orig: 310, 135
+  offset: 24, 4
+  index: -1
+smoke03
+  rotate: false
+  xy: 697, 20
+  size: 281, 110
+  orig: 310, 135
+  offset: 13, 2
+  index: -1
+smoke04
+  rotate: true
+  xy: 1326, 166
+  size: 297, 104
+  orig: 310, 135
+  offset: 1, 15
+  index: -1
+smoke05
+  rotate: true
+  xy: 1230, 159
+  size: 304, 94
+  orig: 310, 135
+  offset: 3, 29
+  index: -1

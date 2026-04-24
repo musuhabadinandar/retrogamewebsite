@@ -1,0 +1,104 @@
+
+jianhun_bdz_tx1_golden.png
+size: 1694,1694
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/badaoshu_00000a
+  rotate: false
+  xy: 848, 2
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00001a
+  rotate: false
+  xy: 2, 1271
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00002a
+  rotate: false
+  xy: 2, 848
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00003a
+  rotate: false
+  xy: 425, 1271
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00004a
+  rotate: false
+  xy: 2, 425
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00005a
+  rotate: false
+  xy: 425, 848
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00006a
+  rotate: false
+  xy: 848, 1271
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00007a
+  rotate: false
+  xy: 2, 2
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00008a
+  rotate: false
+  xy: 425, 425
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00009a
+  rotate: false
+  xy: 848, 848
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00010a
+  rotate: false
+  xy: 1271, 1271
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00011a
+  rotate: false
+  xy: 425, 2
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00012a
+  rotate: false
+  xy: 848, 425
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1
+FX/badaoshu_00013a
+  rotate: false
+  xy: 1271, 848
+  size: 421, 421
+  orig: 421, 421
+  offset: 0, 0
+  index: -1

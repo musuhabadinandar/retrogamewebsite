@@ -1,0 +1,76 @@
+
+Xielong_TX002.png
+size: 799,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TY-suolian_50
+  rotate: false
+  xy: 2, 458
+  size: 592, 46
+  orig: 592, 46
+  offset: 0, 0
+  index: -1
+TY-suolian_tou_50
+  rotate: true
+  xy: 734, 161
+  size: 141, 63
+  orig: 141, 65
+  offset: 0, 1
+  index: -1
+baozha_tx1_10001
+  rotate: false
+  xy: 2, 316
+  size: 300, 140
+  orig: 300, 140
+  offset: 0, 0
+  index: -1
+baozha_tx1_10002
+  rotate: true
+  xy: 2, 14
+  size: 300, 140
+  orig: 300, 140
+  offset: 0, 0
+  index: -1
+baozha_tx1_10003
+  rotate: true
+  xy: 144, 14
+  size: 300, 140
+  orig: 300, 140
+  offset: 0, 0
+  index: -1
+baozha_tx1_10004
+  rotate: true
+  xy: 450, 156
+  size: 300, 140
+  orig: 300, 140
+  offset: 0, 0
+  index: -1
+baozha_tx1_10005
+  rotate: true
+  xy: 592, 2
+  size: 300, 140
+  orig: 300, 140
+  offset: 0, 0
+  index: -1
+baozha_tx1_10007
+  rotate: false
+  xy: 286, 14
+  size: 300, 140
+  orig: 300, 140
+  offset: 0, 0
+  index: -1
+yanshi_50
+  rotate: true
+  xy: 304, 179
+  size: 277, 144
+  orig: 277, 144
+  offset: 0, 0
+  index: -1
+zhaohuanzhen_tx
+  rotate: false
+  xy: 596, 304
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

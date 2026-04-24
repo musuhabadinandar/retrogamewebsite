@@ -1,0 +1,202 @@
+
+boss04_zhizhuwang.png
+size: 1118,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 758, 262
+  size: 139, 98
+  orig: 139, 98
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 386, 55
+  size: 169, 187
+  orig: 172, 187
+  offset: 3, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 202, 43
+  size: 196, 182
+  orig: 196, 182
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 961, 206
+  size: 146, 56
+  orig: 146, 56
+  offset: 0, 0
+  index: -1
+youhou1
+  rotate: false
+  xy: 1029, 39
+  size: 71, 110
+  orig: 71, 110
+  offset: 0, 0
+  index: -1
+youhou2
+  rotate: false
+  xy: 974, 380
+  size: 52, 28
+  orig: 53, 29
+  offset: 1, 0
+  index: -1
+youqian1
+  rotate: true
+  xy: 904, 364
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+youqian2
+  rotate: false
+  xy: 1028, 382
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+youqian3
+  rotate: true
+  xy: 202, 7
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+youzhong1
+  rotate: true
+  xy: 427, 2
+  size: 51, 142
+  orig: 51, 142
+  offset: 0, 0
+  index: -1
+youzhong2
+  rotate: false
+  xy: 1029, 3
+  size: 33, 34
+  orig: 39, 34
+  offset: 6, 0
+  index: -1
+zhizg1
+  rotate: true
+  xy: 1022, 436
+  size: 91, 94
+  orig: 91, 107
+  offset: 0, 0
+  index: -1
+zhizg2
+  rotate: true
+  xy: 899, 264
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+zhizg3
+  rotate: true
+  xy: 842, 19
+  size: 121, 107
+  orig: 121, 107
+  offset: 0, 0
+  index: -1
+zhizg4
+  rotate: false
+  xy: 904, 410
+  size: 116, 117
+  orig: 116, 117
+  offset: 0, 0
+  index: -1
+zhizg5
+  rotate: false
+  xy: 842, 142
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 951, 20
+  size: 120, 76
+  orig: 121, 76
+  offset: 0, 0
+  index: -1
+zuohou1
+  rotate: false
+  xy: 1000, 277
+  size: 64, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+zuoqian1
+  rotate: true
+  xy: 362, 7
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+zuoqian2
+  rotate: false
+  xy: 1068, 169
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+zuoqian3
+  rotate: true
+  xy: 288, 8
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+zuozhong1
+  rotate: true
+  xy: 961, 151
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+zzguang1
+  rotate: false
+  xy: 758, 362
+  size: 144, 165
+  orig: 144, 165
+  offset: 0, 0
+  index: -1
+zzguang2
+  rotate: false
+  xy: 2, 13
+  size: 198, 226
+  orig: 198, 226
+  offset: 0, 0
+  index: -1
+zzguang3
+  rotate: true
+  xy: 571, 4
+  size: 245, 269
+  orig: 245, 269
+  offset: 0, 0
+  index: -1
+zzguang4
+  rotate: false
+  xy: 509, 251
+  size: 247, 276
+  orig: 247, 276
+  offset: 0, 0
+  index: -1
+zzguang5
+  rotate: false
+  xy: 2, 241
+  size: 253, 286
+  orig: 253, 286
+  offset: 0, 0
+  index: -1
+zzguang6
+  rotate: false
+  xy: 257, 244
+  size: 250, 283
+  orig: 250, 283
+  offset: 0, 0
+  index: -1

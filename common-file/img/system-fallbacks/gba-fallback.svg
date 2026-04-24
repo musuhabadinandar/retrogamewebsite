@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">GBA Fallback Cover</title>
+  <desc id="desc">Fallback artwork for Game Boy Advance games.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#042f2e"/>
+      <stop offset="52%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#134e4a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="32" fill="url(#bg)"/>
+  <circle cx="520" cy="84" r="78" fill="#2dd4bf" opacity="0.12"/>
+  <circle cx="128" cy="290" r="90" fill="#22d3ee" opacity="0.08"/>
+  <rect x="36" y="36" width="568" height="288" rx="26" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <rect x="64" y="214" width="230" height="54" rx="27" fill="#0f172a" opacity="0.58"/>
+  <text x="64" y="88" fill="#99f6e4" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">HANDHELD POWER</text>
+  <text x="64" y="144" fill="#ffffff" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="900">GBA</text>
+  <text x="64" y="184" fill="#5eead4" font-size="22" font-family="Segoe UI, Arial, sans-serif">Portable hero cover fallback</text>
+  <text x="92" y="248" fill="#f8fafc" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="800">Game Boy Advance</text>
+  <text x="64" y="304" fill="#99f6e4" font-size="18" font-family="Segoe UI, Arial, sans-serif">Nandar World Build</text>
+</svg>

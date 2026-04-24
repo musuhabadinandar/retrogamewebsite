@@ -1,0 +1,125 @@
+
+bgef.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yu01
+  rotate: false
+  xy: 2, 2
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+火焰A_01
+  rotate: false
+  xy: 2, 171
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_02
+  rotate: false
+  xy: 2, 105
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_03
+  rotate: false
+  xy: 132, 171
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_04
+  rotate: false
+  xy: 2, 39
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_05
+  rotate: false
+  xy: 132, 105
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_06
+  rotate: false
+  xy: 262, 171
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_07
+  rotate: false
+  xy: 132, 39
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_08
+  rotate: false
+  xy: 262, 105
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_09
+  rotate: false
+  xy: 392, 171
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_10
+  rotate: false
+  xy: 262, 39
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_11
+  rotate: false
+  xy: 392, 105
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_12
+  rotate: false
+  xy: 522, 171
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_13
+  rotate: false
+  xy: 392, 39
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_14
+  rotate: false
+  xy: 522, 105
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_15
+  rotate: false
+  xy: 652, 171
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+火焰A_16
+  rotate: false
+  xy: 522, 39
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1

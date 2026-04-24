@@ -1,0 +1,41 @@
+
+hc.png
+size: 401,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G0
+  rotate: false
+  xy: 109, 2
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+dianB
+  rotate: false
+  xy: 261, 27
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huan03
+  rotate: false
+  xy: 289, 211
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+xxb
+  rotate: false
+  xy: 109, 157
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+yaoban5b
+  rotate: true
+  xy: 2, 64
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1

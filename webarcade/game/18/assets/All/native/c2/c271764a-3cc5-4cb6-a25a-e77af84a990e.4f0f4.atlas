@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 638,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianta4_0
+  rotate: false
+  xy: 2, 4
+  size: 137, 342
+  orig: 195, 397
+  offset: 37, 24
+  index: -1
+dianta4_1
+  rotate: false
+  xy: 141, 6
+  size: 132, 340
+  orig: 195, 397
+  offset: 50, 25
+  index: -1
+dianta4_2
+  rotate: false
+  xy: 398, 10
+  size: 122, 336
+  orig: 195, 397
+  offset: 34, 27
+  index: -1
+dianta4_3
+  rotate: false
+  xy: 522, 2
+  size: 114, 344
+  orig: 195, 397
+  offset: 33, 24
+  index: -1
+dianta4_4
+  rotate: false
+  xy: 275, 8
+  size: 121, 338
+  orig: 195, 397
+  offset: 26, 26
+  index: -1

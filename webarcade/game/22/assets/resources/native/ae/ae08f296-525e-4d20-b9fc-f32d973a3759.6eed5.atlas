@@ -1,0 +1,104 @@
+
+fx_knife.png
+size: 1849,698
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/1_00020
+  rotate: true
+  xy: 1702, 148
+  size: 202, 97
+  orig: 670, 344
+  offset: 31, 101
+  index: -1
+fx/1_00023
+  rotate: true
+  xy: 332, 234
+  size: 462, 213
+  orig: 670, 344
+  offset: 33, 7
+  index: -1
+fx/1_00026
+  rotate: true
+  xy: 1354, 328
+  size: 368, 191
+  orig: 670, 344
+  offset: 31, 68
+  index: -1
+fx/1_00029
+  rotate: true
+  xy: 1140, 294
+  size: 402, 212
+  orig: 670, 344
+  offset: 35, 50
+  index: -1
+fx/1_00032
+  rotate: false
+  xy: 475, 19
+  size: 403, 213
+  orig: 670, 344
+  offset: 61, 55
+  index: -1
+fx/1_00035
+  rotate: false
+  xy: 74, 5
+  size: 399, 225
+  orig: 670, 344
+  offset: 96, 46
+  index: -1
+fx/1_00038
+  rotate: true
+  xy: 846, 269
+  size: 427, 292
+  orig: 670, 344
+  offset: 103, 8
+  index: -1
+fx/1_00041
+  rotate: true
+  xy: 547, 242
+  size: 454, 297
+  orig: 670, 344
+  offset: 96, 7
+  index: -1
+fx/1_00044
+  rotate: true
+  xy: 74, 232
+  size: 464, 256
+  orig: 670, 344
+  offset: 103, 50
+  index: -1
+fx/1_00047
+  rotate: false
+  xy: 880, 15
+  size: 358, 252
+  orig: 670, 344
+  offset: 217, 60
+  index: -1
+fx/1_00050
+  rotate: false
+  xy: 1346, 52
+  size: 354, 240
+  orig: 670, 344
+  offset: 225, 67
+  index: -1
+fx/1_00053
+  rotate: true
+  xy: 1547, 352
+  size: 344, 300
+  orig: 670, 344
+  offset: 234, 10
+  index: -1
+fx/1_00056
+  rotate: false
+  xy: 1240, 2
+  size: 104, 290
+  orig: 670, 344
+  offset: 478, 7
+  index: -1
+knife01
+  rotate: false
+  xy: 2, 8
+  size: 70, 688
+  orig: 70, 688
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+bossguanghuan.png
+size: 567,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1gh
+  rotate: true
+  xy: 288, 3
+  size: 279, 277
+  orig: 279, 279
+  offset: 0, 1
+  index: -1
+hg1
+  rotate: false
+  xy: 2, 2
+  size: 284, 280
+  orig: 288, 285
+  offset: 2, 2
+  index: -1

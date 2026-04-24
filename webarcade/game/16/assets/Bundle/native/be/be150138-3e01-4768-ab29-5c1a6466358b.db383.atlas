@@ -1,0 +1,90 @@
+
+ningchong8.png
+size: 461,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lc08/weiba3
+  rotate: false
+  xy: 365, 334
+  size: 50, 151
+  orig: 50, 151
+  offset: 0, 0
+  index: -1
+lc08/weiba2
+  rotate: false
+  xy: 123, 334
+  size: 78, 122
+  orig: 78, 122
+  offset: 0, 0
+  index: -1
+lc08/weiba1
+  rotate: false
+  xy: 203, 425
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+lc08/jiao1
+  rotate: false
+  xy: 417, 1
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+lc08/chibang1
+  rotate: false
+  xy: 305, 334
+  size: 58, 142
+  orig: 58, 142
+  offset: 0, 0
+  index: -1
+lc08/shenti
+  rotate: false
+  xy: 203, 334
+  size: 100, 89
+  orig: 100, 89
+  offset: 0, 0
+  index: -1
+lc08/jiao2
+  rotate: false
+  xy: 123, 458
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+lc08/tou
+  rotate: false
+  xy: 166, 458
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+lc08/chibang2
+  rotate: false
+  xy: 1, 334
+  size: 120, 160
+  orig: 120, 160
+  offset: 0, 0
+  index: -1
+lc08/meimao2
+  rotate: false
+  xy: 166, 489
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+lc08/meimao1
+  rotate: false
+  xy: 283, 425
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+lc08
+  rotate: false
+  xy: 1, 1
+  size: 203, 331
+  orig: 235, 394
+  offset: 16, 31
+  index: -1

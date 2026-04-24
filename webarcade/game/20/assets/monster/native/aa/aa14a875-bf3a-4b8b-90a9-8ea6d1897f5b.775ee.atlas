@@ -1,0 +1,97 @@
+
+monster_5.png
+size: 179,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+my5_pf
+  rotate: true
+  xy: 91, 25
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+my5_st
+  rotate: false
+  xy: 141, 35
+  size: 9, 41
+  orig: 9, 41
+  offset: 0, 0
+  index: -1
+my5_tou
+  rotate: false
+  xy: 2, 21
+  size: 87, 55
+  orig: 87, 55
+  offset: 0, 0
+  index: -1
+my5_xing
+  rotate: false
+  xy: 163, 59
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+my5_ys1
+  rotate: false
+  xy: 152, 37
+  size: 25, 6
+  orig: 25, 6
+  offset: 0, 0
+  index: -1
+my5_ys2
+  rotate: true
+  xy: 163, 45
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+my5_yt1
+  rotate: false
+  xy: 133, 5
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+my5_yt2
+  rotate: true
+  xy: 74, 4
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+my5_zs1
+  rotate: false
+  xy: 157, 3
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+my5_zs2
+  rotate: false
+  xy: 141, 25
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+my5_zt1
+  rotate: false
+  xy: 109, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+my5_zt2
+  rotate: false
+  xy: 152, 45
+  size: 9, 31
+  orig: 9, 31
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 4
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1

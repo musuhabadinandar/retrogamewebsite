@@ -1,0 +1,132 @@
+
+EMoPaoXiao.png
+size: 587,1045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 287, 77
+  orig: 287, 77
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 218
+  size: 287, 178
+  orig: 287, 178
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 81
+  size: 287, 135
+  orig: 287, 135
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 291, 4
+  size: 287, 44
+  orig: 287, 44
+  offset: 0, 0
+  index: -1
+5_1
+  rotate: true
+  xy: 529, 526
+  size: 108, 44
+  orig: 108, 44
+  offset: 0, 0
+  index: -1
+5_2
+  rotate: true
+  xy: 529, 423
+  size: 101, 44
+  orig: 101, 44
+  offset: 0, 0
+  index: -1
+5_3
+  rotate: true
+  xy: 529, 636
+  size: 118, 44
+  orig: 287, 45
+  offset: 71, 0
+  index: -1
+6
+  rotate: true
+  xy: 483, 459
+  size: 287, 44
+  orig: 287, 44
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 515, 756
+  size: 287, 44
+  orig: 287, 44
+  offset: 0, 0
+  index: -1
+EMoPaoXiao
+  rotate: false
+  xy: 291, 50
+  size: 288, 44
+  orig: 288, 44
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: true
+  xy: 2, 721
+  size: 322, 190
+  orig: 324, 190
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 162, 568
+  size: 319, 151
+  orig: 320, 154
+  offset: 1, 2
+  index: -1
+fire3
+  rotate: true
+  xy: 2, 398
+  size: 321, 158
+  orig: 321, 161
+  offset: 0, 3
+  index: -1
+fire4
+  rotate: true
+  xy: 291, 96
+  size: 319, 148
+  orig: 320, 149
+  offset: 1, 1
+  index: -1
+fire5
+  rotate: false
+  xy: 194, 895
+  size: 319, 148
+  orig: 320, 150
+  offset: 0, 2
+  index: -1
+fire6
+  rotate: false
+  xy: 162, 417
+  size: 319, 149
+  orig: 320, 151
+  offset: 1, 2
+  index: -1
+fire7
+  rotate: false
+  xy: 194, 748
+  size: 319, 145
+  orig: 320, 147
+  offset: 0, 2
+  index: -1
+fire8
+  rotate: true
+  xy: 441, 96
+  size: 319, 144
+  orig: 320, 145
+  offset: 1, 1
+  index: -1

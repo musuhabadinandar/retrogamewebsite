@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FC Emulator</title>
+  <link rel="icon" href="docs/favicon.ico" sizes="16x16 32x32 48x48 64x64" type="image/vnd.microsoft.icon">
+  <style>
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      background: #000;
+      color: #fff;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+    }
+
+    #game {
+      width: 100%;
+      height: 100%;
+    }
+
+    #message {
+      min-height: 100%;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      box-sizing: border-box;
+      text-align: center;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div id="game"></div>
+  <div id="message">Loading game...</div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+
+    function decodeLegacyFile(value) {
+      if (!value) {
+        return "";
+      }
+
+      try {
+        const binary = atob(value.replace(/ /g, "+"));
+        const bytes = Uint8Array.from(binary, (char) => char.charCodeAt(0));
+        return new TextDecoder("utf-8").decode(bytes);
+      } catch (error) {
+        return "";
+      }
+    }
+
+    function encodePath(path) {
+      return path
+        .replace(/\\/g, "/")
+        .split("/")
+        .filter(Boolean)
+        .map((part) => encodeURIComponent(part))
+        .join("/");
+    }
+
+    const file = params.get("file") || decodeLegacyFile(params.get("f"));
+    const message = document.getElementById("message");
+
+    if (!file || file.includes("..") || file.startsWith("/") || file.startsWith("\\")) {
+      message.textContent = "Game file is missing or invalid.";
+    } else {
+      const normalizedFile = file.replace(/\\/g, "/");
+      const encodedFile = encodePath(normalizedFile);
+      const fileName = normalizedFile.split("/").pop() || "FC Game";
+
+      window.EJS_player = "#game";
+      window.EJS_gameName = fileName.replace(/\.[^.]+$/, "");
+      window.EJS_biosUrl = "";
+      window.EJS_gameUrl = "games/" + encodedFile;
+      window.EJS_core = "nes";
+      window.EJS_pathtodata = "data/";
+      window.EJS_startOnLoaded = true;
+      window.EJS_disableDatabases = true;
+      window.EJS_forceLegacyCores = true;
+      window.EJS_threads = false;
+
+      message.remove();
+
+      const script = document.createElement("script");
+      script.src = "data/loader.js";
+      document.body.appendChild(script);
+    }
+  </script>
+</body>
+</html>

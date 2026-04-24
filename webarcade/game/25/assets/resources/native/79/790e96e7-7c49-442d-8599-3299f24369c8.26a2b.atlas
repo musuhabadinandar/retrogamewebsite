@@ -1,0 +1,27 @@
+
+zhenbo_TX.png
+size: 245,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhenbo_1
+  rotate: false
+  xy: 186, 42
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+zhenbo_2
+  rotate: false
+  xy: 101, 16
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+zhenbo_3
+  rotate: false
+  xy: 2, 2
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1

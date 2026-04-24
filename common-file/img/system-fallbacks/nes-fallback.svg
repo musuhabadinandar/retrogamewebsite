@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">NES FC Fallback Cover</title>
+  <desc id="desc">Fallback artwork for NES and Famicom games.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="52%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#7c2d12"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="32" fill="url(#bg)"/>
+  <rect x="40" y="40" width="560" height="280" rx="24" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <rect x="64" y="200" width="190" height="72" rx="18" fill="#0b1220" opacity="0.55"/>
+  <rect x="80" y="216" width="70" height="40" rx="8" fill="#f97316" opacity="0.35"/>
+  <circle cx="486" cy="110" r="64" fill="#fb923c" opacity="0.12"/>
+  <text x="64" y="92" fill="#fed7aa" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">8-BIT CLASSICS</text>
+  <text x="64" y="142" fill="#ffffff" font-size="54" font-family="Segoe UI, Arial, sans-serif" font-weight="900">NES / FC</text>
+  <text x="64" y="178" fill="#fdba74" font-size="20" font-family="Segoe UI, Arial, sans-serif">Retro cartridge cover fallback</text>
+  <text x="64" y="246" fill="#ffffff" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="800">Ready to Play</text>
+  <text x="64" y="300" fill="#fed7aa" font-size="18" font-family="Segoe UI, Arial, sans-serif">NandarGames Collection</text>
+</svg>

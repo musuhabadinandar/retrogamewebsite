@@ -1,0 +1,27 @@
+
+effect32_yvjing.png
+size: 240,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+落石/yujing1
+  rotate: true
+  xy: 2, 5
+  size: 60, 204
+  orig: 60, 208
+  offset: 0, 0
+  index: -1
+落石/yujing2
+  rotate: false
+  xy: 208, 2
+  size: 14, 63
+  orig: 16, 65
+  offset: 2, 0
+  index: -1
+落石/yujing3
+  rotate: false
+  xy: 224, 2
+  size: 14, 63
+  orig: 16, 65
+  offset: 0, 2
+  index: -1

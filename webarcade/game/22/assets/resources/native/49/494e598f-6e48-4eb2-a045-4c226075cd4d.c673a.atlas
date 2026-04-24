@@ -1,0 +1,27 @@
+
+fx_levelup.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/ligth
+  rotate: true
+  xy: 229, 65
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+img/star
+  rotate: false
+  xy: 229, 76
+  size: 27, 27
+  orig: 31, 30
+  offset: 2, 2
+  index: -1
+img/up
+  rotate: false
+  xy: 0, 0
+  size: 227, 103
+  orig: 227, 103
+  offset: 0, 0
+  index: -1

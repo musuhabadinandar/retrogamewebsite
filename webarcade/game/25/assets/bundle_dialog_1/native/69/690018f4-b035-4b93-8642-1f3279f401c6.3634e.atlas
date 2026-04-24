@@ -1,0 +1,83 @@
+
+kaichangdonghua.png
+size: 1717,753
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 674, 376
+  size: 812, 375
+  orig: 812, 375
+  offset: 0, 0
+  index: -1
+donghuaa
+  rotate: false
+  xy: 1016, 6
+  size: 289, 368
+  orig: 289, 368
+  offset: 0, 0
+  index: -1
+donghuab
+  rotate: true
+  xy: 246, 8
+  size: 248, 210
+  orig: 248, 210
+  offset: 0, 0
+  index: -1
+donghuac
+  rotate: true
+  xy: 1488, 449
+  size: 302, 227
+  orig: 302, 227
+  offset: 0, 0
+  index: -1
+donghuad
+  rotate: false
+  xy: 679, 6
+  size: 335, 368
+  orig: 335, 368
+  offset: 0, 0
+  index: -1
+donghuae
+  rotate: false
+  xy: 1307, 6
+  size: 194, 368
+  orig: 194, 368
+  offset: 0, 0
+  index: -1
+donghuaf
+  rotate: true
+  xy: 304, 259
+  size: 492, 368
+  orig: 492, 368
+  offset: 0, 0
+  index: -1
+zid
+  rotate: true
+  xy: 1503, 168
+  size: 279, 179
+  orig: 279, 179
+  offset: 0, 0
+  index: -1
+zif
+  rotate: true
+  xy: 2, 258
+  size: 493, 300
+  orig: 493, 300
+  offset: 0, 0
+  index: -1
+zuaa
+  rotate: false
+  xy: 2, 2
+  size: 242, 254
+  orig: 242, 254
+  offset: 0, 0
+  index: -1
+zuc
+  rotate: true
+  xy: 458, 14
+  size: 243, 219
+  orig: 243, 219
+  offset: 0, 0
+  index: -1

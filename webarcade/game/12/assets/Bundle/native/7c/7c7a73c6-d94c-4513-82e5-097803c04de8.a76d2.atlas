@@ -1,0 +1,27 @@
+
+p6.png
+size: 706,706
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 2
+  size: 265, 386
+  orig: 265, 386
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 2, 269
+  size: 448, 435
+  orig: 448, 435
+  offset: 0, 0
+  index: -1
+元婴
+  rotate: false
+  xy: 452, 473
+  size: 185, 231
+  orig: 185, 231
+  offset: 0, 0
+  index: -1

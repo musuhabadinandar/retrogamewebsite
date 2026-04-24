@@ -1,0 +1,34 @@
+
+fabao14.png
+size: 462,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb1401
+  rotate: false
+  xy: 2, 24
+  size: 136, 196
+  orig: 136, 196
+  offset: 0, 0
+  index: -1
+fb1402
+  rotate: false
+  xy: 2, 222
+  size: 214, 238
+  orig: 214, 238
+  offset: 0, 0
+  index: -1
+fb1403
+  rotate: false
+  xy: 218, 232
+  size: 172, 228
+  orig: 172, 228
+  offset: 0, 0
+  index: -1
+fb1404
+  rotate: false
+  xy: 218, 2
+  size: 172, 228
+  orig: 172, 228
+  offset: 0, 0
+  index: -1

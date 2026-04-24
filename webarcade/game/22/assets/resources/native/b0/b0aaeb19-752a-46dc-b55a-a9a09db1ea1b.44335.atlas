@@ -1,0 +1,48 @@
+
+fx_burn_black.png
+size: 159,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f001
+  rotate: false
+  xy: 2, 4
+  size: 67, 67
+  orig: 75, 75
+  offset: 4, 4
+  index: -1
+f002
+  rotate: true
+  xy: 71, 7
+  size: 28, 37
+  orig: 29, 39
+  offset: 0, 1
+  index: -1
+f003
+  rotate: true
+  xy: 71, 37
+  size: 34, 43
+  orig: 35, 45
+  offset: 1, 1
+  index: -1
+f004
+  rotate: false
+  xy: 116, 31
+  size: 33, 40
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+f005
+  rotate: false
+  xy: 110, 4
+  size: 27, 25
+  orig: 28, 27
+  offset: 0, 1
+  index: -1
+f006
+  rotate: true
+  xy: 139, 2
+  size: 27, 18
+  orig: 29, 21
+  offset: 1, 2
+  index: -1

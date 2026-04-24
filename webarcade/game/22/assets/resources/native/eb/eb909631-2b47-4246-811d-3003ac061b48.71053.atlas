@@ -1,0 +1,41 @@
+
+cloud.png
+size: 1945,1546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: true
+  xy: 1184, 418
+  size: 1126, 721
+  orig: 1126, 721
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 2, 481
+  size: 1071, 388
+  orig: 1071, 388
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 2, 15
+  size: 1042, 464
+  orig: 1042, 464
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 2, 871
+  size: 1180, 673
+  orig: 1180, 673
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 1046, 2
+  size: 897, 414
+  orig: 897, 414
+  offset: 0, 0
+  index: -1

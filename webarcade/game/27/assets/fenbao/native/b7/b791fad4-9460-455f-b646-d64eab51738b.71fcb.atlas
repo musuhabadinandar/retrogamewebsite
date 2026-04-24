@@ -1,0 +1,13 @@
+
+callSkill.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bookIcon
+  rotate: false
+  xy: 2, 2
+  size: 70, 82
+  orig: 100, 100
+  offset: 15, 9
+  index: -1

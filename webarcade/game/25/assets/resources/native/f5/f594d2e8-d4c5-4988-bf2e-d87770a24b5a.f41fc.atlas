@@ -1,0 +1,104 @@
+
+TX_ChongFeng.png
+size: 2029,1583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChongFeng01
+  rotate: true
+  xy: 2, 969
+  size: 612, 352
+  orig: 631, 396
+  offset: 10, 11
+  index: -1
+ChongFeng02
+  rotate: true
+  xy: 2, 355
+  size: 612, 351
+  orig: 631, 396
+  offset: 10, 11
+  index: -1
+ChongFeng03
+  rotate: false
+  xy: 2, 2
+  size: 612, 351
+  orig: 630, 393
+  offset: 9, 11
+  index: -1
+ChongFeng04
+  rotate: true
+  xy: 355, 355
+  size: 612, 351
+  orig: 631, 398
+  offset: 10, 12
+  index: -1
+ChongFeng05
+  rotate: true
+  xy: 356, 969
+  size: 612, 351
+  orig: 631, 394
+  offset: 10, 11
+  index: -1
+ChongFeng06
+  rotate: false
+  xy: 616, 2
+  size: 612, 351
+  orig: 631, 393
+  offset: 10, 11
+  index: -1
+ChongFeng07
+  rotate: true
+  xy: 708, 355
+  size: 612, 351
+  orig: 631, 394
+  offset: 10, 11
+  index: -1
+ChongFeng08
+  rotate: true
+  xy: 709, 969
+  size: 612, 351
+  orig: 631, 394
+  offset: 10, 11
+  index: -1
+ChongFeng09
+  rotate: true
+  xy: 1061, 355
+  size: 612, 351
+  orig: 631, 394
+  offset: 10, 11
+  index: -1
+ChongFeng10
+  rotate: true
+  xy: 1062, 969
+  size: 612, 351
+  orig: 631, 394
+  offset: 10, 11
+  index: -1
+ChongFeng11
+  rotate: false
+  xy: 1415, 1230
+  size: 612, 351
+  orig: 631, 394
+  offset: 10, 11
+  index: -1
+ChongFeng12
+  rotate: false
+  xy: 1415, 877
+  size: 612, 351
+  orig: 631, 396
+  offset: 10, 11
+  index: -1
+ChongFeng13
+  rotate: false
+  xy: 1414, 524
+  size: 612, 351
+  orig: 630, 397
+  offset: 9, 12
+  index: -1
+ChongFeng14
+  rotate: false
+  xy: 1414, 171
+  size: 612, 351
+  orig: 631, 394
+  offset: 10, 11
+  index: -1

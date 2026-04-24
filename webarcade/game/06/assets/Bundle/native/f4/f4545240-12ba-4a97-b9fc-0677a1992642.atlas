@@ -1,0 +1,83 @@
+
+pet_9.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet_9/a0_01
+  rotate: false
+  xy: 442, 213
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+pet_9/body
+  rotate: false
+  xy: 1, 56
+  size: 256, 163
+  orig: 256, 163
+  offset: 0, 0
+  index: -1
+pet_9/guang
+  rotate: false
+  xy: 1, 220
+  size: 323, 281
+  orig: 323, 281
+  offset: 0, 0
+  index: -1
+pet_9/houtui2
+  rotate: true
+  xy: 1, 1
+  size: 54, 92
+  orig: 54, 92
+  offset: 0, 0
+  index: -1
+pet_9/qianzhao1
+  rotate: false
+  xy: 864, 380
+  size: 93, 121
+  orig: 93, 121
+  offset: 0, 0
+  index: -1
+pet_9/qianzhao2
+  rotate: true
+  xy: 325, 215
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+pet_9/tou
+  rotate: false
+  xy: 532, 321
+  size: 123, 180
+  orig: 123, 180
+  offset: 0, 0
+  index: -1
+pet_9/yi1
+  rotate: false
+  xy: 656, 374
+  size: 103, 127
+  orig: 103, 127
+  offset: 0, 0
+  index: -1
+pet_9/yi2
+  rotate: false
+  xy: 325, 305
+  size: 206, 196
+  orig: 206, 196
+  offset: 0, 0
+  index: -1
+pet_9/yi4
+  rotate: false
+  xy: 325, 305
+  size: 206, 196
+  orig: 206, 196
+  offset: 0, 0
+  index: -1
+pet_9/yi3
+  rotate: false
+  xy: 760, 374
+  size: 103, 127
+  orig: 103, 127
+  offset: 0, 0
+  index: -1

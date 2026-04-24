@@ -1,0 +1,62 @@
+
+renwu15.png
+size: 618,487
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renwu8/dian
+  rotate: false
+  xy: 2, 2
+  size: 8, 9
+  orig: 9, 9
+  offset: 1, 0
+  index: -1
+renwu8/face
+  rotate: false
+  xy: 455, 216
+  size: 67, 85
+  orig: 67, 101
+  offset: 0, 0
+  index: -1
+renwu8/piaodai
+  rotate: false
+  xy: 2, 13
+  size: 376, 164
+  orig: 376, 164
+  offset: 0, 0
+  index: -1
+renwu8/shou
+  rotate: false
+  xy: 281, 212
+  size: 172, 75
+  orig: 172, 75
+  offset: 0, 0
+  index: -1
+renwu8/toufa
+  rotate: false
+  xy: 454, 303
+  size: 162, 182
+  orig: 162, 182
+  offset: 0, 0
+  index: -1
+renwu8/waitao
+  rotate: true
+  xy: 2, 179
+  size: 306, 277
+  orig: 306, 293
+  offset: 0, 0
+  index: -1
+renwu8/xiuziyou
+  rotate: false
+  xy: 281, 289
+  size: 171, 196
+  orig: 171, 196
+  offset: 0, 0
+  index: -1
+renwu8/xiuzizuo
+  rotate: true
+  xy: 380, 39
+  size: 171, 196
+  orig: 171, 196
+  offset: 0, 0
+  index: -1

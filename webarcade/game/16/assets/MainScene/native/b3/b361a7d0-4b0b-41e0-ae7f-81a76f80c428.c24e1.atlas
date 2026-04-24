@@ -1,0 +1,27 @@
+
+click.png
+size: 440,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huan03
+  rotate: false
+  xy: 260, 2
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+xxb
+  rotate: false
+  xy: 260, 113
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+法阵A
+  rotate: false
+  xy: 2, 20
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

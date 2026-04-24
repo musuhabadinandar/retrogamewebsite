@@ -1,0 +1,132 @@
+
+fx_firepillar_yellow.png
+size: 828,1047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00023
+  rotate: false
+  xy: 628, 735
+  size: 196, 310
+  orig: 199, 312
+  offset: 2, 1
+  index: -1
+1_00026
+  rotate: false
+  xy: 623, 18
+  size: 164, 226
+  orig: 171, 229
+  offset: 3, 1
+  index: -1
+1_00029
+  rotate: true
+  xy: 566, 246
+  size: 181, 260
+  orig: 187, 263
+  offset: 4, 1
+  index: -1
+1_00032
+  rotate: true
+  xy: 250, 57
+  size: 180, 284
+  orig: 185, 287
+  offset: 2, 1
+  index: -1
+1_00035
+  rotate: true
+  xy: 253, 239
+  size: 188, 311
+  orig: 192, 314
+  offset: 2, 1
+  index: -1
+1_00038
+  rotate: false
+  xy: 2, 347
+  size: 249, 340
+  orig: 254, 342
+  offset: 3, 1
+  index: -1
+1_00041
+  rotate: false
+  xy: 2, 689
+  size: 252, 356
+  orig: 256, 359
+  offset: 2, 1
+  index: -1
+1_00044
+  rotate: true
+  xy: 256, 835
+  size: 210, 370
+  orig: 215, 372
+  offset: 3, 1
+  index: -1
+1_00047
+  rotate: true
+  xy: 256, 628
+  size: 205, 330
+  orig: 208, 334
+  offset: 2, 2
+  index: -1
+1_00050
+  rotate: true
+  xy: 253, 429
+  size: 197, 323
+  orig: 202, 329
+  offset: 3, 3
+  index: -1
+1_00053
+  rotate: false
+  xy: 2, 32
+  size: 246, 313
+  orig: 251, 317
+  offset: 3, 2
+  index: -1
+1_00056
+  rotate: true
+  xy: 536, 2
+  size: 235, 85
+  orig: 240, 89
+  offset: 3, 2
+  index: -1
+hl
+  rotate: false
+  xy: 588, 586
+  size: 160, 147
+  orig: 172, 157
+  offset: 6, 5
+  index: -1
+smoke01
+  rotate: false
+  xy: 401, 9
+  size: 97, 46
+  orig: 99, 48
+  offset: 1, 1
+  index: -1
+smoke02
+  rotate: false
+  xy: 578, 480
+  size: 132, 54
+  orig: 134, 59
+  offset: 1, 1
+  index: -1
+smoke03
+  rotate: true
+  xy: 750, 592
+  size: 141, 56
+  orig: 143, 58
+  offset: 1, 1
+  index: -1
+smoke04
+  rotate: false
+  xy: 250, 2
+  size: 149, 53
+  orig: 151, 55
+  offset: 1, 1
+  index: -1
+smoke05
+  rotate: false
+  xy: 578, 536
+  size: 153, 48
+  orig: 155, 50
+  offset: 1, 1
+  index: -1

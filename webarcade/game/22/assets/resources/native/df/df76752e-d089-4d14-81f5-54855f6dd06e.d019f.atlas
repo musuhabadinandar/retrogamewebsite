@@ -1,0 +1,55 @@
+
+fx_axe6.png
+size: 1264,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+axe6
+  rotate: true
+  xy: 945, 18
+  size: 188, 199
+  orig: 188, 199
+  offset: 0, 0
+  index: -1
+fx_axe6
+  rotate: false
+  xy: 736, 72
+  size: 207, 217
+  orig: 209, 221
+  offset: 1, 2
+  index: -1
+hitl1
+  rotate: false
+  xy: 1146, 129
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+hl
+  rotate: false
+  xy: 1146, 36
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+hti1
+  rotate: false
+  xy: 945, 208
+  size: 317, 81
+  orig: 317, 81
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 390, 36
+  size: 344, 253
+  orig: 344, 253
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 2, 2
+  size: 386, 287
+  orig: 386, 287
+  offset: 0, 0
+  index: -1

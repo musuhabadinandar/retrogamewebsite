@@ -1,0 +1,62 @@
+
+c2.png
+size: 324,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+W1
+  rotate: true
+  xy: 213, 1
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+W2
+  rotate: true
+  xy: 268, 1
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+W3
+  rotate: false
+  xy: 270, 55
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+W4
+  rotate: false
+  xy: 213, 54
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+W5
+  rotate: false
+  xy: 158, 53
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+W6
+  rotate: false
+  xy: 103, 47
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+W_gh
+  rotate: false
+  xy: 158, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 1, 10
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

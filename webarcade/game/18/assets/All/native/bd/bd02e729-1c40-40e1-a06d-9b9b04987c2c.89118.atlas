@@ -1,0 +1,146 @@
+
+lihui3.png
+size: 2015,702
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zxs_dz
+  rotate: true
+  xy: 2, 115
+  size: 585, 492
+  orig: 587, 495
+  offset: 1, 2
+  index: -1
+zxs_quan
+  rotate: false
+  xy: 1736, 295
+  size: 277, 285
+  orig: 286, 292
+  offset: 5, 3
+  index: -1
+zxs_qz1
+  rotate: true
+  xy: 496, 234
+  size: 466, 378
+  orig: 470, 380
+  offset: 0, 0
+  index: -1
+zxs_qz2
+  rotate: false
+  xy: 876, 264
+  size: 248, 436
+  orig: 249, 436
+  offset: 0, 0
+  index: -1
+zxs_qz3
+  rotate: false
+  xy: 1330, 13
+  size: 363, 317
+  orig: 397, 335
+  offset: 2, 12
+  index: -1
+zxs_qz4
+  rotate: false
+  xy: 1207, 2
+  size: 121, 328
+  orig: 124, 328
+  offset: 3, 0
+  index: -1
+zxs_qz5
+  rotate: true
+  xy: 1126, 332
+  size: 368, 353
+  orig: 453, 387
+  offset: 1, 0
+  index: -1
+zxs_s1
+  rotate: true
+  xy: 1603, 540
+  size: 160, 72
+  orig: 161, 73
+  offset: 1, 0
+  index: -1
+zxs_s2
+  rotate: false
+  xy: 936, 42
+  size: 269, 220
+  orig: 270, 224
+  offset: 1, 4
+  index: -1
+zxs_s3
+  rotate: true
+  xy: 598, 52
+  size: 61, 115
+  orig: 64, 119
+  offset: 1, 2
+  index: -1
+zxs_s4
+  rotate: false
+  xy: 1695, 16
+  size: 156, 277
+  orig: 166, 280
+  offset: 9, 0
+  index: -1
+zxs_s5
+  rotate: true
+  xy: 444, 11
+  size: 102, 152
+  orig: 102, 153
+  offset: 0, 1
+  index: -1
+zxs_st
+  rotate: false
+  xy: 721, 10
+  size: 213, 222
+  orig: 220, 224
+  offset: 6, 1
+  index: -1
+zxs_t1
+  rotate: true
+  xy: 2, 4
+  size: 109, 440
+  orig: 118, 470
+  offset: 1, 1
+  index: -1
+zxs_t2
+  rotate: false
+  xy: 1481, 354
+  size: 120, 346
+  orig: 130, 371
+  offset: 1, 0
+  index: -1
+zxs_tf1
+  rotate: true
+  xy: 496, 115
+  size: 117, 223
+  orig: 117, 223
+  offset: 0, 0
+  index: -1
+zxs_tf2
+  rotate: true
+  xy: 1695, 582
+  size: 118, 296
+  orig: 127, 299
+  offset: 1, 3
+  index: -1
+zxs_tf3
+  rotate: false
+  xy: 1603, 352
+  size: 131, 186
+  orig: 131, 187
+  offset: 0, 0
+  index: -1
+zxs_tou
+  rotate: true
+  xy: 1853, 58
+  size: 118, 134
+  orig: 137, 145
+  offset: 12, 1
+  index: -1
+zxs_wuqi
+  rotate: true
+  xy: 1853, 178
+  size: 115, 157
+  orig: 125, 163
+  offset: 5, 1
+  index: -1

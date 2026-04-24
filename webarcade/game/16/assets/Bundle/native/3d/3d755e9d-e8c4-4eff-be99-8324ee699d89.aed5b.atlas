@@ -1,0 +1,62 @@
+
+renwu3.png
+size: 384,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N3-xiao/lian
+  rotate: true
+  xy: 269, 185
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+N3-xiao/liuhai
+  rotate: false
+  xy: 348, 132
+  size: 9, 51
+  orig: 9, 51
+  offset: 0, 0
+  index: -1
+N3-xiao/liuhai1
+  rotate: true
+  xy: 269, 254
+  size: 82, 94
+  orig: 82, 97
+  offset: 0, 3
+  index: -1
+N3-xiao/liuhai2
+  rotate: true
+  xy: 269, 174
+  size: 9, 50
+  orig: 9, 50
+  offset: 0, 0
+  index: -1
+N3-xiao/qianbai1
+  rotate: true
+  xy: 2, 118
+  size: 398, 265
+  orig: 398, 265
+  offset: 0, 0
+  index: -1
+N3-xiao/xiuzi
+  rotate: true
+  xy: 2, 2
+  size: 114, 182
+  orig: 114, 182
+  offset: 0, 0
+  index: -1
+N3-xiao/xiuzi_0
+  rotate: false
+  xy: 269, 338
+  size: 113, 178
+  orig: 113, 178
+  offset: 0, 0
+  index: -1
+N3-xiao/yaodai1
+  rotate: true
+  xy: 186, 2
+  size: 114, 160
+  orig: 174, 160
+  offset: 30, 0
+  index: -1

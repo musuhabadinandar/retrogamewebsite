@@ -1,0 +1,20 @@
+
+jinengtubiao.png
+size: 129,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CDjieshu
+  rotate: false
+  xy: 2, 2
+  size: 77, 69
+  orig: 90, 89
+  offset: 2, 1
+  index: -1
+jinengkuang
+  rotate: true
+  xy: 81, 23
+  size: 48, 46
+  orig: 94, 94
+  offset: 4, 46
+  index: -1

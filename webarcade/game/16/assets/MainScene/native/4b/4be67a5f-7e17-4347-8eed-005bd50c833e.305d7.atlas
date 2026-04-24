@@ -1,0 +1,20 @@
+
+debuff.png
+size: 141,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+晕眩
+  rotate: false
+  xy: 2, 2
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+晕眩ef
+  rotate: false
+  xy: 2, 43
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

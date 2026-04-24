@@ -1,0 +1,48 @@
+
+ef14.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha0b
+  rotate: false
+  xy: 683, 64
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+ef13bgB
+  rotate: false
+  xy: 683, 218
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yaoban1b
+  rotate: false
+  xy: 2, 2
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+封
+  rotate: false
+  xy: 941, 394
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+法阵
+  rotate: false
+  xy: 369, 162
+  size: 312, 312
+  orig: 338, 338
+  offset: 13, 13
+  index: -1
+铁链
+  rotate: false
+  xy: 2, 109
+  size: 365, 365
+  orig: 367, 367
+  offset: 1, 1
+  index: -1

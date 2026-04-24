@@ -1,0 +1,27 @@
+
+skill_04.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 2
+  size: 116, 62
+  orig: 117, 64
+  offset: 1, 1
+  index: -1
+02
+  rotate: true
+  xy: 123, 8
+  size: 110, 68
+  orig: 113, 70
+  offset: 2, 2
+  index: -1
+03
+  rotate: true
+  xy: 66, 4
+  size: 114, 55
+  orig: 116, 57
+  offset: 1, 1
+  index: -1

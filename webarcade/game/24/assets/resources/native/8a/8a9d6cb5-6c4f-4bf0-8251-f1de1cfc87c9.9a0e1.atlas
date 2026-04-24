@@ -1,0 +1,195 @@
+
+boss14_skill1.png
+size: 1060,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 642, 111
+  size: 154, 153
+  orig: 154, 153
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 245, 252
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 857, 440
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 968, 219
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 530, 267
+  size: 138, 128
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 324, 91
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 484, 102
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 90
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 163, 90
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 245, 392
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 405, 397
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 708, 404
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 559, 402
+  size: 151, 147
+  orig: 151, 147
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 386, 260
+  size: 142, 130
+  orig: 142, 130
+  offset: 0, 0
+  index: -1
+bz01
+  rotate: true
+  xy: 972, 424
+  size: 129, 82
+  orig: 129, 82
+  offset: 0, 0
+  index: -1
+bz02
+  rotate: false
+  xy: 182, 3
+  size: 176, 85
+  orig: 176, 85
+  offset: 0, 0
+  index: -1
+bz03
+  rotate: false
+  xy: 360, 2
+  size: 177, 87
+  orig: 177, 87
+  offset: 0, 0
+  index: -1
+bz04
+  rotate: true
+  xy: 797, 129
+  size: 178, 84
+  orig: 178, 84
+  offset: 0, 0
+  index: -1
+bz05
+  rotate: false
+  xy: 2, 2
+  size: 178, 86
+  orig: 178, 86
+  offset: 0, 0
+  index: -1
+bz06
+  rotate: false
+  xy: 873, 44
+  size: 173, 83
+  orig: 173, 83
+  offset: 0, 0
+  index: -1
+bz07
+  rotate: false
+  xy: 837, 314
+  size: 165, 88
+  orig: 165, 88
+  offset: 0, 0
+  index: -1
+bz08
+  rotate: false
+  xy: 670, 309
+  size: 165, 91
+  orig: 165, 91
+  offset: 0, 0
+  index: -1
+bz09
+  rotate: false
+  xy: 707, 17
+  size: 164, 92
+  orig: 164, 92
+  offset: 0, 0
+  index: -1
+bz10
+  rotate: false
+  xy: 539, 7
+  size: 166, 93
+  orig: 166, 93
+  offset: 0, 0
+  index: -1
+bz11
+  rotate: true
+  xy: 883, 190
+  size: 122, 83
+  orig: 122, 83
+  offset: 0, 0
+  index: -1
+bz12
+  rotate: false
+  xy: 883, 130
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+yunshi
+  rotate: true
+  xy: 2, 252
+  size: 301, 241
+  orig: 302, 241
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,481 @@
+{
+  "generatedAt": "2026-04-07T12:23:14.659704+00:00",
+  "sourceRoot": "local HTML5 source bundle",
+  "excludedSourceItems": [
+    "login.php",
+    "games_api.php",
+    "games-admin.html",
+    "chat/",
+    "database/",
+    "logs/",
+    "user_caches/",
+    "cache/"
+  ],
+  "browserSanitizedLiveGameIds": [
+    "01",
+    "02",
+    "04",
+    "05",
+    "06",
+    "07",
+    "08",
+    "09",
+    "10",
+    "11",
+    "12",
+    "13",
+    "15",
+    "16",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28"
+  ],
+  "liveGameIds": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "05",
+    "10",
+    "13",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "06",
+    "07",
+    "08",
+    "09",
+    "12",
+    "11"
+  ],
+  "underReviewGameIds": [],
+  "games": {
+    "01": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/01/assets/main/index.js",
+          "signals": [
+            "wechat_login",
+            "wechat_share",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "02": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/02/assets/main/index.js",
+          "signals": [
+            "miniapp_sdk",
+            "banner_or_video_ads"
+          ]
+        },
+        {
+          "file": "game/02/assets/UI/index.js",
+          "signals": [
+            "banner_or_video_ads"
+          ]
+        },
+        {
+          "file": "game/02/src/assets/uniSdk/uniSdk.min.js",
+          "signals": [
+            "miniapp_sdk",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "03": {
+      "status": "safe_for_now",
+      "matches": []
+    },
+    "04": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/04/assets/main/index.js",
+          "signals": [
+            "wechat_share",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "05": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/05/assets/main/index.4e81b.js",
+          "signals": [
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "06": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/06/assets/main/index.js",
+          "signals": [
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_launch_options",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "07": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/07/assets/main/index.js",
+          "signals": [
+            "wechat_login",
+            "wechat_share",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "08": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/08/assets/main/index.8fb46.js",
+          "signals": [
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_request",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        },
+        {
+          "file": "game/08/src/assets/_plugs/loading/p8sdk-wechat-2.0.20.25a9b.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "09": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/09/assets/main/index.6c761.js",
+          "signals": [
+            "wechat_share",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "10": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/10/assets/main/index.bd5b6.js",
+          "signals": [
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "11": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/11/assets/main/index.e7338.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_login",
+            "bytedance_request",
+            "bytedance_launch_options",
+            "miniapp_sdk",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "12": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/12/assets/main/index.c41fe.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_launch_options",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "13": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/13/assets/main/index.ced66.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "miniapp_sdk",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "15": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/15/assets/main/index.f337f.js",
+          "signals": [
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_request",
+            "miniapp_sdk",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "16": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/16/assets/main/index.51609.js",
+          "signals": [
+            "wechat_launch_options",
+            "wechat_share",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "17": {
+      "status": "safe_for_now",
+      "matches": []
+    },
+    "18": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/18/assets/main/index.8bfe0.js",
+          "signals": [
+            "wechat_share",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "19": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/19/assets/game_script/index.a12d0.js",
+          "signals": [
+            "wechat_login",
+            "bytedance_login",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "20": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/20/assets/main/index.070c8.js",
+          "signals": [
+            "wechat_login",
+            "wechat_share",
+            "bytedance_login",
+            "bytedance_request",
+            "bytedance_launch_options",
+            "ad_units",
+            "banner_or_video_ads",
+            "sfplay_tracking"
+          ]
+        },
+        {
+          "file": "game/20/src/assets/scripts/plugins/sfdata.025e9.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "bytedance_login",
+            "bytedance_launch_options",
+            "sfplay_tracking"
+          ]
+        },
+        {
+          "file": "game/20/src/assets/scripts/plugins/sfzt.e6b28.js",
+          "signals": [
+            "bytedance_login",
+            "bytedance_request",
+            "bytedance_launch_options",
+            "sfplay_tracking"
+          ]
+        }
+      ]
+    },
+    "21": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/21/assets/main/index.b4ae0.js",
+          "signals": [
+            "wechat_login",
+            "bytedance_login",
+            "bytedance_request",
+            "bytedance_launch_options",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "22": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/22/assets/main/index.2e432.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "miniapp_sdk",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        },
+        {
+          "file": "game/22/assets/resources/import/01/0129f0881.b524d.json",
+          "signals": [
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "23": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/23/assets/main/index.44eb7.js",
+          "signals": [
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_request",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "24": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/24/assets/main/index.ee45d.js",
+          "signals": [
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "25": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/25/assets/main/index.17774.js",
+          "signals": [
+            "wechat_login",
+            "bytedance_request",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "26": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/26/assets/main/index.a9fb8.js",
+          "signals": [
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "27": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/27/assets/main/index.67e2a.js",
+          "signals": [
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    "28": {
+      "status": "under_review",
+      "matches": [
+        {
+          "file": "game/28/src/project.19ff7.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "miniapp_sdk",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    }
+  }
+}

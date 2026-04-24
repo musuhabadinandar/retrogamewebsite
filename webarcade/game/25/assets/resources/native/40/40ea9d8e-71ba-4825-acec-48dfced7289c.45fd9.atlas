@@ -1,0 +1,76 @@
+
+jianhun_mldk_tx1_mj.png
+size: 1729,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/longtou_00000a
+  rotate: false
+  xy: 2, 13
+  size: 951, 608
+  orig: 973, 737
+  offset: 18, 124
+  index: -1
+FX/yanwu_00001a
+  rotate: false
+  xy: 955, 416
+  size: 256, 205
+  orig: 256, 205
+  offset: 0, 0
+  index: -1
+FX/yanwu_00002a
+  rotate: false
+  xy: 955, 209
+  size: 256, 205
+  orig: 256, 205
+  offset: 0, 0
+  index: -1
+FX/yanwu_00003a
+  rotate: false
+  xy: 1213, 416
+  size: 256, 205
+  orig: 256, 205
+  offset: 0, 0
+  index: -1
+FX/yanwu_00004a
+  rotate: false
+  xy: 1213, 209
+  size: 256, 205
+  orig: 256, 205
+  offset: 0, 0
+  index: -1
+FX/yanwu_00005a
+  rotate: false
+  xy: 1471, 416
+  size: 256, 205
+  orig: 256, 205
+  offset: 0, 0
+  index: -1
+FX/yanwu_00006a
+  rotate: false
+  xy: 1471, 209
+  size: 256, 205
+  orig: 256, 205
+  offset: 0, 0
+  index: -1
+FX/yanwu_00007a
+  rotate: false
+  xy: 955, 2
+  size: 256, 205
+  orig: 256, 205
+  offset: 0, 0
+  index: -1
+FX/yanwu_00008a
+  rotate: false
+  xy: 1213, 2
+  size: 256, 205
+  orig: 256, 205
+  offset: 0, 0
+  index: -1
+FX/yanwu_00009a
+  rotate: false
+  xy: 1471, 2
+  size: 256, 205
+  orig: 256, 205
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+fabao17.png
+size: 257,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao17/01
+  rotate: false
+  xy: 135, 1
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+fabao17/02
+  rotate: false
+  xy: 1, 130
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+fabao17/faguang
+  rotate: false
+  xy: 1, 1
+  size: 132, 127
+  orig: 132, 127
+  offset: 0, 0
+  index: -1
+fabao4texiao2
+  rotate: false
+  xy: 135, 114
+  size: 98, 93
+  orig: 123, 123
+  offset: 13, 18
+  index: -1
+faqi10/fabao10-diandian
+  rotate: false
+  xy: 251, 1
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1

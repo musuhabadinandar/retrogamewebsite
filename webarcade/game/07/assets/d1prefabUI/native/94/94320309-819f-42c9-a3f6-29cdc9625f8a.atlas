@@ -1,0 +1,48 @@
+
+sx.png
+size: 617, 476
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+6666
+  rotate: false
+  xy: 561, 419
+  size: 54, 55
+  orig: 55, 56
+  offset: 1, 0
+  index: -1
+dcssdc
+  rotate: true
+  xy: 2, 2
+  size: 472, 557
+  orig: 475, 559
+  offset: 2, 1
+  index: -1
+fa
+  rotate: false
+  xy: 561, 369
+  size: 48, 48
+  orig: 50, 51
+  offset: 1, 1
+  index: -1
+ui_x
+  rotate: false
+  xy: 561, 271
+  size: 46, 47
+  orig: 47, 48
+  offset: 1, 0
+  index: -1
+ui_x f
+  rotate: false
+  xy: 561, 320
+  size: 46, 47
+  orig: 47, 48
+  offset: 1, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 561, 229
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1

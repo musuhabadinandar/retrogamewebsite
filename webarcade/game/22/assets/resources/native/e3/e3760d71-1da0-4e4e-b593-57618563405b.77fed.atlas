@@ -1,0 +1,69 @@
+
+long_dys_f.png
+size: 497,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 458, 99
+  size: 32, 34
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+f002
+  rotate: true
+  xy: 458, 69
+  size: 28, 37
+  orig: 29, 39
+  offset: 0, 1
+  index: -1
+f003
+  rotate: false
+  xy: 458, 177
+  size: 34, 43
+  orig: 35, 45
+  offset: 1, 1
+  index: -1
+f004
+  rotate: false
+  xy: 458, 135
+  size: 33, 40
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+f005
+  rotate: false
+  xy: 458, 42
+  size: 27, 25
+  orig: 28, 27
+  offset: 0, 1
+  index: -1
+f006
+  rotate: true
+  xy: 438, 41
+  size: 27, 18
+  orig: 29, 21
+  offset: 1, 2
+  index: -1
+h1
+  rotate: true
+  xy: 2, 2
+  size: 218, 278
+  orig: 218, 278
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 282, 70
+  size: 174, 150
+  orig: 174, 150
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 282, 7
+  size: 154, 61
+  orig: 154, 61
+  offset: 0, 0
+  index: -1

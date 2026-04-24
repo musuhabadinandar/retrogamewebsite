@@ -1,0 +1,97 @@
+
+pet_6.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet_6/a0_01
+  rotate: false
+  xy: 357, 185
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+pet_6/body
+  rotate: false
+  xy: 303, 277
+  size: 169, 87
+  orig: 169, 87
+  offset: 0, 0
+  index: -1
+pet_6/guang
+  rotate: false
+  xy: 1, 243
+  size: 301, 262
+  orig: 301, 262
+  offset: 0, 0
+  index: -1
+pet_6/guang2
+  rotate: false
+  xy: 747, 373
+  size: 152, 132
+  orig: 152, 132
+  offset: 0, 0
+  index: -1
+pet_6/guang3
+  rotate: false
+  xy: 1, 81
+  size: 258, 161
+  orig: 258, 161
+  offset: 0, 0
+  index: -1
+pet_6/guike
+  rotate: false
+  xy: 539, 346
+  size: 207, 159
+  orig: 207, 159
+  offset: 0, 0
+  index: -1
+pet_6/houzu1
+  rotate: true
+  xy: 1, 1
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+pet_6/houzu2
+  rotate: false
+  xy: 473, 326
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+pet_6/qianzu1
+  rotate: false
+  xy: 357, 97
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+pet_6/qianzu2
+  rotate: true
+  xy: 94, 5
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+pet_6/sheshen
+  rotate: false
+  xy: 303, 365
+  size: 235, 140
+  orig: 235, 140
+  offset: 0, 0
+  index: -1
+pet_6/shetou
+  rotate: true
+  xy: 900, 375
+  size: 130, 110
+  orig: 130, 110
+  offset: 0, 0
+  index: -1
+pet_6/tou
+  rotate: false
+  xy: 260, 90
+  size: 96, 152
+  orig: 96, 152
+  offset: 0, 0
+  index: -1

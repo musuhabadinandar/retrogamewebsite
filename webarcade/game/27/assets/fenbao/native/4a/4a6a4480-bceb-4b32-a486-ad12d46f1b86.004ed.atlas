@@ -1,0 +1,48 @@
+
+skill_02.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 78, 4
+  size: 8, 34
+  orig: 32, 78
+  offset: 7, 22
+  index: -1
+02
+  rotate: false
+  xy: 115, 63
+  size: 24, 59
+  orig: 32, 78
+  offset: 4, 8
+  index: -1
+03
+  rotate: true
+  xy: 78, 14
+  size: 31, 66
+  orig: 32, 78
+  offset: 1, 4
+  index: -1
+04
+  rotate: true
+  xy: 2, 2
+  size: 42, 74
+  orig: 64, 78
+  offset: 1, 4
+  index: -1
+05
+  rotate: false
+  xy: 65, 47
+  size: 48, 75
+  orig: 64, 78
+  offset: 1, 2
+  index: -1
+06
+  rotate: false
+  xy: 2, 46
+  size: 61, 76
+  orig: 64, 78
+  offset: 0, 2
+  index: -1

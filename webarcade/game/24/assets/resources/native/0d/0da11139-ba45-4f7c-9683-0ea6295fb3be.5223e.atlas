@@ -1,0 +1,104 @@
+
+ziguang.png
+size: 166,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huang01
+  rotate: true
+  xy: 44, 3
+  size: 76, 37
+  orig: 100, 49
+  offset: 10, 6
+  index: -1
+huang02
+  rotate: true
+  xy: 2, 162
+  size: 81, 38
+  orig: 100, 49
+  offset: 10, 5
+  index: -1
+huang03
+  rotate: true
+  xy: 2, 2
+  size: 77, 40
+  orig: 100, 49
+  offset: 10, 4
+  index: -1
+huang04
+  rotate: false
+  xy: 84, 245
+  size: 78, 40
+  orig: 100, 49
+  offset: 10, 4
+  index: -1
+huang05
+  rotate: true
+  xy: 83, 82
+  size: 76, 40
+  orig: 100, 49
+  offset: 11, 4
+  index: -1
+huang06
+  rotate: true
+  xy: 125, 87
+  size: 76, 39
+  orig: 100, 49
+  offset: 10, 4
+  index: -1
+huang07
+  rotate: true
+  xy: 125, 10
+  size: 75, 39
+  orig: 100, 49
+  offset: 11, 4
+  index: -1
+huang08
+  rotate: false
+  xy: 42, 202
+  size: 78, 41
+  orig: 100, 49
+  offset: 11, 2
+  index: -1
+huang09
+  rotate: false
+  xy: 42, 160
+  size: 78, 40
+  orig: 100, 49
+  offset: 10, 2
+  index: -1
+huang10
+  rotate: true
+  xy: 42, 81
+  size: 77, 39
+  orig: 100, 49
+  offset: 10, 3
+  index: -1
+huang11
+  rotate: true
+  xy: 2, 81
+  size: 79, 38
+  orig: 100, 49
+  offset: 10, 4
+  index: -1
+huang12
+  rotate: true
+  xy: 122, 165
+  size: 78, 39
+  orig: 100, 49
+  offset: 10, 3
+  index: -1
+huang13
+  rotate: true
+  xy: 83, 4
+  size: 76, 40
+  orig: 100, 49
+  offset: 11, 2
+  index: -1
+huang14
+  rotate: false
+  xy: 2, 245
+  size: 80, 40
+  orig: 100, 49
+  offset: 10, 2
+  index: -1

@@ -1,0 +1,20 @@
+
+TX_qianjing.png
+size: 188,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantou
+  rotate: false
+  xy: 2, 74
+  size: 184, 39
+  orig: 184, 39
+  offset: 0, 0
+  index: -1
+qianjing
+  rotate: false
+  xy: 2, 2
+  size: 134, 70
+  orig: 141, 70
+  offset: 4, 0
+  index: -1

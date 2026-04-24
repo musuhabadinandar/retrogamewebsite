@@ -1,0 +1,62 @@
+
+fabao6.png
+size: 286,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fq_baojian0101
+  rotate: true
+  xy: 2, 2
+  size: 43, 118
+  orig: 43, 118
+  offset: 0, 0
+  index: -1
+fq_baojian0102
+  rotate: true
+  xy: 122, 6
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+fq_baojian0103
+  rotate: false
+  xy: 2, 47
+  size: 83, 237
+  orig: 83, 237
+  offset: 0, 0
+  index: -1
+fq_baojian0104
+  rotate: false
+  xy: 122, 75
+  size: 78, 209
+  orig: 78, 209
+  offset: 0, 0
+  index: -1
+fq_baojian01_006
+  rotate: false
+  xy: 202, 220
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fq_baojian01_008
+  rotate: false
+  xy: 202, 154
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fq_baojian01_010
+  rotate: false
+  xy: 202, 88
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fq_baojian01_012
+  rotate: false
+  xy: 214, 22
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

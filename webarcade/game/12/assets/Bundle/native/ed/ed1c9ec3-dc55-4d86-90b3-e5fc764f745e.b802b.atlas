@@ -1,0 +1,34 @@
+
+p12.png
+size: 869,869
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 2
+  size: 404, 476
+  orig: 404, 476
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 2, 408
+  size: 479, 459
+  orig: 479, 459
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: true
+  xy: 483, 316
+  size: 551, 349
+  orig: 551, 349
+  offset: 0, 0
+  index: -1
+眼光
+  rotate: false
+  xy: 480, 267
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1

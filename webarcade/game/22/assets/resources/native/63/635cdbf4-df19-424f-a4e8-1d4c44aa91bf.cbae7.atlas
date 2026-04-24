@@ -1,0 +1,76 @@
+
+kpbl.png
+size: 308,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx01
+  rotate: false
+  xy: 130, 3
+  size: 36, 56
+  orig: 39, 60
+  offset: 1, 2
+  index: -1
+fx02
+  rotate: true
+  xy: 168, 6
+  size: 53, 38
+  orig: 56, 42
+  offset: 2, 2
+  index: -1
+fx03
+  rotate: true
+  xy: 243, 17
+  size: 42, 21
+  orig: 45, 25
+  offset: 1, 2
+  index: -1
+j1
+  rotate: false
+  xy: 287, 16
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 287, 38
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 208, 10
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 266, 10
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 266, 35
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 74, 2
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 2, 3
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1

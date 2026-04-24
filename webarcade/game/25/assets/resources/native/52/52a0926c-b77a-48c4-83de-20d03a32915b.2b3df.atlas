@@ -1,0 +1,13 @@
+
+fazhen_TX.png
+size: 324,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhen
+  rotate: false
+  xy: 2, 2
+  size: 320, 317
+  orig: 320, 317
+  offset: 0, 0
+  index: -1

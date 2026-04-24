@@ -1,0 +1,90 @@
+
+ef13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgD
+  rotate: false
+  xy: 2, 88
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+ef13bgB
+  rotate: false
+  xy: 533, 760
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ef13bgC
+  rotate: false
+  xy: 2, 390
+  size: 380, 355
+  orig: 380, 355
+  offset: 0, 0
+  index: -1
+shandiana
+  rotate: false
+  xy: 513, 506
+  size: 140, 239
+  orig: 140, 239
+  offset: 0, 0
+  index: -1
+shandianb
+  rotate: false
+  xy: 304, 146
+  size: 121, 242
+  orig: 121, 242
+  offset: 0, 0
+  index: -1
+shandianc
+  rotate: false
+  xy: 791, 750
+  size: 175, 266
+  orig: 175, 266
+  offset: 0, 0
+  index: -1
+shandiand
+  rotate: false
+  xy: 384, 479
+  size: 127, 266
+  orig: 127, 266
+  offset: 0, 0
+  index: -1
+wuyun
+  rotate: false
+  xy: 2, 747
+  size: 529, 269
+  orig: 529, 269
+  offset: 0, 0
+  index: -1
+背景
+  rotate: false
+  xy: 968, 996
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+雷
+  rotate: false
+  xy: 2, 9
+  size: 144, 77
+  orig: 144, 77
+  offset: 0, 0
+  index: -1
+雷劫圈
+  rotate: false
+  xy: 655, 510
+  size: 238, 238
+  orig: 238, 238
+  offset: 0, 0
+  index: -1
+雷点
+  rotate: false
+  xy: 304, 2
+  size: 143, 142
+  orig: 143, 142
+  offset: 0, 0
+  index: -1

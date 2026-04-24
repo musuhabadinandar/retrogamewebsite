@@ -1,0 +1,97 @@
+
+renwu10.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N10-xiao/toufhou
+  rotate: false
+  xy: 309, 321
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+N10-xiao/qunzi
+  rotate: false
+  xy: 1, 426
+  size: 288, 81
+  orig: 288, 81
+  offset: 0, 0
+  index: -1
+N10-xiao/cebai
+  rotate: false
+  xy: 353, 83
+  size: 124, 84
+  orig: 124, 84
+  offset: 0, 0
+  index: -1
+N10-xiao/cebai1
+  rotate: false
+  xy: 183, 321
+  size: 124, 84
+  orig: 124, 84
+  offset: 0, 0
+  index: -1
+N10-xiao/xiabai
+  rotate: false
+  xy: 353, 1
+  size: 157, 80
+  orig: 157, 80
+  offset: 0, 0
+  index: -1
+N10-xiao/shenti
+  rotate: false
+  xy: 1, 1
+  size: 168, 222
+  orig: 168, 222
+  offset: 0, 0
+  index: -1
+N10-xiao/shou
+  rotate: false
+  xy: 291, 202
+  size: 184, 117
+  orig: 184, 117
+  offset: 0, 0
+  index: -1
+N10-xiao/jianbang1
+  rotate: false
+  xy: 171, 1
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1
+N10-xiao/jianbang
+  rotate: false
+  xy: 1, 225
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1
+N10-xiao/lian
+  rotate: false
+  xy: 291, 407
+  size: 64, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+N10-xiao/toufa
+  rotate: false
+  xy: 183, 202
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+N10-xiao/liuhai
+  rotate: false
+  xy: 479, 83
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+N10-xiao/liuhai1
+  rotate: false
+  xy: 477, 169
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1

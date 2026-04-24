@@ -1,0 +1,55 @@
+
+sdq_00.png
+size: 478,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdq_00_arm
+  rotate: false
+  xy: 215, 65
+  size: 222, 174
+  orig: 224, 176
+  offset: 1, 1
+  index: -1
+sdq_00_body
+  rotate: true
+  xy: 332, 6
+  size: 57, 84
+  orig: 57, 84
+  offset: 0, 0
+  index: -1
+sdq_00_hand1
+  rotate: true
+  xy: 215, 17
+  size: 46, 115
+  orig: 46, 115
+  offset: 0, 0
+  index: -1
+sdq_00_hand2
+  rotate: false
+  xy: 418, 2
+  size: 58, 61
+  orig: 60, 63
+  offset: 1, 1
+  index: -1
+sdq_00_head
+  rotate: false
+  xy: 2, 3
+  size: 211, 236
+  orig: 211, 236
+  offset: 0, 0
+  index: -1
+sdq_00_leg1
+  rotate: false
+  xy: 439, 168
+  size: 31, 71
+  orig: 31, 71
+  offset: 0, 0
+  index: -1
+sdq_00_leg2
+  rotate: false
+  xy: 439, 102
+  size: 28, 64
+  orig: 28, 64
+  offset: 0, 0
+  index: -1

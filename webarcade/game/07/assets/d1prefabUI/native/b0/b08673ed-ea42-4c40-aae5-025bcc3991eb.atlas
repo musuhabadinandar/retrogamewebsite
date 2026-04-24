@@ -1,0 +1,13 @@
+
+dgsg.png
+size: 29, 36
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+xxd
+  rotate: false
+  xy: 2, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

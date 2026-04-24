@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 52,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NewProject_tex
+  rotate: false
+  xy: 2, 2
+  size: 48, 28
+  orig: 64, 32
+  offset: 1, 3
+  index: -1

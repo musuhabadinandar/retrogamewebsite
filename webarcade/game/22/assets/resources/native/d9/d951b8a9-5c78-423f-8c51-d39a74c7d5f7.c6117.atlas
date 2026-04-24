@@ -1,0 +1,104 @@
+
+fx_bombloop.png
+size: 1061,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: true
+  xy: 2, 86
+  size: 216, 205
+  orig: 220, 209
+  offset: 2, 2
+  index: -1
+fx_ball
+  rotate: false
+  xy: 2, 304
+  size: 222, 218
+  orig: 230, 226
+  offset: 4, 4
+  index: -1
+fx_up1
+  rotate: false
+  xy: 836, 27
+  size: 221, 164
+  orig: 228, 167
+  offset: 4, 2
+  index: -1
+fx_up2
+  rotate: false
+  xy: 209, 13
+  size: 147, 113
+  orig: 155, 120
+  offset: 4, 2
+  index: -1
+fx_up3
+  rotate: false
+  xy: 631, 12
+  size: 136, 109
+  orig: 143, 117
+  offset: 3, 2
+  index: -1
+out_b1
+  rotate: false
+  xy: 226, 317
+  size: 405, 205
+  orig: 413, 212
+  offset: 4, 3
+  index: -1
+out_b2
+  rotate: true
+  xy: 633, 123
+  size: 399, 201
+  orig: 407, 208
+  offset: 4, 3
+  index: -1
+out_b3
+  rotate: false
+  xy: 226, 128
+  size: 362, 187
+  orig: 370, 194
+  offset: 4, 4
+  index: -1
+out_b4
+  rotate: true
+  xy: 836, 193
+  size: 329, 175
+  orig: 338, 181
+  offset: 4, 3
+  index: -1
+out_f1
+  rotate: false
+  xy: 358, 2
+  size: 206, 27
+  orig: 209, 29
+  offset: 1, 1
+  index: -1
+out_f2
+  rotate: false
+  xy: 358, 92
+  size: 217, 34
+  orig: 219, 36
+  offset: 1, 1
+  index: -1
+out_f3
+  rotate: true
+  xy: 590, 82
+  size: 233, 39
+  orig: 235, 41
+  offset: 1, 1
+  index: -1
+out_f4
+  rotate: false
+  xy: 358, 31
+  size: 261, 49
+  orig: 263, 51
+  offset: 1, 1
+  index: -1
+out_f5
+  rotate: true
+  xy: 1013, 290
+  size: 232, 46
+  orig: 234, 48
+  offset: 1, 1
+  index: -1

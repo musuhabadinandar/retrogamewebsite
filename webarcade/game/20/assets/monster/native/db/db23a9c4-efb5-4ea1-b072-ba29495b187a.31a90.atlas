@@ -1,0 +1,104 @@
+
+monster_7.png
+size: 110,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+my8_hz
+  rotate: false
+  xy: 2, 4
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+my8_pf
+  rotate: false
+  xy: 48, 50
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+my8_st
+  rotate: false
+  xy: 2, 67
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+my8_tou
+  rotate: false
+  xy: 48, 14
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+my8_wq
+  rotate: true
+  xy: 2, 113
+  size: 24, 89
+  orig: 24, 89
+  offset: 0, 0
+  index: -1
+my8_ys1
+  rotate: false
+  xy: 84, 36
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+my8_ys2
+  rotate: true
+  xy: 84, 16
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+my8_yt1
+  rotate: false
+  xy: 90, 45
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+my8_yt2
+  rotate: true
+  xy: 68, 4
+  size: 8, 28
+  orig: 8, 28
+  offset: 0, 0
+  index: -1
+my8_zs1
+  rotate: false
+  xy: 29, 77
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+my8_zs2
+  rotate: false
+  xy: 48, 2
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+my8_zt1
+  rotate: false
+  xy: 19, 69
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+my8_zt2
+  rotate: true
+  xy: 19, 95
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 93, 67
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+fabao11.png
+size: 360,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb1101
+  rotate: false
+  xy: 206, 222
+  size: 131, 136
+  orig: 131, 136
+  offset: 0, 0
+  index: -1
+fb1102
+  rotate: false
+  xy: 2, 154
+  size: 202, 204
+  orig: 202, 204
+  offset: 0, 0
+  index: -1
+fb1103
+  rotate: false
+  xy: 2, 2
+  size: 145, 150
+  orig: 145, 150
+  offset: 0, 0
+  index: -1
+glow_000
+  rotate: true
+  xy: 206, 154
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+glow_002
+  rotate: false
+  xy: 149, 84
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+glow_004
+  rotate: false
+  xy: 149, 14
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+glow_006
+  rotate: false
+  xy: 276, 152
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+glow_008
+  rotate: false
+  xy: 217, 82
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+glow_010
+  rotate: false
+  xy: 217, 12
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+glow_012
+  rotate: false
+  xy: 285, 82
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+glow_014
+  rotate: false
+  xy: 285, 12
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1

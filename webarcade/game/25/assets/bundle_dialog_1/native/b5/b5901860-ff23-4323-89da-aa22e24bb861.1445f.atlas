@@ -1,0 +1,20 @@
+
+SiWangZhiTa.png
+size: 139,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: true
+  xy: 91, 39
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 2
+  size: 87, 86
+  orig: 94, 94
+  offset: 3, 4
+  index: -1

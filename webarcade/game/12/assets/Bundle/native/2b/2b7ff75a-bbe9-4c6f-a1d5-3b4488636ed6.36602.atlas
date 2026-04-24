@@ -1,0 +1,34 @@
+
+p16.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 592, 85
+  size: 332, 458
+  orig: 332, 458
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 2, 423
+  size: 536, 536
+  orig: 536, 536
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 540, 545
+  size: 430, 414
+  orig: 430, 414
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: false
+  xy: 2, 2
+  size: 588, 419
+  orig: 588, 419
+  offset: 0, 0
+  index: -1

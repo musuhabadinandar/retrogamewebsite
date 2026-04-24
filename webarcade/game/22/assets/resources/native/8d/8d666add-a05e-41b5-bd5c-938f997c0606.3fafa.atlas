@@ -1,0 +1,90 @@
+
+fx_lightning.png
+size: 112,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 75, 175
+  size: 26, 31
+  orig: 79, 64
+  offset: 8, 6
+  index: -1
+02
+  rotate: false
+  xy: 2, 133
+  size: 57, 36
+  orig: 79, 64
+  offset: 1, 2
+  index: -1
+03
+  rotate: false
+  xy: 57, 48
+  size: 53, 40
+  orig: 79, 64
+  offset: 24, 21
+  index: -1
+04
+  rotate: true
+  xy: 2, 2
+  size: 23, 43
+  orig: 79, 64
+  offset: 54, 19
+  index: -1
+05
+  rotate: true
+  xy: 2, 27
+  size: 28, 53
+  orig: 77, 82
+  offset: 48, 23
+  index: -1
+06
+  rotate: false
+  xy: 75, 130
+  size: 29, 43
+  orig: 77, 82
+  offset: 28, 5
+  index: -1
+07
+  rotate: false
+  xy: 2, 171
+  size: 71, 30
+  orig: 77, 82
+  offset: 2, 12
+  index: -1
+08
+  rotate: true
+  xy: 59, 90
+  size: 38, 50
+  orig: 77, 82
+  offset: 14, 27
+  index: -1
+l1
+  rotate: false
+  xy: 57, 2
+  size: 44, 44
+  orig: 46, 46
+  offset: 1, 1
+  index: -1
+l3
+  rotate: true
+  xy: 2, 112
+  size: 19, 55
+  orig: 19, 55
+  offset: 0, 0
+  index: -1
+l4
+  rotate: true
+  xy: 61, 132
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+lightbg
+  rotate: false
+  xy: 2, 57
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1

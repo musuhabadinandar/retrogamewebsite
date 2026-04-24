@@ -1,0 +1,62 @@
+
+shenyuanzhuzi.png
+size: 1515,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai1
+  rotate: true
+  xy: 655, 206
+  size: 189, 343
+  orig: 189, 344
+  offset: 0, 1
+  index: -1
+bai2
+  rotate: true
+  xy: 259, 144
+  size: 251, 394
+  orig: 264, 402
+  offset: 7, 3
+  index: -1
+bai3
+  rotate: false
+  xy: 2, 2
+  size: 255, 393
+  orig: 267, 402
+  offset: 7, 4
+  index: -1
+bai4
+  rotate: true
+  xy: 259, 7
+  size: 135, 334
+  orig: 135, 334
+  offset: 0, 0
+  index: -1
+hei1
+  rotate: true
+  xy: 1000, 202
+  size: 193, 334
+  orig: 199, 335
+  offset: 3, 0
+  index: -1
+hei2
+  rotate: true
+  xy: 655, 13
+  size: 191, 331
+  orig: 191, 331
+  offset: 0, 0
+  index: -1
+heishang
+  rotate: false
+  xy: 1336, 82
+  size: 177, 313
+  orig: 177, 314
+  offset: 0, 1
+  index: -1
+heixia
+  rotate: true
+  xy: 988, 11
+  size: 189, 315
+  orig: 189, 316
+  offset: 0, 1
+  index: -1

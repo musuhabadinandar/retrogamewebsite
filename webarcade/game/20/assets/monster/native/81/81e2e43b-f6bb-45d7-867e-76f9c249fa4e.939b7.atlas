@@ -1,0 +1,167 @@
+
+monster_8.png
+size: 372,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m_die_tx1
+  rotate: false
+  xy: 284, 4
+  size: 8, 8
+  orig: 66, 34
+  offset: 58, 9
+  index: -1
+m_die_tx10
+  rotate: true
+  xy: 195, 25
+  size: 51, 9
+  orig: 66, 34
+  offset: 3, 9
+  index: -1
+m_die_tx11
+  rotate: true
+  xy: 81, 22
+  size: 54, 5
+  orig: 66, 34
+  offset: 0, 9
+  index: -1
+m_die_tx12
+  rotate: false
+  xy: 294, 8
+  size: 29, 4
+  orig: 66, 34
+  offset: 25, 9
+  index: -1
+m_die_tx2
+  rotate: true
+  xy: 284, 14
+  size: 14, 13
+  orig: 66, 34
+  offset: 50, 10
+  index: -1
+m_die_tx3
+  rotate: true
+  xy: 231, 2
+  size: 22, 21
+  orig: 66, 34
+  offset: 40, 8
+  index: -1
+m_die_tx4
+  rotate: true
+  xy: 325, 2
+  size: 29, 28
+  orig: 66, 34
+  offset: 31, 5
+  index: -1
+m_die_tx5
+  rotate: true
+  xy: 340, 41
+  size: 35, 30
+  orig: 66, 34
+  offset: 22, 4
+  index: -1
+m_die_tx6
+  rotate: true
+  xy: 308, 33
+  size: 43, 30
+  orig: 66, 34
+  offset: 14, 4
+  index: -1
+m_die_tx7
+  rotate: true
+  xy: 240, 29
+  size: 47, 30
+  orig: 66, 34
+  offset: 10, 3
+  index: -1
+m_die_tx8
+  rotate: true
+  xy: 206, 26
+  size: 50, 32
+  orig: 66, 34
+  offset: 7, 0
+  index: -1
+m_die_tx9
+  rotate: true
+  xy: 49, 22
+  size: 54, 30
+  orig: 66, 34
+  offset: 3, 0
+  index: -1
+my9_fj
+  rotate: false
+  xy: 88, 23
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+my9_fj2
+  rotate: false
+  xy: 19, 21
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+my9_fx
+  rotate: true
+  xy: 254, 2
+  size: 25, 28
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+my9_st
+  rotate: true
+  xy: 19, 3
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+my9_tou
+  rotate: true
+  xy: 272, 30
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+my9_tx1
+  rotate: true
+  xy: 188, 7
+  size: 14, 41
+  orig: 16, 43
+  offset: 1, 0
+  index: -1
+my9_tx2
+  rotate: true
+  xy: 79, 4
+  size: 16, 42
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+my9_tx3
+  rotate: true
+  xy: 145, 6
+  size: 15, 41
+  orig: 16, 42
+  offset: 1, 0
+  index: -1
+my9_ys
+  rotate: true
+  xy: 71, 2
+  size: 18, 6
+  orig: 20, 8
+  offset: 1, 1
+  index: -1
+my9_zs
+  rotate: false
+  xy: 123, 5
+  size: 20, 16
+  orig: 21, 18
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 6
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1

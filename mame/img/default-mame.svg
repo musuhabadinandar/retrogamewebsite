@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Arcade MAME default cover">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151a2d"/>
+      <stop offset="0.45" stop-color="#3d1f5f"/>
+      <stop offset="1" stop-color="#06131f"/>
+    </linearGradient>
+    <radialGradient id="r" cx="0.75" cy="0.2" r="0.75">
+      <stop offset="0" stop-color="#ffcc3d" stop-opacity="0.9"/>
+      <stop offset="0.35" stop-color="#38f6c9" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g)"/>
+  <rect width="640" height="360" fill="url(#r)"/>
+  <g opacity="0.18" stroke="#fff" stroke-width="2">
+    <path d="M0 72h640M0 144h640M0 216h640M0 288h640M80 0v360M160 0v360M240 0v360M320 0v360M400 0v360M480 0v360M560 0v360"/>
+  </g>
+  <g transform="translate(70 82)">
+    <rect x="0" y="0" width="500" height="196" rx="28" fill="#07101f" opacity="0.72" stroke="#ffcc3d" stroke-width="4"/>
+    <circle cx="405" cy="116" r="34" fill="#ff4d4d"/>
+    <circle cx="468" cy="84" r="24" fill="#38f6c9"/>
+    <path d="M92 132h92M138 86v92" stroke="#f6f7fb" stroke-width="20" stroke-linecap="round"/>
+    <text x="250" y="88" fill="#ffcc3d" font-size="54" font-family="Trebuchet MS,Verdana,sans-serif" font-weight="800" text-anchor="middle">ARCADE</text>
+    <text x="250" y="134" fill="#f6f7fb" font-size="28" font-family="Trebuchet MS,Verdana,sans-serif" font-weight="700" text-anchor="middle">MAME / FBNeo</text>
+  </g>
+</svg>

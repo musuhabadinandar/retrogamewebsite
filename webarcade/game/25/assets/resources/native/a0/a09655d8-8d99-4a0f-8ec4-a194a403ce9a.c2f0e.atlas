@@ -1,0 +1,55 @@
+
+chuijuren.png
+size: 1982,848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangbanshen
+  rotate: true
+  xy: 1507, 335
+  size: 511, 473
+  orig: 511, 473
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: false
+  xy: 883, 372
+  size: 622, 474
+  orig: 622, 474
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 1775, 230
+  size: 117, 103
+  orig: 117, 103
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 1344, 336
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+youbi
+  rotate: false
+  xy: 2, 2
+  size: 879, 844
+  orig: 879, 844
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 883, 17
+  size: 353, 459
+  orig: 353, 459
+  offset: 0, 0
+  index: -1
+zuoxiabi
+  rotate: false
+  xy: 1344, 33
+  size: 429, 300
+  orig: 429, 300
+  offset: 0, 0
+  index: -1

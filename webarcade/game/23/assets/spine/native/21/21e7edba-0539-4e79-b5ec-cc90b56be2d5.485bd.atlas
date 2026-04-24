@@ -1,0 +1,167 @@
+
+biaoti.png
+size: 601,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TB1
+  rotate: false
+  xy: 122, 135
+  size: 148, 152
+  orig: 148, 152
+  offset: 0, 0
+  index: -1
+TB2
+  rotate: true
+  xy: 1, 1
+  size: 129, 135
+  orig: 129, 135
+  offset: 0, 0
+  index: -1
+TB3
+  rotate: false
+  xy: 138, 3
+  size: 138, 130
+  orig: 138, 130
+  offset: 0, 0
+  index: -1
+TB4
+  rotate: false
+  xy: 272, 150
+  size: 106, 137
+  orig: 106, 137
+  offset: 0, 0
+  index: -1
+TB5
+  rotate: false
+  xy: 1, 132
+  size: 119, 155
+  orig: 119, 155
+  offset: 0, 0
+  index: -1
+TB6
+  rotate: false
+  xy: 468, 150
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+ZI1
+  rotate: false
+  xy: 482, 68
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+ZI1_di1
+  rotate: true
+  xy: 433, 64
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+ZI1_di2
+  rotate: false
+  xy: 370, 5
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+ZI2
+  rotate: false
+  xy: 506, 109
+  size: 78, 40
+  orig: 78, 40
+  offset: 0, 0
+  index: -1
+ZI2_di1
+  rotate: true
+  xy: 383, 62
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+ZI2_di2
+  rotate: false
+  xy: 278, 3
+  size: 90, 52
+  orig: 90, 52
+  offset: 0, 0
+  index: -1
+ZI3
+  rotate: true
+  xy: 560, 31
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+ZI3_di1
+  rotate: true
+  xy: 481, 203
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+ZI3_di2
+  rotate: true
+  xy: 380, 199
+  size: 88, 51
+  orig: 88, 51
+  offset: 0, 0
+  index: -1
+ZI4
+  rotate: false
+  xy: 460, 23
+  size: 78, 39
+  orig: 78, 39
+  offset: 0, 0
+  index: -1
+ZI4_di1
+  rotate: false
+  xy: 380, 150
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+ZI4_di2
+  rotate: true
+  xy: 330, 58
+  size: 90, 51
+  orig: 90, 51
+  offset: 0, 0
+  index: -1
+ZI5
+  rotate: false
+  xy: 506, 151
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+ZI5_di1
+  rotate: true
+  xy: 433, 200
+  size: 87, 46
+  orig: 87, 46
+  offset: 0, 0
+  index: -1
+ZI5_di2
+  rotate: true
+  xy: 278, 57
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+di1
+  rotate: false
+  xy: 530, 240
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 530, 191
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1

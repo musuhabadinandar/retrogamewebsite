@@ -1,0 +1,97 @@
+
+jianhun_mldk_tx2.png
+size: 470,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/flash_00000a
+  rotate: true
+  xy: 314, 2
+  size: 26, 102
+  orig: 26, 102
+  offset: 0, 0
+  index: -1
+FX/flash_00001a
+  rotate: false
+  xy: 2, 2
+  size: 102, 26
+  orig: 102, 26
+  offset: 0, 0
+  index: -1
+FX/flash_00002a
+  rotate: false
+  xy: 106, 2
+  size: 102, 26
+  orig: 102, 26
+  offset: 0, 0
+  index: -1
+FX/flash_00003a
+  rotate: true
+  xy: 210, 2
+  size: 26, 102
+  orig: 26, 102
+  offset: 0, 0
+  index: -1
+FX/shandian_00000a
+  rotate: true
+  xy: 2, 30
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+FX/shandian_00002a
+  rotate: true
+  xy: 54, 30
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+FX/shandian_00003a
+  rotate: true
+  xy: 106, 30
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+FX/shandian_00004a
+  rotate: true
+  xy: 158, 30
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+FX/shandian_00005a
+  rotate: true
+  xy: 210, 30
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+FX/shandian_00006a
+  rotate: true
+  xy: 314, 30
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+FX/shandian_00007a
+  rotate: true
+  xy: 262, 30
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+FX/shandian_00008a
+  rotate: true
+  xy: 418, 30
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1
+FX/shandian_00009a
+  rotate: true
+  xy: 366, 30
+  size: 118, 50
+  orig: 118, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+UI_fengshang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p1封赏
+  rotate: false
+  xy: 2, 160
+  size: 561, 160
+  orig: 561, 160
+  offset: 0, 0
+  index: -1
+p2日常
+  rotate: false
+  xy: 2, 2
+  size: 559, 156
+  orig: 559, 156
+  offset: 0, 0
+  index: -1
+yu01
+  rotate: false
+  xy: 565, 285
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1

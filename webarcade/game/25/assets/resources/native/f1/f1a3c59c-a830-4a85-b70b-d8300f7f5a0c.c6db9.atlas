@@ -1,0 +1,41 @@
+
+attack_TX.png
+size: 677,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan2
+  rotate: true
+  xy: 566, 8
+  size: 32, 92
+  orig: 32, 92
+  offset: 0, 0
+  index: -1
+quan3
+  rotate: true
+  xy: 566, 42
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+quan4
+  rotate: false
+  xy: 412, 22
+  size: 152, 59
+  orig: 154, 60
+  offset: 1, 0
+  index: -1
+quan5
+  rotate: true
+  xy: 227, 2
+  size: 79, 183
+  orig: 80, 184
+  offset: 0, 1
+  index: -1
+quan6
+  rotate: true
+  xy: 2, 2
+  size: 79, 223
+  orig: 81, 224
+  offset: 1, 0
+  index: -1

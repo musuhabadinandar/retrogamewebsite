@@ -1,0 +1,76 @@
+
+stone.png
+size: 342,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz01
+  rotate: false
+  xy: 220, 4
+  size: 59, 48
+  orig: 118, 112
+  offset: 45, 13
+  index: -1
+bz02
+  rotate: false
+  xy: 120, 2
+  size: 98, 96
+  orig: 118, 112
+  offset: 14, 4
+  index: -1
+bz03
+  rotate: false
+  xy: 2, 11
+  size: 116, 112
+  orig: 118, 112
+  offset: 0, 0
+  index: -1
+bz04
+  rotate: false
+  xy: 153, 186
+  size: 109, 86
+  orig: 118, 112
+  offset: 9, 9
+  index: -1
+bz05
+  rotate: false
+  xy: 153, 100
+  size: 106, 84
+  orig: 118, 112
+  offset: 12, 13
+  index: -1
+bz06
+  rotate: false
+  xy: 220, 54
+  size: 82, 43
+  orig: 118, 112
+  offset: 22, 31
+  index: -1
+rock01
+  rotate: true
+  xy: 264, 172
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+rock02
+  rotate: false
+  xy: 261, 99
+  size: 71, 71
+  orig: 71, 72
+  offset: 0, 1
+  index: -1
+rock03
+  rotate: false
+  xy: 304, 57
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 2, 125
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1

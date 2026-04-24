@@ -1,0 +1,20 @@
+
+ef15.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha0b
+  rotate: false
+  xy: 2, 2
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+flmes001
+  rotate: false
+  xy: 156, 28
+  size: 128, 126
+  orig: 154, 154
+  offset: 13, 13
+  index: -1

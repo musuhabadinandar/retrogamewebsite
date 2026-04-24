@@ -1,0 +1,27 @@
+
+p13.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 1110, 181
+  size: 322, 458
+  orig: 322, 458
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: true
+  xy: 2, 2
+  size: 501, 516
+  orig: 501, 516
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 520, 84
+  size: 588, 419
+  orig: 588, 419
+  offset: 0, 0
+  index: -1

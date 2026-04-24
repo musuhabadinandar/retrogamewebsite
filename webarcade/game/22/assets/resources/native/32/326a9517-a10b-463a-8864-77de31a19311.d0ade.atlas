@@ -1,0 +1,62 @@
+
+fx_dead.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: false
+  xy: 434, 40
+  size: 22, 52
+  orig: 24, 54
+  offset: 1, 1
+  index: -1
+b2
+  rotate: true
+  xy: 458, 72
+  size: 20, 30
+  orig: 22, 32
+  offset: 1, 1
+  index: -1
+b3
+  rotate: true
+  xy: 434, 18
+  size: 20, 52
+  orig: 22, 54
+  offset: 1, 1
+  index: -1
+l1
+  rotate: false
+  xy: 378, 39
+  size: 54, 53
+  orig: 59, 58
+  offset: 2, 3
+  index: -1
+l2
+  rotate: true
+  xy: 300, 23
+  size: 69, 76
+  orig: 76, 82
+  offset: 3, 3
+  index: -1
+l3
+  rotate: false
+  xy: 0, 0
+  size: 107, 92
+  orig: 113, 98
+  offset: 3, 4
+  index: -1
+l4
+  rotate: false
+  xy: 109, 1
+  size: 100, 91
+  orig: 108, 96
+  offset: 4, 3
+  index: -1
+s
+  rotate: false
+  xy: 211, 11
+  size: 87, 81
+  orig: 92, 86
+  offset: 2, 3
+  index: -1

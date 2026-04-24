@@ -1,0 +1,167 @@
+
+role_4.png
+size: 207,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role4_d1
+  rotate: false
+  xy: 2, 104
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+role4_d2
+  rotate: true
+  xy: 52, 5
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+role4_d3
+  rotate: false
+  xy: 112, 92
+  size: 61, 19
+  orig: 63, 21
+  offset: 1, 1
+  index: -1
+role4_q1
+  rotate: false
+  xy: 2, 140
+  size: 89, 31
+  orig: 89, 31
+  offset: 0, 0
+  index: -1
+role4_q2
+  rotate: false
+  xy: 113, 185
+  size: 91, 37
+  orig: 99, 37
+  offset: 8, 0
+  index: -1
+role4_s1
+  rotate: false
+  xy: 108, 11
+  size: 48, 43
+  orig: 50, 45
+  offset: 1, 1
+  index: -1
+role4_s2
+  rotate: false
+  xy: 2, 50
+  size: 53, 52
+  orig: 55, 54
+  offset: 1, 1
+  index: -1
+role4_s3
+  rotate: false
+  xy: 70, 81
+  size: 40, 23
+  orig: 42, 27
+  offset: 1, 1
+  index: -1
+role4_s4
+  rotate: false
+  xy: 112, 56
+  size: 55, 34
+  orig: 57, 36
+  offset: 1, 1
+  index: -1
+role4_st
+  rotate: true
+  xy: 140, 224
+  size: 69, 62
+  orig: 81, 64
+  offset: 11, 1
+  index: -1
+role4_t1
+  rotate: true
+  xy: 57, 41
+  size: 38, 49
+  orig: 40, 52
+  offset: 1, 1
+  index: -1
+role4_t2
+  rotate: true
+  xy: 70, 106
+  size: 32, 40
+  orig: 35, 42
+  offset: 1, 1
+  index: -1
+role4_t3
+  rotate: true
+  xy: 169, 32
+  size: 42, 34
+  orig: 44, 36
+  offset: 1, 1
+  index: -1
+role4_t4
+  rotate: false
+  xy: 2, 2
+  size: 48, 46
+  orig: 50, 49
+  offset: 1, 2
+  index: -1
+role4_t5
+  rotate: false
+  xy: 175, 76
+  size: 28, 35
+  orig: 31, 37
+  offset: 2, 1
+  index: -1
+role4_t6
+  rotate: false
+  xy: 158, 7
+  size: 40, 23
+  orig: 42, 25
+  offset: 1, 1
+  index: -1
+role4_tf1
+  rotate: true
+  xy: 113, 113
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+role4_tf2
+  rotate: true
+  xy: 147, 385
+  size: 18, 57
+  orig: 18, 58
+  offset: 0, 0
+  index: -1
+role4_tf3
+  rotate: true
+  xy: 147, 405
+  size: 32, 58
+  orig: 34, 60
+  offset: 1, 1
+  index: -1
+role4_tf4
+  rotate: false
+  xy: 147, 295
+  size: 56, 88
+  orig: 56, 89
+  offset: 0, 0
+  index: -1
+role4_tf5
+  rotate: true
+  xy: 2, 314
+  size: 123, 143
+  orig: 123, 143
+  offset: 0, 0
+  index: -1
+role4_tou
+  rotate: true
+  xy: 2, 173
+  size: 86, 109
+  orig: 88, 112
+  offset: 1, 2
+  index: -1
+yy
+  rotate: false
+  xy: 2, 261
+  size: 136, 51
+  orig: 136, 51
+  offset: 0, 0
+  index: -1

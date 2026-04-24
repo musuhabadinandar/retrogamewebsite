@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">PS1 Fallback Cover</title>
+  <desc id="desc">Fallback artwork for PlayStation 1 games.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#172554"/>
+      <stop offset="54%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="32" fill="url(#bg)"/>
+  <circle cx="520" cy="86" r="78" fill="#60a5fa" opacity="0.12"/>
+  <rect x="40" y="40" width="560" height="280" rx="24" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <path d="M438 220c22-12 43-26 58-46 10-14 15-28 15-42 0-23-18-40-45-40-42 0-78 32-106 94-10 23-17 42-24 66 38-4 72-14 102-32z" fill="#93c5fd" opacity="0.18"/>
+  <text x="64" y="88" fill="#bfdbfe" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">DISC ERA ICONS</text>
+  <text x="64" y="144" fill="#ffffff" font-size="58" font-family="Segoe UI, Arial, sans-serif" font-weight="900">PS1</text>
+  <text x="64" y="184" fill="#93c5fd" font-size="22" font-family="Segoe UI, Arial, sans-serif">PlayStation fallback cover</text>
+  <rect x="64" y="214" width="216" height="56" rx="28" fill="#0f172a" opacity="0.52"/>
+  <text x="98" y="249" fill="#ffffff" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="800">Premium Disc Ready</text>
+  <text x="64" y="302" fill="#dbeafe" font-size="18" font-family="Segoe UI, Arial, sans-serif">Large games, elegant presentation</text>
+</svg>

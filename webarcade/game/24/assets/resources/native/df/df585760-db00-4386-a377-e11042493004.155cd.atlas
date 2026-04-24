@@ -1,0 +1,118 @@
+
+boss05_zhangyuwang.png
+size: 421,626
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1
+  rotate: true
+  xy: 225, 183
+  size: 132, 75
+  orig: 158, 89
+  offset: 13, 7
+  index: -1
+jiao2
+  rotate: false
+  xy: 2, 192
+  size: 187, 54
+  orig: 187, 54
+  offset: 0, 0
+  index: -1
+jiao3
+  rotate: true
+  xy: 191, 110
+  size: 136, 32
+  orig: 136, 64
+  offset: 0, 16
+  index: -1
+jiao4
+  rotate: false
+  xy: 2, 148
+  size: 170, 42
+  orig: 171, 42
+  offset: 1, 0
+  index: -1
+jiao5
+  rotate: true
+  xy: 151, 8
+  size: 138, 35
+  orig: 138, 35
+  offset: 0, 0
+  index: -1
+pu
+  rotate: false
+  xy: 2, 248
+  size: 221, 67
+  orig: 221, 67
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 302, 38
+  size: 137, 117
+  orig: 157, 152
+  offset: 2, 26
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 2
+  size: 146, 56
+  orig: 146, 56
+  offset: 0, 0
+  index: -1
+zhangyuguang01
+  rotate: false
+  xy: 244, 15
+  size: 48, 40
+  orig: 49, 42
+  offset: 0, 1
+  index: -1
+zhangyuguang02
+  rotate: true
+  xy: 188, 3
+  size: 52, 54
+  orig: 52, 59
+  offset: 0, 1
+  index: -1
+zhangyuguang03
+  rotate: false
+  xy: 225, 57
+  size: 75, 124
+  orig: 75, 127
+  offset: 0, 1
+  index: -1
+zhangyuguang04
+  rotate: false
+  xy: 312, 177
+  size: 87, 145
+  orig: 90, 146
+  offset: 1, 1
+  index: -1
+zhangyuguang05
+  rotate: false
+  xy: 312, 474
+  size: 94, 150
+  orig: 96, 153
+  offset: 1, 3
+  index: -1
+zhangyuguang06
+  rotate: false
+  xy: 312, 324
+  size: 93, 148
+  orig: 98, 153
+  offset: 2, 4
+  index: -1
+zhangyuguang07
+  rotate: true
+  xy: 2, 60
+  size: 86, 147
+  orig: 99, 152
+  offset: 7, 3
+  index: -1
+zhuan
+  rotate: true
+  xy: 2, 317
+  size: 307, 308
+  orig: 308, 308
+  offset: 1, 0
+  index: -1

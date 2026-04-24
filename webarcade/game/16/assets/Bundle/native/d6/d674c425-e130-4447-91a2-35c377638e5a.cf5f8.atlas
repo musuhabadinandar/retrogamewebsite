@@ -1,0 +1,118 @@
+
+renwu14.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N14-xiao/toufahou
+  rotate: false
+  xy: 448, 1
+  size: 66, 89
+  orig: 66, 89
+  offset: 0, 0
+  index: -1
+N14-xiao/zhuangshi
+  rotate: false
+  xy: 338, 1
+  size: 108, 61
+  orig: 108, 61
+  offset: 0, 0
+  index: -1
+N14-xiao/kuzi_
+  rotate: false
+  xy: 170, 1
+  size: 166, 74
+  orig: 166, 74
+  offset: 0, 0
+  index: -1
+cepai2
+  rotate: false
+  xy: 1, 339
+  size: 206, 126
+  orig: 206, 126
+  offset: 0, 0
+  index: -1
+cepai3
+  rotate: false
+  xy: 1, 211
+  size: 207, 126
+  orig: 207, 126
+  offset: 0, 0
+  index: -1
+N14-xiao/qianbai
+  rotate: false
+  xy: 666, 1
+  size: 88, 133
+  orig: 88, 133
+  offset: 0, 0
+  index: -1
+N14-xiao/cepai4
+  rotate: false
+  xy: 395, 339
+  size: 134, 130
+  orig: 134, 130
+  offset: 0, 0
+  index: -1
+N14-xiao/cepai5
+  rotate: false
+  xy: 531, 339
+  size: 133, 130
+  orig: 133, 130
+  offset: 0, 0
+  index: -1
+N14-xiao/body
+  rotate: false
+  xy: 1, 1
+  size: 167, 208
+  orig: 167, 208
+  offset: 0, 0
+  index: -1
+N14-xiao/shou_
+  rotate: false
+  xy: 209, 339
+  size: 184, 117
+  orig: 184, 117
+  offset: 0, 0
+  index: -1
+N14-xiao/xiuzi1
+  rotate: false
+  xy: 245, 77
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+N14-xiao/xiuzi2
+  rotate: false
+  xy: 170, 77
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+N14-xiao/lian2
+  rotate: false
+  xy: 516, 1
+  size: 64, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+N14-xiao/toufa
+  rotate: false
+  xy: 320, 77
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+N14-xiao/liuhai1
+  rotate: false
+  xy: 394, 64
+  size: 22, 76
+  orig: 22, 76
+  offset: 0, 0
+  index: -1
+N14-xiao/liuhai2
+  rotate: false
+  xy: 418, 64
+  size: 21, 76
+  orig: 21, 76
+  offset: 0, 0
+  index: -1

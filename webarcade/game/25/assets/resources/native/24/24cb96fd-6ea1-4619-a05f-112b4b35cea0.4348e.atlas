@@ -1,0 +1,118 @@
+
+JSHJ_dz.png
+size: 552,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kl_qugan
+  rotate: false
+  xy: 441, 174
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+kl_shange_je
+  rotate: false
+  xy: 2, 33
+  size: 211, 243
+  orig: 214, 279
+  offset: 3, 16
+  index: -1
+kl_xiabanshen
+  rotate: true
+  xy: 459, 77
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+kl_xiae
+  rotate: true
+  xy: 366, 73
+  size: 91, 39
+  orig: 93, 41
+  offset: 1, 1
+  index: -1
+kl_yaodai
+  rotate: true
+  xy: 366, 166
+  size: 110, 73
+  orig: 111, 74
+  offset: 0, 0
+  index: -1
+kl_youdatui
+  rotate: true
+  xy: 215, 3
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+kl_youshangbi
+  rotate: true
+  xy: 403, 2
+  size: 69, 55
+  orig: 71, 57
+  offset: 1, 1
+  index: -1
+kl_youxiabi
+  rotate: false
+  xy: 91, 5
+  size: 71, 26
+  orig: 72, 26
+  offset: 1, 0
+  index: -1
+kl_youxiaotui
+  rotate: false
+  xy: 510, 119
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+kl_zuodatui
+  rotate: false
+  xy: 356, 5
+  size: 45, 63
+  orig: 45, 63
+  offset: 0, 0
+  index: -1
+kl_zuoshangbi
+  rotate: true
+  xy: 293, 4
+  size: 64, 61
+  orig: 66, 63
+  offset: 1, 1
+  index: -1
+kl_zuoxiabi
+  rotate: true
+  xy: 460, 6
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+kl_zuoxiaotui
+  rotate: false
+  xy: 499, 19
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+mianju
+  rotate: false
+  xy: 215, 70
+  size: 149, 206
+  orig: 167, 234
+  offset: 1, 12
+  index: -1
+yanjing
+  rotate: true
+  xy: 407, 77
+  size: 87, 50
+  orig: 89, 52
+  offset: 1, 1
+  index: -1
+yanjing-b
+  rotate: false
+  xy: 2, 5
+  size: 87, 26
+  orig: 89, 52
+  offset: 1, 14
+  index: -1

@@ -1,0 +1,34 @@
+
+role_nezha.png
+size: 163,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role_nezha_arm
+  rotate: true
+  xy: 2, 2
+  size: 20, 159
+  orig: 22, 161
+  offset: 1, 1
+  index: -1
+role_nezha_body
+  rotate: false
+  xy: 106, 45
+  size: 43, 33
+  orig: 45, 35
+  offset: 1, 1
+  index: -1
+role_nezha_head
+  rotate: false
+  xy: 2, 24
+  size: 102, 98
+  orig: 104, 100
+  offset: 1, 1
+  index: -1
+role_nezha_leg
+  rotate: false
+  xy: 106, 80
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1

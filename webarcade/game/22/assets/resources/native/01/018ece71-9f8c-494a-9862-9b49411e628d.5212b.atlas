@@ -1,0 +1,34 @@
+
+fx_mooncake.png
+size: 324,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/fb
+  rotate: false
+  xy: 255, 83
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+image/fbg
+  rotate: false
+  xy: 2, 2
+  size: 169, 169
+  orig: 175, 175
+  offset: 3, 3
+  index: -1
+image/fhl
+  rotate: false
+  xy: 173, 10
+  size: 80, 161
+  orig: 88, 170
+  offset: 4, 4
+  index: -1
+image/lp
+  rotate: false
+  xy: 255, 51
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1

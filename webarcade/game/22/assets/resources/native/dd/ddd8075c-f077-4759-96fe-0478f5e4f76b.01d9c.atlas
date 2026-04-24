@@ -1,0 +1,90 @@
+
+fx_stab.png
+size: 702,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_st1
+  rotate: false
+  xy: 665, 153
+  size: 28, 27
+  orig: 38, 37
+  offset: 5, 5
+  index: -1
+fx_st10
+  rotate: false
+  xy: 665, 182
+  size: 29, 27
+  orig: 40, 36
+  offset: 5, 3
+  index: -1
+fx_st11
+  rotate: false
+  xy: 667, 211
+  size: 31, 29
+  orig: 41, 40
+  offset: 5, 5
+  index: -1
+fx_st2
+  rotate: false
+  xy: 588, 14
+  size: 50, 42
+  orig: 60, 50
+  offset: 5, 5
+  index: -1
+fx_st3
+  rotate: true
+  xy: 667, 242
+  size: 46, 33
+  orig: 52, 39
+  offset: 5, 1
+  index: -1
+fx_st4
+  rotate: false
+  xy: 588, 167
+  size: 75, 48
+  orig: 82, 54
+  offset: 4, 5
+  index: -1
+fx_st5
+  rotate: false
+  xy: 588, 217
+  size: 77, 71
+  orig: 85, 79
+  offset: 5, 5
+  index: -1
+fx_st6
+  rotate: false
+  xy: 588, 290
+  size: 98, 73
+  orig: 107, 81
+  offset: 3, 5
+  index: -1
+fx_st7
+  rotate: false
+  xy: 588, 111
+  size: 68, 54
+  orig: 76, 62
+  offset: 3, 5
+  index: -1
+fx_st8
+  rotate: false
+  xy: 588, 58
+  size: 64, 51
+  orig: 71, 63
+  offset: 3, 9
+  index: -1
+fx_st9
+  rotate: true
+  xy: 640, 8
+  size: 48, 39
+  orig: 57, 52
+  offset: 5, 5
+  index: -1
+wall_stab
+  rotate: false
+  xy: 2, 2
+  size: 584, 361
+  orig: 593, 368
+  offset: 4, 4
+  index: -1

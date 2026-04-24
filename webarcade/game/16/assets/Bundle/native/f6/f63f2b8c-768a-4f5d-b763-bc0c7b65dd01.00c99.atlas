@@ -1,0 +1,62 @@
+
+renwu11.png
+size: 551,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renwu8/face
+  rotate: true
+  xy: 407, 2
+  size: 66, 84
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+renwu8/piaodai
+  rotate: true
+  xy: 408, 185
+  size: 82, 129
+  orig: 82, 129
+  offset: 0, 0
+  index: -1
+renwu8/piaodai-1
+  rotate: true
+  xy: 408, 102
+  size: 81, 129
+  orig: 81, 129
+  offset: 0, 0
+  index: -1
+renwu8/shou
+  rotate: false
+  xy: 407, 70
+  size: 96, 30
+  orig: 416, 380
+  offset: 159, 82
+  index: -1
+renwu8/toufa
+  rotate: false
+  xy: 408, 269
+  size: 141, 130
+  orig: 141, 130
+  offset: 0, 0
+  index: -1
+renwu8/waitao
+  rotate: false
+  xy: 2, 136
+  size: 404, 263
+  orig: 404, 339
+  offset: 0, 0
+  index: -1
+renwu8/xiuziyou
+  rotate: true
+  xy: 206, 8
+  size: 126, 199
+  orig: 126, 199
+  offset: 0, 0
+  index: -1
+renwu8/xiuzizuo
+  rotate: true
+  xy: 2, 8
+  size: 126, 202
+  orig: 126, 202
+  offset: 0, 0
+  index: -1

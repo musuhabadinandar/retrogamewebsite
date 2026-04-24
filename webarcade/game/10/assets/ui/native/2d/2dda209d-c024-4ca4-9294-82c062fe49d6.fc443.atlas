@@ -1,0 +1,41 @@
+
+发射光000.png
+size: 706,561
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+发射光
+  rotate: true
+  xy: 2, 2
+  size: 557, 558
+  orig: 565, 564
+  offset: 5, 1
+  index: -1
+星1
+  rotate: false
+  xy: 562, 44
+  size: 106, 111
+  orig: 118, 117
+  offset: 2, 3
+  index: -1
+星2
+  rotate: true
+  xy: 562, 157
+  size: 113, 111
+  orig: 118, 117
+  offset: 2, 3
+  index: -1
+星3
+  rotate: true
+  xy: 562, 416
+  size: 143, 142
+  orig: 150, 150
+  offset: 3, 4
+  index: -1
+星4
+  rotate: false
+  xy: 562, 272
+  size: 142, 142
+  orig: 150, 150
+  offset: 4, 4
+  index: -1

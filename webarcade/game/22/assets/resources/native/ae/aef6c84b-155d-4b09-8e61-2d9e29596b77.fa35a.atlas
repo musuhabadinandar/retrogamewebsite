@@ -1,0 +1,34 @@
+
+fx_shield.png
+size: 395,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/fx_sword
+  rotate: true
+  xy: 2, 168
+  size: 159, 244
+  orig: 165, 250
+  offset: 3, 3
+  index: -1
+img/l1
+  rotate: true
+  xy: 248, 137
+  size: 190, 145
+  orig: 195, 149
+  offset: 2, 0
+  index: -1
+img/l2
+  rotate: false
+  xy: 228, 2
+  size: 143, 133
+  orig: 149, 139
+  offset: 3, 3
+  index: -1
+img/sword
+  rotate: true
+  xy: 2, 27
+  size: 139, 224
+  orig: 139, 224
+  offset: 0, 0
+  index: -1

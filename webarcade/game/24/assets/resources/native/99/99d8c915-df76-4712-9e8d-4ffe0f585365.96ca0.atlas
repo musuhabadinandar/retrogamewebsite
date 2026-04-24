@@ -1,0 +1,104 @@
+
+elite02_jiangshi.png
+size: 383,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 96, 13
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 114
+  size: 168, 164
+  orig: 168, 181
+  offset: 0, 17
+  index: -1
+tun
+  rotate: true
+  xy: 336, 27
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 177, 8
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 319, 79
+  size: 63, 43
+  orig: 65, 43
+  offset: 1, 0
+  index: -1
+youjiaotui
+  rotate: false
+  xy: 243, 196
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 168, 143
+  size: 73, 139
+  orig: 73, 139
+  offset: 0, 0
+  index: -1
+zhua1
+  rotate: false
+  xy: 243, 143
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+zhua2
+  rotate: true
+  xy: 309, 144
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+zhua3
+  rotate: true
+  xy: 266, 2
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+zhua4
+  rotate: false
+  xy: 306, 211
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+zhua5
+  rotate: false
+  xy: 250, 71
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 177, 43
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 2, 9
+  size: 92, 103
+  orig: 92, 103
+  offset: 0, 0
+  index: -1

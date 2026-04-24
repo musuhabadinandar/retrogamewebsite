@@ -1,0 +1,90 @@
+
+GBL_shijuren.png
+size: 1729,461
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qugan
+  rotate: true
+  xy: 400, 73
+  size: 386, 355
+  orig: 410, 450
+  offset: 0, 0
+  index: -1
+toubu
+  rotate: false
+  xy: 1222, 179
+  size: 241, 280
+  orig: 263, 283
+  offset: 19, 0
+  index: -1
+xiabanshen
+  rotate: true
+  xy: 2, 41
+  size: 418, 396
+  orig: 418, 396
+  offset: 0, 0
+  index: -1
+youmuzhi
+  rotate: false
+  xy: 523, 10
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+youquan1
+  rotate: true
+  xy: 1152, 11
+  size: 165, 92
+  orig: 215, 171
+  offset: 43, 34
+  index: -1
+youquan2
+  rotate: false
+  xy: 757, 2
+  size: 165, 173
+  orig: 165, 173
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: true
+  xy: 1465, 231
+  size: 228, 262
+  orig: 246, 308
+  offset: 18, 0
+  index: -1
+youxiabi
+  rotate: true
+  xy: 1465, 4
+  size: 225, 257
+  orig: 225, 257
+  offset: 0, 0
+  index: -1
+zuomuzhi
+  rotate: false
+  xy: 400, 6
+  size: 121, 65
+  orig: 121, 65
+  offset: 0, 0
+  index: -1
+zuoquan
+  rotate: true
+  xy: 924, 4
+  size: 171, 226
+  orig: 242, 283
+  offset: 28, 38
+  index: -1
+zuoshangbi
+  rotate: false
+  xy: 757, 177
+  size: 251, 282
+  orig: 275, 361
+  offset: 0, 0
+  index: -1
+zuoxiabi
+  rotate: true
+  xy: 1010, 178
+  size: 281, 210
+  orig: 281, 210
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+ningchong3.png
+size: 515,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lc2_touying
+  rotate: false
+  xy: 1, 442
+  size: 178, 36
+  orig: 178, 36
+  offset: 0, 0
+  index: -1
+lc3_psd/lc3_jiao4
+  rotate: false
+  xy: 244, 400
+  size: 47, 103
+  orig: 47, 103
+  offset: 0, 0
+  index: -1
+lc3_psd/lc3_jiao2
+  rotate: false
+  xy: 192, 325
+  size: 50, 105
+  orig: 50, 105
+  offset: 0, 0
+  index: -1
+lc3_psd/lc3_shenti
+  rotate: false
+  xy: 289, 1
+  size: 224, 285
+  orig: 224, 285
+  offset: 0, 0
+  index: -1
+lc3_psd/lc3_jiao3
+  rotate: false
+  xy: 289, 288
+  size: 82, 110
+  orig: 82, 110
+  offset: 0, 0
+  index: -1
+lc3_psd/lc3_jiao1
+  rotate: false
+  xy: 130, 325
+  size: 60, 115
+  orig: 60, 115
+  offset: 0, 0
+  index: -1
+lc3_psd/lc3_piaodai3
+  rotate: false
+  xy: 1, 325
+  size: 127, 68
+  orig: 127, 68
+  offset: 0, 0
+  index: -1
+lc3_psd/lc3_piaodai2
+  rotate: false
+  xy: 293, 400
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+lc3_psd/lc3_piaodai1
+  rotate: false
+  xy: 181, 442
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+lc3_0
+  rotate: false
+  xy: 1, 1
+  size: 286, 322
+  orig: 286, 322
+  offset: 0, 0
+  index: -1

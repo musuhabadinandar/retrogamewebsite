@@ -1,0 +1,20 @@
+
+danjia.png
+size: 144,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dj
+  rotate: true
+  xy: 24, 2
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+zd
+  rotate: false
+  xy: 2, 99
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1

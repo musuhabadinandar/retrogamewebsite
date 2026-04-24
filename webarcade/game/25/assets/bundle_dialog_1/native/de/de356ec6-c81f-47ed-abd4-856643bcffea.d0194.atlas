@@ -1,0 +1,223 @@
+
+mojian_RenWuJieMian.png
+size: 2013,963
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+)0001
+  rotate: false
+  xy: 2, 2
+  size: 24, 14
+  orig: 500, 350
+  offset: 238, 158
+  index: -1
+)0002
+  rotate: false
+  xy: 925, 415
+  size: 130, 66
+  orig: 500, 350
+  offset: 185, 132
+  index: -1
+)0003
+  rotate: false
+  xy: 1742, 497
+  size: 218, 110
+  orig: 500, 350
+  offset: 141, 110
+  index: -1
+)0004
+  rotate: true
+  xy: 1545, 249
+  size: 280, 144
+  orig: 500, 350
+  offset: 110, 93
+  index: -1
+)0005
+  rotate: false
+  xy: 1625, 803
+  size: 306, 158
+  orig: 500, 350
+  offset: 97, 86
+  index: -1
+)0006
+  rotate: false
+  xy: 1291, 8
+  size: 332, 172
+  orig: 500, 350
+  offset: 84, 79
+  index: -1
+)0007
+  rotate: true
+  xy: 647, 44
+  size: 356, 180
+  orig: 500, 350
+  offset: 72, 75
+  index: -1
+)0008
+  rotate: true
+  xy: 2, 18
+  size: 381, 194
+  orig: 500, 350
+  offset: 60, 68
+  index: -1
+)0009
+  rotate: true
+  xy: 829, 3
+  size: 406, 206
+  orig: 500, 350
+  offset: 47, 62
+  index: -1
+)0010
+  rotate: true
+  xy: 1262, 529
+  size: 432, 220
+  orig: 500, 350
+  offset: 34, 55
+  index: -1
+)0011
+  rotate: true
+  xy: 1057, 29
+  size: 456, 232
+  orig: 500, 350
+  offset: 22, 49
+  index: -1
+)0012
+  rotate: true
+  xy: 776, 483
+  size: 478, 242
+  orig: 500, 350
+  offset: 11, 45
+  index: -1
+)0013
+  rotate: true
+  xy: 1020, 487
+  size: 474, 240
+  orig: 500, 350
+  offset: 13, 45
+  index: -1
+)0014
+  rotate: false
+  xy: 776, 411
+  size: 147, 70
+  orig: 500, 350
+  offset: 178, 143
+  index: -1
+)0015
+  rotate: false
+  xy: 1484, 763
+  size: 130, 56
+  orig: 500, 350
+  offset: 183, 149
+  index: -1
+)0016
+  rotate: false
+  xy: 413, 3
+  size: 116, 32
+  orig: 500, 350
+  offset: 193, 156
+  index: -1
+19
+  rotate: true
+  xy: 1484, 821
+  size: 140, 135
+  orig: 191, 202
+  offset: 30, 27
+  index: -1
+20
+  rotate: false
+  xy: 1716, 609
+  size: 278, 192
+  orig: 326, 263
+  offset: 25, 33
+  index: -1
+21
+  rotate: true
+  xy: 1291, 182
+  size: 345, 252
+  orig: 355, 269
+  offset: 6, 9
+  index: -1
+22
+  rotate: true
+  xy: 413, 37
+  size: 362, 232
+  orig: 371, 266
+  offset: 5, 11
+  index: -1
+23
+  rotate: true
+  xy: 198, 26
+  size: 373, 213
+  orig: 381, 261
+  offset: 2, 21
+  index: -1
+heroShow0001
+  rotate: false
+  xy: 1803, 293
+  size: 207, 100
+  orig: 210, 102
+  offset: 2, 0
+  index: -1
+heroShow0002
+  rotate: false
+  xy: 1742, 89
+  size: 214, 100
+  orig: 216, 102
+  offset: 1, 1
+  index: -1
+heroShow0003
+  rotate: true
+  xy: 1691, 280
+  size: 215, 110
+  orig: 218, 112
+  offset: 2, 0
+  index: -1
+heroShow0004
+  rotate: true
+  xy: 1484, 531
+  size: 230, 115
+  orig: 232, 118
+  offset: 1, 1
+  index: -1
+heroShow0005
+  rotate: true
+  xy: 1601, 531
+  size: 230, 113
+  orig: 230, 114
+  offset: 0, 0
+  index: -1
+heroShow0006
+  rotate: true
+  xy: 1625, 24
+  size: 223, 115
+  orig: 224, 118
+  offset: 0, 1
+  index: -1
+heroShow0007
+  rotate: false
+  xy: 1803, 395
+  size: 208, 100
+  orig: 208, 102
+  offset: 0, 0
+  index: -1
+heroShow0008
+  rotate: false
+  xy: 1803, 191
+  size: 201, 100
+  orig: 204, 102
+  offset: 2, 1
+  index: -1
+jian
+  rotate: false
+  xy: 496, 402
+  size: 278, 559
+  orig: 283, 565
+  offset: 2, 4
+  index: -1
+xuanzhuandi
+  rotate: false
+  xy: 2, 401
+  size: 492, 560
+  orig: 566, 624
+  offset: 37, 32
+  index: -1

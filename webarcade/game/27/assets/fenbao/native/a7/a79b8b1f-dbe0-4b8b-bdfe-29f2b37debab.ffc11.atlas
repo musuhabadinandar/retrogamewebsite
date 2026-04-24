@@ -1,0 +1,27 @@
+
+skill_12.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line_effcet01
+  rotate: false
+  xy: 2, 2
+  size: 197, 29
+  orig: 200, 31
+  offset: 3, 2
+  index: -1
+line_effcet02
+  rotate: false
+  xy: 2, 66
+  size: 200, 30
+  orig: 200, 31
+  offset: 0, 1
+  index: -1
+line_effcet03
+  rotate: false
+  xy: 2, 33
+  size: 197, 31
+  orig: 200, 31
+  offset: 1, 0
+  index: -1

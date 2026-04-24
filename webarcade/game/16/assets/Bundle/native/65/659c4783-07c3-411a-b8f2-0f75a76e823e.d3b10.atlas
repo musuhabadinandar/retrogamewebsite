@@ -1,0 +1,48 @@
+
+cao.png
+size: 255,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x5a
+  rotate: false
+  xy: 2, 88
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 2, 10
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+图层 765 拷贝 8
+  rotate: true
+  xy: 224, 221
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+图层 776（合并）
+  rotate: true
+  xy: 182, 162
+  size: 89, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+生长中
+  rotate: false
+  xy: 80, 68
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+草
+  rotate: false
+  xy: 182, 140
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1

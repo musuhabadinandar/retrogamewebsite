@@ -1,0 +1,139 @@
+
+DX_MFS.png
+size: 1281,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DX_MFS_TX0001
+  rotate: false
+  xy: 999, 150
+  size: 280, 95
+  orig: 280, 95
+  offset: 0, 0
+  index: -1
+DX_MFS_TX0002
+  rotate: true
+  xy: 348, 49
+  size: 196, 93
+  orig: 280, 95
+  offset: 0, 2
+  index: -1
+DX_MFS_TX0003
+  rotate: false
+  xy: 634, 7
+  size: 280, 85
+  orig: 280, 95
+  offset: 0, 10
+  index: -1
+DX_MFS_TX0004
+  rotate: false
+  xy: 999, 21
+  size: 275, 73
+  orig: 280, 95
+  offset: 5, 21
+  index: -1
+DX_MFS_TX0005
+  rotate: true
+  xy: 2, 7
+  size: 238, 71
+  orig: 280, 95
+  offset: 40, 23
+  index: -1
+DX_MFS_TX0006
+  rotate: true
+  xy: 305, 42
+  size: 203, 41
+  orig: 280, 95
+  offset: 77, 54
+  index: -1
+hityan
+  rotate: true
+  xy: 1149, 107
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 443, 52
+  size: 176, 193
+  orig: 176, 193
+  offset: 0, 0
+  index: -1
+toubu_mfs
+  rotate: true
+  xy: 75, 12
+  size: 233, 228
+  orig: 235, 231
+  offset: 0, 3
+  index: -1
+wuqi_mfs
+  rotate: true
+  xy: 621, 94
+  size: 151, 374
+  orig: 151, 374
+  offset: 0, 0
+  index: -1
+yaoping_mfs
+  rotate: false
+  xy: 916, 9
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 591, 6
+  size: 44, 41
+  orig: 46, 83
+  offset: 0, 25
+  index: -1
+youshangbi
+  rotate: true
+  xy: 997, 96
+  size: 52, 74
+  orig: 89, 91
+  offset: 18, 8
+  index: -1
+youxiabi
+  rotate: true
+  xy: 523, 6
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: true
+  xy: 1180, 115
+  size: 33, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 1073, 98
+  size: 50, 74
+  orig: 51, 75
+  offset: 1, 1
+  index: -1
+zuoshangtui
+  rotate: true
+  xy: 376, 2
+  size: 45, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1
+zuoxiabi
+  rotate: true
+  xy: 453, 6
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 305, 7
+  size: 33, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+p1.png
+size: 390,390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 2
+  size: 301, 386
+  orig: 301, 386
+  offset: 0, 0
+  index: -1

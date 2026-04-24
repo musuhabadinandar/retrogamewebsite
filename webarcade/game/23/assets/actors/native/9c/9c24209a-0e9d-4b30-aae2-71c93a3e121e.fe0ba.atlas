@@ -1,0 +1,55 @@
+
+e10.png
+size: 118,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hys_arm_L1
+  rotate: false
+  xy: 87, 2
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+hys_arm_L2
+  rotate: true
+  xy: 72, 66
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+hys_arm_R1
+  rotate: false
+  xy: 55, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+hys_arm_R2
+  rotate: false
+  xy: 72, 102
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+hys_body
+  rotate: false
+  xy: 2, 7
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+hys_gq1
+  rotate: false
+  xy: 2, 81
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+hys_head1
+  rotate: false
+  xy: 55, 31
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1

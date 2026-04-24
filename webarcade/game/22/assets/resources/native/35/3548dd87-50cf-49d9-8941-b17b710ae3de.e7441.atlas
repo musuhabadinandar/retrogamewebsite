@@ -1,0 +1,48 @@
+
+roleGunner.png
+size: 70,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx01
+  rotate: true
+  xy: 18, 164
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+fx02
+  rotate: false
+  xy: 38, 163
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+fx03
+  rotate: false
+  xy: 2, 168
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+roleGunner_body
+  rotate: true
+  xy: 2, 79
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+roleGunner_gun1
+  rotate: true
+  xy: 2, 141
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+roleGunner_head
+  rotate: true
+  xy: 2, 2
+  size: 75, 66
+  orig: 75, 70
+  offset: 0, 4
+  index: -1

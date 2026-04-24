@@ -1,0 +1,55 @@
+
+ef2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atk02
+  rotate: false
+  xy: 559, 76
+  size: 180, 175
+  orig: 180, 175
+  offset: 0, 0
+  index: -1
+baozha0b
+  rotate: false
+  xy: 741, 99
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+s24skl1_2001b
+  rotate: false
+  xy: 895, 137
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+s24skl1_2001c
+  rotate: false
+  xy: 149, 2
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+s24skl1_2001d
+  rotate: false
+  xy: 2, 5
+  size: 145, 111
+  orig: 145, 111
+  offset: 0, 0
+  index: -1
+thunder001
+  rotate: true
+  xy: 301, 123
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+thunder002w
+  rotate: true
+  xy: 2, 118
+  size: 133, 297
+  orig: 133, 297
+  offset: 0, 0
+  index: -1

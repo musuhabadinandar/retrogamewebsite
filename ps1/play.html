@@ -1,0 +1,1315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PS1 Emulator</title>
+  <style>
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      background: #000;
+      color: #fff;
+      overflow: hidden;
+      font-family: Arial, sans-serif;
+    }
+
+    #game {
+      position: fixed;
+      inset: 0;
+      width: 100vw;
+      height: 100vh;
+      background: #000;
+      overflow: hidden;
+      transition: width 180ms ease, height 180ms ease, transform 180ms ease, filter 180ms ease;
+    }
+
+    #message {
+      position: fixed;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      box-sizing: border-box;
+      text-align: center;
+      color: #ccc;
+      pointer-events: none;
+      z-index: 12;
+      transition: opacity 350ms ease;
+    }
+
+    #message.message-fade {
+      opacity: 0;
+    }
+
+    .message-card {
+      width: min(520px, calc(100vw - 40px));
+      padding: 22px;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 18px;
+      background: rgba(8,10,14,.84);
+      box-shadow: 0 22px 70px rgba(0,0,0,.45);
+      backdrop-filter: blur(14px);
+    }
+
+    .message-card.is-warning {
+      border-color: rgba(255, 194, 102, .38);
+      background: rgba(20, 15, 8, .88);
+    }
+
+    .message-title {
+      display: block;
+      margin-bottom: 10px;
+      color: #fff;
+      font-size: 18px;
+      letter-spacing: .02em;
+    }
+
+    .message-copy {
+      margin: 0;
+      color: #c8d0dc;
+      font-size: 14px;
+      line-height: 1.55;
+    }
+
+    .message-note {
+      display: block;
+      margin-top: 12px;
+      color: #8fa0b6;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .message-size {
+      margin-top: 12px;
+      padding: 10px 12px;
+      border-radius: 12px;
+      background: rgba(255,255,255,.07);
+      color: #dbe7f8;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .message-size strong {
+      color: #fff;
+    }
+
+    body.aspect-4-3 #game {
+      width: min(100vw, calc(100vh * 4 / 3));
+      height: min(100vh, calc(100vw * 3 / 4));
+      top: 50%;
+      left: 50%;
+      right: auto;
+      bottom: auto;
+      transform: translate(-50%, -50%);
+      box-shadow: 0 0 0 1px rgba(255,255,255,.04), 0 25px 90px rgba(0,0,0,.55);
+    }
+
+    body.aspect-fit #game,
+    body.aspect-stretch #game {
+      inset: 0;
+      width: 100vw;
+      height: 100vh;
+      transform: none;
+    }
+
+    body.video-performance #game {
+      filter: none;
+    }
+
+    body.video-sharp #game {
+      filter: contrast(1.04) saturate(1.04);
+    }
+
+    body.video-smooth #game {
+      filter: saturate(1.02);
+    }
+
+    body.video-vivid #game {
+      filter: contrast(1.12) saturate(1.2) brightness(1.03);
+    }
+
+    body.video-crt #game {
+      filter: contrast(1.08) saturate(1.1) brightness(.98);
+    }
+
+    body.video-sharp #game canvas,
+    body.video-performance #game canvas,
+    body.video-crt #game canvas {
+      image-rendering: pixelated;
+      image-rendering: crisp-edges;
+    }
+
+    body.video-smooth #game canvas,
+    body.video-vivid #game canvas {
+      image-rendering: auto;
+    }
+
+    body.video-crt::after {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: 9;
+      pointer-events: none;
+      background:
+        linear-gradient(rgba(255,255,255,.03), rgba(255,255,255,0) 18%),
+        repeating-linear-gradient(
+          to bottom,
+          rgba(255,255,255,.12) 0,
+          rgba(255,255,255,.12) 1px,
+          rgba(0,0,0,.12) 2px,
+          rgba(0,0,0,.12) 4px
+        );
+      mix-blend-mode: soft-light;
+      opacity: .16;
+    }
+
+    body.aspect-stretch #game canvas,
+    body.aspect-stretch #game video {
+      width: 100% !important;
+      height: 100% !important;
+      object-fit: fill !important;
+    }
+
+    .polish-panel,
+    .polish-toggle,
+    .controls-panel,
+    .controls-toggle {
+      position: fixed;
+      z-index: 30;
+      color: #eef3ff;
+      font-size: 12px;
+      letter-spacing: .01em;
+    }
+
+    .polish-panel,
+    .controls-panel {
+      top: 14px;
+      left: 14px;
+      width: min(410px, calc(100vw - 28px));
+      padding: 12px;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 18px;
+      background: rgba(7,10,16,.74);
+      box-shadow: 0 18px 56px rgba(0,0,0,.34);
+      backdrop-filter: blur(14px);
+    }
+
+    .controls-panel {
+      left: auto;
+      right: 14px;
+      width: min(390px, calc(100vw - 28px));
+    }
+
+    .polish-panel.is-hidden,
+    .controls-panel.is-hidden {
+      display: none;
+    }
+
+    .polish-head,
+    .polish-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .polish-head {
+      justify-content: space-between;
+      margin-bottom: 8px;
+    }
+
+    .polish-title {
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .polish-label {
+      min-width: 52px;
+      color: #9fb0ca;
+      font-size: 11px;
+      text-transform: uppercase;
+    }
+
+    .polish-row + .polish-row {
+      margin-top: 8px;
+    }
+
+    .polish-panel button,
+    .controls-panel button,
+    .polish-toggle,
+    .controls-toggle {
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 999px;
+      background: rgba(255,255,255,.08);
+      color: #edf4ff;
+      padding: 6px 10px;
+      cursor: pointer;
+      font: inherit;
+    }
+
+    .polish-panel button:hover,
+    .controls-panel button:hover,
+    .polish-toggle:hover,
+    .controls-toggle:hover {
+      background: rgba(255,255,255,.15);
+    }
+
+    .polish-panel button.is-active,
+    .controls-panel button.is-active {
+      border-color: rgba(123,190,255,.85);
+      background: rgba(77,146,232,.34);
+      color: #fff;
+    }
+
+    .polish-close {
+      padding: 5px 9px !important;
+      color: #aebcd0 !important;
+    }
+
+    .polish-reset {
+      margin-left: auto;
+      color: #aebcd0 !important;
+    }
+
+    .polish-toggle,
+    .controls-toggle {
+      top: 14px;
+      left: 14px;
+      display: none;
+      background: rgba(7,10,16,.76);
+      backdrop-filter: blur(12px);
+    }
+
+    .polish-toggle.is-visible {
+      display: block;
+    }
+
+    .controls-toggle {
+      top: 52px;
+    }
+
+    .controls-toggle.is-visible {
+      display: block;
+    }
+
+    .controls-panel .polish-tip {
+      color: #b8c4d8;
+    }
+
+    body.ps1-pad-opacity-35 .ejs_virtualGamepad_parent { opacity: .35; }
+    body.ps1-pad-opacity-55 .ejs_virtualGamepad_parent { opacity: .55; }
+    body.ps1-pad-opacity-75 .ejs_virtualGamepad_parent { opacity: .75; }
+    body.ps1-pad-opacity-100 .ejs_virtualGamepad_parent { opacity: 1; }
+
+    body .ejs_virtualGamepad_parent {
+      transition: opacity .22s ease;
+    }
+
+    body.ps1-pad-compact .ejs_virtualGamepad_button.cs_psx {
+      filter: saturate(.96);
+    }
+
+    body.ps1-pad-compact .ejs_virtualGamepad_button.cs_psx:not(.b_l1):not(.b_l2):not(.b_r1):not(.b_r2):not(.b_start):not(.b_select):not(.b_speed_fast):not(.b_speed_slow) {
+      width: 44px !important;
+      height: 44px !important;
+      line-height: 44px !important;
+      font-size: 23px !important;
+    }
+
+    body.ps1-pad-large .ejs_virtualGamepad_button.cs_psx:not(.b_start):not(.b_select):not(.b_speed_fast):not(.b_speed_slow),
+    body.ps1-pad-shoulder .ejs_virtualGamepad_button.cs_psx.b_l1,
+    body.ps1-pad-shoulder .ejs_virtualGamepad_button.cs_psx.b_l2,
+    body.ps1-pad-shoulder .ejs_virtualGamepad_button.cs_psx.b_r1,
+    body.ps1-pad-shoulder .ejs_virtualGamepad_button.cs_psx.b_r2 {
+      min-width: 58px !important;
+      height: 40px !important;
+      line-height: 40px !important;
+      font-size: 15px !important;
+    }
+
+    body.ps1-pad-shoulder .ejs_virtualGamepad_button.cs_psx.b_l1,
+    body.ps1-pad-shoulder .ejs_virtualGamepad_button.cs_psx.b_l2,
+    body.ps1-pad-shoulder .ejs_virtualGamepad_button.cs_psx.b_r1,
+    body.ps1-pad-shoulder .ejs_virtualGamepad_button.cs_psx.b_r2,
+    body.ps1-pad-large .ejs_virtualGamepad_button.cs_psx {
+      box-shadow: 0 0 0 2px rgba(147,197,253,.2), 0 12px 30px rgba(0,0,0,.38) !important;
+    }
+
+    body.ps1-pad-left-handed .ejs_virtualGamepad_button.cs_psx {
+      border-color: rgba(56,246,201,.42) !important;
+    }
+
+    .polish-tip {
+      margin-top: 9px;
+      color: #95a8c2;
+      font-size: 11px;
+      line-height: 1.45;
+    }
+
+    .firmware-helper {
+      position: fixed;
+      left: 50%;
+      bottom: 62px;
+      z-index: 42;
+      display: none;
+      width: min(520px, calc(100vw - 28px));
+      transform: translateX(-50%);
+      padding: 14px;
+      border: 1px solid rgba(255, 194, 102, .36);
+      border-radius: 18px;
+      background: rgba(15, 12, 8, .9);
+      box-shadow: 0 18px 54px rgba(0, 0, 0, .45);
+      color: #f8efe0;
+      backdrop-filter: blur(14px);
+    }
+
+    .firmware-helper.is-visible {
+      display: block;
+    }
+
+    .firmware-helper strong {
+      display: block;
+      margin-bottom: 6px;
+      color: #fff7ed;
+      font-size: 13px;
+    }
+
+    .firmware-helper p {
+      margin: 0 0 10px;
+      color: #dfd2bd;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .firmware-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .firmware-actions button {
+      border: 1px solid rgba(255, 255, 255, .14);
+      border-radius: 999px;
+      background: rgba(255, 255, 255, .08);
+      color: #fff7ed;
+      padding: 7px 10px;
+      cursor: pointer;
+      font: inherit;
+      font-size: 12px;
+    }
+
+    .firmware-actions button:hover {
+      background: rgba(255, 255, 255, .16);
+    }
+
+    body.mobile-lite #game {
+      transition: none;
+    }
+
+    body.mobile-lite.video-sharp #game,
+    body.mobile-lite.video-smooth #game,
+    body.mobile-lite.video-vivid #game {
+      filter: none;
+    }
+
+    body.mobile-lite.video-crt::after {
+      display: none;
+    }
+
+    body.mobile-lite .message-card,
+    body.mobile-lite .polish-panel {
+      backdrop-filter: none;
+      box-shadow: 0 14px 34px rgba(0, 0, 0, 0.36);
+    }
+
+    body.mobile-lite .firmware-helper {
+      backdrop-filter: none;
+    }
+
+    .polish-fullscreen {
+      border: 1px solid rgba(147, 197, 253, 0.5);
+      border-radius: 999px;
+      padding: 8px 12px;
+      color: #dbeafe;
+      background: rgba(37, 99, 235, 0.22);
+      cursor: pointer;
+      font: inherit;
+    }
+
+    .polish-fullscreen:focus-visible {
+      outline: 2px solid #93c5fd;
+      outline-offset: 2px;
+    }
+
+    .polish-toggle,
+    .controls-toggle {
+      transition: opacity 0.22s ease, transform 0.22s ease;
+    }
+
+    .polish-toggle.is-auto-hidden,
+    .controls-toggle.is-auto-hidden {
+      opacity: 0;
+      transform: translateY(-10px);
+      pointer-events: none;
+    }
+    @media (max-width: 720px), (pointer: coarse) {
+      .polish-panel,
+      .controls-panel {
+        top: 10px;
+        left: 10px;
+        width: min(360px, calc(100vw - 20px));
+        padding: 10px;
+      }
+
+      .controls-panel {
+        left: 10px;
+        right: auto;
+        top: 58px;
+      }
+
+      .polish-panel button,
+      .controls-panel button,
+      .polish-toggle,
+      .controls-toggle {
+        padding: 7px 9px;
+      }
+
+      .polish-label {
+        width: 100%;
+      }
+
+      .message-card {
+        width: min(430px, calc(100vw - 28px));
+        padding: 18px;
+      }
+
+      .message-title {
+        font-size: 17px;
+      }
+
+      .firmware-helper {
+        bottom: 72px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="game"></div>
+  <div id="message">
+    <div class="message-card">
+      <strong class="message-title">Preparing PS1 disc image...</strong>
+      <p class="message-copy">PS1 CHD files must finish loading into browser memory before the game can boot. On mobile, use Wi-Fi or a local LAN address when possible.</p>
+      <div id="gameSizeInfo" class="message-size">Checking game size...</div>
+      <span class="message-note">If IDM or another download manager appears, exclude localhost, 127.0.0.1, and .chd files.</span>
+      <span class="message-note message-mobile">Mobile: rotate to landscape and tap Fullscreen for better controls. Large CHD files can take minutes on phone data.</span>
+      <span class="message-note">Before leaving a long PS1 game, open the emulator menu and use Save States.</span>
+      <span class="message-note">Audio crackles on Android? Choose Audio Stable or Extra Stable, then reload the game.</span>
+      <span class="message-note">Firmware error such as scph5502.bin? Open PS1 Visual, choose EU BIOS, or switch back to Stable core.</span>
+      <span id="coreInfo" class="message-note"></span>
+    </div>
+  </div>
+  <div id="polishPanel" class="polish-panel" aria-label="PS1 visual polish controls">
+    <div class="polish-head">
+      <span class="polish-title">PS1 Visual</span>
+      <button type="button" class="polish-close" id="hidePolish">Hide</button>
+    </div>
+    <div class="polish-row" role="group" aria-label="Video preset">
+      <span class="polish-label">Video</span>
+      <button type="button" data-video="performance">Performance</button>
+      <button type="button" data-video="sharp">Sharp</button>
+      <button type="button" data-video="smooth">Smooth</button>
+      <button type="button" data-video="vivid">Vivid</button>
+      <button type="button" data-video="crt">CRT Light</button>
+    </div>
+    <div class="polish-row" role="group" aria-label="Aspect mode">
+      <span class="polish-label">Aspect</span>
+      <button type="button" data-aspect="4-3">4:3</button>
+      <button type="button" data-aspect="fit">Fit</button>
+      <button type="button" data-aspect="stretch">Stretch</button>
+      <button type="button" class="polish-reset" id="resetPolish">Reset</button>
+      <button type="button" class="polish-fullscreen" id="fullscreenPolish">Fullscreen</button>
+    </div>
+    <div class="polish-row" role="group" aria-label="Audio stability">
+      <span class="polish-label">Audio</span>
+      <button type="button" data-audio="low">Low</button>
+      <button type="button" data-audio="stable">Stable</button>
+      <button type="button" data-audio="extra">Extra Stable</button>
+    </div>
+    <div class="polish-row" role="group" aria-label="PS1 core">
+      <span class="polish-label">Core</span>
+      <button type="button" data-core="psx">Stable</button>
+      <button type="button" data-core="mednafen_psx_hw">HD Experimental</button>
+    </div>
+    <div class="polish-row" role="group" aria-label="BIOS region">
+      <span class="polish-label">BIOS</span>
+      <button type="button" data-bios="auto">Auto</button>
+      <button type="button" data-bios="jp">JP BIOS</button>
+      <button type="button" data-bios="us">US BIOS</button>
+      <button type="button" data-bios="eu">EU BIOS</button>
+      <button type="button" data-bios="psp">PSP BIOS</button>
+    </div>
+    <div class="polish-tip">Shortcuts: V cycles video, A cycles aspect. Mobile works best in landscape with Performance + Fit, Fullscreen, and save state before leaving. Audio and BIOS changes apply after reload. Missing scph5502.bin means try EU BIOS or Stable core.</div>
+  </div>
+  <button type="button" id="showPolish" class="polish-toggle">PS1 Visual</button>
+  <div id="controlsPanel" class="polish-panel controls-panel is-hidden" aria-label="PS1 controller controls">
+    <div class="polish-head">
+      <span class="polish-title">PS1 Controls</span>
+      <button type="button" class="polish-close" id="hideControls">Hide</button>
+    </div>
+    <div class="polish-row" role="group" aria-label="Controller layout preset">
+      <span class="polish-label">Layout</span>
+      <button type="button" data-control-preset="default">Default</button>
+      <button type="button" data-control-preset="comfort">Comfort</button>
+      <button type="button" data-control-preset="shoulder">Shoulder Focus</button>
+      <button type="button" data-control-preset="compact">Compact</button>
+      <button type="button" data-control-preset="large">Large Buttons</button>
+    </div>
+    <div class="polish-row" role="group" aria-label="Controller options">
+      <span class="polish-label">Options</span>
+      <button type="button" id="toggleLeftHanded">Left Handed</button>
+      <button type="button" class="polish-reset" id="resetControls">Reset</button>
+    </div>
+    <div class="polish-row" role="group" aria-label="Controller opacity">
+      <span class="polish-label">Opacity</span>
+      <button type="button" data-control-opacity="35">35%</button>
+      <button type="button" data-control-opacity="55">55%</button>
+      <button type="button" data-control-opacity="75">75%</button>
+      <button type="button" data-control-opacity="100">100%</button>
+    </div>
+    <div class="polish-tip">Layout changes reload the game because EmulatorJS builds the virtual pad at boot. Opacity changes apply instantly.</div>
+  </div>
+  <button type="button" id="showControls" class="polish-toggle controls-toggle">PS1 Controls</button>
+  <div id="firmwareHelper" class="firmware-helper" aria-live="polite">
+    <strong id="firmwareHelperTitle">PS1 firmware helper</strong>
+    <p id="firmwareHelperCopy">If the game says firmware is missing, try the matching BIOS region. For scph5502.bin, use EU BIOS or switch back to Stable core.</p>
+    <div class="firmware-actions">
+      <button type="button" data-firmware-action="eu">Try EU BIOS</button>
+      <button type="button" data-firmware-action="stable">Switch to Stable</button>
+      <button type="button" data-firmware-action="hide">Dismiss</button>
+    </div>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const polishStorageKey = "ps1VisualPolishV1";
+    const controlsStorageKey = "ps1ControlsV1";
+    const audioLatencyByMode = { low: 64, stable: 128, extra: 192 };
+    const biosFilesByChoice = {
+      auto: "",
+      jp: "scph5500.bin",
+      us: "scph5501.bin",
+      eu: "scph5502.bin",
+      psp: "psxonpsp660.bin"
+    };
+    const mobileLike = window.matchMedia("(max-width: 720px), (pointer: coarse)").matches;
+    const rawCore = (params.get("core") || "").toLowerCase().trim();
+    const selectedCore = ["mednafen_psx_hw", "hw", "hd", "beetle", "beetle_psx_hw"].includes(rawCore) ? "mednafen_psx_hw" : "psx";
+    const selectedCoreLabel = selectedCore === "mednafen_psx_hw" ? "HD Experimental (mednafen_psx_hw)" : "Stable (PCSX ReARMed)";
+    if (mobileLike) { document.body.classList.add('mobile-lite'); }
+    const defaultPolish = mobileLike
+      ? { video: "performance", aspect: "fit", hidden: true, audio: "stable", bios: "auto" }
+      : { video: "sharp", aspect: "4-3", hidden: false, audio: "low", bios: "auto" };
+    const allowedVideo = ["performance", "sharp", "smooth", "vivid", "crt"];
+    const allowedAspect = ["4-3", "fit", "stretch"];
+    const allowedAudio = ["low", "stable", "extra"];
+    const allowedBios = Object.keys(biosFilesByChoice);
+    const allowedControlPresets = ["default", "comfort", "shoulder", "compact", "large"];
+    const allowedControlOpacity = ["35", "55", "75", "100"];
+    const defaultControls = mobileLike
+      ? { preset: "comfort", opacity: "55", hidden: true, leftHanded: false }
+      : { preset: "default", opacity: "75", hidden: true, leftHanded: false };
+
+    function normalizeBiosChoice(value) {
+      const normalized = (value || "").toLowerCase().trim();
+      const fileMap = {
+        "scph5500.bin": "jp",
+        "scph5501.bin": "us",
+        "scph5502.bin": "eu",
+        "psxonpsp660.bin": "psp",
+        "jp": "jp",
+        "japan": "jp",
+        "us": "us",
+        "usa": "us",
+        "eu": "eu",
+        "europe": "eu",
+        "pal": "eu",
+        "psp": "psp",
+        "auto": "auto"
+      };
+      return fileMap[normalized] || "";
+    }
+
+    function loadPolishSettings() {
+      try {
+        const stored = JSON.parse(localStorage.getItem(polishStorageKey) || "{}");
+        const paramBios = normalizeBiosChoice(params.get("bios"));
+        return {
+          video: allowedVideo.includes(params.get("video")) ? params.get("video") : (allowedVideo.includes(stored.video) ? stored.video : defaultPolish.video),
+          aspect: allowedAspect.includes(params.get("aspect")) ? params.get("aspect") : (allowedAspect.includes(stored.aspect) ? stored.aspect : defaultPolish.aspect),
+          hidden: typeof stored.hidden === "boolean" ? stored.hidden : defaultPolish.hidden,
+          audio: allowedAudio.includes(params.get("audio")) ? params.get("audio") : (allowedAudio.includes(stored.audio) ? stored.audio : defaultPolish.audio),
+          bios: paramBios || (allowedBios.includes(stored.bios) ? stored.bios : defaultPolish.bios)
+        };
+      } catch (error) {
+        return { ...defaultPolish };
+      }
+    }
+
+    let polishSettings = loadPolishSettings();
+
+    function loadControlSettings() {
+      try {
+        const stored = JSON.parse(localStorage.getItem(controlsStorageKey) || "{}");
+        const opacity = String(stored.opacity || defaultControls.opacity);
+        return {
+          preset: allowedControlPresets.includes(stored.preset) ? stored.preset : defaultControls.preset,
+          opacity: allowedControlOpacity.includes(opacity) ? opacity : defaultControls.opacity,
+          hidden: typeof stored.hidden === "boolean" ? stored.hidden : defaultControls.hidden,
+          leftHanded: stored.leftHanded === true
+        };
+      } catch (error) {
+        return { ...defaultControls };
+      }
+    }
+
+    let controlSettings = loadControlSettings();
+
+    function savePolishSettings() {
+      localStorage.setItem(polishStorageKey, JSON.stringify(polishSettings));
+    }
+
+    function saveControlSettings() {
+      localStorage.setItem(controlsStorageKey, JSON.stringify(controlSettings));
+    }
+
+    function getAudioLatency() {
+      return audioLatencyByMode[polishSettings.audio] || audioLatencyByMode[defaultPolish.audio] || 64;
+    }
+
+    function applyControlSettings() {
+      document.body.classList.remove(
+        "ps1-pad-default",
+        "ps1-pad-comfort",
+        "ps1-pad-shoulder",
+        "ps1-pad-compact",
+        "ps1-pad-large",
+        "ps1-pad-opacity-35",
+        "ps1-pad-opacity-55",
+        "ps1-pad-opacity-75",
+        "ps1-pad-opacity-100",
+        "ps1-pad-left-handed"
+      );
+
+      document.body.classList.add("ps1-pad-" + controlSettings.preset);
+      document.body.classList.add("ps1-pad-opacity-" + controlSettings.opacity);
+      document.body.classList.toggle("ps1-pad-left-handed", controlSettings.leftHanded);
+
+      document.querySelectorAll("[data-control-preset]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.controlPreset === controlSettings.preset);
+      });
+      document.querySelectorAll("[data-control-opacity]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.controlOpacity === controlSettings.opacity);
+      });
+
+      const leftHandedButton = document.getElementById("toggleLeftHanded");
+      if (leftHandedButton) {
+        leftHandedButton.classList.toggle("is-active", controlSettings.leftHanded);
+      }
+
+      const panel = document.getElementById("controlsPanel");
+      const toggle = document.getElementById("showControls");
+      if (panel && toggle) {
+        panel.classList.toggle("is-hidden", controlSettings.hidden);
+        toggle.classList.toggle("is-visible", controlSettings.hidden);
+        scheduleControlsToggleAutoHide();
+      }
+    }
+
+    function reloadForControlLayout() {
+      const coreInfo = document.getElementById("coreInfo");
+      if (coreInfo) {
+        coreInfo.textContent = "PS1 Controls saved. Reloading the game so EmulatorJS can rebuild the virtual pad.";
+      }
+      window.setTimeout(() => window.location.reload(), 420);
+    }
+
+    function buildPS1VirtualGamepadSettings(settings) {
+      const preset = allowedControlPresets.includes(settings.preset) ? settings.preset : "default";
+      const leftHanded = settings.leftHanded === true;
+      const faceLocation = leftHanded ? "left" : "right";
+      const dpadLocation = leftHanded ? "right" : "left";
+      const layouts = {
+        default: { faceX: 40, faceLeft: 0, faceRight: 81, faceMid: 40, faceBottom: 80, shoulderNear: -92, shoulderFar: -132, shoulderOffset: 3, shoulderFont: 13, centerTop: 50 },
+        comfort: { faceX: 40, faceLeft: -2, faceRight: 84, faceMid: 40, faceBottom: 84, shoulderNear: -84, shoulderFar: -124, shoulderOffset: 6, shoulderFont: 13, centerTop: 50 },
+        shoulder: { faceX: 40, faceLeft: -4, faceRight: 84, faceMid: 40, faceBottom: 84, shoulderNear: -76, shoulderFar: -116, shoulderOffset: 10, shoulderFont: 15, centerTop: 58 },
+        compact: { faceX: 36, faceLeft: 2, faceRight: 72, faceMid: 36, faceBottom: 72, shoulderNear: -76, shoulderFar: -110, shoulderOffset: 4, shoulderFont: 12, centerTop: 42 },
+        large: { faceX: 46, faceLeft: -4, faceRight: 92, faceMid: 46, faceBottom: 92, shoulderNear: -94, shoulderFar: -140, shoulderOffset: 8, shoulderFont: 16, centerTop: 58 }
+      };
+      const layout = layouts[preset] || layouts.default;
+      const shoulderLeftProp = leftHanded ? "right" : "left";
+      const shoulderRightProp = leftHanded ? "left" : "right";
+      const lButtons = {
+        type: "button",
+        location: leftHanded ? "right" : "left",
+        fontSize: layout.shoulderFont,
+        bold: true,
+        block: true
+      };
+      const rButtons = {
+        type: "button",
+        location: leftHanded ? "left" : "right",
+        fontSize: layout.shoulderFont,
+        bold: true,
+        block: true
+      };
+
+      return [
+        { type: "button", text: "Y", id: "y", location: faceLocation, left: layout.faceX, bold: true, input_value: 9 },
+        { type: "button", text: "X", id: "x", location: faceLocation, left: layout.faceLeft, top: layout.faceMid, bold: true, input_value: 1 },
+        { type: "button", text: "B", id: "b", location: faceLocation, left: layout.faceRight, top: layout.faceMid, bold: true, input_value: 8 },
+        { type: "button", text: "A", id: "a", location: faceLocation, left: layout.faceX, top: layout.faceBottom, bold: true, input_value: 0 },
+        { type: "zone", id: "dpad", location: dpadLocation, left: "50%", top: "50%", joystickInput: false, inputValues: [4, 5, 6, 7] },
+        { type: "button", text: "Start", id: "start", location: "center", left: 60, fontSize: 15, block: true, input_value: 3 },
+        { type: "button", text: "Select", id: "select", location: "center", left: -5, fontSize: 15, block: true, input_value: 2 },
+        { ...lButtons, text: "L2", id: "l2", [shoulderLeftProp]: layout.shoulderOffset, top: layout.shoulderFar, input_value: 12 },
+        { ...lButtons, text: "L1", id: "l1", [shoulderLeftProp]: layout.shoulderOffset, top: layout.shoulderNear, input_value: 10 },
+        { ...rButtons, text: "R2", id: "r2", [shoulderRightProp]: layout.shoulderOffset, top: layout.shoulderFar, input_value: 13 },
+        { ...rButtons, text: "R1", id: "r1", [shoulderRightProp]: layout.shoulderOffset, top: layout.shoulderNear, input_value: 11 },
+        { type: "button", text: "Fast", id: "speed_fast", location: "center", left: -35, top: layout.centerTop, fontSize: 15, block: true, input_value: 27 },
+        { type: "button", text: "Slow", id: "speed_slow", location: "center", left: 95, top: layout.centerTop, fontSize: 15, block: true, input_value: 29 }
+      ];
+    }
+
+    function applyPolishSettings() {
+      document.body.classList.remove(
+        "video-performance",
+        "video-sharp",
+        "video-smooth",
+        "video-vivid",
+        "video-crt",
+        "aspect-4-3",
+        "aspect-fit",
+        "aspect-stretch"
+      );
+
+      document.body.classList.add("video-" + polishSettings.video);
+      document.body.classList.add("aspect-" + polishSettings.aspect);
+
+      document.querySelectorAll("[data-video]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.video === polishSettings.video);
+      });
+
+      document.querySelectorAll("[data-aspect]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.aspect === polishSettings.aspect);
+      });
+
+      document.querySelectorAll("[data-audio]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.audio === polishSettings.audio);
+      });
+      document.querySelectorAll("[data-bios]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.bios === polishSettings.bios);
+      });
+      document.querySelectorAll("[data-core]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.core === selectedCore);
+      });
+      const panel = document.getElementById("polishPanel");
+      const toggle = document.getElementById("showPolish");
+      panel.classList.toggle("is-hidden", polishSettings.hidden);
+      toggle.classList.toggle("is-visible", polishSettings.hidden);
+      schedulePolishToggleAutoHide();
+    }
+
+    document.querySelectorAll("[data-video]").forEach((button) => {
+      button.addEventListener("click", () => {
+        polishSettings.video = button.dataset.video;
+        savePolishSettings();
+applyPolishSettings();
+      });
+    });
+
+    document.querySelectorAll("[data-aspect]").forEach((button) => {
+      button.addEventListener("click", () => {
+        polishSettings.aspect = button.dataset.aspect;
+        savePolishSettings();
+applyPolishSettings();
+      });
+    });
+
+    document.querySelectorAll("[data-audio]").forEach((button) => {
+      button.addEventListener("click", () => {
+        polishSettings.audio = button.dataset.audio;
+        savePolishSettings();
+        applyPolishSettings();
+      });
+    });
+
+    document.querySelectorAll("[data-bios]").forEach((button) => {
+      button.addEventListener("click", () => {
+        polishSettings.bios = button.dataset.bios;
+        savePolishSettings();
+        const nextUrl = new URL(window.location.href);
+        if (polishSettings.bios === "auto") {
+          nextUrl.searchParams.delete("bios");
+        } else {
+          nextUrl.searchParams.set("bios", biosFilesByChoice[polishSettings.bios]);
+        }
+        window.location.href = nextUrl.toString();
+      });
+    });
+
+    document.querySelectorAll("[data-core]").forEach((button) => {
+      button.addEventListener("click", () => {
+        const nextUrl = new URL(window.location.href);
+        if (button.dataset.core === "mednafen_psx_hw") {
+          nextUrl.searchParams.set("core", "mednafen_psx_hw");
+        } else {
+          nextUrl.searchParams.delete("core");
+        }
+        window.location.href = nextUrl.toString();
+      });
+    });
+    document.getElementById("hidePolish").addEventListener("click", () => {
+      polishSettings.hidden = true;
+      savePolishSettings();
+applyPolishSettings();
+    });
+
+    document.getElementById("showPolish").addEventListener("click", () => {
+      polishSettings.hidden = false;
+      controlSettings.hidden = true;
+      savePolishSettings();
+      saveControlSettings();
+applyPolishSettings();
+      applyControlSettings();
+    });
+
+    document.querySelectorAll("[data-control-preset]").forEach((button) => {
+      button.addEventListener("click", () => {
+        if (controlSettings.preset === button.dataset.controlPreset) {
+          return;
+        }
+        controlSettings.preset = button.dataset.controlPreset;
+        saveControlSettings();
+        applyControlSettings();
+        reloadForControlLayout();
+      });
+    });
+
+    document.querySelectorAll("[data-control-opacity]").forEach((button) => {
+      button.addEventListener("click", () => {
+        controlSettings.opacity = button.dataset.controlOpacity;
+        saveControlSettings();
+        applyControlSettings();
+      });
+    });
+
+    document.getElementById("toggleLeftHanded").addEventListener("click", () => {
+      controlSettings.leftHanded = !controlSettings.leftHanded;
+      saveControlSettings();
+      applyControlSettings();
+      reloadForControlLayout();
+    });
+
+    document.getElementById("resetControls").addEventListener("click", () => {
+      controlSettings = { ...defaultControls };
+      saveControlSettings();
+      applyControlSettings();
+      reloadForControlLayout();
+    });
+
+    document.getElementById("hideControls").addEventListener("click", () => {
+      controlSettings.hidden = true;
+      saveControlSettings();
+      applyControlSettings();
+    });
+
+    document.getElementById("showControls").addEventListener("click", () => {
+      controlSettings.hidden = false;
+      polishSettings.hidden = true;
+      saveControlSettings();
+      savePolishSettings();
+      applyControlSettings();
+      applyPolishSettings();
+    });
+    const toggleAutoHideEvents = ["mousemove", "touchstart", "keydown", "pointerdown"];
+    let toggleAutoHideTimer = null;
+    let controlsToggleAutoHideTimer = null;
+    let lastPolishRevealAt = 0;
+    let lastControlsRevealAt = 0;
+
+    function requestPlayFullscreen() {
+      const target = document.documentElement;
+      try {
+        if (document.fullscreenElement) {
+          const exitResult = document.exitFullscreen && document.exitFullscreen();
+          if (exitResult && exitResult.catch) {
+            exitResult.catch(() => {});
+          }
+          return;
+        }
+        const requestResult = target.requestFullscreen && target.requestFullscreen();
+        if (requestResult && requestResult.catch) {
+          requestResult.catch(() => {});
+        }
+      } catch (error) {}
+    }
+
+    function schedulePolishToggleAutoHide() {
+      document.querySelectorAll("[data-audio]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.audio === polishSettings.audio);
+      });
+      const panel = document.getElementById("polishPanel");
+      const toggle = document.getElementById("showPolish");
+      if (!mobileLike || !toggle || !panel) {
+        return;
+      }
+      window.clearTimeout(toggleAutoHideTimer);
+      if (!panel.classList.contains("is-hidden")) {
+        toggle.classList.remove("is-auto-hidden");
+        return;
+      }
+      toggleAutoHideTimer = window.setTimeout(() => {
+        toggle.classList.add("is-auto-hidden");
+      }, 8000);
+    }
+
+    function revealPolishToggle() {
+      const toggle = document.getElementById("showPolish");
+      if (!mobileLike || !toggle) {
+        return;
+      }
+      const now = Date.now();
+      if (now - lastPolishRevealAt < 750) {
+        return;
+      }
+      lastPolishRevealAt = now;
+      toggle.classList.remove("is-auto-hidden");
+      schedulePolishToggleAutoHide();
+    }
+
+    function scheduleControlsToggleAutoHide() {
+      const panel = document.getElementById("controlsPanel");
+      const toggle = document.getElementById("showControls");
+      if (!mobileLike || !toggle || !panel) {
+        return;
+      }
+      window.clearTimeout(controlsToggleAutoHideTimer);
+      if (!panel.classList.contains("is-hidden")) {
+        toggle.classList.remove("is-auto-hidden");
+        return;
+      }
+      controlsToggleAutoHideTimer = window.setTimeout(() => {
+        toggle.classList.add("is-auto-hidden");
+      }, 8000);
+    }
+
+    function revealControlsToggle() {
+      const toggle = document.getElementById("showControls");
+      if (!mobileLike || !toggle) {
+        return;
+      }
+      const now = Date.now();
+      if (now - lastControlsRevealAt < 750) {
+        return;
+      }
+      lastControlsRevealAt = now;
+      toggle.classList.remove("is-auto-hidden");
+      scheduleControlsToggleAutoHide();
+    }
+
+    const fullscreenButton = document.getElementById("fullscreenPolish");
+    if (fullscreenButton) {
+      fullscreenButton.addEventListener("click", requestPlayFullscreen);
+    }
+
+    if (mobileLike && window.MutationObserver) {
+      document.querySelectorAll("[data-audio]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.audio === polishSettings.audio);
+      });
+      document.querySelectorAll("[data-bios]").forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.bios === polishSettings.bios);
+      });
+      const panel = document.getElementById("polishPanel");
+      if (panel) {
+        const panelVisibilityObserver = new MutationObserver(schedulePolishToggleAutoHide);
+        panelVisibilityObserver.observe(panel, { attributes: true, attributeFilter: ["class"] });
+      }
+    }
+
+    if (mobileLike) {
+      toggleAutoHideEvents.forEach((eventName) => {
+        window.addEventListener(eventName, revealPolishToggle, { passive: true });
+        window.addEventListener(eventName, revealControlsToggle, { passive: true });
+      });
+    }
+    applyControlSettings();
+    applyPolishSettings();
+    const coreInfo = document.getElementById("coreInfo");
+    if (coreInfo) {
+      coreInfo.textContent = "Core: " + selectedCoreLabel + ". Stable is recommended; HD Experimental may be heavier on mobile.";
+    }
+
+    function resetPolishSettings() {
+      polishSettings = { ...defaultPolish };
+      savePolishSettings();
+applyPolishSettings();
+    }
+
+    document.getElementById("resetPolish").addEventListener("click", resetPolishSettings);
+
+    function cycleSetting(kind, allowed) {
+      const current = polishSettings[kind];
+      const index = allowed.indexOf(current);
+      polishSettings[kind] = allowed[(index + 1) % allowed.length] || allowed[0];
+      savePolishSettings();
+applyPolishSettings();
+    }
+
+    document.addEventListener("keydown", (event) => {
+      if (event.target && ["INPUT", "TEXTAREA", "SELECT"].includes(event.target.tagName)) {
+        return;
+      }
+      if (event.key.toLowerCase() === "v") {
+        cycleSetting("video", allowedVideo);
+      }
+      if (event.key.toLowerCase() === "a") {
+        cycleSetting("aspect", allowedAspect);
+      }
+    });
+
+    function decodeLegacyFile(value) {
+      if (!value) {
+        return "";
+      }
+
+      try {
+        const binary = atob(value.replace(/ /g, "+"));
+        const bytes = Uint8Array.from(binary, (char) => char.charCodeAt(0));
+        return new TextDecoder("utf-8").decode(bytes);
+      } catch (error) {
+        return "";
+      }
+    }
+
+    function encodePath(path) {
+      return path
+        .replace(/\\/g, "/")
+        .split("/")
+        .filter(Boolean)
+        .map((part) => encodeURIComponent(part))
+        .join("/");
+    }
+
+    function hasUnsafeGamePath(path) {
+      const normalizedPath = path.replace(/\\/g, "/");
+      if (!normalizedPath || normalizedPath.startsWith("/") || /^[a-z]:\//i.test(normalizedPath)) {
+        return true;
+      }
+      return normalizedPath.split("/").some((part) => part === "..");
+    }
+
+    function chooseBiosUrl(path) {
+      const selectedBiosFile = biosFilesByChoice[polishSettings.bios];
+      if (selectedBiosFile) {
+        return "bios/" + selectedBiosFile;
+      }
+
+      const lowerPath = path.toLowerCase();
+      if (lowerPath.includes("japan") || lowerPath.includes("(j)") || lowerPath.includes("[j]")) {
+        return "bios/scph5500.bin";
+      }
+      if (lowerPath.includes("europe") || lowerPath.includes("(e)") || lowerPath.includes("[e]") || lowerPath.includes("pal")) {
+        return "bios/scph5502.bin";
+      }
+
+      return "bios/scph5501.bin";
+    }
+
+    function buildExternalBiosFiles() {
+      if (params.get("mountbios") !== "1") {
+        return {};
+      }
+      return {
+        "/home/web_user/retroarch/system/scph5500.bin": "bios/scph5500.bin",
+        "/home/web_user/retroarch/system/scph5501.bin": "bios/scph5501.bin",
+        "/home/web_user/retroarch/system/scph5502.bin": "bios/scph5502.bin",
+        "/home/web_user/retroarch/system/psxonpsp660.bin": "bios/psxonpsp660.bin"
+      };
+    }
+
+    function showFirmwareHelper(missingFirmware) {
+      const helper = document.getElementById("firmwareHelper");
+      const copy = document.getElementById("firmwareHelperCopy");
+      if (!helper || !copy) {
+        return;
+      }
+      const firmware = missingFirmware || "PS1 BIOS";
+      if (firmware.toLowerCase() === "scph5502.bin") {
+        copy.textContent = "The game is asking for scph5502.bin. Try EU BIOS, or switch back to Stable core if you are using HD Experimental.";
+      } else {
+        copy.textContent = "The game is asking for " + firmware + ". Try the matching BIOS region, or switch back to Stable core if HD Experimental is active.";
+      }
+      helper.classList.add("is-visible");
+    }
+
+    function hideFirmwareHelper() {
+      const helper = document.getElementById("firmwareHelper");
+      if (helper) {
+        helper.classList.remove("is-visible");
+      }
+    }
+
+    document.querySelectorAll("[data-firmware-action]").forEach((button) => {
+      button.addEventListener("click", () => {
+        const action = button.dataset.firmwareAction;
+        if (action === "hide") {
+          hideFirmwareHelper();
+          return;
+        }
+        const nextUrl = new URL(window.location.href);
+        if (action === "eu") {
+          polishSettings.bios = "eu";
+          nextUrl.searchParams.set("bios", "scph5502.bin");
+        }
+        if (action === "stable") {
+          nextUrl.searchParams.delete("core");
+        }
+        savePolishSettings();
+        window.location.href = nextUrl.toString();
+      });
+    });
+
+    function watchForFirmwareError() {
+      const gameElement = document.getElementById("game");
+      if (!gameElement || !window.MutationObserver) {
+        return;
+      }
+      const inspectText = () => {
+        const text = gameElement.innerText || "";
+        const match = text.match(/(?:firmware|bios).{0,80}?(scph\d+\.bin|psxonpsp660\.bin)/i) || text.match(/(scph5502\.bin|scph5501\.bin|scph5500\.bin|psxonpsp660\.bin)/i);
+        if (match) {
+          showFirmwareHelper(match[1]);
+        }
+      };
+      const observer = new MutationObserver(inspectText);
+      observer.observe(gameElement, { childList: true, subtree: true, characterData: true });
+      window.setTimeout(inspectText, 12000);
+    }
+
+    function formatBytes(bytes) {
+      if (!Number.isFinite(bytes) || bytes <= 0) {
+        return "unknown size";
+      }
+      const units = ["B", "KB", "MB", "GB"];
+      let value = bytes;
+      let unitIndex = 0;
+      while (value >= 1024 && unitIndex < units.length - 1) {
+        value /= 1024;
+        unitIndex++;
+      }
+      return `${value.toFixed(unitIndex === 0 ? 0 : 1)} ${units[unitIndex]}`;
+    }
+
+    function classifyGameSize(bytes) {
+      const mb = bytes / 1048576;
+      if (mb <= 150) {
+        return {
+          label: "Mobile friendly",
+          text: "This is a small PS1 CHD. It is the best class for Android/iPhone first-load testing."
+        };
+      }
+      if (mb <= 400) {
+        return {
+          label: "Medium",
+          text: "This should work on mobile over good Wi-Fi, but first load can still take several minutes."
+        };
+      }
+      if (mb <= 700) {
+        return {
+          label: "Large",
+          text: "Desktop or fast Wi-Fi is recommended. Mobile browsers may take a long time before boot."
+        };
+      }
+      return {
+        label: "Huge",
+        text: "This is not recommended for mobile. Use desktop, LAN, or a smaller CHD when available."
+      };
+    }
+
+    async function updateGameSizeInfo(gameUrl) {
+      const sizeInfo = document.getElementById("gameSizeInfo");
+      const card = document.querySelector(".message-card");
+      try {
+        const response = await fetch(gameUrl, { method: "HEAD", cache: "no-store" });
+        const length = Number(response.headers.get("content-length"));
+        if (!Number.isFinite(length) || length <= 0) {
+          sizeInfo.textContent = "Game size could not be detected. If loading seems stuck, wait for Download Game Data to reach 100%.";
+          return;
+        }
+        const sizeClass = classifyGameSize(length);
+        sizeInfo.innerHTML = `<strong>${sizeClass.label}:</strong> ${formatBytes(length)} CHD. ${sizeClass.text}`;
+        if (length > 400 * 1048576) {
+          card.classList.add("is-warning");
+        }
+      } catch (error) {
+        sizeInfo.textContent = "Game size check failed. The emulator will still try to load the CHD directly.";
+      }
+    }
+
+    const file = params.get("file") || decodeLegacyFile(params.get("f"));
+    const message = document.getElementById("message");
+
+    if (!file || hasUnsafeGamePath(file)) {
+      message.textContent = "PS1 game file is missing or invalid.";
+    } else {
+      const normalizedFile = file.replace(/\\/g, "/");
+      const encodedFile = encodePath(normalizedFile);
+      const fileName = normalizedFile.split("/").pop() || "PS1 Game";
+
+      window.EJS_player = "#game";
+      window.EJS_gameName = fileName.replace(/\.[^.]+$/, "");
+      window.EJS_biosUrl = chooseBiosUrl(normalizedFile);
+      window.EJS_gameUrl = "games/" + encodedFile;
+      window.EJS_core = "psx";
+      window.EJS_controlScheme = "psx";
+      window.EJS_VirtualGamepadSettings = buildPS1VirtualGamepadSettings(controlSettings);
+      window.EJS_defaultOptions = {
+        retroarch_core: selectedCore === "mednafen_psx_hw" ? "mednafen_psx_hw" : "pcsx_rearmed"
+      };
+      if (selectedCore === "mednafen_psx_hw") {
+        window.EJS_defaultOptions = {
+          retroarch_core: "mednafen_psx_hw"
+        };
+      }
+      window.EJS_pathtodata = "data/";
+      window.EJS_startOnLoaded = true;
+      window.EJS_disableDatabases = true;
+      window.EJS_forceLegacyCores = true;
+      window.EJS_threads = false;
+      window.EJS_cacheLimit = 0;
+      window.EJS_CacheLimit = 0;
+      window.EJS_audioLatency = getAudioLatency();
+      window.EJS_externalFiles = buildExternalBiosFiles();
+      window.EJS_ready = function() {
+        if (selectedCore === "mednafen_psx_hw" || polishSettings.bios === "eu") {
+          window.setTimeout(() => showFirmwareHelper("scph5502.bin"), 14000);
+        }
+      };
+
+      updateGameSizeInfo(window.EJS_gameUrl);
+      watchForFirmwareError();
+
+      const script = document.createElement("script");
+      script.src = "data/loader.js";
+      script.addEventListener("load", () => {
+        window.setTimeout(() => message.classList.add("message-fade"), mobileLike ? 9000 : 5000);
+        window.setTimeout(() => message.remove(), mobileLike ? 9600 : 5600);
+      });
+      document.body.appendChild(script);
+    }
+  </script>
+</body>
+</html>

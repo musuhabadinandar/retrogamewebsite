@@ -1,0 +1,265 @@
+
+geliya.png
+size: 1397,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+atelasi/qugana
+  rotate: true
+  xy: 343, 199
+  size: 337, 320
+  orig: 337, 320
+  offset: 0, 0
+  index: -1
+atelasi/yaodai
+  rotate: true
+  xy: 786, 109
+  size: 88, 179
+  orig: 96, 179
+  offset: 4, 0
+  index: -1
+atelasi/youdatui
+  rotate: false
+  xy: 1295, 407
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+atelasi/youshangbi
+  rotate: true
+  xy: 2, 53
+  size: 113, 199
+  orig: 113, 199
+  offset: 0, 0
+  index: -1
+atelasi/youxiabi
+  rotate: true
+  xy: 985, 11
+  size: 102, 153
+  orig: 102, 153
+  offset: 0, 0
+  index: -1
+atelasi/youxiaotui
+  rotate: true
+  xy: 1334, 249
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+atelasi/zuodatui
+  rotate: true
+  xy: 967, 115
+  size: 82, 78
+  orig: 100, 78
+  offset: 18, 0
+  index: -1
+atelasi/zuojian
+  rotate: false
+  xy: 987, 388
+  size: 113, 148
+  orig: 113, 148
+  offset: 0, 0
+  index: -1
+atelasi/zuoshangbi
+  rotate: false
+  xy: 1225, 336
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+atelasi/zuoshangbi2
+  rotate: true
+  xy: 1162, 358
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+atelasi/zuoxiabi
+  rotate: true
+  xy: 120, 2
+  size: 49, 116
+  orig: 49, 116
+  offset: 0, 0
+  index: -1
+atelasi/zuoxiabi2
+  rotate: false
+  xy: 987, 199
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+atelasi/zuoxiaotui
+  rotate: true
+  xy: 1102, 483
+  size: 53, 100
+  orig: 53, 100
+  offset: 0, 0
+  index: -1
+cangeliya/qugana
+  rotate: false
+  xy: 2, 168
+  size: 339, 368
+  orig: 339, 369
+  offset: 0, 1
+  index: -1
+cangeliya/yaodai
+  rotate: true
+  xy: 605, 97
+  size: 100, 179
+  orig: 101, 179
+  offset: 0, 0
+  index: -1
+cangeliya/youdatui
+  rotate: true
+  xy: 1102, 243
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+cangeliya/youshangbi
+  rotate: true
+  xy: 203, 53
+  size: 113, 199
+  orig: 113, 199
+  offset: 0, 0
+  index: -1
+cangeliya/youxiabi
+  rotate: true
+  xy: 1140, 19
+  size: 102, 153
+  orig: 102, 153
+  offset: 0, 0
+  index: -1
+cangeliya/youxiaotui
+  rotate: false
+  xy: 1295, 94
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+cangeliya/zuodatui
+  rotate: false
+  xy: 444, 4
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+cangeliya/zuojian
+  rotate: false
+  xy: 987, 238
+  size: 113, 148
+  orig: 113, 148
+  offset: 0, 0
+  index: -1
+cangeliya/zuoshangbi
+  rotate: false
+  xy: 1225, 437
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+cangeliya/zuoshangbi2
+  rotate: true
+  xy: 1102, 358
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+cangeliya/zuoxiabi
+  rotate: true
+  xy: 2, 2
+  size: 49, 116
+  orig: 49, 116
+  offset: 0, 0
+  index: -1
+cangeliya/zuoxiabi2
+  rotate: false
+  xy: 356, 14
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+cangeliya/zuoxiaotui
+  rotate: true
+  xy: 1102, 428
+  size: 53, 100
+  orig: 53, 100
+  offset: 0, 0
+  index: -1
+geliya/qugana
+  rotate: true
+  xy: 665, 199
+  size: 337, 320
+  orig: 337, 320
+  offset: 0, 0
+  index: -1
+geliya/yaodai
+  rotate: true
+  xy: 650, 2
+  size: 93, 178
+  orig: 101, 179
+  offset: 8, 1
+  index: -1
+geliya/youdatui
+  rotate: true
+  xy: 1225, 150
+  size: 91, 129
+  orig: 91, 129
+  offset: 0, 0
+  index: -1
+geliya/youshangbi
+  rotate: true
+  xy: 404, 84
+  size: 113, 199
+  orig: 113, 199
+  offset: 0, 0
+  index: -1
+geliya/youxiabi
+  rotate: true
+  xy: 830, 5
+  size: 102, 153
+  orig: 102, 153
+  offset: 0, 0
+  index: -1
+geliya/youxiaotui
+  rotate: false
+  xy: 1282, 351
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+geliya/zuodatui
+  rotate: false
+  xy: 547, 4
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+geliya/zuojian
+  rotate: true
+  xy: 1075, 123
+  size: 113, 148
+  orig: 113, 148
+  offset: 0, 0
+  index: -1
+geliya/zuoshangbi
+  rotate: true
+  xy: 1233, 279
+  size: 55, 99
+  orig: 55, 99
+  offset: 0, 0
+  index: -1
+geliya/zuoxiabi
+  rotate: true
+  xy: 238, 2
+  size: 49, 116
+  orig: 49, 116
+  offset: 0, 0
+  index: -1
+geliya/zuoxiaotui
+  rotate: true
+  xy: 1295, 39
+  size: 53, 100
+  orig: 53, 100
+  offset: 0, 0
+  index: -1

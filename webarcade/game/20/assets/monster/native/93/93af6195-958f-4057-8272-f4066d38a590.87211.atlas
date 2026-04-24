@@ -1,0 +1,97 @@
+
+monster_4.png
+size: 183,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+my4_st
+  rotate: true
+  xy: 19, 2
+  size: 10, 43
+  orig: 10, 43
+  offset: 0, 0
+  index: -1
+my4_tf
+  rotate: true
+  xy: 60, 29
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+my4_tou
+  rotate: true
+  xy: 141, 34
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+my4_wq
+  rotate: false
+  xy: 19, 14
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+my4_ys1
+  rotate: true
+  xy: 82, 4
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+my4_ys2
+  rotate: true
+  xy: 64, 3
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+my4_yt1
+  rotate: false
+  xy: 93, 8
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+my4_yt2
+  rotate: true
+  xy: 124, 2
+  size: 6, 30
+  orig: 6, 30
+  offset: 0, 0
+  index: -1
+my4_zs1
+  rotate: true
+  xy: 110, 9
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+my4_zs2
+  rotate: false
+  xy: 124, 10
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+my4_zt1
+  rotate: false
+  xy: 163, 5
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+my4_zt2
+  rotate: true
+  xy: 135, 11
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 6
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1

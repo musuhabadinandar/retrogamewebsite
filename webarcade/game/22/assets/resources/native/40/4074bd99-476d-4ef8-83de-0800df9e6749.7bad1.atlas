@@ -1,0 +1,69 @@
+
+fx_longspear_01_green.png
+size: 1719,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arms
+  rotate: true
+  xy: 2, 172
+  size: 126, 860
+  orig: 134, 877
+  offset: 4, 12
+  index: -1
+hightligight
+  rotate: false
+  xy: 498, 16
+  size: 124, 124
+  orig: 138, 138
+  offset: 7, 7
+  index: -1
+line0
+  rotate: true
+  xy: 300, 142
+  size: 28, 372
+  orig: 32, 376
+  offset: 2, 2
+  index: -1
+outlight
+  rotate: false
+  xy: 674, 21
+  size: 149, 149
+  orig: 157, 157
+  offset: 4, 4
+  index: -1
+star
+  rotate: false
+  xy: 300, 2
+  size: 196, 138
+  orig: 201, 144
+  offset: 3, 3
+  index: -1
+win1
+  rotate: true
+  xy: 2, 26
+  size: 144, 296
+  orig: 149, 303
+  offset: 2, 4
+  index: -1
+win2
+  rotate: false
+  xy: 1533, 21
+  size: 184, 277
+  orig: 188, 282
+  offset: 2, 3
+  index: -1
+win3
+  rotate: true
+  xy: 864, 19
+  size: 279, 343
+  orig: 283, 349
+  offset: 2, 2
+  index: -1
+win4
+  rotate: false
+  xy: 1209, 10
+  size: 322, 288
+  orig: 326, 293
+  offset: 2, 3
+  index: -1

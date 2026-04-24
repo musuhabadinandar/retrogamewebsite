@@ -1,0 +1,118 @@
+
+DiWangJiangLing.png
+size: 777,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 8
+  size: 310, 130
+  orig: 310, 130
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 283
+  size: 288, 161
+  orig: 288, 161
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 496
+  size: 484, 46
+  orig: 484, 46
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 446
+  size: 479, 48
+  orig: 479, 48
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 140
+  size: 287, 141
+  orig: 287, 141
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 488, 417
+  size: 287, 125
+  orig: 287, 125
+  offset: 0, 0
+  index: -1
+DiWangJiangLing
+  rotate: false
+  xy: 483, 371
+  size: 287, 44
+  orig: 287, 44
+  offset: 0, 0
+  index: -1
+TX1
+  rotate: false
+  xy: 292, 348
+  size: 189, 96
+  orig: 194, 101
+  offset: 3, 3
+  index: -1
+TX2
+  rotate: false
+  xy: 483, 267
+  size: 174, 102
+  orig: 179, 105
+  offset: 3, 2
+  index: -1
+TX3
+  rotate: false
+  xy: 292, 240
+  size: 177, 106
+  orig: 182, 110
+  offset: 3, 2
+  index: -1
+TX4
+  rotate: false
+  xy: 471, 159
+  size: 174, 106
+  orig: 179, 110
+  offset: 3, 3
+  index: -1
+TX5
+  rotate: true
+  xy: 659, 218
+  size: 151, 112
+  orig: 157, 119
+  offset: 3, 5
+  index: -1
+TX6
+  rotate: false
+  xy: 587, 43
+  size: 154, 114
+  orig: 159, 119
+  offset: 3, 3
+  index: -1
+TX7
+  rotate: false
+  xy: 424, 45
+  size: 161, 112
+  orig: 166, 118
+  offset: 3, 3
+  index: -1
+TX8
+  rotate: true
+  xy: 314, 2
+  size: 138, 108
+  orig: 143, 114
+  offset: 2, 3
+  index: -1
+TX9
+  rotate: true
+  xy: 291, 142
+  size: 96, 107
+  orig: 103, 111
+  offset: 2, 2
+  index: -1

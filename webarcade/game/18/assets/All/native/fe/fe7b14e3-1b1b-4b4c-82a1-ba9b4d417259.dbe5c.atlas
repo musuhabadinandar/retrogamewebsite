@@ -1,0 +1,153 @@
+
+lihui4.png
+size: 1588,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gksr_bao
+  rotate: false
+  xy: 2, 13
+  size: 567, 437
+  orig: 569, 526
+  offset: 1, 88
+  index: -1
+gksr_bs
+  rotate: false
+  xy: 929, 8
+  size: 57, 57
+  orig: 70, 59
+  offset: 5, 1
+  index: -1
+gksr_d1
+  rotate: true
+  xy: 748, 9
+  size: 60, 96
+  orig: 62, 98
+  offset: 1, 1
+  index: -1
+gksr_d2
+  rotate: false
+  xy: 1525, 96
+  size: 61, 96
+  orig: 63, 98
+  offset: 1, 1
+  index: -1
+gksr_lian
+  rotate: false
+  xy: 1253, 86
+  size: 133, 124
+  orig: 155, 150
+  offset: 9, 25
+  index: -1
+gksr_s1
+  rotate: false
+  xy: 1491, 347
+  size: 56, 103
+  orig: 62, 113
+  offset: 5, 7
+  index: -1
+gksr_s2
+  rotate: true
+  xy: 1388, 87
+  size: 105, 135
+  orig: 119, 139
+  offset: 13, 1
+  index: -1
+gksr_s3
+  rotate: false
+  xy: 1549, 403
+  size: 18, 47
+  orig: 20, 49
+  offset: 1, 1
+  index: -1
+gksr_sha1
+  rotate: true
+  xy: 571, 5
+  size: 49, 87
+  orig: 52, 89
+  offset: 1, 1
+  index: -1
+gksr_sha2
+  rotate: false
+  xy: 1321, 2
+  size: 56, 82
+  orig: 58, 84
+  offset: 1, 1
+  index: -1
+gksr_sha3
+  rotate: true
+  xy: 660, 5
+  size: 49, 86
+  orig: 51, 88
+  offset: 1, 1
+  index: -1
+gksr_sha4
+  rotate: true
+  xy: 846, 5
+  size: 60, 81
+  orig: 62, 83
+  offset: 1, 1
+  index: -1
+gksr_sha5
+  rotate: false
+  xy: 1253, 2
+  size: 66, 82
+  orig: 68, 84
+  offset: 1, 1
+  index: -1
+gksr_st
+  rotate: true
+  xy: 1000, 4
+  size: 206, 251
+  orig: 208, 253
+  offset: 1, 1
+  index: -1
+gksr_t1
+  rotate: true
+  xy: 1000, 212
+  size: 124, 441
+  orig: 126, 443
+  offset: 1, 1
+  index: -1
+gksr_t2
+  rotate: true
+  xy: 1000, 338
+  size: 112, 489
+  orig: 114, 492
+  offset: 1, 1
+  index: -1
+gksr_tf1
+  rotate: true
+  xy: 1443, 194
+  size: 142, 143
+  orig: 142, 150
+  offset: 0, 7
+  index: -1
+gksr_tf2
+  rotate: false
+  xy: 571, 56
+  size: 154, 136
+  orig: 158, 150
+  offset: 0, 14
+  index: -1
+gksr_xb
+  rotate: true
+  xy: 886, 67
+  size: 125, 112
+  orig: 127, 114
+  offset: 1, 1
+  index: -1
+gksr_xz
+  rotate: false
+  xy: 571, 194
+  size: 427, 256
+  orig: 429, 267
+  offset: 1, 10
+  index: -1
+gksr_yd
+  rotate: false
+  xy: 727, 71
+  size: 157, 121
+  orig: 159, 123
+  offset: 1, 1
+  index: -1

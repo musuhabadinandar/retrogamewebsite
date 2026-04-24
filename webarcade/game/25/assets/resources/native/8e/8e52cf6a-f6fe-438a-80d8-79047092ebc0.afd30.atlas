@@ -1,0 +1,132 @@
+
+zhuibingshu_TX.png
+size: 842,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz1
+  rotate: false
+  xy: 2, 2
+  size: 121, 50
+  orig: 123, 51
+  offset: 2, 1
+  index: -1
+bz2
+  rotate: false
+  xy: 748, 716
+  size: 91, 166
+  orig: 92, 167
+  offset: 0, 0
+  index: -1
+bz3
+  rotate: false
+  xy: 183, 32
+  size: 227, 125
+  orig: 228, 125
+  offset: 1, 0
+  index: -1
+di
+  rotate: false
+  xy: 335, 192
+  size: 219, 68
+  orig: 221, 70
+  offset: 1, 1
+  index: -1
+guang2
+  rotate: false
+  xy: 412, 46
+  size: 215, 144
+  orig: 215, 144
+  offset: 0, 0
+  index: -1
+luo_00
+  rotate: true
+  xy: 366, 573
+  size: 128, 383
+  orig: 128, 438
+  offset: 0, 0
+  index: -1
+luo_01
+  rotate: false
+  xy: 183, 159
+  size: 150, 384
+  orig: 150, 453
+  offset: 0, 0
+  index: -1
+luo_02
+  rotate: true
+  xy: 366, 884
+  size: 150, 464
+  orig: 150, 489
+  offset: 0, 0
+  index: -1
+luo_03
+  rotate: false
+  xy: 2, 54
+  size: 179, 489
+  orig: 181, 489
+  offset: 2, 0
+  index: -1
+luo_04
+  rotate: false
+  xy: 2, 545
+  size: 181, 489
+  orig: 181, 489
+  offset: 0, 0
+  index: -1
+luo_05
+  rotate: false
+  xy: 185, 579
+  size: 179, 455
+  orig: 179, 489
+  offset: 0, 7
+  index: -1
+luo_06
+  rotate: true
+  xy: 366, 703
+  size: 179, 380
+  orig: 179, 440
+  offset: 0, 36
+  index: -1
+luo_07
+  rotate: false
+  xy: 335, 262
+  size: 145, 309
+  orig: 177, 354
+  offset: 32, 26
+  index: -1
+zhenbo1
+  rotate: false
+  xy: 629, 14
+  size: 104, 264
+  orig: 120, 300
+  offset: 7, 18
+  index: -1
+zhenbo2
+  rotate: false
+  xy: 717, 289
+  size: 111, 282
+  orig: 120, 300
+  offset: 4, 9
+  index: -1
+zhenbo3
+  rotate: false
+  xy: 600, 280
+  size: 115, 291
+  orig: 120, 300
+  offset: 2, 5
+  index: -1
+zhenbo4
+  rotate: false
+  xy: 482, 276
+  size: 116, 295
+  orig: 120, 300
+  offset: 1, 3
+  index: -1
+zhenbo5
+  rotate: false
+  xy: 735, 37
+  size: 105, 250
+  orig: 120, 300
+  offset: 7, 23
+  index: -1

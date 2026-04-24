@@ -1,0 +1,13 @@
+
+fx_seriousinjury.png
+size: 325,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/light
+  rotate: false
+  xy: 2, 2
+  size: 321, 81
+  orig: 321, 81
+  offset: 0, 0
+  index: -1

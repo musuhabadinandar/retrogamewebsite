@@ -1,0 +1,55 @@
+
+renwu2.png
+size: 633,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N2-xiao/lian
+  rotate: true
+  xy: 402, 3
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+N2-xiao/liuhai
+  rotate: false
+  xy: 488, 12
+  size: 21, 84
+  orig: 24, 84
+  offset: 3, 0
+  index: -1
+N2-xiao/liuhai1
+  rotate: true
+  xy: 402, 72
+  size: 24, 84
+  orig: 24, 84
+  offset: 0, 0
+  index: -1
+N2-xiao/toufa
+  rotate: true
+  xy: 518, 18
+  size: 82, 95
+  orig: 82, 97
+  offset: 0, 2
+  index: -1
+N2-xiao/xiuzi
+  rotate: false
+  xy: 518, 102
+  size: 113, 178
+  orig: 113, 178
+  offset: 0, 0
+  index: -1
+N2-xiao/xiuzi1
+  rotate: false
+  xy: 402, 98
+  size: 114, 182
+  orig: 114, 182
+  offset: 0, 0
+  index: -1
+N2-xiao/yifu
+  rotate: false
+  xy: 2, 2
+  size: 398, 278
+  orig: 398, 279
+  offset: 0, 0
+  index: -1

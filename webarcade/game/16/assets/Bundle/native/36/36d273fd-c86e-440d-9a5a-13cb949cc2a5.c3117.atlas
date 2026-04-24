@@ -1,0 +1,41 @@
+
+fabao9.png
+size: 292,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fq_hshan01
+  rotate: false
+  xy: 124, 14
+  size: 166, 101
+  orig: 166, 101
+  offset: 0, 0
+  index: -1
+fq_hshan02
+  rotate: false
+  xy: 124, 122
+  size: 13, 51
+  orig: 13, 51
+  offset: 0, 0
+  index: -1
+fq_hshan03
+  rotate: true
+  xy: 2, 29
+  size: 144, 120
+  orig: 144, 120
+  offset: 0, 0
+  index: -1
+fq_hshan04
+  rotate: true
+  xy: 182, 117
+  size: 171, 106
+  orig: 171, 106
+  offset: 0, 0
+  index: -1
+fq_hshan05
+  rotate: false
+  xy: 2, 175
+  size: 178, 113
+  orig: 178, 113
+  offset: 0, 0
+  index: -1

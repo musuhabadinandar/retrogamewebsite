@@ -1,0 +1,48 @@
+
+HuoDong_XianShiDengLu.png
+size: 529,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jian
+  rotate: true
+  xy: 291, 64
+  size: 90, 80
+  orig: 129, 104
+  offset: 20, 13
+  index: -1
+SiShen
+  rotate: false
+  xy: 2, 9
+  size: 287, 145
+  orig: 287, 145
+  offset: 0, 0
+  index: -1
+ziDe
+  rotate: true
+  xy: 373, 3
+  size: 73, 75
+  orig: 77, 78
+  offset: 2, 1
+  index: -1
+ziShen
+  rotate: false
+  xy: 451, 2
+  size: 75, 75
+  orig: 78, 78
+  offset: 1, 2
+  index: -1
+ziSi
+  rotate: false
+  xy: 373, 78
+  size: 76, 76
+  orig: 79, 80
+  offset: 2, 2
+  index: -1
+ziYao
+  rotate: true
+  xy: 451, 79
+  size: 75, 76
+  orig: 79, 79
+  offset: 2, 1
+  index: -1

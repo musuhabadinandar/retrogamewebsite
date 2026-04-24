@@ -1,0 +1,111 @@
+
+renwu6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N6-xiao/toufahou
+  rotate: false
+  xy: 166, 366
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+N6-xiao/tui
+  rotate: false
+  xy: 1, 295
+  size: 284, 69
+  orig: 284, 69
+  offset: 0, 0
+  index: -1
+N6-xiao/qianbai
+  rotate: false
+  xy: 175, 1
+  size: 161, 124
+  orig: 161, 124
+  offset: 0, 0
+  index: -1
+N6-xiao/cebai
+  rotate: false
+  xy: 1, 137
+  size: 166, 97
+  orig: 166, 97
+  offset: 0, 0
+  index: -1
+N6-xiao/cebai1
+  rotate: false
+  xy: 287, 295
+  size: 166, 97
+  orig: 166, 97
+  offset: 0, 0
+  index: -1
+N6-xiao/qianbai1
+  rotate: false
+  xy: 296, 172
+  size: 81, 108
+  orig: 81, 108
+  offset: 0, 0
+  index: -1
+N6-xiao/qianbai0
+  rotate: false
+  xy: 379, 172
+  size: 80, 108
+  orig: 80, 108
+  offset: 0, 0
+  index: -1
+N6-xiao/xiuzi
+  rotate: false
+  xy: 175, 127
+  size: 119, 166
+  orig: 119, 166
+  offset: 0, 0
+  index: -1
+N6-xiao/xiuzi1
+  rotate: false
+  xy: 338, 1
+  size: 118, 169
+  orig: 118, 169
+  offset: 0, 0
+  index: -1
+N6-xiao/lingzi
+  rotate: false
+  xy: 1, 1
+  size: 172, 134
+  orig: 172, 134
+  offset: 0, 0
+  index: -1
+N6-xiao/yaodai
+  rotate: false
+  xy: 73, 366
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+N6-xiao/lian
+  rotate: false
+  xy: 73, 429
+  size: 64, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+N6-xiao/toufa
+  rotate: false
+  xy: 1, 366
+  size: 70, 96
+  orig: 70, 96
+  offset: 0, 0
+  index: -1
+N6-xiao/liuhai
+  rotate: false
+  xy: 139, 429
+  size: 20, 70
+  orig: 20, 70
+  offset: 0, 0
+  index: -1
+N6-xiao/liuhai1
+  rotate: false
+  xy: 234, 366
+  size: 19, 70
+  orig: 19, 70
+  offset: 0, 0
+  index: -1

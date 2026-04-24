@@ -1,0 +1,125 @@
+
+tuci_TX.png
+size: 537,1050
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuci1
+  rotate: false
+  xy: 486, 55
+  size: 49, 238
+  orig: 49, 275
+  offset: 0, 28
+  index: -1
+tuci10
+  rotate: false
+  xy: 345, 540
+  size: 79, 443
+  orig: 79, 471
+  offset: 0, 15
+  index: -1
+tuci11
+  rotate: false
+  xy: 426, 554
+  size: 83, 429
+  orig: 83, 453
+  offset: 0, 13
+  index: -1
+tuci12
+  rotate: false
+  xy: 63, 74
+  size: 85, 425
+  orig: 85, 446
+  offset: 0, 8
+  index: -1
+tuci13
+  rotate: false
+  xy: 150, 97
+  size: 87, 412
+  orig: 87, 440
+  offset: 0, 15
+  index: -1
+tuci14
+  rotate: false
+  xy: 239, 133
+  size: 91, 384
+  orig: 91, 402
+  offset: 0, 7
+  index: -1
+tuci15
+  rotate: false
+  xy: 391, 164
+  size: 93, 374
+  orig: 93, 398
+  offset: 0, 11
+  index: -1
+tuci16
+  rotate: true
+  xy: 150, 2
+  size: 93, 328
+  orig: 93, 353
+  offset: 0, 13
+  index: -1
+tuci17
+  rotate: false
+  xy: 486, 295
+  size: 42, 257
+  orig: 42, 312
+  offset: 0, 17
+  index: -1
+tuci2
+  rotate: false
+  xy: 332, 143
+  size: 57, 382
+  orig: 57, 408
+  offset: 0, 20
+  index: -1
+tuci3
+  rotate: false
+  xy: 2, 59
+  size: 59, 440
+  orig: 59, 458
+  offset: 0, 12
+  index: -1
+tuci4
+  rotate: false
+  xy: 2, 985
+  size: 486, 63
+  orig: 498, 63
+  offset: 6, 0
+  index: -1
+tuci5
+  rotate: false
+  xy: 2, 501
+  size: 63, 482
+  orig: 63, 496
+  offset: 0, 8
+  index: -1
+tuci6
+  rotate: true
+  xy: 67, 506
+  size: 477, 68
+  orig: 492, 68
+  offset: 6, 0
+  index: -1
+tuci7
+  rotate: false
+  xy: 137, 511
+  size: 65, 472
+  orig: 65, 490
+  offset: 0, 10
+  index: -1
+tuci8
+  rotate: false
+  xy: 204, 519
+  size: 67, 464
+  orig: 67, 488
+  offset: 0, 13
+  index: -1
+tuci9
+  rotate: false
+  xy: 273, 527
+  size: 70, 456
+  orig: 70, 480
+  offset: 0, 13
+  index: -1

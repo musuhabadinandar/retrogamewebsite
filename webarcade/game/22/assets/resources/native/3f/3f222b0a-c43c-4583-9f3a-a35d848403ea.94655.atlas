@@ -1,0 +1,55 @@
+
+fx_bigsword.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l1
+  rotate: false
+  xy: 394, 62
+  size: 707, 374
+  orig: 709, 376
+  offset: 1, 1
+  index: -1
+l2
+  rotate: false
+  xy: 1103, 62
+  size: 666, 374
+  orig: 668, 376
+  offset: 1, 1
+  index: -1
+p1
+  rotate: true
+  xy: 1915, 42
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+p2
+  rotate: true
+  xy: 1771, 2
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+p3
+  rotate: true
+  xy: 1854, 49
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+sl
+  rotate: false
+  xy: 2, 49
+  size: 390, 387
+  orig: 390, 387
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 1771, 74
+  size: 159, 362
+  orig: 159, 362
+  offset: 0, 0
+  index: -1

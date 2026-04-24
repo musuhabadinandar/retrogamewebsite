@@ -1,0 +1,174 @@
+
+GuoYuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+orchard_BanLi
+  rotate: true
+  xy: 256, 385
+  size: 206, 240
+  orig: 206, 240
+  offset: 0, 0
+  index: -1
+orchard_BanLi_C
+  rotate: false
+  xy: 816, 428
+  size: 123, 136
+  orig: 123, 136
+  offset: 0, 0
+  index: -1
+orchard_ChengZi
+  rotate: true
+  xy: 267, 593
+  size: 192, 265
+  orig: 192, 265
+  offset: 0, 0
+  index: -1
+orchard_ChengZi_C
+  rotate: false
+  xy: 215, 7
+  size: 149, 168
+  orig: 149, 168
+  offset: 0, 0
+  index: -1
+orchard_HeTao
+  rotate: true
+  xy: 267, 787
+  size: 215, 257
+  orig: 215, 257
+  offset: 0, 0
+  index: -1
+orchard_HeTao_C
+  rotate: false
+  xy: 598, 211
+  size: 122, 149
+  orig: 122, 149
+  offset: 0, 0
+  index: -1
+orchard_HongZao
+  rotate: true
+  xy: 534, 596
+  size: 201, 252
+  orig: 201, 252
+  offset: 0, 0
+  index: -1
+orchard_HongZao_C
+  rotate: true
+  xy: 722, 168
+  size: 102, 126
+  orig: 102, 126
+  offset: 0, 0
+  index: -1
+orchard_Li
+  rotate: true
+  xy: 788, 566
+  size: 200, 228
+  orig: 200, 228
+  offset: 0, 0
+  index: -1
+orchard_LiZi
+  rotate: true
+  xy: 226, 177
+  size: 206, 239
+  orig: 206, 239
+  offset: 0, 0
+  index: -1
+orchard_LiZi_C
+  rotate: false
+  xy: 830, 289
+  size: 120, 137
+  orig: 120, 137
+  offset: 0, 0
+  index: -1
+orchard_Li_C
+  rotate: false
+  xy: 722, 272
+  size: 106, 146
+  orig: 106, 146
+  offset: 0, 0
+  index: -1
+orchard_PingGuo
+  rotate: false
+  xy: 2, 257
+  size: 222, 250
+  orig: 222, 250
+  offset: 0, 0
+  index: -1
+orchard_PingGuo_C
+  rotate: false
+  xy: 850, 153
+  size: 110, 134
+  orig: 110, 134
+  offset: 0, 0
+  index: -1
+orchard_PuTao
+  rotate: false
+  xy: 2, 509
+  size: 252, 247
+  orig: 252, 247
+  offset: 0, 0
+  index: -1
+orchard_PuTao_C
+  rotate: false
+  xy: 2, 758
+  size: 263, 244
+  orig: 263, 244
+  offset: 0, 0
+  index: -1
+orchard_ShiZi
+  rotate: false
+  xy: 498, 362
+  size: 195, 229
+  orig: 195, 229
+  offset: 0, 0
+  index: -1
+orchard_ShiZi_C
+  rotate: false
+  xy: 695, 420
+  size: 119, 144
+  orig: 119, 144
+  offset: 0, 0
+  index: -1
+orchard_TaoZi
+  rotate: false
+  xy: 2, 2
+  size: 211, 253
+  orig: 211, 253
+  offset: 0, 0
+  index: -1
+orchard_TaoZi_C
+  rotate: false
+  xy: 366, 10
+  size: 130, 165
+  orig: 130, 165
+  offset: 0, 0
+  index: -1
+orchard_XingZi
+  rotate: true
+  xy: 526, 799
+  size: 203, 269
+  orig: 203, 269
+  offset: 0, 0
+  index: -1
+orchard_XingZi_C
+  rotate: false
+  xy: 467, 217
+  size: 129, 143
+  orig: 129, 143
+  offset: 0, 0
+  index: -1
+orchard_YingTao
+  rotate: false
+  xy: 797, 768
+  size: 207, 234
+  orig: 207, 234
+  offset: 0, 0
+  index: -1
+orchard_YingTao_C
+  rotate: false
+  xy: 498, 15
+  size: 114, 136
+  orig: 114, 136
+  offset: 0, 0
+  index: -1

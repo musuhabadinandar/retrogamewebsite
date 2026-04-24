@@ -1,0 +1,41 @@
+
+pet_04.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_up
+  rotate: false
+  xy: 521, 2
+  size: 167, 132
+  orig: 167, 132
+  offset: 0, 0
+  index: -1
+die_body
+  rotate: true
+  xy: 338, 3
+  size: 131, 181
+  orig: 131, 181
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 2, 111
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+head_idle_01
+  rotate: true
+  xy: 175, 9
+  size: 125, 161
+  orig: 125, 161
+  offset: 0, 0
+  index: -1
+prearm_R
+  rotate: false
+  xy: 55, 38
+  size: 118, 96
+  orig: 148, 96
+  offset: 30, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+enterGameTip.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 43
+  size: 535, 280
+  orig: 535, 280
+  offset: 0, 0
+  index: -1
+wz
+  rotate: false
+  xy: 2, 2
+  size: 213, 39
+  orig: 213, 39
+  offset: 0, 0
+  index: -1

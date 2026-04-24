@@ -1,0 +1,20 @@
+
+fx_sword5b.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sl
+  rotate: false
+  xy: 597, 2
+  size: 390, 387
+  orig: 390, 387
+  offset: 0, 0
+  index: -1
+sl1
+  rotate: false
+  xy: 2, 128
+  size: 593, 261
+  orig: 617, 285
+  offset: 12, 13
+  index: -1

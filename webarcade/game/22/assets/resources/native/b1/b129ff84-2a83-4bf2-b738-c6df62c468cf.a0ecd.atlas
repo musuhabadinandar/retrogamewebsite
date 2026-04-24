@@ -1,0 +1,55 @@
+
+sdq_02.png
+size: 698,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdq_02_body1
+  rotate: false
+  xy: 645, 30
+  size: 51, 93
+  orig: 53, 95
+  offset: 1, 1
+  index: -1
+sdq_02_body2
+  rotate: true
+  xy: 2, 2
+  size: 206, 255
+  orig: 206, 255
+  offset: 0, 0
+  index: -1
+sdq_02_hand
+  rotate: true
+  xy: 493, 125
+  size: 83, 162
+  orig: 83, 162
+  offset: 0, 0
+  index: -1
+sdq_02_hand2
+  rotate: true
+  xy: 493, 59
+  size: 64, 150
+  orig: 64, 150
+  offset: 0, 0
+  index: -1
+sdq_02_head
+  rotate: true
+  xy: 259, 2
+  size: 206, 232
+  orig: 206, 232
+  offset: 0, 0
+  index: -1
+sdq_02_leg1
+  rotate: false
+  xy: 493, 2
+  size: 67, 55
+  orig: 67, 55
+  offset: 0, 0
+  index: -1
+sdq_02_leg2
+  rotate: false
+  xy: 562, 9
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1

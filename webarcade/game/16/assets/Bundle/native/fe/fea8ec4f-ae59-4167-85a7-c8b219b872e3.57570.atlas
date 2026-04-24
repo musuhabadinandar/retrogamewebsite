@@ -1,0 +1,243 @@
+
+bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 754, 1196
+  size: 375, 850
+  orig: 375, 850
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 346
+  size: 750, 1700
+  orig: 750, 1700
+  offset: 0, 0
+  index: -1
+yaoban1b
+  rotate: false
+  xy: 66, 204
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+yaoban2b
+  rotate: true
+  xy: 1851, 1710
+  size: 300, 79
+  orig: 300, 79
+  offset: 0, 0
+  index: -1
+yu01
+  rotate: true
+  xy: 754, 377
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+z0
+  rotate: false
+  xy: 2, 2
+  size: 62, 307
+  orig: 62, 307
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 2, 311
+  size: 33, 536
+  orig: 33, 536
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 1131, 2012
+  size: 34, 875
+  orig: 34, 875
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 754, 393
+  size: 35, 801
+  orig: 35, 801
+  offset: 0, 0
+  index: -1
+流光B1
+  rotate: false
+  xy: 1131, 1632
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B10
+  rotate: false
+  xy: 1511, 492
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B11
+  rotate: true
+  xy: 1151, 132
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B12
+  rotate: false
+  xy: 791, 56
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B13
+  rotate: false
+  xy: 1531, 112
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B2
+  rotate: false
+  xy: 1131, 1252
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B3
+  rotate: false
+  xy: 1491, 1632
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B4
+  rotate: false
+  xy: 1491, 1252
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B5
+  rotate: false
+  xy: 791, 816
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B6
+  rotate: false
+  xy: 791, 436
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B7
+  rotate: false
+  xy: 1151, 872
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B8
+  rotate: false
+  xy: 1151, 492
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B9
+  rotate: false
+  xy: 1511, 872
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+
+bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+流光B14
+  rotate: false
+  xy: 2, 1522
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B15
+  rotate: false
+  xy: 2, 1142
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B16
+  rotate: false
+  xy: 362, 1522
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B17
+  rotate: false
+  xy: 2, 762
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B18
+  rotate: false
+  xy: 362, 1142
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B19
+  rotate: false
+  xy: 722, 1522
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B20
+  rotate: false
+  xy: 2, 382
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B21
+  rotate: false
+  xy: 362, 762
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B22
+  rotate: false
+  xy: 722, 1142
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B23
+  rotate: false
+  xy: 1082, 1522
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1
+流光B24
+  rotate: false
+  xy: 2, 2
+  size: 358, 378
+  orig: 358, 378
+  offset: 0, 0
+  index: -1

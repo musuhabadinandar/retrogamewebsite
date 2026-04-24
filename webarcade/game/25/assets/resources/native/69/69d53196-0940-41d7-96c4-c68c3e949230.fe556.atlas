@@ -1,0 +1,97 @@
+
+maoyao-huang.png
+size: 205,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: false
+  xy: 2, 2
+  size: 123, 86
+  orig: 123, 86
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 2, 90
+  size: 125, 118
+  orig: 125, 118
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 2, 304
+  size: 151, 133
+  orig: 151, 133
+  offset: 0, 0
+  index: -1
+wb
+  rotate: true
+  xy: 2, 439
+  size: 140, 153
+  orig: 140, 153
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: true
+  xy: 129, 39
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+yed
+  rotate: true
+  xy: 129, 96
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+yj
+  rotate: true
+  xy: 157, 529
+  size: 50, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+ys
+  rotate: true
+  xy: 155, 266
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+yt
+  rotate: true
+  xy: 157, 378
+  size: 73, 39
+  orig: 73, 39
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 129, 174
+  size: 13, 34
+  orig: 24, 34
+  offset: 9, 0
+  index: -1
+zed
+  rotate: false
+  xy: 2, 210
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+zs
+  rotate: true
+  xy: 152, 157
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1
+zt
+  rotate: true
+  xy: 157, 453
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1

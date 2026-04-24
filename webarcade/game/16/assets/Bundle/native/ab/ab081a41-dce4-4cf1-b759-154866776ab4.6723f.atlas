@@ -1,0 +1,48 @@
+
+fabao11.png
+size: 207,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao11/txiao
+  rotate: false
+  xy: 1, 1
+  size: 116, 136
+  orig: 116, 136
+  offset: 0, 0
+  index: -1
+fabao11/lingdang
+  rotate: false
+  xy: 1, 139
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+fabao11/zhongguojie
+  rotate: false
+  xy: 79, 139
+  size: 23, 85
+  orig: 23, 85
+  offset: 0, 0
+  index: -1
+fabao11/faguang
+  rotate: false
+  xy: 119, 1
+  size: 86, 152
+  orig: 86, 152
+  offset: 0, 0
+  index: -1
+faqi10/fabao10-diandian
+  rotate: false
+  xy: 113, 139
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+fabao11/tx
+  rotate: false
+  xy: 104, 139
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+gui2.png
+size: 402,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+olian
+  rotate: true
+  xy: 10, 380
+  size: 20, 56
+  orig: 20, 56
+  offset: 0, 0
+  index: -1
+shentiss
+  rotate: true
+  xy: 2, 142
+  size: 129, 217
+  orig: 129, 218
+  offset: 0, 1
+  index: -1
+shou01z
+  rotate: true
+  xy: 68, 362
+  size: 38, 141
+  orig: 39, 142
+  offset: 0, 1
+  index: -1
+shou02z
+  rotate: true
+  xy: 211, 355
+  size: 45, 142
+  orig: 46, 142
+  offset: 0, 0
+  index: -1
+tou02z
+  rotate: true
+  xy: 132, 273
+  size: 80, 134
+  orig: 82, 134
+  offset: 1, 0
+  index: -1
+tuo01z
+  rotate: true
+  xy: 268, 272
+  size: 81, 132
+  orig: 81, 132
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 394
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+图层 8 拷贝
+  rotate: false
+  xy: 221, 107
+  size: 167, 163
+  orig: 167, 163
+  offset: 0, 0
+  index: -1
+形状 31
+  rotate: false
+  xy: 2, 303
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1

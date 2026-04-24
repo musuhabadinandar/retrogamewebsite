@@ -1,0 +1,55 @@
+
+renwu10.png
+size: 560,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N10-xiao/jianbang
+  rotate: true
+  xy: 2, 24
+  size: 126, 199
+  orig: 126, 199
+  offset: 0, 0
+  index: -1
+N10-xiao/jianbang1
+  rotate: false
+  xy: 410, 108
+  size: 126, 202
+  orig: 126, 202
+  offset: 0, 0
+  index: -1
+N10-xiao/lian
+  rotate: false
+  xy: 491, 23
+  size: 67, 83
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+N10-xiao/shenti
+  rotate: true
+  xy: 381, 2
+  size: 104, 108
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+N10-xiao/shou
+  rotate: true
+  xy: 349, 73
+  size: 77, 30
+  orig: 416, 380
+  offset: 170, 82
+  index: -1
+N10-xiao/toufa
+  rotate: false
+  xy: 203, 20
+  size: 144, 130
+  orig: 144, 130
+  offset: 0, 0
+  index: -1
+N10-xiao/xiabai
+  rotate: false
+  xy: 2, 152
+  size: 406, 158
+  orig: 406, 339
+  offset: 0, 0
+  index: -1

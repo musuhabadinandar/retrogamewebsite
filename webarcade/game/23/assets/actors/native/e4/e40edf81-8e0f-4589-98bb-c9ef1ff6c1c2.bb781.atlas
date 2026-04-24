@@ -1,0 +1,76 @@
+
+e20.png
+size: 126,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yr4_arm_L1
+  rotate: true
+  xy: 42, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+yr4_arm_L2
+  rotate: false
+  xy: 96, 44
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+yr4_arm_L3
+  rotate: true
+  xy: 96, 60
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+yr4_arm_R1
+  rotate: true
+  xy: 2, 2
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+yr4_arm_R2
+  rotate: false
+  xy: 25, 3
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+yr4_arm_R3
+  rotate: true
+  xy: 2, 20
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+yr4_body1
+  rotate: true
+  xy: 34, 23
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+yr4_leg_L1
+  rotate: true
+  xy: 65, 3
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+yr4_leg_R1
+  rotate: true
+  xy: 91, 3
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 88
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

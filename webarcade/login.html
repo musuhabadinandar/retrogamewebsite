@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign In | Webarcade</title>
+  <meta name="description" content="Sign in to Webarcade so each HTML5 game can use its own cloud-backed save slot.">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body class="module-shell">
+  <div class="backdrop backdrop-a"></div>
+  <div class="backdrop backdrop-b"></div>
+
+  <main class="page">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Webarcade Account</p>
+        <h1>Sign In</h1>
+        <p class="lede">
+          Use your account to restore browser saves before a game boots, then sync them back to MySQL while you play.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="index.html">Back to HTML5 Games</a>
+          <a class="btn btn-secondary" href="register.html">Create Account</a>
+        </div>
+      </div>
+
+      <section class="hero-panel">
+        <div class="metric">
+          <span class="metric-label">Cloud Save</span>
+          <strong>Per user, per game</strong>
+        </div>
+        <div class="metric">
+          <span class="metric-label">Data store</span>
+          <strong>MySQL on Laragon</strong>
+        </div>
+        <div class="metric">
+          <span class="metric-label">Backup</span>
+          <strong>JSON export ready</strong>
+        </div>
+      </section>
+    </header>
+
+    <section id="auth-page" class="library" data-auth-mode="login">
+      <div class="library-head">
+        <h2>Loading Sign-In Form</h2>
+        <p>Please wait...</p>
+      </div>
+    </section>
+  </main>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

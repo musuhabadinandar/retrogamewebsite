@@ -1,0 +1,139 @@
+
+pet_03.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 8
+  size: 115, 231
+  orig: 264, 234
+  offset: 0, 3
+  index: -1
+buff
+  rotate: true
+  xy: 235, 21
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 473, 51
+  size: 168, 72
+  orig: 168, 72
+  offset: 0, 0
+  index: -1
+foot_leg
+  rotate: false
+  xy: 960, 6
+  size: 124, 94
+  orig: 173, 94
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 643, 59
+  size: 113, 64
+  orig: 217, 64
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 364, 3
+  size: 107, 120
+  orig: 387, 120
+  offset: 0, 0
+  index: -1
+head2
+  rotate: true
+  xy: 788, 2
+  size: 57, 54
+  orig: 70, 59
+  offset: 13, 1
+  index: -1
+head_skeleton
+  rotate: true
+  xy: 689, 5
+  size: 52, 97
+  orig: 52, 97
+  offset: 0, 0
+  index: -1
+prearm
+  rotate: false
+  xy: 844, 5
+  size: 114, 74
+  orig: 356, 74
+  offset: 0, 0
+  index: -1
+shotgun
+  rotate: false
+  xy: 473, 7
+  size: 101, 42
+  orig: 101, 47
+  offset: 0, 2
+  index: -1
+shotgun2
+  rotate: true
+  xy: 822, 81
+  size: 42, 63
+  orig: 46, 65
+  offset: 2, 1
+  index: -1
+shoulder
+  rotate: true
+  xy: 1086, 22
+  size: 101, 79
+  orig: 206, 79
+  offset: 0, 0
+  index: -1
+skill1_arm_middle
+  rotate: false
+  xy: 1201, 14
+  size: 29, 51
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+skill1_missile_body
+  rotate: false
+  xy: 1167, 5
+  size: 32, 60
+  orig: 38, 64
+  offset: 2, 4
+  index: -1
+skill1_missile_head1
+  rotate: false
+  xy: 758, 61
+  size: 62, 62
+  orig: 65, 62
+  offset: 2, 0
+  index: -1
+skill1_rope
+  rotate: false
+  xy: 235, 8
+  size: 87, 11
+  orig: 87, 11
+  offset: 0, 0
+  index: -1
+skill1_silo_cover
+  rotate: true
+  xy: 1167, 67
+  size: 56, 45
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+skill1_silo_top1
+  rotate: false
+  xy: 576, 15
+  size: 111, 34
+  orig: 111, 34
+  offset: 0, 0
+  index: -1
+skill1_silo_top2
+  rotate: false
+  xy: 887, 102
+  size: 107, 21
+  orig: 109, 21
+  offset: 2, 0
+  index: -1

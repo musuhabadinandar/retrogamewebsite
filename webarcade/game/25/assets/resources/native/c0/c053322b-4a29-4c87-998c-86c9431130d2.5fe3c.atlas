@@ -1,0 +1,55 @@
+
+SiShenDeYaoQing.png
+size: 465,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jian
+  rotate: false
+  xy: 291, 44
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+SiShen
+  rotate: false
+  xy: 2, 3
+  size: 287, 145
+  orig: 287, 145
+  offset: 0, 0
+  index: -1
+ziDe
+  rotate: true
+  xy: 334, 3
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+ziQing
+  rotate: false
+  xy: 422, 63
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+ziShen
+  rotate: false
+  xy: 422, 20
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+ziSi
+  rotate: false
+  xy: 291, 2
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+ziYao
+  rotate: true
+  xy: 422, 106
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1

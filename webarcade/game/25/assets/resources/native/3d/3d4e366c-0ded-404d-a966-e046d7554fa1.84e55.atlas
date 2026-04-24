@@ -1,0 +1,125 @@
+
+thunder_TX.png
+size: 171,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VFX_d1
+  rotate: false
+  xy: 2, 80
+  size: 29, 183
+  orig: 30, 184
+  offset: 0, 0
+  index: -1
+VFX_d2
+  rotate: false
+  xy: 33, 82
+  size: 43, 181
+  orig: 44, 183
+  offset: 0, 0
+  index: -1
+VFX_d3
+  rotate: true
+  xy: 67, 5
+  size: 75, 95
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+VFX_d4
+  rotate: false
+  xy: 78, 135
+  size: 48, 56
+  orig: 49, 56
+  offset: 1, 0
+  index: -1
+VFX_d5
+  rotate: false
+  xy: 78, 193
+  size: 60, 70
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+VFX_d6
+  rotate: false
+  xy: 2, 2
+  size: 63, 76
+  orig: 65, 77
+  offset: 1, 0
+  index: -1
+dibiao_tx
+  rotate: false
+  xy: 78, 92
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0001
+  rotate: false
+  xy: 153, 177
+  size: 15, 15
+  orig: 23, 23
+  offset: 4, 4
+  index: -1
+dibiao_tx3_0002
+  rotate: false
+  xy: 140, 194
+  size: 19, 19
+  orig: 23, 23
+  offset: 2, 2
+  index: -1
+dibiao_tx3_0003
+  rotate: false
+  xy: 121, 110
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0004
+  rotate: false
+  xy: 121, 85
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0005
+  rotate: false
+  xy: 128, 168
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0006
+  rotate: false
+  xy: 128, 143
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0007
+  rotate: false
+  xy: 146, 118
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0008
+  rotate: false
+  xy: 146, 93
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0009
+  rotate: false
+  xy: 140, 240
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0010
+  rotate: false
+  xy: 140, 215
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

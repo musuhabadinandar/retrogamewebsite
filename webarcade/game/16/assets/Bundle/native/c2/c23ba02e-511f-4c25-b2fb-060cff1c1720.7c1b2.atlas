@@ -1,0 +1,69 @@
+
+renwu8.png
+size: 283,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N8-xiao/bianzi1
+  rotate: false
+  xy: 259, 2
+  size: 17, 124
+  orig: 17, 124
+  offset: 0, 0
+  index: -1
+N8-xiao/bianzi2
+  rotate: false
+  xy: 259, 128
+  size: 18, 125
+  orig: 18, 125
+  offset: 0, 0
+  index: -1
+N8-xiao/erhuan
+  rotate: false
+  xy: 190, 32
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+N8-xiao/lian
+  rotate: false
+  xy: 190, 58
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+N8-xiao/lingzi
+  rotate: false
+  xy: 2, 5
+  size: 186, 127
+  orig: 186, 131
+  offset: 0, 0
+  index: -1
+N8-xiao/oufa
+  rotate: false
+  xy: 166, 143
+  size: 84, 110
+  orig: 93, 113
+  offset: 5, 3
+  index: -1
+N8-xiao/qianbai
+  rotate: true
+  xy: 2, 134
+  size: 380, 162
+  orig: 380, 364
+  offset: 0, 0
+  index: -1
+N8-xiao/xiuzi
+  rotate: false
+  xy: 166, 386
+  size: 115, 128
+  orig: 184, 236
+  offset: 69, 0
+  index: -1
+N8-xiao/xiuzi1
+  rotate: false
+  xy: 166, 255
+  size: 114, 129
+  orig: 114, 144
+  offset: 0, 4
+  index: -1

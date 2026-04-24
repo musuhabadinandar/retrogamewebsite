@@ -1,0 +1,13 @@
+
+kulou_TX.png
+size: 71,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kulou
+  rotate: false
+  xy: 2, 2
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1

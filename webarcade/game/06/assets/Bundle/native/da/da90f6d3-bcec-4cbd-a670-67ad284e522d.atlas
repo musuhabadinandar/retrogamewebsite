@@ -1,0 +1,174 @@
+
+p2.png
+size: 314,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10帧
+  rotate: false
+  xy: 2, 171
+  size: 124, 139
+  orig: 124, 139
+  offset: 0, 0
+  index: -1
+11帧
+  rotate: false
+  xy: 2, 30
+  size: 124, 139
+  orig: 124, 139
+  offset: 0, 0
+  index: -1
+12帧
+  rotate: false
+  xy: 128, 171
+  size: 124, 139
+  orig: 124, 139
+  offset: 0, 0
+  index: -1
+12帧_01
+  rotate: false
+  xy: 128, 30
+  size: 124, 139
+  orig: 124, 139
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 204, 325
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 312
+  size: 200, 206
+  orig: 200, 206
+  offset: 0, 0
+  index: -1
+a0_01
+  rotate: false
+  xy: 204, 427
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+caihong3
+  rotate: false
+  xy: 254, 76
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: false
+  xy: 254, 166
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+光晕
+  rotate: false
+  xy: 254, 118
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+刘海01
+  rotate: true
+  xy: 145, 8
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+刘海02
+  rotate: false
+  xy: 43, 3
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+右小辫
+  rotate: true
+  xy: 110, 10
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 2, 2
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+右耳
+  rotate: false
+  xy: 299, 324
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 254, 216
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+头发后
+  rotate: false
+  xy: 254, 343
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+左小辫
+  rotate: false
+  xy: 285, 41
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 254, 25
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+左耳
+  rotate: false
+  xy: 172, 10
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+睁眼
+  rotate: true
+  xy: 297, 484
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 254, 272
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+闭眼
+  rotate: true
+  xy: 302, 130
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+飘带
+  rotate: true
+  xy: 74, 10
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+Gate_1.png
+size: 1527,1607
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang_bsyaml
+  rotate: true
+  xy: 637, 153
+  size: 251, 457
+  orig: 253, 460
+  offset: 1, 1
+  index: -1
+faguang_halmfx
+  rotate: false
+  xy: 1272, 1145
+  size: 253, 460
+  orig: 253, 460
+  offset: 0, 0
+  index: -1
+faguang_llsc
+  rotate: false
+  xy: 1154, 200
+  size: 251, 457
+  orig: 253, 460
+  offset: 1, 1
+  index: -1
+faguang_lmfx
+  rotate: true
+  xy: 694, 406
+  size: 251, 458
+  orig: 253, 460
+  offset: 1, 1
+  index: -1
+faguang_lyglk
+  rotate: false
+  xy: 1272, 683
+  size: 253, 460
+  orig: 253, 460
+  offset: 0, 0
+  index: -1
+menkuang_bsyaml
+  rotate: false
+  xy: 694, 1133
+  size: 287, 472
+  orig: 289, 474
+  offset: 1, 1
+  index: -1
+menkuang_halmfx
+  rotate: false
+  xy: 348, 107
+  size: 287, 472
+  orig: 289, 474
+  offset: 1, 1
+  index: -1
+menkuang_llsc
+  rotate: false
+  xy: 694, 659
+  size: 287, 472
+  orig: 289, 474
+  offset: 1, 1
+  index: -1
+menkuang_lmfx
+  rotate: false
+  xy: 983, 1133
+  size: 287, 472
+  orig: 289, 474
+  offset: 1, 1
+  index: -1
+menkuang_lyglk
+  rotate: false
+  xy: 983, 659
+  size: 287, 472
+  orig: 289, 474
+  offset: 1, 1
+  index: -1
+menlan_bsyaml
+  rotate: true
+  xy: 637, 54
+  size: 97, 318
+  orig: 98, 320
+  offset: 1, 1
+  index: -1
+menlan_halmfx
+  rotate: true
+  xy: 1096, 101
+  size: 97, 318
+  orig: 98, 320
+  offset: 1, 1
+  index: -1
+menlan_llsc
+  rotate: false
+  xy: 1407, 363
+  size: 98, 318
+  orig: 98, 320
+  offset: 0, 1
+  index: -1
+menlan_lmfx
+  rotate: true
+  xy: 957, 2
+  size: 97, 318
+  orig: 98, 320
+  offset: 1, 1
+  index: -1
+menlan_lyglk
+  rotate: false
+  xy: 1416, 43
+  size: 97, 318
+  orig: 98, 320
+  offset: 1, 1
+  index: -1
+shu
+  rotate: false
+  xy: 2, 563
+  size: 344, 511
+  orig: 348, 518
+  offset: 2, 2
+  index: -1
+shu2
+  rotate: false
+  xy: 2, 1076
+  size: 344, 529
+  orig: 348, 532
+  offset: 2, 2
+  index: -1
+shu3
+  rotate: false
+  xy: 348, 1094
+  size: 344, 511
+  orig: 348, 518
+  offset: 2, 2
+  index: -1
+shu4
+  rotate: false
+  xy: 2, 50
+  size: 344, 511
+  orig: 348, 518
+  offset: 2, 2
+  index: -1
+shu5
+  rotate: false
+  xy: 348, 581
+  size: 344, 511
+  orig: 348, 518
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,139 @@
+
+monster_07.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ExplosionSmoke03_1
+  rotate: true
+  xy: 782, 44
+  size: 40, 26
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+ExplosionSmoke04_1
+  rotate: false
+  xy: 372, 5
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+ExplosionSmoke05_1
+  rotate: false
+  xy: 414, 5
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+ExplosionSmoke06_1
+  rotate: false
+  xy: 749, 2
+  size: 40, 30
+  orig: 40, 31
+  offset: 0, 1
+  index: -1
+ExplosionSmoke07_1
+  rotate: true
+  xy: 749, 34
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+ExplosionSmoke09_1
+  rotate: true
+  xy: 759, 86
+  size: 40, 28
+  orig: 40, 31
+  offset: 0, 3
+  index: -1
+body
+  rotate: true
+  xy: 262, 14
+  size: 112, 108
+  orig: 112, 108
+  offset: 0, 0
+  index: -1
+drink_opt
+  rotate: true
+  xy: 456, 4
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+face_all
+  rotate: true
+  xy: 183, 3
+  size: 123, 77
+  orig: 218, 141
+  offset: 52, 0
+  index: -1
+foot
+  rotate: false
+  xy: 527, 2
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+foot_01
+  rotate: true
+  xy: 445, 46
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+forearm_L_all
+  rotate: false
+  xy: 585, 4
+  size: 162, 59
+  orig: 162, 59
+  offset: 0, 0
+  index: -1
+forearm_R_all
+  rotate: false
+  xy: 372, 38
+  size: 71, 88
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+head_opt
+  rotate: false
+  xy: 82, 3
+  size: 99, 123
+  orig: 99, 123
+  offset: 0, 0
+  index: -1
+sword3-effect_all
+  rotate: true
+  xy: 2, 2
+  size: 124, 78
+  orig: 124, 78
+  offset: 0, 0
+  index: -1
+upperarm_L
+  rotate: false
+  xy: 671, 73
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+upperarm_R
+  rotate: false
+  xy: 710, 76
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+weapon_01_opt
+  rotate: false
+  xy: 507, 64
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+weapon_opt
+  rotate: true
+  xy: 539, 65
+  size: 61, 130
+  orig: 61, 130
+  offset: 0, 0
+  index: -1

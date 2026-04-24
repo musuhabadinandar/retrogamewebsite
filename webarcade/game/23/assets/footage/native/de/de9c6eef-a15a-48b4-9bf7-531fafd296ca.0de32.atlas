@@ -1,0 +1,62 @@
+
+chengjiu.png
+size: 1380,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CJ
+  rotate: false
+  xy: 895, 373
+  size: 451, 132
+  orig: 451, 132
+  offset: 0, 0
+  index: -1
+CJG
+  rotate: true
+  xy: 2, 2
+  size: 503, 177
+  orig: 503, 177
+  offset: 0, 0
+  index: -1
+GG
+  rotate: true
+  xy: 895, 94
+  size: 277, 255
+  orig: 277, 255
+  offset: 0, 0
+  index: -1
+SG
+  rotate: true
+  xy: 1152, 26
+  size: 126, 220
+  orig: 126, 220
+  offset: 0, 0
+  index: -1
+jishaG
+  rotate: true
+  xy: 1152, 154
+  size: 217, 226
+  orig: 217, 226
+  offset: 0, 0
+  index: -1
+jishaG3
+  rotate: false
+  xy: 397, 9
+  size: 496, 496
+  orig: 496, 496
+  offset: 0, 0
+  index: -1
+js
+  rotate: true
+  xy: 181, 8
+  size: 497, 214
+  orig: 497, 214
+  offset: 0, 0
+  index: -1
+jsTX
+  rotate: false
+  xy: 895, 4
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1

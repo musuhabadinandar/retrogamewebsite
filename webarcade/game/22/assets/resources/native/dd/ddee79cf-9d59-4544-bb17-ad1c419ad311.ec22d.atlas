@@ -1,0 +1,83 @@
+
+long_boss_blast1.png
+size: 1784,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bomb/gbl_die_baoyan_14
+  rotate: false
+  xy: 1557, 66
+  size: 197, 198
+  orig: 393, 333
+  offset: 71, 43
+  index: -1
+fx_bomb/gbl_die_baoyan_16
+  rotate: true
+  xy: 1284, 7
+  size: 257, 271
+  orig: 393, 333
+  offset: 27, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_18
+  rotate: true
+  xy: 1476, 266
+  size: 348, 306
+  orig: 393, 333
+  offset: 23, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_20
+  rotate: false
+  xy: 1117, 303
+  size: 357, 311
+  orig: 393, 333
+  offset: 19, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_22
+  rotate: false
+  xy: 376, 299
+  size: 368, 315
+  orig: 393, 333
+  offset: 13, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_24
+  rotate: false
+  xy: 2, 296
+  size: 372, 318
+  orig: 393, 333
+  offset: 13, 0
+  index: -1
+fx_bomb/gbl_die_baoyan_26
+  rotate: false
+  xy: 746, 300
+  size: 369, 314
+  orig: 393, 333
+  offset: 18, 4
+  index: -1
+fx_bomb/gbl_die_baoyan_28
+  rotate: true
+  xy: 672, 3
+  size: 294, 305
+  orig: 393, 333
+  offset: 14, 5
+  index: -1
+fx_bomb/gbl_die_baoyan_30
+  rotate: true
+  xy: 979, 5
+  size: 293, 303
+  orig: 393, 333
+  offset: 11, 5
+  index: -1
+fx_bomb/gbl_die_baoyan_32
+  rotate: true
+  xy: 376, 2
+  size: 295, 294
+  orig: 393, 333
+  offset: 8, 9
+  index: -1
+fx_bomb/gbl_die_baoyan_34
+  rotate: false
+  xy: 2, 13
+  size: 300, 281
+  orig: 393, 333
+  offset: 5, 13
+  index: -1

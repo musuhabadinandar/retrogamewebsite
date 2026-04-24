@@ -1,0 +1,132 @@
+
+renwu9.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N9-xiao/toufahou
+  rotate: false
+  xy: 331, 353
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+N9-xiao/body
+  rotate: false
+  xy: 1, 1
+  size: 184, 183
+  orig: 184, 183
+  offset: 0, 0
+  index: -1
+N9-xiao/qunzi
+  rotate: false
+  xy: 187, 174
+  size: 193, 79
+  orig: 193, 79
+  offset: 0, 0
+  index: -1
+N9-xiao/qianbai
+  rotate: false
+  xy: 382, 169
+  size: 122, 82
+  orig: 122, 82
+  offset: 0, 0
+  index: -1
+N9-xiao/cebai_0
+  rotate: false
+  xy: 178, 255
+  size: 151, 84
+  orig: 151, 84
+  offset: 0, 0
+  index: -1
+N9-xiao/cebai
+  rotate: false
+  xy: 178, 341
+  size: 151, 84
+  orig: 151, 84
+  offset: 0, 0
+  index: -1
+N9-xiao/shengt
+  rotate: false
+  xy: 364, 1
+  size: 99, 166
+  orig: 99, 166
+  offset: 0, 0
+  index: -1
+N9-xiao/shou
+  rotate: false
+  xy: 165, 427
+  size: 176, 68
+  orig: 176, 68
+  offset: 0, 0
+  index: -1
+N9-xiao/xiuzi
+  rotate: false
+  xy: 1, 186
+  size: 175, 171
+  orig: 175, 171
+  offset: 0, 0
+  index: -1
+N9-xiao/xiuzi1
+  rotate: false
+  xy: 187, 1
+  size: 175, 171
+  orig: 175, 171
+  offset: 0, 0
+  index: -1
+N9-xiao/lingzi
+  rotate: false
+  xy: 1, 359
+  size: 162, 119
+  orig: 162, 119
+  offset: 0, 0
+  index: -1
+N9-xiao/lian
+  rotate: false
+  xy: 413, 253
+  size: 64, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+N9-xiao/touf
+  rotate: false
+  xy: 331, 255
+  size: 80, 96
+  orig: 80, 96
+  offset: 0, 0
+  index: -1
+N9-xiao/erhuan
+  rotate: false
+  xy: 1, 480
+  size: 3, 20
+  orig: 3, 20
+  offset: 0, 0
+  index: -1
+N9-xiao/erhuan1
+  rotate: false
+  xy: 178, 186
+  size: 4, 20
+  orig: 4, 20
+  offset: 0, 0
+  index: -1
+N9-xiao/lihai
+  rotate: false
+  xy: 465, 78
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+N9-xiao/lihai1
+  rotate: false
+  xy: 465, 1
+  size: 30, 75
+  orig: 30, 75
+  offset: 0, 0
+  index: -1
+N9-xiao/hua
+  rotate: false
+  xy: 343, 422
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1

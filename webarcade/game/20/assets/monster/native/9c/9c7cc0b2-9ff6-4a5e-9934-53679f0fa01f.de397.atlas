@@ -1,0 +1,97 @@
+
+monster_3.png
+size: 204,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+my3_pf
+  rotate: false
+  xy: 112, 38
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+my3_st
+  rotate: true
+  xy: 2, 5
+  size: 9, 40
+  orig: 9, 40
+  offset: 0, 0
+  index: -1
+my3_tou
+  rotate: false
+  xy: 112, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+my3_wq
+  rotate: false
+  xy: 2, 33
+  size: 108, 75
+  orig: 108, 75
+  offset: 0, 0
+  index: -1
+my3_ys1
+  rotate: false
+  xy: 182, 19
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+my3_ys2
+  rotate: false
+  xy: 164, 12
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+my3_yt1
+  rotate: false
+  xy: 176, 59
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+my3_yt2
+  rotate: false
+  xy: 148, 4
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+my3_zs1
+  rotate: false
+  xy: 176, 80
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+my3_zs2
+  rotate: false
+  xy: 176, 39
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+my3_zt1
+  rotate: false
+  xy: 74, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+my3_zt2
+  rotate: true
+  xy: 74, 23
+  size: 8, 32
+  orig: 8, 32
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 16
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1

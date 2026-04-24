@@ -1,0 +1,216 @@
+
+skill_01.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 427, 111
+  size: 143, 79
+  orig: 143, 79
+  offset: 0, 0
+  index: -1
+body_fx
+  rotate: true
+  xy: 508, 111
+  size: 143, 79
+  orig: 143, 79
+  offset: 0, 0
+  index: -1
+eye_fx01
+  rotate: false
+  xy: 2, 36
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+eye_fx02
+  rotate: false
+  xy: 222, 45
+  size: 203, 209
+  orig: 218, 218
+  offset: 9, 9
+  index: -1
+face01
+  rotate: false
+  xy: 680, 151
+  size: 89, 103
+  orig: 89, 103
+  offset: 0, 0
+  index: -1
+face02
+  rotate: false
+  xy: 862, 155
+  size: 87, 99
+  orig: 89, 101
+  offset: 1, 1
+  index: -1
+face03
+  rotate: false
+  xy: 771, 151
+  size: 89, 103
+  orig: 89, 103
+  offset: 0, 0
+  index: -1
+face04
+  rotate: false
+  xy: 589, 142
+  size: 89, 112
+  orig: 89, 112
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: false
+  xy: 198, 9
+  size: 52, 25
+  orig: 54, 26
+  offset: 1, 1
+  index: -1
+foot_R
+  rotate: false
+  xy: 472, 22
+  size: 48, 24
+  orig: 50, 25
+  offset: 1, 1
+  index: -1
+hand_L
+  rotate: false
+  xy: 2, 4
+  size: 69, 30
+  orig: 71, 31
+  offset: 1, 1
+  index: -1
+hand_R
+  rotate: false
+  xy: 135, 6
+  size: 61, 28
+  orig: 61, 28
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 861, 46
+  size: 89, 103
+  orig: 89, 103
+  offset: 0, 0
+  index: -1
+leg_L01
+  rotate: true
+  xy: 620, 63
+  size: 56, 62
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+leg_L01_fx
+  rotate: false
+  xy: 812, 91
+  size: 46, 58
+  orig: 56, 63
+  offset: 0, 5
+  index: -1
+leg_L02
+  rotate: true
+  xy: 392, 9
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+leg_R01
+  rotate: false
+  xy: 806, 21
+  size: 53, 57
+  orig: 53, 58
+  offset: 0, 1
+  index: -1
+leg_R02
+  rotate: false
+  xy: 439, 4
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+line-effect01
+  rotate: true
+  xy: 684, 74
+  size: 75, 63
+  orig: 109, 71
+  offset: 33, 5
+  index: -1
+line-effect02
+  rotate: false
+  xy: 427, 48
+  size: 87, 61
+  orig: 109, 71
+  offset: 20, 6
+  index: -1
+line-effect03
+  rotate: false
+  xy: 522, 10
+  size: 91, 50
+  orig: 109, 71
+  offset: 2, 16
+  index: -1
+prearm_R
+  rotate: false
+  xy: 325, 9
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+prearrm_L
+  rotate: false
+  xy: 252, 6
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+shoulder_L
+  rotate: false
+  xy: 749, 80
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+shoulder_L_fx
+  rotate: true
+  xy: 615, 4
+  size: 56, 66
+  orig: 61, 69
+  offset: 0, 3
+  index: -1
+shoulder_R
+  rotate: false
+  xy: 750, 18
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+sword3-effect01
+  rotate: true
+  xy: 683, 10
+  size: 51, 65
+  orig: 54, 66
+  offset: 0, 1
+  index: -1
+sword3-effect03
+  rotate: true
+  xy: 73, 2
+  size: 32, 60
+  orig: 54, 66
+  offset: 0, 4
+  index: -1
+sword3-effect05
+  rotate: true
+  xy: 589, 121
+  size: 19, 49
+  orig: 54, 66
+  offset: 5, 7
+  index: -1
+tail
+  rotate: false
+  xy: 516, 62
+  size: 102, 47
+  orig: 102, 54
+  offset: 0, 2
+  index: -1

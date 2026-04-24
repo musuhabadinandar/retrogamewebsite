@@ -1,0 +1,20 @@
+
+fx_deceleration.png
+size: 135,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 67, 67
+  orig: 75, 75
+  offset: 4, 4
+  index: -1
+ice
+  rotate: true
+  xy: 71, 6
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1

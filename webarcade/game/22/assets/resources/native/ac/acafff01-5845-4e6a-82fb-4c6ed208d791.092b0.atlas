@@ -1,0 +1,76 @@
+
+long7_s.png
+size: 493,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ee1
+  rotate: false
+  xy: 332, 8
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+f002
+  rotate: false
+  xy: 302, 8
+  size: 28, 37
+  orig: 29, 39
+  offset: 0, 1
+  index: -1
+f003
+  rotate: false
+  xy: 231, 2
+  size: 34, 43
+  orig: 35, 45
+  offset: 1, 1
+  index: -1
+f004
+  rotate: false
+  xy: 267, 5
+  size: 33, 40
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+f005
+  rotate: true
+  xy: 332, 18
+  size: 27, 25
+  orig: 28, 27
+  offset: 0, 1
+  index: -1
+f006
+  rotate: true
+  xy: 359, 18
+  size: 27, 18
+  orig: 29, 21
+  offset: 1, 2
+  index: -1
+h1
+  rotate: false
+  xy: 2, 7
+  size: 227, 146
+  orig: 288, 146
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 231, 47
+  size: 171, 106
+  orig: 171, 106
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 404, 65
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+x2
+  rotate: true
+  xy: 404, 12
+  size: 51, 87
+  orig: 51, 87
+  offset: 0, 0
+  index: -1

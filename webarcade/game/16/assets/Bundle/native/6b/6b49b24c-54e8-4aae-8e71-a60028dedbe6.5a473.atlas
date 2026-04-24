@@ -1,0 +1,20 @@
+
+success2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光环1
+  rotate: false
+  xy: 455, 181
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+月亮1
+  rotate: false
+  xy: 2, 2
+  size: 451, 451
+  orig: 451, 451
+  offset: 0, 0
+  index: -1

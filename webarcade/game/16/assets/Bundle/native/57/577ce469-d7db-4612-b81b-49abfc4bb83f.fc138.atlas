@@ -1,0 +1,55 @@
+
+fabao10.png
+size: 281,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fq_mojian01
+  rotate: false
+  xy: 107, 75
+  size: 80, 202
+  orig: 80, 202
+  offset: 0, 0
+  index: -1
+fq_mojian02
+  rotate: false
+  xy: 2, 60
+  size: 103, 217
+  orig: 103, 217
+  offset: 0, 0
+  index: -1
+fq_mojian03
+  rotate: true
+  xy: 2, 12
+  size: 46, 121
+  orig: 46, 121
+  offset: 0, 0
+  index: -1
+fq_mojian04
+  rotate: false
+  xy: 236, 164
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+fq_mojian05
+  rotate: true
+  xy: 125, 22
+  size: 40, 112
+  orig: 40, 112
+  offset: 0, 0
+  index: -1
+fq_mojian06
+  rotate: false
+  xy: 189, 145
+  size: 45, 132
+  orig: 45, 132
+  offset: 0, 0
+  index: -1
+fq_mojian07
+  rotate: true
+  xy: 189, 64
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1

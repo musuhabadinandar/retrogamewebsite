@@ -1,0 +1,125 @@
+
+monster09_zhizhu.png
+size: 512,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 364, 178
+  size: 139, 98
+  orig: 139, 98
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 200, 140
+  size: 162, 136
+  orig: 172, 187
+  offset: 2, 4
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 94
+  size: 196, 182
+  orig: 196, 182
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 6
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+youhou1
+  rotate: true
+  xy: 364, 105
+  size: 71, 110
+  orig: 71, 110
+  offset: 0, 0
+  index: -1
+youhou2
+  rotate: false
+  xy: 91, 11
+  size: 52, 28
+  orig: 53, 29
+  offset: 1, 0
+  index: -1
+youqian1
+  rotate: false
+  xy: 313, 70
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+youqian2
+  rotate: true
+  xy: 146, 8
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+youqian3
+  rotate: false
+  xy: 476, 92
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+youzhong1
+  rotate: true
+  xy: 2, 41
+  size: 51, 142
+  orig: 51, 142
+  offset: 0, 0
+  index: -1
+youzhong2
+  rotate: false
+  xy: 424, 3
+  size: 33, 34
+  orig: 39, 34
+  offset: 6, 0
+  index: -1
+zui
+  rotate: false
+  xy: 200, 62
+  size: 111, 76
+  orig: 121, 76
+  offset: 1, 0
+  index: -1
+zuohou1
+  rotate: true
+  xy: 359, 39
+  size: 64, 101
+  orig: 65, 101
+  offset: 0, 0
+  index: -1
+zuoqian1
+  rotate: false
+  xy: 462, 27
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+zuoqian2
+  rotate: false
+  xy: 381, 2
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+zuoqian3
+  rotate: true
+  xy: 307, 4
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1
+zuozhong1
+  rotate: true
+  xy: 200, 7
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1

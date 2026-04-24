@@ -1,0 +1,130 @@
+
+mojiandonghua.png
+size: 2046,1834
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 1082
+  size: 1624, 750
+  orig: 1624, 750
+  offset: 0, 0
+  index: -1
+dognhua_a
+  rotate: false
+  xy: 2, 2
+  size: 1624, 750
+  orig: 1624, 750
+  offset: 0, 0
+  index: -1
+donghua_b_2
+  rotate: true
+  xy: 1628, 754
+  size: 533, 414
+  orig: 537, 414
+  offset: 0, 0
+  index: -1
+donghua_c_2
+  rotate: true
+  xy: 1628, 1289
+  size: 543, 416
+  orig: 544, 416
+  offset: 1, 0
+  index: -1
+donghua_c_3
+  rotate: true
+  xy: 1628, 211
+  size: 541, 410
+  orig: 542, 410
+  offset: 0, 0
+  index: -1
+duihua
+  rotate: false
+  xy: 2, 783
+  size: 454, 297
+  orig: 455, 297
+  offset: 0, 0
+  index: -1
+zi_1
+  rotate: false
+  xy: 458, 790
+  size: 537, 70
+  orig: 537, 70
+  offset: 0, 0
+  index: -1
+zi_2
+  rotate: false
+  xy: 458, 934
+  size: 1077, 72
+  orig: 1077, 72
+  offset: 0, 0
+  index: -1
+zi_3
+  rotate: false
+  xy: 458, 862
+  size: 1007, 70
+  orig: 1007, 70
+  offset: 0, 0
+  index: -1
+zi_4
+  rotate: false
+  xy: 458, 1008
+  size: 1145, 72
+  orig: 1145, 72
+  offset: 0, 0
+  index: -1
+
+mojiandonghua2.png
+size: 1959,1412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua_b_1
+  rotate: false
+  xy: 2, 1007
+  size: 451, 403
+  orig: 451, 405
+  offset: 0, 2
+  index: -1
+donghua_b_3
+  rotate: false
+  xy: 754, 2
+  size: 784, 750
+  orig: 793, 750
+  offset: 2, 0
+  index: -1
+donghua_b_4
+  rotate: true
+  xy: 1207, 754
+  size: 656, 750
+  orig: 663, 750
+  offset: 7, 0
+  index: -1
+donghua_c_1
+  rotate: true
+  xy: 455, 793
+  size: 617, 750
+  orig: 621, 750
+  offset: 0, 0
+  index: -1
+donghua_c_4
+  rotate: true
+  xy: 2, 92
+  size: 699, 750
+  orig: 701, 750
+  offset: 2, 0
+  index: -1
+
+mojiandonghua3.png
+size: 1628,754
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua_d
+  rotate: false
+  xy: 2, 2
+  size: 1624, 750
+  orig: 1624, 750
+  offset: 0, 0
+  index: -1

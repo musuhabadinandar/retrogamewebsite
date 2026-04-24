@@ -1,0 +1,20 @@
+
+fx_arch_addpower1.png
+size: 275,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ll
+  rotate: true
+  xy: 2, 6
+  size: 128, 137
+  orig: 128, 137
+  offset: 0, 0
+  index: -1
+lp
+  rotate: false
+  xy: 141, 2
+  size: 132, 132
+  orig: 144, 144
+  offset: 6, 6
+  index: -1

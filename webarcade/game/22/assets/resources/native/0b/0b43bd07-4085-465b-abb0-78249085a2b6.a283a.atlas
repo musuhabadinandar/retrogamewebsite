@@ -1,0 +1,76 @@
+
+long_red_s.png
+size: 475,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: false
+  xy: 383, 21
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+ee1
+  rotate: false
+  xy: 449, 110
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+f002
+  rotate: true
+  xy: 436, 40
+  size: 28, 37
+  orig: 29, 39
+  offset: 0, 1
+  index: -1
+f003
+  rotate: true
+  xy: 292, 2
+  size: 34, 43
+  orig: 35, 45
+  offset: 1, 1
+  index: -1
+f004
+  rotate: true
+  xy: 337, 3
+  size: 33, 40
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+f005
+  rotate: false
+  xy: 436, 13
+  size: 27, 25
+  orig: 28, 27
+  offset: 0, 1
+  index: -1
+f006
+  rotate: true
+  xy: 449, 124
+  size: 27, 18
+  orig: 29, 21
+  offset: 1, 2
+  index: -1
+h1
+  rotate: false
+  xy: 2, 5
+  size: 288, 146
+  orig: 288, 146
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 292, 70
+  size: 155, 81
+  orig: 155, 81
+  offset: 0, 0
+  index: -1
+mm1
+  rotate: false
+  xy: 292, 38
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+fabao12.png
+size: 320,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb1201
+  rotate: false
+  xy: 220, 98
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+fb1202
+  rotate: true
+  xy: 2, 42
+  size: 144, 98
+  orig: 144, 98
+  offset: 0, 0
+  index: -1
+fb1203
+  rotate: false
+  xy: 132, 200
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+fb1204
+  rotate: false
+  xy: 102, 70
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+fb1205
+  rotate: false
+  xy: 2, 188
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

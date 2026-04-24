@@ -1,0 +1,48 @@
+
+fabao15.png
+size: 373,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb1501
+  rotate: false
+  xy: 226, 34
+  size: 145, 160
+  orig: 145, 160
+  offset: 0, 0
+  index: -1
+fb1502
+  rotate: false
+  xy: 132, 54
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+fb1503
+  rotate: false
+  xy: 340, 290
+  size: 9, 79
+  orig: 9, 79
+  offset: 0, 0
+  index: -1
+fb1504
+  rotate: false
+  xy: 2, 148
+  size: 175, 221
+  orig: 175, 221
+  offset: 0, 0
+  index: -1
+fb1505
+  rotate: false
+  xy: 179, 196
+  size: 159, 173
+  orig: 159, 173
+  offset: 0, 0
+  index: -1
+fb1506
+  rotate: false
+  xy: 2, 18
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+hecheng.png
+size: 532,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxian1
+  rotate: true
+  xy: 322, 42
+  size: 78, 125
+  orig: 78, 125
+  offset: 0, 0
+  index: -1
+paopao
+  rotate: false
+  xy: 449, 39
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+tishi_g1
+  rotate: true
+  xy: 1, 21
+  size: 99, 319
+  orig: 99, 319
+  offset: 0, 0
+  index: -1
+tishi_g2
+  rotate: false
+  xy: 1, 122
+  size: 319, 209
+  orig: 319, 209
+  offset: 0, 0
+  index: -1
+tishi_g3
+  rotate: false
+  xy: 322, 122
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 322, 1
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1

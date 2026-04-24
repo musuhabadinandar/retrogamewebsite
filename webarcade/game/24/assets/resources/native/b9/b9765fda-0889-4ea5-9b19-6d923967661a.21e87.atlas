@@ -1,0 +1,20 @@
+
+boss12_skill1.png
+size: 79,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shitou4
+  rotate: true
+  xy: 2, 4
+  size: 50, 38
+  orig: 58, 40
+  offset: 4, 2
+  index: -1
+shitou5
+  rotate: true
+  xy: 42, 2
+  size: 52, 35
+  orig: 58, 40
+  offset: 4, 4
+  index: -1

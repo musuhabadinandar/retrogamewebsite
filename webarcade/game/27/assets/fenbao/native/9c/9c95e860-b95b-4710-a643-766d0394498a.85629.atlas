@@ -1,0 +1,48 @@
+
+pet_02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 260, 211
+  size: 47, 59
+  orig: 65, 63
+  offset: 9, 0
+  index: -1
+eff_heal2
+  rotate: true
+  xy: 321, 229
+  size: 29, 34
+  orig: 32, 35
+  offset: 2, 1
+  index: -1
+spirit_body_all
+  rotate: false
+  xy: 2, 204
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+spirit_die01
+  rotate: false
+  xy: 260, 260
+  size: 145, 200
+  orig: 160, 200
+  offset: 8, 0
+  index: -1
+spirit_die02
+  rotate: true
+  xy: 204, 24
+  size: 178, 194
+  orig: 178, 195
+  offset: 0, 0
+  index: -1
+spirit_die03
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

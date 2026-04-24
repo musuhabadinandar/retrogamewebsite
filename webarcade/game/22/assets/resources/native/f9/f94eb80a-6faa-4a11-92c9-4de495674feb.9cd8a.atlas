@@ -1,0 +1,111 @@
+
+role_Professor.png
+size: 363,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+100
+  rotate: false
+  xy: 223, 10
+  size: 39, 11
+  orig: 39, 13
+  offset: 0, 2
+  index: -1
+103
+  rotate: false
+  xy: 303, 3
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+140
+  rotate: false
+  xy: 300, 31
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+180
+  rotate: false
+  xy: 272, 102
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+200
+  rotate: false
+  xy: 264, 11
+  size: 37, 10
+  orig: 37, 10
+  offset: 0, 0
+  index: -1
+201
+  rotate: false
+  xy: 178, 5
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+arms1
+  rotate: true
+  xy: 117, 91
+  size: 46, 153
+  orig: 47, 153
+  offset: 0, 0
+  index: -1
+body1
+  rotate: true
+  xy: 117, 22
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 298, 60
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+hand1a
+  rotate: true
+  xy: 2, 2
+  size: 18, 86
+  orig: 18, 86
+  offset: 0, 0
+  index: -1
+hand2a
+  rotate: true
+  xy: 90, 2
+  size: 18, 86
+  orig: 18, 86
+  offset: 0, 0
+  index: -1
+heada
+  rotate: false
+  xy: 2, 22
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 205, 23
+  size: 28, 93
+  orig: 28, 93
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 205, 23
+  size: 28, 93
+  orig: 28, 93
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 205, 53
+  size: 91, 36
+  orig: 93, 38
+  offset: 1, 1
+  index: -1

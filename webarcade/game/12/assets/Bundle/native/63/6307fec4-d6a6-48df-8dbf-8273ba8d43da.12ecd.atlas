@@ -1,0 +1,83 @@
+
+ef8.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dd
+  rotate: false
+  xy: 643, 126
+  size: 115, 125
+  orig: 115, 125
+  offset: 0, 0
+  index: -1
+efa1
+  rotate: false
+  xy: 235, 172
+  size: 406, 79
+  orig: 406, 79
+  offset: 0, 0
+  index: -1
+efa2
+  rotate: false
+  xy: 235, 111
+  size: 387, 59
+  orig: 387, 59
+  offset: 0, 0
+  index: -1
+efa3
+  rotate: false
+  xy: 624, 69
+  size: 388, 55
+  orig: 388, 55
+  offset: 0, 0
+  index: -1
+efa4
+  rotate: false
+  xy: 235, 67
+  size: 384, 42
+  orig: 384, 42
+  offset: 0, 0
+  index: -1
+hit
+  rotate: false
+  xy: 621, 6
+  size: 73, 61
+  orig: 73, 61
+  offset: 0, 0
+  index: -1
+手a
+  rotate: true
+  xy: 773, 2
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+手b
+  rotate: false
+  xy: 696, 19
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+手手
+  rotate: true
+  xy: 822, 18
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+烟雾
+  rotate: false
+  xy: 760, 170
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+猫猫
+  rotate: true
+  xy: 2, 12
+  size: 239, 231
+  orig: 239, 231
+  offset: 0, 0
+  index: -1

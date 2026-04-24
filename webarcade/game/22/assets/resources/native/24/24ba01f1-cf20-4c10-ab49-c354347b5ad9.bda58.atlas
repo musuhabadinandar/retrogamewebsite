@@ -1,0 +1,125 @@
+
+fx_hammer5_meteorite_red1.png
+size: 527,1035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_ground1
+  rotate: true
+  xy: 362, 147
+  size: 227, 148
+  orig: 227, 151
+  offset: 0, 3
+  index: -1
+hl1
+  rotate: true
+  xy: 402, 376
+  size: 140, 123
+  orig: 156, 155
+  offset: 11, 3
+  index: -1
+hl2
+  rotate: false
+  xy: 403, 663
+  size: 120, 145
+  orig: 156, 155
+  offset: 19, 4
+  index: -1
+hl3
+  rotate: true
+  xy: 403, 518
+  size: 143, 113
+  orig: 156, 155
+  offset: 6, 3
+  index: -1
+l1
+  rotate: false
+  xy: 2, 14
+  size: 108, 243
+  orig: 124, 279
+  offset: 8, 4
+  index: -1
+l2
+  rotate: true
+  xy: 217, 53
+  size: 84, 267
+  orig: 124, 279
+  offset: 24, 8
+  index: -1
+l3
+  rotate: false
+  xy: 409, 810
+  size: 116, 223
+  orig: 124, 279
+  offset: 4, 16
+  index: -1
+out_b1
+  rotate: false
+  xy: 2, 828
+  size: 405, 205
+  orig: 413, 212
+  offset: 4, 3
+  index: -1
+out_b2
+  rotate: false
+  xy: 2, 625
+  size: 399, 201
+  orig: 407, 208
+  offset: 4, 3
+  index: -1
+out_b3
+  rotate: false
+  xy: 2, 436
+  size: 362, 187
+  orig: 370, 194
+  offset: 4, 4
+  index: -1
+out_b4
+  rotate: false
+  xy: 2, 259
+  size: 329, 175
+  orig: 338, 181
+  offset: 4, 3
+  index: -1
+out_f1
+  rotate: true
+  xy: 333, 228
+  size: 206, 27
+  orig: 209, 29
+  offset: 1, 1
+  index: -1
+out_f2
+  rotate: true
+  xy: 366, 406
+  size: 217, 34
+  orig: 219, 36
+  offset: 1, 1
+  index: -1
+out_f3
+  rotate: false
+  xy: 112, 187
+  size: 233, 39
+  orig: 235, 41
+  offset: 1, 1
+  index: -1
+out_f4
+  rotate: false
+  xy: 217, 2
+  size: 261, 49
+  orig: 263, 51
+  offset: 1, 1
+  index: -1
+out_f5
+  rotate: false
+  xy: 112, 139
+  size: 232, 46
+  orig: 234, 48
+  offset: 1, 1
+  index: -1
+r1
+  rotate: false
+  xy: 112, 29
+  size: 103, 108
+  orig: 103, 109
+  offset: 0, 0
+  index: -1

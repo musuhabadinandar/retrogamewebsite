@@ -1,0 +1,27 @@
+
+p11.png
+size: 869,869
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 2
+  size: 361, 443
+  orig: 361, 443
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 2, 365
+  size: 518, 502
+  orig: 518, 502
+  offset: 0, 0
+  index: -1
+眼光
+  rotate: false
+  xy: 522, 820
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1

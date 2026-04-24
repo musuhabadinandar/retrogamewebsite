@@ -1,0 +1,20 @@
+
+fx_lightspear.png
+size: 732,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg3
+  rotate: false
+  xy: 553, 2
+  size: 177, 177
+  orig: 183, 183
+  offset: 3, 3
+  index: -1
+l1
+  rotate: false
+  xy: 2, 74
+  size: 549, 105
+  orig: 551, 113
+  offset: 1, 4
+  index: -1

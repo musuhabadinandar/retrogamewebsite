@@ -1,0 +1,76 @@
+
+fabao14.png
+size: 248,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao14/zhuzhu
+  rotate: false
+  xy: 1, 142
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+fabao14/tx
+  rotate: false
+  xy: 121, 142
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+fabao14/02
+  rotate: false
+  xy: 144, 1
+  size: 57, 80
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+fabao14/01
+  rotate: false
+  xy: 121, 239
+  size: 124, 42
+  orig: 125, 58
+  offset: 1, 16
+  index: -1
+fabao14/liusu
+  rotate: false
+  xy: 144, 83
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+fabao14/faguang
+  rotate: false
+  xy: 1, 1
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+fabao14/001
+  rotate: false
+  xy: 203, 1
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+fabao14/0001
+  rotate: false
+  xy: 236, 34
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+fabao12/dian1
+  rotate: false
+  xy: 214, 67
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+fabao12/dian2
+  rotate: false
+  xy: 203, 34
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

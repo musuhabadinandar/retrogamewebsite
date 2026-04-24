@@ -1,0 +1,83 @@
+
+wanshengkuanghuanjie.png
+size: 712,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Huan
+  rotate: true
+  xy: 613, 179
+  size: 87, 88
+  orig: 89, 90
+  offset: 1, 1
+  index: -1
+Jie
+  rotate: true
+  xy: 613, 356
+  size: 88, 90
+  orig: 90, 90
+  offset: 1, 0
+  index: -1
+Kuang
+  rotate: false
+  xy: 613, 90
+  size: 88, 87
+  orig: 90, 89
+  offset: 1, 1
+  index: -1
+Sheng
+  rotate: false
+  xy: 613, 268
+  size: 89, 86
+  orig: 90, 87
+  offset: 1, 1
+  index: -1
+Wan
+  rotate: false
+  xy: 613, 2
+  size: 87, 86
+  orig: 89, 87
+  offset: 1, 1
+  index: -1
+bg
+  rotate: true
+  xy: 566, 560
+  size: 475, 144
+  orig: 475, 144
+  offset: 0, 0
+  index: -1
+monv
+  rotate: true
+  xy: 261, 23
+  size: 287, 350
+  orig: 287, 350
+  offset: 0, 0
+  index: -1
+nangua1
+  rotate: true
+  xy: 2, 18
+  size: 292, 257
+  orig: 294, 272
+  offset: 0, 0
+  index: -1
+nangua2
+  rotate: false
+  xy: 2, 660
+  size: 562, 375
+  orig: 600, 382
+  offset: 33, 7
+  index: -1
+saoguang
+  rotate: true
+  xy: 565, 446
+  size: 112, 144
+  orig: 115, 144
+  offset: 1, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 2, 312
+  size: 561, 346
+  orig: 583, 364
+  offset: 6, 14
+  index: -1

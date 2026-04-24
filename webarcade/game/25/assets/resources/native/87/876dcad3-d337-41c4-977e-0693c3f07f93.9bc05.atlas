@@ -1,0 +1,55 @@
+
+jingling_huo.png
+size: 544,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houhuo
+  rotate: false
+  xy: 2, 2
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+qianhuo
+  rotate: true
+  xy: 259, 54
+  size: 203, 202
+  orig: 203, 202
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 259, 3
+  size: 49, 63
+  orig: 123, 63
+  offset: 74, 0
+  index: -1
+yanjing_b
+  rotate: true
+  xy: 324, 2
+  size: 42, 29
+  orig: 106, 29
+  offset: 64, 0
+  index: -1
+youhuo
+  rotate: false
+  xy: 463, 46
+  size: 65, 100
+  orig: 67, 100
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 355, 17
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+zuoquan
+  rotate: false
+  xy: 463, 148
+  size: 79, 109
+  orig: 79, 109
+  offset: 0, 0
+  index: -1

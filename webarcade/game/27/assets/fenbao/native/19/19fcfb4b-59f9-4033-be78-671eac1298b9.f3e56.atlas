@@ -1,0 +1,202 @@
+
+general_04.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bazooka
+  rotate: true
+  xy: 2, 9
+  size: 117, 45
+  orig: 117, 45
+  offset: 0, 0
+  index: -1
+bazooka_front
+  rotate: true
+  xy: 596, 4
+  size: 45, 50
+  orig: 63, 82
+  offset: 13, 18
+  index: -1
+bazooka_handle_L
+  rotate: false
+  xy: 157, 3
+  size: 40, 17
+  orig: 41, 17
+  offset: 1, 0
+  index: -1
+body
+  rotate: true
+  xy: 404, 44
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 301, 42
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 517, 47
+  size: 79, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1
+face_nomal
+  rotate: false
+  xy: 723, 3
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+foot_L
+  rotate: true
+  xy: 441, 11
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+foot_L2
+  rotate: true
+  xy: 416, 9
+  size: 33, 23
+  orig: 35, 25
+  offset: 0, 2
+  index: -1
+foot_R
+  rotate: true
+  xy: 250, 2
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+hand_R_hankie
+  rotate: false
+  xy: 471, 3
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 49, 18
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+hook_face1
+  rotate: true
+  xy: 805, 58
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+hook_face2
+  rotate: false
+  xy: 328, 3
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+hook_hand
+  rotate: false
+  xy: 157, 22
+  size: 55, 104
+  orig: 57, 106
+  offset: 1, 1
+  index: -1
+leg_L
+  rotate: false
+  xy: 382, 4
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: false
+  xy: 214, 2
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 470, 46
+  size: 80, 45
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+redface
+  rotate: false
+  xy: 278, 4
+  size: 48, 34
+  orig: 49, 35
+  offset: 0, 1
+  index: -1
+rope
+  rotate: false
+  xy: 49, 8
+  size: 79, 8
+  orig: 79, 8
+  offset: 0, 0
+  index: -1
+skill2_fire_01
+  rotate: false
+  xy: 596, 51
+  size: 26, 75
+  orig: 27, 76
+  offset: 0, 0
+  index: -1
+skill2_fire_02
+  rotate: true
+  xy: 648, 22
+  size: 27, 73
+  orig: 28, 77
+  offset: 1, 2
+  index: -1
+skill2_fire_03
+  rotate: false
+  xy: 570, 47
+  size: 24, 79
+  orig: 28, 82
+  offset: 1, 1
+  index: -1
+skill2_fire_04
+  rotate: false
+  xy: 378, 43
+  size: 24, 83
+  orig: 27, 86
+  offset: 2, 1
+  index: -1
+skill2_fire_05
+  rotate: false
+  xy: 624, 51
+  size: 25, 75
+  orig: 27, 79
+  offset: 2, 1
+  index: -1
+skill2_fold_sail
+  rotate: false
+  xy: 524, 17
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+skill2_sail
+  rotate: false
+  xy: 214, 40
+  size: 85, 86
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+skill2_ship
+  rotate: true
+  xy: 651, 54
+  size: 72, 152
+  orig: 107, 157
+  offset: 0, 3
+  index: -1

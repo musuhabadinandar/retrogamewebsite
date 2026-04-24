@@ -1,0 +1,41 @@
+
+fx_fireball_hit.png
+size: 531,565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit01
+  rotate: false
+  xy: 272, 25
+  size: 105, 106
+  orig: 288, 290
+  offset: 92, 89
+  index: -1
+hit02
+  rotate: true
+  xy: 291, 133
+  size: 188, 203
+  orig: 288, 290
+  offset: 39, 48
+  index: -1
+hit03
+  rotate: false
+  xy: 291, 323
+  size: 238, 240
+  orig: 288, 290
+  offset: 24, 27
+  index: -1
+hit04
+  rotate: false
+  xy: 2, 2
+  size: 268, 269
+  orig: 288, 290
+  offset: 11, 9
+  index: -1
+hit05
+  rotate: false
+  xy: 2, 273
+  size: 287, 290
+  orig: 288, 290
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,13 @@
+{
+  "module": "webarcade",
+  "omittedFromPublicImport": [
+    "login.php",
+    "games_api.php",
+    "games-admin.html",
+    "chat/",
+    "database/",
+    "logs/",
+    "user_caches/",
+    "cache/"
+  ]
+}

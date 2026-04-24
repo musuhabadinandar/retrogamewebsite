@@ -1,0 +1,34 @@
+
+fx_tachi6.png
+size: 760,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 140
+  size: 425, 346
+  orig: 425, 346
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 429, 187
+  size: 329, 299
+  orig: 329, 299
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 555, 2
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 2, 25
+  size: 551, 113
+  orig: 551, 113
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+p7.png
+size: 753,753
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 2
+  size: 312, 414
+  orig: 312, 414
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 2, 316
+  size: 448, 435
+  orig: 448, 435
+  offset: 0, 0
+  index: -1

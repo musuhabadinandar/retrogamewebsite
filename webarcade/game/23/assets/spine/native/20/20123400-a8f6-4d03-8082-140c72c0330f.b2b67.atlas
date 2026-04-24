@@ -1,0 +1,27 @@
+
+load.png
+size: 1008,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YZ
+  rotate: true
+  xy: 2, 2
+  size: 369, 433
+  orig: 369, 433
+  offset: 0, 0
+  index: -1
+YZ2
+  rotate: true
+  xy: 437, 2
+  size: 369, 433
+  orig: 369, 433
+  offset: 0, 0
+  index: -1
+duihuakuang
+  rotate: false
+  xy: 872, 197
+  size: 134, 174
+  orig: 134, 174
+  offset: 0, 0
+  index: -1

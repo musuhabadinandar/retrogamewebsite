@@ -1,0 +1,55 @@
+
+lvup.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+013
+  rotate: false
+  xy: 2, 2
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 181
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 518, 274
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+da
+  rotate: false
+  xy: 698, 346
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+ef1
+  rotate: false
+  xy: 518, 188
+  size: 128, 84
+  orig: 128, 84
+  offset: 0, 0
+  index: -1
+wu1
+  rotate: false
+  xy: 260, 181
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+进阶成功
+  rotate: false
+  xy: 181, 119
+  size: 256, 60
+  orig: 256, 60
+  offset: 0, 0
+  index: -1

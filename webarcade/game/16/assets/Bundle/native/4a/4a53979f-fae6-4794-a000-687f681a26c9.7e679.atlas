@@ -1,0 +1,97 @@
+
+pet_1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet_1/a0_01
+  rotate: false
+  xy: 793, 139
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+pet_1/body
+  rotate: false
+  xy: 268, 65
+  size: 152, 165
+  orig: 152, 165
+  offset: 0, 0
+  index: -1
+pet_1/guang
+  rotate: false
+  xy: 1, 1
+  size: 266, 229
+  orig: 266, 229
+  offset: 0, 0
+  index: -1
+pet_1/tui1
+  rotate: true
+  xy: 421, 39
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+pet_1/tui2
+  rotate: false
+  xy: 969, 157
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+pet_1/weiba1
+  rotate: true
+  xy: 553, 134
+  size: 96, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+pet_1/weiba2
+  rotate: false
+  xy: 421, 106
+  size: 131, 124
+  orig: 131, 124
+  offset: 0, 0
+  index: -1
+pet_1/weiba3
+  rotate: false
+  xy: 885, 144
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+pet_1/weiba4
+  rotate: true
+  xy: 680, 134
+  size: 96, 112
+  orig: 96, 112
+  offset: 0, 0
+  index: -1
+pet_1/weiba5
+  rotate: true
+  xy: 268, 16
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+pet_1/zhuangshi
+  rotate: false
+  xy: 631, 76
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+pet_1/zhuazi1
+  rotate: true
+  xy: 553, 69
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+pet_1/zhuazi2
+  rotate: false
+  xy: 515, 43
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+adBox.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: true
+  xy: 164, 2
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+token
+  rotate: true
+  xy: 2, 18
+  size: 216, 160
+  orig: 216, 160
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 164, 84
+  size: 138, 150
+  orig: 141, 154
+  offset: 1, 2
+  index: -1

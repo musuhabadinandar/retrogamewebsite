@@ -1,0 +1,83 @@
+
+fx_sdq_explosion1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gbl_die_baoyan_15
+  rotate: false
+  xy: 152, 25
+  size: 107, 112
+  orig: 197, 167
+  offset: 31, 17
+  index: -1
+gbl_die_baoyan_17
+  rotate: true
+  xy: 0, 1
+  size: 136, 150
+  orig: 197, 167
+  offset: 13, 0
+  index: -1
+gbl_die_baoyan_19
+  rotate: true
+  xy: 161, 150
+  size: 176, 155
+  orig: 197, 167
+  offset: 11, 0
+  index: -1
+gbl_die_baoyan_21
+  rotate: true
+  xy: 161, 328
+  size: 182, 157
+  orig: 197, 167
+  offset: 8, 0
+  index: -1
+gbl_die_baoyan_23
+  rotate: true
+  xy: 0, 325
+  size: 185, 159
+  orig: 197, 167
+  offset: 7, 0
+  index: -1
+gbl_die_baoyan_25
+  rotate: true
+  xy: 0, 139
+  size: 184, 159
+  orig: 197, 167
+  offset: 10, 1
+  index: -1
+gbl_die_baoyan_27
+  rotate: false
+  xy: 318, 171
+  size: 144, 155
+  orig: 197, 167
+  offset: 9, 2
+  index: -1
+gbl_die_baoyan_29
+  rotate: true
+  xy: 261, 0
+  size: 148, 152
+  orig: 197, 167
+  offset: 6, 2
+  index: -1
+gbl_die_baoyan_31
+  rotate: false
+  xy: 415, 20
+  size: 147, 149
+  orig: 197, 167
+  offset: 5, 4
+  index: -1
+gbl_die_baoyan_33
+  rotate: true
+  xy: 320, 360
+  size: 150, 145
+  orig: 197, 167
+  offset: 3, 6
+  index: -1
+gbl_die_baoyan_35
+  rotate: true
+  xy: 464, 214
+  size: 144, 140
+  orig: 197, 167
+  offset: 3, 7
+  index: -1

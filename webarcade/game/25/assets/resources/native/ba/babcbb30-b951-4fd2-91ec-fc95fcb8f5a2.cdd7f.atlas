@@ -1,0 +1,76 @@
+
+jianhun_st_tx1_mj.png
+size: 1921,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_shangtiao/TX_shangtiao0001
+  rotate: false
+  xy: 1471, 16
+  size: 193, 206
+  orig: 220, 220
+  offset: 21, 0
+  index: -1
+TX_shangtiao/TX_shangtiao0002
+  rotate: false
+  xy: 224, 4
+  size: 209, 218
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+TX_shangtiao/TX_shangtiao0003
+  rotate: false
+  xy: 2, 2
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+TX_shangtiao/TX_shangtiao0004
+  rotate: false
+  xy: 435, 4
+  size: 207, 218
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+TX_shangtiao/TX_shangtiao0005
+  rotate: false
+  xy: 1666, 16
+  size: 162, 206
+  orig: 220, 220
+  offset: 5, 4
+  index: -1
+TX_shangtiao/TX_shangtiao0006
+  rotate: false
+  xy: 644, 8
+  size: 204, 214
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+TX_shangtiao/TX_shangtiao0007
+  rotate: false
+  xy: 1057, 14
+  size: 205, 208
+  orig: 220, 220
+  offset: 5, 10
+  index: -1
+TX_shangtiao/TX_shangtiao0008
+  rotate: true
+  xy: 1264, 14
+  size: 208, 205
+  orig: 220, 220
+  offset: 6, 14
+  index: -1
+TX_shangtiao/TX_shangtiao0009
+  rotate: true
+  xy: 850, 12
+  size: 210, 205
+  orig: 220, 220
+  offset: 8, 15
+  index: -1
+TX_shangtiao/TX_shangtiao0010
+  rotate: false
+  xy: 1830, 97
+  size: 89, 125
+  orig: 220, 220
+  offset: 11, 95
+  index: -1

@@ -1,0 +1,307 @@
+
+balei.png
+size: 914, 587
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+51561
+  rotate: false
+  xy: 2, 2
+  size: 153, 149
+  orig: 153, 149
+  offset: 0, 0
+  index: -1
+SED
+  rotate: false
+  xy: 632, 4
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+bbody
+  rotate: true
+  xy: 302, 7
+  size: 167, 122
+  orig: 167, 122
+  offset: 0, 0
+  index: -1
+bdm
+  rotate: true
+  xy: 826, 92
+  size: 38, 73
+  orig: 40, 74
+  offset: 1, 1
+  index: -1
+bhand
+  rotate: false
+  xy: 728, 46
+  size: 39, 49
+  orig: 41, 51
+  offset: 1, 1
+  index: -1
+bhead
+  rotate: true
+  xy: 486, 196
+  size: 166, 123
+  orig: 166, 123
+  offset: 0, 0
+  index: -1
+bj1
+  rotate: true
+  xy: 812, 33
+  size: 26, 38
+  orig: 28, 39
+  offset: 1, 1
+  index: -1
+bj2
+  rotate: true
+  xy: 852, 34
+  size: 25, 38
+  orig: 28, 39
+  offset: 1, 1
+  index: -1
+bw
+  rotate: false
+  xy: 837, 132
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+cheng1
+  rotate: false
+  xy: 274, 176
+  size: 133, 91
+  orig: 133, 91
+  offset: 0, 0
+  index: -1
+cheng2
+  rotate: false
+  xy: 779, 266
+  size: 133, 91
+  orig: 133, 91
+  offset: 0, 0
+  index: -1
+dadf
+  rotate: false
+  xy: 409, 209
+  size: 70, 58
+  orig: 70, 58
+  offset: 0, 0
+  index: -1
+dz
+  rotate: false
+  xy: 276, 364
+  size: 169, 221
+  orig: 169, 221
+  offset: 0, 0
+  index: -1
+faw
+  rotate: true
+  xy: 157, 2
+  size: 149, 143
+  orig: 150, 143
+  offset: 0, 0
+  index: -1
+ffsa
+  rotate: false
+  xy: 447, 364
+  size: 169, 221
+  orig: 169, 221
+  offset: 0, 0
+  index: -1
+p11
+  rotate: false
+  xy: 769, 65
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+p22
+  rotate: false
+  xy: 823, 61
+  size: 51, 29
+  orig: 52, 29
+  offset: 1, 0
+  index: -1
+p55
+  rotate: false
+  xy: 618, 451
+  size: 168, 134
+  orig: 191, 134
+  offset: 0, 0
+  index: -1
+p66
+  rotate: false
+  xy: 2, 153
+  size: 270, 170
+  orig: 270, 170
+  offset: 0, 0
+  index: -1
+sad1
+  rotate: false
+  xy: 818, 362
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+sad2
+  rotate: true
+  xy: 779, 185
+  size: 79, 107
+  orig: 79, 108
+  offset: 0, 1
+  index: -1
+sad3
+  rotate: false
+  xy: 426, 9
+  size: 89, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+ts2
+  rotate: true
+  xy: 788, 519
+  size: 66, 124
+  orig: 66, 124
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 664, 45
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 603, 2
+  size: 30, 27
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+y132
+  rotate: true
+  xy: 876, 61
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+y222
+  rotate: true
+  xy: 769, 34
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+yiz1
+  rotate: true
+  xy: 611, 97
+  size: 135, 137
+  orig: 135, 137
+  offset: 0, 0
+  index: -1
+zbody
+  rotate: false
+  xy: 426, 73
+  size: 167, 121
+  orig: 167, 121
+  offset: 0, 0
+  index: -1
+zbq
+  rotate: true
+  xy: 750, 188
+  size: 44, 27
+  orig: 46, 29
+  offset: 1, 1
+  index: -1
+zdm
+  rotate: true
+  xy: 750, 98
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+zhand
+  rotate: true
+  xy: 664, 2
+  size: 41, 45
+  orig: 43, 47
+  offset: 1, 1
+  index: -1
+zhand2
+  rotate: true
+  xy: 711, 2
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+zhead
+  rotate: false
+  xy: 611, 234
+  size: 166, 123
+  orig: 166, 123
+  offset: 0, 0
+  index: -1
+zj1
+  rotate: true
+  xy: 758, 5
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+zj2
+  rotate: true
+  xy: 758, 5
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+zw
+  rotate: false
+  xy: 603, 34
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+图层492(3)
+  rotate: false
+  xy: 788, 460
+  size: 116, 57
+  orig: 118, 60
+  offset: 1, 1
+  index: -1
+头饰1
+  rotate: true
+  xy: 517, 12
+  size: 59, 84
+  orig: 59, 84
+  offset: 0, 0
+  index: -1
+组 1
+  rotate: false
+  xy: 750, 140
+  size: 85, 43
+  orig: 85, 43
+  offset: 0, 0
+  index: -1
+衣服faf
+  rotate: false
+  xy: 618, 359
+  size: 198, 90
+  orig: 198, 90
+  offset: 0, 0
+  index: -1
+衣服fxv
+  rotate: false
+  xy: 276, 269
+  size: 208, 93
+  orig: 208, 93
+  offset: 0, 0
+  index: -1
+跑步机1
+  rotate: false
+  xy: 2, 325
+  size: 272, 260
+  orig: 273, 260
+  offset: 1, 0
+  index: -1

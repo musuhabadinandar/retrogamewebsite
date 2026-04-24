@@ -1,0 +1,132 @@
+
+fx_halberd.png
+size: 896,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halberd1
+  rotate: false
+  xy: 2, 143
+  size: 64, 358
+  orig: 72, 362
+  offset: 4, 3
+  index: -1
+halberd2
+  rotate: false
+  xy: 423, 269
+  size: 71, 232
+  orig: 78, 234
+  offset: 4, 0
+  index: -1
+halberd3
+  rotate: true
+  xy: 68, 144
+  size: 63, 234
+  orig: 78, 234
+  offset: 7, 0
+  index: -1
+l1
+  rotate: false
+  xy: 687, 315
+  size: 156, 186
+  orig: 157, 447
+  offset: 1, 1
+  index: -1
+l2
+  rotate: true
+  xy: 2, 2
+  size: 139, 190
+  orig: 157, 447
+  offset: 4, 4
+  index: -1
+l3
+  rotate: false
+  xy: 300, 263
+  size: 121, 238
+  orig: 157, 447
+  offset: 10, 0
+  index: -1
+l4
+  rotate: false
+  xy: 193, 241
+  size: 105, 260
+  orig: 157, 447
+  offset: 12, 3
+  index: -1
+l5
+  rotate: false
+  xy: 68, 209
+  size: 79, 292
+  orig: 157, 447
+  offset: 26, 48
+  index: -1
+l6
+  rotate: false
+  xy: 149, 228
+  size: 42, 273
+  orig: 157, 447
+  offset: 44, 173
+  index: -1
+ll1
+  rotate: true
+  xy: 397, 156
+  size: 105, 201
+  orig: 203, 220
+  offset: 43, 0
+  index: -1
+ll2
+  rotate: true
+  xy: 600, 181
+  size: 104, 191
+  orig: 203, 220
+  offset: 36, 13
+  index: -1
+ll3
+  rotate: true
+  xy: 701, 10
+  size: 169, 182
+  orig: 203, 220
+  offset: 16, 16
+  index: -1
+ll4
+  rotate: false
+  xy: 496, 287
+  size: 189, 214
+  orig: 203, 220
+  offset: 5, 6
+  index: -1
+ll5
+  rotate: false
+  xy: 498, 5
+  size: 201, 149
+  orig: 203, 220
+  offset: 1, 18
+  index: -1
+ll6
+  rotate: false
+  xy: 323, 26
+  size: 173, 120
+  orig: 203, 220
+  offset: 7, 24
+  index: -1
+mark
+  rotate: false
+  xy: 793, 211
+  size: 101, 102
+  orig: 109, 109
+  offset: 4, 3
+  index: -1
+s1
+  rotate: false
+  xy: 194, 15
+  size: 127, 127
+  orig: 135, 135
+  offset: 1, 0
+  index: -1
+s2
+  rotate: false
+  xy: 304, 148
+  size: 91, 113
+  orig: 94, 114
+  offset: 2, 1
+  index: -1

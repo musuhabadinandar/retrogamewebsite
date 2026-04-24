@@ -1,0 +1,41 @@
+
+fei2.png
+size: 312,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1
+  rotate: false
+  xy: 2, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 64, 2
+  size: 49, 174
+  orig: 49, 174
+  offset: 0, 0
+  index: -1
+形状 149 拷贝 2
+  rotate: false
+  xy: 126, 2
+  size: 33, 187
+  orig: 33, 187
+  offset: 0, 0
+  index: -1
+组 7
+  rotate: false
+  xy: 188, 2
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+组 7 拷贝
+  rotate: false
+  xy: 250, 2
+  size: 60, 244
+  orig: 60, 244
+  offset: 0, 0
+  index: -1

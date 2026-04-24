@@ -1,0 +1,21 @@
+# Local POC hardening: do not expose dumps, local databases, archives, or payment/test endpoints.
+<FilesMatch "\.(?:sql|db|sqlite|sqlite3|zip|docx|pem|markdown|md)$">
+    Require all denied
+</FilesMatch>
+
+RedirectMatch 403 ^/(?:napthe|templates/fb)(?:/|$)
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^maps/code/benhvien-(.*).xml$ maps/code/benhvien.xml [L]
+RewriteRule ^maps/code/shop-(.*).xml$ maps/code/shop.xml [L]
+RewriteRule ^maps/code/nha-(.*).xml$ maps/code/nha.xml [L]
+
+RewriteRule ^screen/images/game/close.png$ style/images/game/close.png [L]
+
+RewriteRule ^game.json$ data.php?ducnghia [L]
+RewriteRule ^(.*).json$ data/index.php [L]
+
+RewriteCond %{HTTP_HOST} ^sc1.lol$ [OR]
+RewriteCond %{HTTP_HOST} ^www.sc1.lol$
+RewriteRule ^(.*)$ _blog/$1

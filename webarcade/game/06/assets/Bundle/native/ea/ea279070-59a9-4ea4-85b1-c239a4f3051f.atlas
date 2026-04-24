@@ -1,0 +1,41 @@
+
+fabao23.png
+size: 371,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb2301
+  rotate: false
+  xy: 193, 132
+  size: 161, 98
+  orig: 161, 98
+  offset: 0, 0
+  index: -1
+fb2302
+  rotate: false
+  xy: 193, 232
+  size: 176, 136
+  orig: 176, 136
+  offset: 0, 0
+  index: -1
+fb2303
+  rotate: false
+  xy: 193, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fb2304
+  rotate: false
+  xy: 2, 223
+  size: 189, 145
+  orig: 189, 145
+  offset: 0, 0
+  index: -1
+fb2305
+  rotate: false
+  xy: 2, 76
+  size: 189, 145
+  orig: 189, 145
+  offset: 0, 0
+  index: -1

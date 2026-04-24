@@ -1,0 +1,97 @@
+
+monster07_bingnaisi.png
+size: 622,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji1
+  rotate: false
+  xy: 2, 144
+  size: 367, 180
+  orig: 368, 180
+  offset: 0, 0
+  index: -1
+gongji11
+  rotate: false
+  xy: 2, 326
+  size: 397, 180
+  orig: 402, 207
+  offset: 2, 17
+  index: -1
+gongji2
+  rotate: false
+  xy: 211, 6
+  size: 181, 136
+  orig: 181, 137
+  offset: 0, 1
+  index: -1
+gongji3
+  rotate: true
+  xy: 371, 180
+  size: 144, 105
+  orig: 144, 106
+  offset: 0, 1
+  index: -1
+gongji4
+  rotate: false
+  xy: 496, 115
+  size: 110, 99
+  orig: 110, 99
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 401, 353
+  size: 153, 219
+  orig: 154, 221
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 140, 207
+  orig: 142, 209
+  offset: 0, 2
+  index: -1
+shitou1
+  rotate: false
+  xy: 496, 41
+  size: 114, 72
+  orig: 115, 72
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: true
+  xy: 394, 52
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: false
+  xy: 478, 216
+  size: 136, 135
+  orig: 136, 135
+  offset: 0, 0
+  index: -1
+yanjin
+  rotate: true
+  xy: 483, 10
+  size: 29, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 394, 17
+  size: 87, 33
+  orig: 87, 33
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 478, 202
+  size: 16, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1

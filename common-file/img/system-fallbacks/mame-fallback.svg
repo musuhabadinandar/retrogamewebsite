@@ -1,0 +1,75 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Arcade MAME Fallback Cover</title>
+  <desc id="desc">Premium arcade-style fallback artwork for MAME titles.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#170b26"/>
+      <stop offset="45%" stop-color="#081421"/>
+      <stop offset="100%" stop-color="#12070f"/>
+    </linearGradient>
+    <linearGradient id="marquee" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffcf55"/>
+      <stop offset="25%" stop-color="#ff6f61"/>
+      <stop offset="50%" stop-color="#ff42c6"/>
+      <stop offset="75%" stop-color="#42d7ff"/>
+      <stop offset="100%" stop-color="#8bff6a"/>
+    </linearGradient>
+    <linearGradient id="screenGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#102d4a"/>
+      <stop offset="100%" stop-color="#05090d"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#89e1ff" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#ff4cb8" stop-opacity="0.10"/>
+    </linearGradient>
+    <pattern id="scanlines" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="3" fill="#ffffff" fill-opacity="0.03"/>
+      <rect y="3" width="6" height="3" fill="#000000" fill-opacity="0.09"/>
+    </pattern>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="800" height="1100" rx="42" fill="url(#bg)"/>
+  <rect x="18" y="18" width="764" height="1064" rx="34" fill="none" stroke="#ffffff" stroke-opacity="0.08" stroke-width="2"/>
+
+  <rect x="72" y="74" width="656" height="118" rx="28" fill="#0d0d14" stroke="url(#marquee)" stroke-width="5"/>
+  <rect x="90" y="92" width="620" height="82" rx="18" fill="url(#marquee)" filter="url(#softGlow)"/>
+  <text x="400" y="143" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" letter-spacing="10" fill="#140818">ARCADE</text>
+
+  <g transform="translate(110 250)">
+    <rect x="0" y="0" width="580" height="520" rx="34" fill="#111822" stroke="#4ef0ff" stroke-opacity="0.45" stroke-width="4"/>
+    <rect x="22" y="22" width="536" height="476" rx="24" fill="url(#screenGlow)"/>
+    <rect x="22" y="22" width="536" height="476" rx="24" fill="url(#scanlines)"/>
+    <rect x="22" y="22" width="536" height="476" rx="24" fill="url(#glass)"/>
+
+    <circle cx="112" cy="120" r="18" fill="#ff595e"/>
+    <circle cx="162" cy="120" r="18" fill="#ffca3a"/>
+    <circle cx="212" cy="120" r="18" fill="#8ac926"/>
+
+    <text x="290" y="212" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="122" font-weight="900" fill="#f8fbff">MAME</text>
+    <text x="290" y="278" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="6" fill="#9ee8ff">ARCADE CLASSICS</text>
+
+    <g opacity="0.94">
+      <circle cx="118" cy="378" r="62" fill="#111827" stroke="#5ff0ff" stroke-width="5"/>
+      <circle cx="118" cy="378" r="34" fill="#ff4b4b"/>
+      <rect x="280" y="346" width="72" height="72" rx="36" fill="#ff5aa5"/>
+      <rect x="364" y="346" width="72" height="72" rx="36" fill="#42d7ff"/>
+      <rect x="448" y="346" width="72" height="72" rx="36" fill="#8bff6a"/>
+      <rect x="322" y="430" width="72" height="72" rx="36" fill="#ffcf55"/>
+      <rect x="406" y="430" width="72" height="72" rx="36" fill="#c66dff"/>
+    </g>
+  </g>
+
+  <g transform="translate(118 842)">
+    <rect width="564" height="150" rx="28" fill="#0e1320" stroke="#ffffff" stroke-opacity="0.1"/>
+    <text x="282" y="58" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#f6fbff">INSERT COIN. PRESS START.</text>
+    <text x="282" y="102" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#b7c6da">Classic arcade action, now playable in your browser.</text>
+  </g>
+</svg>

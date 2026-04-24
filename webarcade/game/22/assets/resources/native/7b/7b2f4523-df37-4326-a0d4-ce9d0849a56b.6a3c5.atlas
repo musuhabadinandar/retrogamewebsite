@@ -1,0 +1,153 @@
+
+fx_lightningstrikeimpact.png
+size: 1679,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigl1
+  rotate: true
+  xy: 2, 277
+  size: 81, 1522
+  orig: 86, 1527
+  offset: 3, 2
+  index: -1
+bigl2
+  rotate: true
+  xy: 2, 360
+  size: 96, 1516
+  orig: 101, 1522
+  offset: 3, 3
+  index: -1
+hl
+  rotate: true
+  xy: 830, 21
+  size: 136, 133
+  orig: 146, 143
+  offset: 5, 5
+  index: -1
+l11
+  rotate: true
+  xy: 965, 101
+  size: 174, 208
+  orig: 179, 213
+  offset: 2, 3
+  index: -1
+l12
+  rotate: false
+  xy: 1526, 215
+  size: 151, 241
+  orig: 160, 252
+  offset: 5, 4
+  index: -1
+l13
+  rotate: true
+  xy: 503, 178
+  size: 97, 245
+  orig: 103, 252
+  offset: 3, 3
+  index: -1
+l21
+  rotate: true
+  xy: 672, 28
+  size: 129, 156
+  orig: 134, 162
+  offset: 3, 3
+  index: -1
+l22
+  rotate: true
+  xy: 266, 25
+  size: 125, 156
+  orig: 131, 162
+  offset: 3, 5
+  index: -1
+l23
+  rotate: true
+  xy: 503, 65
+  size: 111, 167
+  orig: 116, 174
+  offset: 3, 3
+  index: -1
+ml1
+  rotate: true
+  xy: 1364, 125
+  size: 150, 159
+  orig: 157, 166
+  offset: 3, 2
+  index: -1
+ml2
+  rotate: false
+  xy: 1525, 29
+  size: 141, 184
+  orig: 148, 191
+  offset: 3, 2
+  index: -1
+ml3
+  rotate: true
+  xy: 1175, 120
+  size: 155, 187
+  orig: 163, 194
+  offset: 4, 2
+  index: -1
+ml4
+  rotate: true
+  xy: 1364, 2
+  size: 121, 133
+  orig: 125, 139
+  offset: 2, 2
+  index: -1
+out_b1
+  rotate: false
+  xy: 750, 159
+  size: 213, 116
+  orig: 222, 122
+  offset: 4, 3
+  index: -1
+out_b2
+  rotate: false
+  xy: 266, 152
+  size: 235, 123
+  orig: 243, 130
+  offset: 4, 4
+  index: -1
+out_b3
+  rotate: false
+  xy: 2, 6
+  size: 258, 132
+  orig: 266, 139
+  offset: 4, 3
+  index: -1
+out_b4
+  rotate: false
+  xy: 2, 140
+  size: 262, 135
+  orig: 270, 142
+  offset: 4, 3
+  index: -1
+out_f1
+  rotate: false
+  xy: 965, 19
+  size: 139, 22
+  orig: 141, 24
+  offset: 1, 1
+  index: -1
+out_f2
+  rotate: false
+  xy: 965, 43
+  size: 150, 25
+  orig: 152, 27
+  offset: 1, 1
+  index: -1
+out_f3
+  rotate: false
+  xy: 1175, 86
+  size: 167, 32
+  orig: 169, 34
+  offset: 1, 1
+  index: -1
+out_f4
+  rotate: false
+  xy: 965, 70
+  size: 149, 29
+  orig: 151, 31
+  offset: 1, 1
+  index: -1

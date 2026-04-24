@@ -1,0 +1,17 @@
+Options -Indexes
+
+<IfModule mod_mime.c>
+  AddType audio/wav .wav
+  AddType audio/mpeg .mp3
+  AddType audio/ogg .ogg
+  AddType image/png .png
+  AddType image/jpeg .jpg .jpeg
+  AddType image/webp .webp
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(wav|mp3|ogg|png|jpe?g|webp)$">
+    Header set Content-Disposition "inline"
+    Header set X-Content-Type-Options "nosniff"
+  </FilesMatch>
+</IfModule>

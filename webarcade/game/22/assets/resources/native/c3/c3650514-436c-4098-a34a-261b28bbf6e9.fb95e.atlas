@@ -1,0 +1,27 @@
+
+fx_petrified.png
+size: 173,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/r1
+  rotate: true
+  xy: 2, 2
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+img/r2
+  rotate: false
+  xy: 97, 14
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+img/r3
+  rotate: true
+  xy: 135, 22
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+kuang.png
+size: 683,122
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+G1
+  rotate: false
+  xy: 0, 0
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+G2
+  rotate: false
+  xy: 124, 0
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+G3
+  rotate: false
+  xy: 248, 0
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+G4
+  rotate: false
+  xy: 372, 0
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+G5
+  rotate: false
+  xy: 496, 0
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 620, 20
+  size: 63, 102
+  orig: 63, 102
+  offset: 0, 0
+  index: -1

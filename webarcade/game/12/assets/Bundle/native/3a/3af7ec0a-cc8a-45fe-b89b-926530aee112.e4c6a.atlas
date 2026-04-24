@@ -1,0 +1,27 @@
+
+p9.png
+size: 995,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 2
+  size: 361, 398
+  orig: 361, 398
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 2, 365
+  size: 621, 628
+  orig: 621, 628
+  offset: 0, 0
+  index: -1
+眼光
+  rotate: false
+  xy: 625, 946
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1

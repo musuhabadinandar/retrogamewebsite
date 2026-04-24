@@ -1,0 +1,272 @@
+
+JSHJ_dz.png
+size: 1662,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qugan
+  rotate: true
+  xy: 620, 12
+  size: 135, 103
+  orig: 136, 104
+  offset: 0, 1
+  index: -1
+qugan_cl
+  rotate: false
+  xy: 725, 37
+  size: 146, 110
+  orig: 149, 111
+  offset: 0, 0
+  index: -1
+qugan_je
+  rotate: true
+  xy: 509, 4
+  size: 143, 109
+  orig: 143, 109
+  offset: 0, 0
+  index: -1
+shange
+  rotate: false
+  xy: 171, 4
+  size: 167, 143
+  orig: 167, 145
+  offset: 0, 2
+  index: -1
+shange_cl
+  rotate: false
+  xy: 2, 4
+  size: 167, 143
+  orig: 167, 145
+  offset: 0, 2
+  index: -1
+shange_je
+  rotate: false
+  xy: 340, 4
+  size: 167, 143
+  orig: 167, 145
+  offset: 0, 2
+  index: -1
+xiabanshen
+  rotate: true
+  xy: 1063, 54
+  size: 93, 46
+  orig: 95, 49
+  offset: 1, 1
+  index: -1
+xiabanshen_cl
+  rotate: true
+  xy: 959, 48
+  size: 99, 51
+  orig: 102, 52
+  offset: 2, 1
+  index: -1
+xiabanshen_je
+  rotate: true
+  xy: 1012, 48
+  size: 99, 49
+  orig: 102, 52
+  offset: 2, 1
+  index: -1
+xiae
+  rotate: true
+  xy: 1111, 54
+  size: 93, 40
+  orig: 93, 41
+  offset: 0, 1
+  index: -1
+xiae_cl
+  rotate: true
+  xy: 873, 47
+  size: 100, 41
+  orig: 100, 42
+  offset: 0, 1
+  index: -1
+xiae_je
+  rotate: true
+  xy: 916, 47
+  size: 100, 41
+  orig: 100, 42
+  offset: 0, 1
+  index: -1
+yanjing
+  rotate: true
+  xy: 1153, 59
+  size: 88, 51
+  orig: 89, 52
+  offset: 0, 1
+  index: -1
+yanjing-b
+  rotate: false
+  xy: 838, 8
+  size: 89, 27
+  orig: 89, 52
+  offset: 0, 14
+  index: -1
+youdatui
+  rotate: false
+  xy: 1349, 72
+  size: 65, 75
+  orig: 65, 76
+  offset: 0, 1
+  index: -1
+youdatui_cl
+  rotate: false
+  xy: 1278, 67
+  size: 69, 80
+  orig: 69, 81
+  offset: 0, 1
+  index: -1
+youdatui_je
+  rotate: false
+  xy: 1206, 67
+  size: 70, 80
+  orig: 70, 81
+  offset: 0, 1
+  index: -1
+youshangbi
+  rotate: true
+  xy: 1359, 2
+  size: 68, 56
+  orig: 70, 57
+  offset: 1, 0
+  index: -1
+youshangbi_cl
+  rotate: true
+  xy: 1472, 74
+  size: 73, 59
+  orig: 75, 60
+  offset: 1, 0
+  index: -1
+youshangbi_je
+  rotate: false
+  xy: 1283, 6
+  size: 74, 59
+  orig: 76, 60
+  offset: 1, 0
+  index: -1
+youxiabi
+  rotate: true
+  xy: 1594, 5
+  size: 70, 24
+  orig: 72, 27
+  offset: 1, 1
+  index: -1
+youxiabi_cl
+  rotate: true
+  xy: 1444, 73
+  size: 74, 26
+  orig: 77, 27
+  offset: 2, 1
+  index: -1
+youxiabi_je
+  rotate: true
+  xy: 1416, 72
+  size: 75, 26
+  orig: 77, 27
+  offset: 1, 1
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 1063, 2
+  size: 38, 50
+  orig: 40, 52
+  offset: 1, 1
+  index: -1
+youxiaotui_cl
+  rotate: false
+  xy: 1172, 3
+  size: 40, 54
+  orig: 42, 56
+  offset: 1, 1
+  index: -1
+youxiaotui_je
+  rotate: false
+  xy: 1620, 35
+  size: 40, 54
+  orig: 42, 56
+  offset: 1, 1
+  index: -1
+zuodatui
+  rotate: true
+  xy: 929, 2
+  size: 43, 63
+  orig: 45, 63
+  offset: 1, 0
+  index: -1
+zuodatui_cl
+  rotate: true
+  xy: 994, 2
+  size: 44, 67
+  orig: 46, 67
+  offset: 1, 0
+  index: -1
+zuodatui_je
+  rotate: true
+  xy: 1103, 7
+  size: 45, 67
+  orig: 47, 67
+  offset: 1, 0
+  index: -1
+zuoshangbi
+  rotate: false
+  xy: 1214, 2
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+zuoshangbi_cl
+  rotate: false
+  xy: 1454, 5
+  size: 70, 66
+  orig: 71, 66
+  offset: 1, 0
+  index: -1
+zuoshangbi_je
+  rotate: true
+  xy: 1526, 2
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+zuoxiabi
+  rotate: true
+  xy: 1417, 3
+  size: 67, 35
+  orig: 69, 37
+  offset: 1, 1
+  index: -1
+zuoxiabi_cl
+  rotate: true
+  xy: 1572, 77
+  size: 70, 37
+  orig: 73, 39
+  offset: 1, 1
+  index: -1
+zuoxiabi_je
+  rotate: true
+  xy: 1533, 76
+  size: 71, 37
+  orig: 74, 39
+  offset: 1, 1
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 783, 3
+  size: 32, 53
+  orig: 34, 55
+  offset: 1, 0
+  index: -1
+zuoxiaotui_cl
+  rotate: false
+  xy: 1611, 91
+  size: 34, 56
+  orig: 36, 59
+  offset: 1, 1
+  index: -1
+zuoxiaotui_je
+  rotate: true
+  xy: 725, 2
+  size: 33, 56
+  orig: 35, 59
+  offset: 1, 1
+  index: -1

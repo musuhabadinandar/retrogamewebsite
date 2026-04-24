@@ -1,0 +1,13 @@
+
+fx_bglava.png
+size: 641,1436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_lava
+  rotate: false
+  xy: 2, 2
+  size: 637, 1432
+  orig: 788, 1775
+  offset: 75, 171
+  index: -1

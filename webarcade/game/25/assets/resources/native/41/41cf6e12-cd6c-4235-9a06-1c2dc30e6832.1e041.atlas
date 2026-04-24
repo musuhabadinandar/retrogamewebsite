@@ -1,0 +1,167 @@
+
+yanwu_TX.png
+size: 1923,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanyou00
+  rotate: false
+  xy: 1885, 219
+  size: 36, 114
+  orig: 36, 114
+  offset: 0, 0
+  index: -1
+yanyou01
+  rotate: true
+  xy: 539, 9
+  size: 195, 88
+  orig: 195, 88
+  offset: 0, 0
+  index: -1
+yanyou02
+  rotate: false
+  xy: 1660, 335
+  size: 227, 132
+  orig: 227, 132
+  offset: 0, 0
+  index: -1
+yanyou03
+  rotate: true
+  xy: 1103, 5
+  size: 206, 138
+  orig: 206, 138
+  offset: 0, 0
+  index: -1
+yanyou04
+  rotate: false
+  xy: 2, 2
+  size: 140, 194
+  orig: 140, 194
+  offset: 0, 0
+  index: -1
+yanyou05
+  rotate: true
+  xy: 144, 7
+  size: 189, 142
+  orig: 189, 142
+  offset: 0, 0
+  index: -1
+yanyou06
+  rotate: true
+  xy: 720, 28
+  size: 177, 143
+  orig: 177, 143
+  offset: 0, 0
+  index: -1
+yanyou07
+  rotate: true
+  xy: 1577, 9
+  size: 162, 143
+  orig: 162, 143
+  offset: 0, 0
+  index: -1
+yanyou08
+  rotate: true
+  xy: 1722, 23
+  size: 148, 144
+  orig: 148, 144
+  offset: 0, 0
+  index: -1
+yanzhong_00
+  rotate: false
+  xy: 1868, 80
+  size: 47, 91
+  orig: 48, 94
+  offset: 1, 0
+  index: -1
+yanzhong_01
+  rotate: false
+  xy: 629, 23
+  size: 89, 181
+  orig: 92, 184
+  offset: 1, 1
+  index: -1
+yanzhong_02
+  rotate: false
+  xy: 1455, 18
+  size: 120, 205
+  orig: 123, 207
+  offset: 1, 0
+  index: -1
+yanzhong_03
+  rotate: false
+  xy: 1660, 173
+  size: 223, 160
+  orig: 226, 163
+  offset: 1, 1
+  index: -1
+yanzhong_04
+  rotate: false
+  xy: 865, 29
+  size: 236, 176
+  orig: 239, 178
+  offset: 2, 0
+  index: -1
+yanzhong_05
+  rotate: true
+  xy: 288, 2
+  size: 199, 249
+  orig: 202, 252
+  offset: 1, 1
+  index: -1
+yanzhong_06
+  rotate: false
+  xy: 473, 206
+  size: 211, 261
+  orig: 213, 263
+  offset: 1, 0
+  index: -1
+yanzhong_07
+  rotate: false
+  xy: 2, 198
+  size: 223, 269
+  orig: 223, 272
+  offset: 0, 1
+  index: -1
+yanzhong_08
+  rotate: false
+  xy: 227, 203
+  size: 244, 264
+  orig: 248, 269
+  offset: 2, 3
+  index: -1
+yanzhong_09
+  rotate: false
+  xy: 686, 207
+  size: 248, 260
+  orig: 250, 263
+  offset: 1, 1
+  index: -1
+yanzhong_10
+  rotate: false
+  xy: 936, 213
+  size: 242, 254
+  orig: 245, 255
+  offset: 2, 0
+  index: -1
+yanzhong_11
+  rotate: false
+  xy: 1180, 219
+  size: 247, 248
+  orig: 250, 251
+  offset: 2, 1
+  index: -1
+yanzhong_12
+  rotate: true
+  xy: 1429, 225
+  size: 242, 229
+  orig: 245, 231
+  offset: 2, 1
+  index: -1
+yanzhong_13
+  rotate: false
+  xy: 1243, 6
+  size: 210, 211
+  orig: 213, 216
+  offset: 1, 3
+  index: -1

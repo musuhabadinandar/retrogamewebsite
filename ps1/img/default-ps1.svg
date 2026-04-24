@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="PlayStation 1 game">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6f8ff"/>
+      <stop offset="0.5" stop-color="#dfe7ff"/>
+      <stop offset="1" stop-color="#1f2aff"/>
+    </linearGradient>
+    <radialGradient id="disc" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.42" stop-color="#d9def0"/>
+      <stop offset="0.58" stop-color="#8d98be"/>
+      <stop offset="1" stop-color="#2f3655"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <circle cx="512" cy="74" r="130" fill="#ffffff" opacity=".18"/>
+  <circle cx="172" cy="178" r="94" fill="url(#disc)" opacity=".9"/>
+  <circle cx="172" cy="178" r="28" fill="#141827"/>
+  <path d="M360 95h70c44 0 76 27 76 67 0 42-34 69-80 69h-27v53h-39V95zm65 101c25 0 40-13 40-33 0-21-15-33-40-33h-26v66h26z" fill="#111827"/>
+  <text x="330" y="280" font-family="Arial, sans-serif" font-size="74" font-weight="800" fill="#111827">PS1</text>
+  <text x="332" y="316" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#27324f" opacity=".78">CHD DISC READY</text>
+</svg>

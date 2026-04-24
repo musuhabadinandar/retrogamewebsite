@@ -1,0 +1,181 @@
+
+role_6.png
+size: 141,751
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role6_d1
+  rotate: false
+  xy: 2, 287
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+role6_d2
+  rotate: false
+  xy: 105, 564
+  size: 34, 41
+  orig: 36, 43
+  offset: 1, 1
+  index: -1
+role6_d3
+  rotate: true
+  xy: 2, 138
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+role6_d4
+  rotate: false
+  xy: 98, 364
+  size: 29, 85
+  orig: 29, 85
+  offset: 0, 0
+  index: -1
+role6_d5
+  rotate: false
+  xy: 98, 364
+  size: 29, 85
+  orig: 29, 85
+  offset: 0, 0
+  index: -1
+role6_p1
+  rotate: false
+  xy: 2, 220
+  size: 90, 65
+  orig: 92, 67
+  offset: 1, 1
+  index: -1
+role6_s1
+  rotate: false
+  xy: 104, 451
+  size: 30, 46
+  orig: 32, 48
+  offset: 1, 1
+  index: -1
+role6_s2
+  rotate: true
+  xy: 2, 567
+  size: 38, 101
+  orig: 38, 101
+  offset: 0, 0
+  index: -1
+role6_s3
+  rotate: false
+  xy: 94, 254
+  size: 29, 28
+  orig: 31, 30
+  offset: 1, 1
+  index: -1
+role6_s4
+  rotate: true
+  xy: 73, 2
+  size: 62, 63
+  orig: 64, 65
+  offset: 1, 1
+  index: -1
+role6_s5
+  rotate: true
+  xy: 2, 522
+  size: 43, 100
+  orig: 43, 101
+  offset: 0, 0
+  index: -1
+role6_s6
+  rotate: false
+  xy: 94, 227
+  size: 29, 25
+  orig: 31, 27
+  offset: 1, 1
+  index: -1
+role6_s7
+  rotate: false
+  xy: 2, 7
+  size: 69, 57
+  orig: 71, 59
+  offset: 1, 1
+  index: -1
+role6_st
+  rotate: false
+  xy: 84, 69
+  size: 54, 67
+  orig: 56, 69
+  offset: 1, 1
+  index: -1
+role6_t1
+  rotate: true
+  xy: 2, 379
+  size: 27, 91
+  orig: 27, 91
+  offset: 0, 0
+  index: -1
+role6_t2
+  rotate: false
+  xy: 104, 499
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+role6_tf1
+  rotate: true
+  xy: 2, 66
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+role6_tf2
+  rotate: false
+  xy: 94, 176
+  size: 26, 49
+  orig: 28, 51
+  offset: 1, 1
+  index: -1
+role6_tf3
+  rotate: false
+  xy: 94, 284
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+role6_tf4
+  rotate: false
+  xy: 125, 231
+  size: 12, 51
+  orig: 14, 53
+  offset: 1, 1
+  index: -1
+role6_tf5
+  rotate: false
+  xy: 125, 178
+  size: 12, 51
+  orig: 14, 53
+  offset: 1, 1
+  index: -1
+role6_tf6
+  rotate: false
+  xy: 2, 478
+  size: 100, 42
+  orig: 100, 42
+  offset: 0, 0
+  index: -1
+role6_tou
+  rotate: true
+  xy: 2, 408
+  size: 68, 94
+  orig: 70, 96
+  offset: 1, 1
+  index: -1
+ygb
+  rotate: true
+  xy: 2, 607
+  size: 89, 128
+  orig: 90, 128
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 698
+  size: 136, 51
+  orig: 136, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+atkB_hit.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0_01
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+xianA
+  rotate: false
+  xy: 148, 216
+  size: 53, 21
+  orig: 53, 21
+  offset: 0, 0
+  index: -1
+火星2
+  rotate: false
+  xy: 2, 95
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1

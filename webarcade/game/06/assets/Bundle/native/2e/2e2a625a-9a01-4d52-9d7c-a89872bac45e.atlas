@@ -1,0 +1,34 @@
+
+ef4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+013
+  rotate: false
+  xy: 2, 2
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 260, 312
+  size: 115, 125
+  orig: 115, 125
+  offset: 0, 0
+  index: -1
+huan04
+  rotate: false
+  xy: 260, 217
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+soul03SKL13a
+  rotate: false
+  xy: 2, 181
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

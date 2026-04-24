@@ -1,0 +1,132 @@
+
+qianghualu.png
+size: 1843,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoguang
+  rotate: true
+  xy: 2, 61
+  size: 481, 734
+  orig: 507, 734
+  offset: 13, 0
+  index: -1
+bg_bag_1
+  rotate: false
+  xy: 177, 12
+  size: 46, 47
+  orig: 48, 49
+  offset: 1, 1
+  index: -1
+dianlan
+  rotate: false
+  xy: 1050, 227
+  size: 569, 315
+  orig: 569, 315
+  offset: 0, 0
+  index: -1
+hdeng
+  rotate: false
+  xy: 738, 6
+  size: 112, 112
+  orig: 114, 114
+  offset: 1, 1
+  index: -1
+l1
+  rotate: true
+  xy: 1621, 184
+  size: 70, 184
+  orig: 73, 187
+  offset: 1, 2
+  index: -1
+l2
+  rotate: false
+  xy: 1607, 15
+  size: 83, 167
+  orig: 84, 168
+  offset: 0, 1
+  index: -1
+l3
+  rotate: false
+  xy: 1437, 58
+  size: 165, 97
+  orig: 165, 97
+  offset: 0, 0
+  index: -1
+l4
+  rotate: true
+  xy: 1050, 121
+  size: 104, 98
+  orig: 105, 99
+  offset: 0, 1
+  index: -1
+ldeng
+  rotate: false
+  xy: 852, 6
+  size: 112, 112
+  orig: 114, 114
+  offset: 1, 1
+  index: -1
+t1
+  rotate: true
+  xy: 225, 18
+  size: 41, 176
+  orig: 43, 179
+  offset: 1, 2
+  index: -1
+t2
+  rotate: true
+  xy: 2, 10
+  size: 49, 173
+  orig: 49, 174
+  offset: 0, 1
+  index: -1
+t3
+  rotate: true
+  xy: 1437, 157
+  size: 68, 168
+  orig: 68, 169
+  offset: 0, 0
+  index: -1
+t4
+  rotate: true
+  xy: 1692, 97
+  size: 85, 104
+  orig: 85, 106
+  offset: 0, 1
+  index: -1
+t5
+  rotate: true
+  xy: 1692, 2
+  size: 93, 99
+  orig: 93, 99
+  offset: 0, 0
+  index: -1
+youlu
+  rotate: false
+  xy: 1621, 256
+  size: 220, 286
+  orig: 220, 286
+  offset: 0, 0
+  index: -1
+zbfg
+  rotate: true
+  xy: 966, 11
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+zhonglu
+  rotate: false
+  xy: 738, 120
+  size: 310, 422
+  orig: 310, 422
+  offset: 0, 0
+  index: -1
+zuolu
+  rotate: false
+  xy: 1150, 5
+  size: 285, 220
+  orig: 285, 220
+  offset: 0, 0
+  index: -1

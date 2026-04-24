@@ -1,0 +1,41 @@
+
+role01_chibang05.png
+size: 290,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb1
+  rotate: true
+  xy: 2, 232
+  size: 318, 181
+  orig: 318, 229
+  offset: 0, 28
+  index: -1
+cb2
+  rotate: false
+  xy: 2, 2
+  size: 171, 70
+  orig: 171, 70
+  offset: 0, 0
+  index: -1
+cb3
+  rotate: true
+  xy: 185, 347
+  size: 203, 103
+  orig: 203, 103
+  offset: 0, 0
+  index: -1
+cb4
+  rotate: true
+  xy: 187, 97
+  size: 248, 99
+  orig: 248, 99
+  offset: 0, 0
+  index: -1
+cb5
+  rotate: false
+  xy: 2, 74
+  size: 183, 156
+  orig: 205, 176
+  offset: 11, 10
+  index: -1

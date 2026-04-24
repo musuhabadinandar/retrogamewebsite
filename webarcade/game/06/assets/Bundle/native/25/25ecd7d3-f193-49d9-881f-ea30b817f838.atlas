@@ -1,0 +1,118 @@
+
+renwu12.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N12-xiao/toufahou
+  rotate: false
+  xy: 394, 514
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+N12-xiao/qunzi
+  rotate: false
+  xy: 187, 480
+  size: 205, 88
+  orig: 205, 88
+  offset: 0, 0
+  index: -1
+N12-xiao/qianbai
+  rotate: false
+  xy: 403, 242
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+N12-xiao/xiabai1
+  rotate: false
+  xy: 1, 317
+  size: 184, 118
+  orig: 184, 118
+  offset: 0, 0
+  index: -1
+N12-xiao/xiabai
+  rotate: false
+  xy: 1, 197
+  size: 184, 118
+  orig: 184, 118
+  offset: 0, 0
+  index: -1
+N12-xiao/yao
+  rotate: false
+  xy: 394, 456
+  size: 113, 56
+  orig: 113, 56
+  offset: 0, 0
+  index: -1
+N12-xiao/shou
+  rotate: false
+  xy: 187, 361
+  size: 184, 117
+  orig: 184, 117
+  offset: 0, 0
+  index: -1
+N12-xiao/xiuzi1
+  rotate: false
+  xy: 229, 1
+  size: 172, 178
+  orig: 172, 178
+  offset: 0, 0
+  index: -1
+N12-xiao/xiuzi
+  rotate: false
+  xy: 229, 181
+  size: 172, 178
+  orig: 172, 178
+  offset: 0, 0
+  index: -1
+N12-xiao/daizi
+  rotate: false
+  xy: 403, 80
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+N12-xiao/daizi1
+  rotate: false
+  xy: 403, 1
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+N12-xiao/yifu
+  rotate: false
+  xy: 1, 1
+  size: 226, 194
+  orig: 226, 194
+  offset: 0, 0
+  index: -1
+N12-xiao/lian
+  rotate: false
+  xy: 446, 159
+  size: 64, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+N12-xiao/bianzi
+  rotate: false
+  xy: 453, 242
+  size: 28, 147
+  orig: 28, 147
+  offset: 0, 0
+  index: -1
+N12-xiao/bianzi1
+  rotate: false
+  xy: 187, 197
+  size: 28, 147
+  orig: 28, 147
+  offset: 0, 0
+  index: -1
+N12-xiao/toufa
+  rotate: false
+  xy: 373, 361
+  size: 71, 93
+  orig: 71, 93
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+yushi.png
+size: 929, 188
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+3s
+  rotate: false
+  xy: 682, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 650, 54
+  size: 56, 110
+  orig: 56, 110
+  offset: 0, 0
+  index: -1
+b
+  rotate: true
+  xy: 394, 3
+  size: 50, 110
+  orig: 50, 110
+  offset: 0, 0
+  index: -1
+bbody
+  rotate: false
+  xy: 736, 113
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+bdm
+  rotate: false
+  xy: 506, 9
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+bhand
+  rotate: true
+  xy: 867, 5
+  size: 23, 31
+  orig: 25, 31
+  offset: 1, 0
+  index: -1
+bhead
+  rotate: false
+  xy: 532, 112
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+bj1
+  rotate: false
+  xy: 715, 29
+  size: 16, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+bj2
+  rotate: true
+  xy: 569, 12
+  size: 16, 22
+  orig: 17, 23
+  offset: 0, 1
+  index: -1
+bw
+  rotate: false
+  xy: 615, 23
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dd3
+  rotate: false
+  xy: 2, 7
+  size: 136, 179
+  orig: 136, 179
+  offset: 0, 0
+  index: -1
+lz2
+  rotate: false
+  xy: 278, 55
+  size: 125, 131
+  orig: 125, 131
+  offset: 0, 0
+  index: -1
+pp
+  rotate: false
+  xy: 838, 109
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+zbody
+  rotate: true
+  xy: 762, 11
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+zbq
+  rotate: false
+  xy: 733, 36
+  size: 27, 16
+  orig: 28, 17
+  offset: 1, 0
+  index: -1
+zdm
+  rotate: true
+  xy: 569, 30
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+zhand
+  rotate: true
+  xy: 837, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+zhand2
+  rotate: true
+  xy: 900, 3
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+zhead
+  rotate: false
+  xy: 634, 112
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+zj1
+  rotate: false
+  xy: 712, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zj2
+  rotate: false
+  xy: 712, 2
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zw
+  rotate: false
+  xy: 532, 17
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+喝水遮挡
+  rotate: true
+  xy: 532, 2
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+图层492(3)
+  rotate: false
+  xy: 837, 30
+  size: 70, 35
+  orig: 71, 36
+  offset: 1, 0
+  index: -1
+图层组197
+  rotate: false
+  xy: 140, 7
+  size: 136, 179
+  orig: 136, 179
+  offset: 0, 0
+  index: -1
+帘子
+  rotate: false
+  xy: 405, 55
+  size: 125, 131
+  orig: 125, 131
+  offset: 0, 0
+  index: -1
+游泳圈1
+  rotate: false
+  xy: 532, 56
+  size: 116, 54
+  orig: 116, 54
+  offset: 0, 0
+  index: -1
+游泳圈b
+  rotate: false
+  xy: 278, 6
+  size: 114, 47
+  orig: 114, 47
+  offset: 0, 0
+  index: -1
+眼镜b
+  rotate: true
+  xy: 682, 29
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+眼镜z
+  rotate: false
+  xy: 837, 67
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+眼镜腿
+  rotate: true
+  xy: 593, 7
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+花洒2
+  rotate: true
+  xy: 649, 23
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1

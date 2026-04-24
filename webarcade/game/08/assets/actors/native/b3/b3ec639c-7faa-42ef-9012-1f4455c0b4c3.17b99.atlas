@@ -1,0 +1,48 @@
+
+e5.png
+size: 283,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mg_body1
+  rotate: true
+  xy: 226, 5
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+mg_eye
+  rotate: false
+  xy: 104, 1
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+mg_herad1
+  rotate: false
+  xy: 1, 5
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1
+mg_leg_L1
+  rotate: false
+  xy: 140, 1
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+mg_leg_R1
+  rotate: false
+  xy: 172, 1
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 104, 24
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

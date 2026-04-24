@@ -1,0 +1,20 @@
+
+fx_lightshield.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lbg
+  rotate: false
+  xy: 2, 34
+  size: 108, 117
+  orig: 116, 125
+  offset: 4, 4
+  index: -1
+sl
+  rotate: true
+  xy: 2, 2
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1

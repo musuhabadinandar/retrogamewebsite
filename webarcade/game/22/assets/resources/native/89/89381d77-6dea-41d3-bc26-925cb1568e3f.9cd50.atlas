@@ -1,0 +1,83 @@
+
+long_kk.png
+size: 183,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye1
+  rotate: false
+  xy: 2, 47
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 66, 47
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+f002
+  rotate: false
+  xy: 73, 8
+  size: 28, 37
+  orig: 29, 39
+  offset: 0, 1
+  index: -1
+f003
+  rotate: false
+  xy: 2, 2
+  size: 34, 43
+  orig: 35, 45
+  offset: 1, 1
+  index: -1
+f004
+  rotate: false
+  xy: 38, 5
+  size: 33, 40
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+f005
+  rotate: true
+  xy: 103, 18
+  size: 27, 25
+  orig: 28, 27
+  offset: 0, 1
+  index: -1
+f006
+  rotate: true
+  xy: 160, 12
+  size: 27, 18
+  orig: 29, 21
+  offset: 1, 2
+  index: -1
+face
+  rotate: false
+  xy: 2, 111
+  size: 179, 177
+  orig: 179, 177
+  offset: 0, 0
+  index: -1
+hear
+  rotate: true
+  xy: 2, 290
+  size: 233, 166
+  orig: 233, 166
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 130, 11
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 130, 41
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1

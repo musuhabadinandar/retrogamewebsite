@@ -1,0 +1,27 @@
+
+boss09_skill1.png
+size: 116,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1
+  rotate: false
+  xy: 53, 10
+  size: 59, 19
+  orig: 61, 22
+  offset: 0, 2
+  index: -1
+g2
+  rotate: false
+  xy: 53, 31
+  size: 61, 20
+  orig: 61, 21
+  offset: 0, 1
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 2
+  size: 49, 49
+  orig: 124, 82
+  offset: 57, 15
+  index: -1

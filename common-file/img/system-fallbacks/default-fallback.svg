@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nandar Games Fallback Cover</title>
+  <desc id="desc">Premium fallback cover for missing game artwork.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="32" fill="url(#bg)"/>
+  <circle cx="556" cy="78" r="74" fill="#ffffff" opacity="0.07"/>
+  <circle cx="98" cy="300" r="92" fill="#38bdf8" opacity="0.09"/>
+  <rect x="32" y="32" width="576" height="296" rx="26" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.9"/>
+  <text x="52" y="86" fill="#e2e8f0" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">NANDAR WORLD</text>
+  <text x="52" y="126" fill="#f8fafc" font-size="48" font-family="Segoe UI, Arial, sans-serif" font-weight="800">RETRO LIBRARY</text>
+  <text x="52" y="172" fill="#94a3b8" font-size="20" font-family="Segoe UI, Arial, sans-serif">Premium system fallback cover</text>
+  <rect x="52" y="220" width="220" height="54" rx="27" fill="#ffffff" opacity="0.1"/>
+  <text x="82" y="254" fill="#f8fafc" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Cover Coming Soon</text>
+  <text x="52" y="304" fill="#cbd5e1" font-size="18" font-family="Segoe UI, Arial, sans-serif">MusuhAbadiNandar Copyright</text>
+</svg>

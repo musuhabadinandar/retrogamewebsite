@@ -1,0 +1,76 @@
+
+sdkpbl.png
+size: 241,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx01
+  rotate: false
+  xy: 128, 24
+  size: 36, 56
+  orig: 39, 60
+  offset: 1, 2
+  index: -1
+fx02
+  rotate: true
+  xy: 166, 27
+  size: 53, 38
+  orig: 56, 42
+  offset: 2, 2
+  index: -1
+fx03
+  rotate: false
+  xy: 167, 4
+  size: 42, 21
+  orig: 45, 25
+  offset: 1, 2
+  index: -1
+j1
+  rotate: false
+  xy: 146, 2
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+j2
+  rotate: true
+  xy: 123, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 206, 31
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 98, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 72, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 72, 23
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 2, 7
+  size: 68, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1

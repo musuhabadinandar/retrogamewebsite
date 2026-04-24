@@ -1,0 +1,34 @@
+
+fx_cyclone.png
+size: 818,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 3
+  size: 207, 234
+  orig: 211, 249
+  offset: 0, 15
+  index: -1
+02
+  rotate: false
+  xy: 211, 4
+  size: 207, 233
+  orig: 211, 249
+  offset: 3, 16
+  index: -1
+03
+  rotate: false
+  xy: 420, 2
+  size: 205, 235
+  orig: 211, 249
+  offset: 0, 14
+  index: -1
+04
+  rotate: false
+  xy: 627, 5
+  size: 189, 232
+  orig: 211, 249
+  offset: 9, 17
+  index: -1

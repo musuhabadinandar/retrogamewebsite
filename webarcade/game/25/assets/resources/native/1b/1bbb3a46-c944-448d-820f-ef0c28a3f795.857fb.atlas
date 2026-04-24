@@ -1,0 +1,27 @@
+
+Gate_2.png
+size: 1130,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang
+  rotate: false
+  xy: 575, 182
+  size: 553, 445
+  orig: 554, 446
+  offset: 1, 0
+  index: -1
+menlangan
+  rotate: true
+  xy: 575, 2
+  size: 178, 464
+  orig: 179, 467
+  offset: 0, 1
+  index: -1
+xian
+  rotate: true
+  xy: 2, 7
+  size: 620, 571
+  orig: 622, 573
+  offset: 1, 1
+  index: -1

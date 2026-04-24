@@ -1,0 +1,13 @@
+
+pet_skill_02.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect
+  rotate: false
+  xy: 2, 2
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1

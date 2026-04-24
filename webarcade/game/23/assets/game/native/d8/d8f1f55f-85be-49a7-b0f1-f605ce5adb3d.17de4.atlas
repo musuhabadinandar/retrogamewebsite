@@ -1,0 +1,132 @@
+
+light.png
+size: 105,917
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongji1_g1
+  rotate: false
+  xy: 1, 356
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+gongji1_g1_l
+  rotate: false
+  xy: 1, 309
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+gongji1_g2
+  rotate: false
+  xy: 1, 827
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1
+gongji1_g2_l
+  rotate: false
+  xy: 1, 736
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1
+gongji2_g1
+  rotate: false
+  xy: 1, 264
+  size: 103, 43
+  orig: 103, 43
+  offset: 0, 0
+  index: -1
+gongji2_g1_l
+  rotate: false
+  xy: 1, 219
+  size: 103, 43
+  orig: 103, 43
+  offset: 0, 0
+  index: -1
+gongji2_g2
+  rotate: true
+  xy: 65, 99
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+gongji2_g2_l
+  rotate: true
+  xy: 65, 153
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+gongji2_g3
+  rotate: false
+  xy: 1, 159
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+gongji2_g3_l
+  rotate: false
+  xy: 1, 99
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+gongji2_g4
+  rotate: false
+  xy: 1, 483
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+gongji2_g4_l
+  rotate: false
+  xy: 1, 403
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+gongji2_g5
+  rotate: true
+  xy: 1, 51
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+gongji2_g5_l
+  rotate: true
+  xy: 1, 3
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+gongji2_g6
+  rotate: false
+  xy: 71, 50
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+gongji2_g6_l
+  rotate: false
+  xy: 71, 1
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+gongji_z
+  rotate: false
+  xy: 1, 647
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+gongsu_z
+  rotate: false
+  xy: 1, 563
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1

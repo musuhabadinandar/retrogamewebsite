@@ -1,0 +1,76 @@
+
+dibiao_TX.png
+size: 1106,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dibiao_tx3_0001
+  rotate: false
+  xy: 1031, 43
+  size: 73, 74
+  orig: 115, 115
+  offset: 21, 20
+  index: -1
+dibiao_tx3_0002
+  rotate: false
+  xy: 935, 23
+  size: 94, 94
+  orig: 115, 115
+  offset: 11, 10
+  index: -1
+dibiao_tx3_0003
+  rotate: false
+  xy: 587, 2
+  size: 114, 115
+  orig: 115, 115
+  offset: 1, 0
+  index: -1
+dibiao_tx3_0004
+  rotate: false
+  xy: 819, 3
+  size: 114, 114
+  orig: 115, 115
+  offset: 1, 0
+  index: -1
+dibiao_tx3_0005
+  rotate: false
+  xy: 703, 2
+  size: 114, 115
+  orig: 115, 115
+  offset: 1, 0
+  index: -1
+dibiao_tx3_0006
+  rotate: false
+  xy: 2, 2
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0007
+  rotate: false
+  xy: 119, 2
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0008
+  rotate: false
+  xy: 236, 2
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0009
+  rotate: false
+  xy: 353, 2
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+dibiao_tx3_0010
+  rotate: false
+  xy: 470, 2
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1

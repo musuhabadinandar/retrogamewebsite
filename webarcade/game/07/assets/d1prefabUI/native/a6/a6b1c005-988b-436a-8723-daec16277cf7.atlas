@@ -1,0 +1,139 @@
+
+qdbk.png
+size: 962, 864
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 411, 233
+  size: 194, 195
+  orig: 242, 270
+  offset: 22, 43
+  index: -1
+1 拷贝
+  rotate: true
+  xy: 225, 7
+  size: 200, 212
+  orig: 242, 270
+  offset: 17, 34
+  index: -1
+10 拷贝
+  rotate: false
+  xy: 2, 429
+  size: 212, 218
+  orig: 242, 270
+  offset: 10, 31
+  index: -1
+1a
+  rotate: false
+  xy: 631, 5
+  size: 162, 239
+  orig: 172, 260
+  offset: 10, 3
+  index: -1
+2
+  rotate: false
+  xy: 607, 246
+  size: 194, 195
+  orig: 242, 270
+  offset: 23, 44
+  index: -1
+2 拷贝
+  rotate: true
+  xy: 2, 2
+  size: 205, 221
+  orig: 242, 270
+  offset: 14, 29
+  index: -1
+2a
+  rotate: false
+  xy: 809, 410
+  size: 151, 238
+  orig: 172, 260
+  offset: 10, 4
+  index: -1
+3
+  rotate: false
+  xy: 439, 37
+  size: 190, 194
+  orig: 242, 270
+  offset: 23, 42
+  index: -1
+3 拷贝
+  rotate: true
+  xy: 225, 650
+  size: 212, 218
+  orig: 242, 270
+  offset: 10, 31
+  index: -1
+3a
+  rotate: false
+  xy: 216, 407
+  size: 154, 240
+  orig: 172, 260
+  offset: 9, 3
+  index: -1
+4
+  rotate: false
+  xy: 216, 209
+  size: 193, 196
+  orig: 242, 270
+  offset: 21, 44
+  index: -1
+4 拷贝
+  rotate: false
+  xy: 2, 209
+  size: 212, 218
+  orig: 242, 270
+  offset: 10, 31
+  index: -1
+4a
+  rotate: false
+  xy: 795, 6
+  size: 160, 238
+  orig: 172, 260
+  offset: 7, 3
+  index: -1
+5 拷贝
+  rotate: true
+  xy: 445, 650
+  size: 212, 218
+  orig: 242, 270
+  offset: 10, 31
+  index: -1
+6 拷贝
+  rotate: true
+  xy: 665, 650
+  size: 212, 218
+  orig: 242, 270
+  offset: 10, 31
+  index: -1
+7 拷贝
+  rotate: true
+  xy: 586, 443
+  size: 205, 221
+  orig: 242, 270
+  offset: 14, 29
+  index: -1
+8 拷贝
+  rotate: false
+  xy: 372, 430
+  size: 212, 218
+  orig: 242, 270
+  offset: 10, 31
+  index: -1
+9 拷贝
+  rotate: false
+  xy: 2, 649
+  size: 221, 213
+  orig: 242, 270
+  offset: 6, 37
+  index: -1
+dd
+  rotate: true
+  xy: 411, 209
+  size: 22, 24
+  orig: 24, 25
+  offset: 1, 0
+  index: -1

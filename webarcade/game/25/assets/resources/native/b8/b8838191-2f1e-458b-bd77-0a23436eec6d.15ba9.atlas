@@ -1,0 +1,118 @@
+
+niutouren_TX2.png
+size: 483,43
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_houjiao_0001
+  rotate: true
+  xy: 457, 16
+  size: 25, 24
+  orig: 40, 40
+  offset: 8, 8
+  index: -1
+tx_houjiao_0002
+  rotate: true
+  xy: 353, 6
+  size: 35, 34
+  orig: 40, 40
+  offset: 3, 3
+  index: -1
+tx_houjiao_0003
+  rotate: true
+  xy: 316, 4
+  size: 37, 35
+  orig: 40, 40
+  offset: 2, 3
+  index: -1
+tx_houjiao_0004
+  rotate: true
+  xy: 164, 2
+  size: 39, 36
+  orig: 40, 40
+  offset: 1, 2
+  index: -1
+tx_houjiao_0005
+  rotate: true
+  xy: 202, 2
+  size: 39, 36
+  orig: 40, 40
+  offset: 1, 2
+  index: -1
+tx_houjiao_0006
+  rotate: false
+  xy: 240, 5
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+tx_houjiao_0010
+  rotate: false
+  xy: 240, 5
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+tx_houjiao_0007
+  rotate: false
+  xy: 84, 3
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+tx_houjiao_0011
+  rotate: false
+  xy: 84, 3
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+tx_houjiao_0008
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 40, 40
+  offset: 0, 1
+  index: -1
+tx_houjiao_0012
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 40, 40
+  offset: 0, 1
+  index: -1
+tx_houjiao_0009
+  rotate: false
+  xy: 389, 9
+  size: 32, 32
+  orig: 40, 40
+  offset: 4, 4
+  index: -1
+tx_houjiao_0013
+  rotate: false
+  xy: 423, 9
+  size: 32, 32
+  orig: 40, 40
+  offset: 4, 4
+  index: -1
+tx_houjiao_0014
+  rotate: false
+  xy: 278, 5
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1
+tx_houjiao_0015
+  rotate: false
+  xy: 124, 3
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+tx_houjiao_0016
+  rotate: false
+  xy: 43, 2
+  size: 39, 39
+  orig: 40, 40
+  offset: 0, 1
+  index: -1

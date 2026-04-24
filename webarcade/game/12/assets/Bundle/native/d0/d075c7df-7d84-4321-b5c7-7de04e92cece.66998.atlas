@@ -1,0 +1,55 @@
+
+qumo.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dujie/andi
+  rotate: false
+  xy: 182, 60
+  size: 173, 177
+  orig: 173, 177
+  offset: 0, 0
+  index: -1
+dujie/di
+  rotate: false
+  xy: 2, 58
+  size: 178, 179
+  orig: 178, 179
+  offset: 0, 0
+  index: -1
+dujie/quan1
+  rotate: false
+  xy: 713, 144
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+dujie/quan2
+  rotate: false
+  xy: 608, 134
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+dujie/shandian
+  rotate: false
+  xy: 483, 116
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+dujie/zhaun
+  rotate: false
+  xy: 357, 113
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+dujie/zi
+  rotate: false
+  xy: 2, 2
+  size: 101, 54
+  orig: 101, 54
+  offset: 0, 0
+  index: -1

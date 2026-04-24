@@ -1,0 +1,76 @@
+
+fx_ground.png
+size: 1404,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ground
+  rotate: false
+  xy: 2, 2
+  size: 1400, 204
+  orig: 1400, 204
+  offset: 0, 0
+  index: -1
+r1
+  rotate: true
+  xy: 687, 431
+  size: 207, 144
+  orig: 209, 146
+  offset: 1, 1
+  index: -1
+r2
+  rotate: false
+  xy: 687, 278
+  size: 134, 151
+  orig: 136, 153
+  offset: 1, 1
+  index: -1
+r3
+  rotate: false
+  xy: 823, 241
+  size: 78, 93
+  orig: 80, 95
+  offset: 1, 1
+  index: -1
+r4
+  rotate: false
+  xy: 823, 336
+  size: 83, 93
+  orig: 85, 95
+  offset: 1, 1
+  index: -1
+r5
+  rotate: false
+  xy: 725, 236
+  size: 39, 40
+  orig: 41, 42
+  offset: 1, 1
+  index: -1
+r6
+  rotate: true
+  xy: 766, 239
+  size: 37, 31
+  orig: 39, 33
+  offset: 1, 1
+  index: -1
+r7
+  rotate: false
+  xy: 725, 208
+  size: 31, 26
+  orig: 33, 28
+  offset: 1, 1
+  index: -1
+r8
+  rotate: false
+  xy: 687, 230
+  size: 36, 46
+  orig: 38, 48
+  offset: 1, 1
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 208
+  size: 683, 430
+  orig: 688, 451
+  offset: 2, 14
+  index: -1

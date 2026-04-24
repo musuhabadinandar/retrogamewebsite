@@ -1,0 +1,62 @@
+
+chentu_TX.png
+size: 591,169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu1
+  rotate: true
+  xy: 472, 54
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+tu2
+  rotate: true
+  xy: 537, 25
+  size: 142, 52
+  orig: 142, 52
+  offset: 0, 0
+  index: -1
+tu3
+  rotate: true
+  xy: 2, 4
+  size: 79, 222
+  orig: 81, 228
+  offset: 2, 0
+  index: -1
+tu4
+  rotate: true
+  xy: 2, 85
+  size: 82, 216
+  orig: 84, 218
+  offset: 2, 0
+  index: -1
+tu5
+  rotate: false
+  xy: 226, 2
+  size: 184, 85
+  orig: 186, 85
+  offset: 0, 0
+  index: -1
+tu6
+  rotate: true
+  xy: 220, 89
+  size: 78, 175
+  orig: 78, 175
+  offset: 0, 0
+  index: -1
+tu7
+  rotate: true
+  xy: 397, 91
+  size: 76, 138
+  orig: 76, 138
+  offset: 0, 0
+  index: -1
+tu8
+  rotate: true
+  xy: 412, 28
+  size: 61, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1

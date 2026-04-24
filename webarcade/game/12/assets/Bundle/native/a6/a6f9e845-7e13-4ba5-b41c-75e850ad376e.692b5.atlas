@@ -1,0 +1,188 @@
+
+p20.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 1249
+  size: 342, 471
+  orig: 342, 471
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 776
+  size: 342, 471
+  orig: 342, 471
+  offset: 0, 0
+  index: -1
+images/图层 1
+  rotate: false
+  xy: 346, 1335
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 10
+  rotate: false
+  xy: 1045, 948
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 11
+  rotate: false
+  xy: 1278, 1335
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 12
+  rotate: false
+  xy: 1278, 948
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 13
+  rotate: false
+  xy: 1511, 1335
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 14
+  rotate: false
+  xy: 1511, 948
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 15
+  rotate: false
+  xy: 1744, 1335
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 16
+  rotate: false
+  xy: 1744, 948
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 17
+  rotate: true
+  xy: 346, 715
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 18
+  rotate: true
+  xy: 733, 715
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 19
+  rotate: true
+  xy: 1120, 715
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 2
+  rotate: false
+  xy: 2, 389
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 20
+  rotate: true
+  xy: 1507, 715
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 21
+  rotate: false
+  xy: 235, 328
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 22
+  rotate: false
+  xy: 468, 328
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 23
+  rotate: true
+  xy: 235, 95
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 24
+  rotate: false
+  xy: 701, 328
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 3
+  rotate: false
+  xy: 346, 948
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 4
+  rotate: false
+  xy: 579, 1335
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 5
+  rotate: false
+  xy: 2, 2
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 6
+  rotate: false
+  xy: 579, 948
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 7
+  rotate: false
+  xy: 812, 1335
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 8
+  rotate: false
+  xy: 812, 948
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1
+images/图层 9
+  rotate: false
+  xy: 1045, 1335
+  size: 231, 385
+  orig: 231, 385
+  offset: 0, 0
+  index: -1

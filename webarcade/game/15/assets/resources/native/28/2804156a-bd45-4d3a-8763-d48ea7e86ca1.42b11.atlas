@@ -1,0 +1,41 @@
+
+fei8.png
+size: 667,253
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 146 拷贝 2
+  rotate: false
+  xy: 2, 2
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+形状 190 拷贝
+  rotate: false
+  xy: 135, 2
+  size: 13, 64
+  orig: 13, 64
+  offset: 0, 0
+  index: -1
+形状 190 拷贝 2
+  rotate: false
+  xy: 268, 2
+  size: 13, 64
+  orig: 13, 64
+  offset: 0, 0
+  index: -1
+形状 190 拷贝 7
+  rotate: false
+  xy: 401, 2
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+组 3
+  rotate: false
+  xy: 534, 2
+  size: 131, 249
+  orig: 131, 249
+  offset: 0, 0
+  index: -1

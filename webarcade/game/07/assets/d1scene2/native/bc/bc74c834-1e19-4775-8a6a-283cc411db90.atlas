@@ -1,0 +1,223 @@
+
+feijiufz.png
+size: 520, 267
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+afa帽子
+  rotate: false
+  xy: 423, 82
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+bbody
+  rotate: false
+  xy: 101, 21
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+bdm
+  rotate: true
+  xy: 423, 56
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+bhand
+  rotate: false
+  xy: 440, 5
+  size: 23, 31
+  orig: 25, 31
+  offset: 1, 0
+  index: -1
+bhead
+  rotate: false
+  xy: 402, 191
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+bj1
+  rotate: true
+  xy: 495, 32
+  size: 16, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+bj2
+  rotate: true
+  xy: 495, 14
+  size: 16, 22
+  orig: 17, 23
+  offset: 0, 1
+  index: -1
+bw
+  rotate: false
+  xy: 406, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+ddd
+  rotate: false
+  xy: 86, 17
+  size: 13, 55
+  orig: 13, 55
+  offset: 0, 0
+  index: -1
+ja
+  rotate: true
+  xy: 305, 35
+  size: 77, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+kl1
+  rotate: true
+  xy: 203, 3
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+kl2
+  rotate: true
+  xy: 350, 2
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+kl3
+  rotate: true
+  xy: 281, 2
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+sdv1
+  rotate: true
+  xy: 504, 246
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+ylj11
+  rotate: false
+  xy: 101, 96
+  size: 98, 169
+  orig: 260, 319
+  offset: 76, 35
+  index: -1
+ylj22
+  rotate: false
+  xy: 2, 74
+  size: 97, 191
+  orig: 260, 319
+  offset: 81, 35
+  index: -1
+zbody
+  rotate: false
+  xy: 203, 39
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+zbq
+  rotate: false
+  xy: 437, 38
+  size: 27, 16
+  orig: 28, 17
+  offset: 1, 0
+  index: -1
+zdm
+  rotate: true
+  xy: 469, 50
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+zhand
+  rotate: true
+  xy: 392, 35
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+zhand2
+  rotate: true
+  xy: 466, 23
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+zhead
+  rotate: false
+  xy: 402, 115
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+zj1
+  rotate: true
+  xy: 465, 5
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zj2
+  rotate: true
+  xy: 465, 5
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zw
+  rotate: false
+  xy: 472, 76
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+喝水遮挡
+  rotate: false
+  xy: 422, 35
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+图层492(3)
+  rotate: true
+  xy: 2, 2
+  size: 70, 35
+  orig: 71, 36
+  offset: 1, 0
+  index: -1
+帽子
+  rotate: true
+  xy: 392, 63
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+薯片
+  rotate: false
+  xy: 39, 14
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+饮料机
+  rotate: false
+  xy: 303, 114
+  size: 97, 151
+  orig: 97, 151
+  offset: 0, 0
+  index: -1
+饮料机2
+  rotate: false
+  xy: 201, 114
+  size: 100, 151
+  orig: 100, 151
+  offset: 0, 0
+  index: -1

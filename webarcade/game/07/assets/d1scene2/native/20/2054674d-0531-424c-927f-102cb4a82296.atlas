@@ -1,0 +1,244 @@
+
+dagong.png
+size: 795, 141
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bbody
+  rotate: true
+  xy: 239, 39
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+bdm
+  rotate: true
+  xy: 356, 13
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+bhand
+  rotate: false
+  xy: 81, 4
+  size: 23, 31
+  orig: 25, 31
+  offset: 1, 0
+  index: -1
+bhead
+  rotate: true
+  xy: 87, 39
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+bj1
+  rotate: true
+  xy: 703, 5
+  size: 16, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+bj2
+  rotate: true
+  xy: 728, 5
+  size: 16, 22
+  orig: 17, 23
+  offset: 0, 1
+  index: -1
+bw
+  rotate: true
+  xy: 48, 3
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+sad1
+  rotate: false
+  xy: 568, 2
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+sad11
+  rotate: true
+  xy: 178, 2
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+sad2
+  rotate: false
+  xy: 688, 74
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+sad22
+  rotate: true
+  xy: 493, 2
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+sad3
+  rotate: true
+  xy: 402, 3
+  size: 41, 44
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+sad33
+  rotate: false
+  xy: 752, 98
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+sbzz
+  rotate: true
+  xy: 752, 5
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+sf222
+  rotate: false
+  xy: 2, 37
+  size: 83, 102
+  orig: 83, 104
+  offset: 0, 0
+  index: -1
+yiz1
+  rotate: false
+  xy: 554, 56
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+yiz2
+  rotate: false
+  xy: 617, 4
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+yizi11
+  rotate: true
+  xy: 475, 54
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+yizi22
+  rotate: false
+  xy: 703, 23
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+yizi33
+  rotate: false
+  xy: 389, 46
+  size: 84, 93
+  orig: 84, 104
+  offset: 0, 0
+  index: -1
+yizi333
+  rotate: false
+  xy: 639, 60
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+zbody
+  rotate: true
+  xy: 314, 39
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+zbq
+  rotate: true
+  xy: 320, 10
+  size: 27, 16
+  orig: 28, 17
+  offset: 1, 0
+  index: -1
+zdm
+  rotate: false
+  xy: 750, 28
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+zhand
+  rotate: false
+  xy: 265, 9
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+zhand2
+  rotate: false
+  xy: 293, 10
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+zhead
+  rotate: true
+  xy: 163, 39
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+zj1
+  rotate: false
+  xy: 338, 12
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zj2
+  rotate: false
+  xy: 338, 12
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zw
+  rotate: true
+  xy: 226, 2
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+包zz
+  rotate: true
+  xy: 448, 3
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+图层492(3)
+  rotate: false
+  xy: 106, 2
+  size: 70, 35
+  orig: 71, 36
+  offset: 1, 0
+  index: -1
+帽子zz
+  rotate: false
+  xy: 2, 2
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+衣服zz
+  rotate: true
+  xy: 663, 8
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1

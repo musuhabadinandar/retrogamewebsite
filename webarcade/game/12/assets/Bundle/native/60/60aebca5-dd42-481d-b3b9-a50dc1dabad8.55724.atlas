@@ -1,0 +1,97 @@
+
+p18.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1550, 965
+  size: 344, 503
+  orig: 344, 503
+  offset: 0, 0
+  index: -1
+images/图层 1
+  rotate: false
+  xy: 2, 994
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 10
+  rotate: true
+  xy: 1550, 1470
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 11
+  rotate: false
+  xy: 518, 2
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 12
+  rotate: false
+  xy: 1034, 498
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 2
+  rotate: false
+  xy: 518, 1490
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 3
+  rotate: false
+  xy: 2, 498
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 4
+  rotate: false
+  xy: 518, 994
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 5
+  rotate: false
+  xy: 1034, 1490
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 6
+  rotate: false
+  xy: 2, 2
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 7
+  rotate: false
+  xy: 518, 498
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 8
+  rotate: false
+  xy: 1034, 994
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1
+images/图层 9
+  rotate: false
+  xy: 2, 1490
+  size: 514, 494
+  orig: 514, 494
+  offset: 0, 0
+  index: -1

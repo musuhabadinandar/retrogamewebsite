@@ -1,0 +1,111 @@
+
+lukasi_TX.png
+size: 550,745
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l1
+  rotate: false
+  xy: 229, 241
+  size: 182, 71
+  orig: 187, 73
+  offset: 2, 0
+  index: -1
+l2
+  rotate: false
+  xy: 2, 2
+  size: 166, 83
+  orig: 168, 84
+  offset: 1, 0
+  index: -1
+l3
+  rotate: false
+  xy: 434, 299
+  size: 95, 164
+  orig: 97, 165
+  offset: 1, 0
+  index: -1
+l4
+  rotate: true
+  xy: 434, 646
+  size: 97, 104
+  orig: 99, 105
+  offset: 1, 0
+  index: -1
+lx
+  rotate: false
+  xy: 170, 21
+  size: 53, 64
+  orig: 58, 69
+  offset: 2, 3
+  index: -1
+o1
+  rotate: false
+  xy: 404, 28
+  size: 144, 140
+  orig: 147, 147
+  offset: 1, 2
+  index: -1
+o2
+  rotate: false
+  xy: 225, 2
+  size: 75, 74
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+o3
+  rotate: false
+  xy: 413, 170
+  size: 128, 127
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+o4
+  rotate: false
+  xy: 2, 87
+  size: 225, 225
+  orig: 227, 227
+  offset: 1, 1
+  index: -1
+t1
+  rotate: false
+  xy: 229, 198
+  size: 176, 41
+  orig: 179, 43
+  offset: 1, 1
+  index: -1
+t2
+  rotate: false
+  xy: 229, 148
+  size: 173, 48
+  orig: 174, 49
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 229, 78
+  size: 167, 68
+  orig: 169, 68
+  offset: 1, 0
+  index: -1
+t4
+  rotate: true
+  xy: 434, 560
+  size: 84, 103
+  orig: 85, 106
+  offset: 0, 2
+  index: -1
+t5
+  rotate: true
+  xy: 434, 465
+  size: 93, 98
+  orig: 93, 99
+  offset: 0, 1
+  index: -1
+wo
+  rotate: true
+  xy: 2, 314
+  size: 429, 430
+  orig: 434, 434
+  offset: 2, 1
+  index: -1

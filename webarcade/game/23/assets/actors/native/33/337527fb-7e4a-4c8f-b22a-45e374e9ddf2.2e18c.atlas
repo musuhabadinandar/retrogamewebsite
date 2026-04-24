@@ -1,0 +1,76 @@
+
+e15.png
+size: 56,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nj3_arm_L1
+  rotate: true
+  xy: 2, 338
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+nj3_arm_L2
+  rotate: false
+  xy: 25, 415
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+nj3_arm_R1
+  rotate: true
+  xy: 2, 367
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+nj3_arm_R2
+  rotate: false
+  xy: 2, 395
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+nj3_arm_R3
+  rotate: false
+  xy: 2, 415
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+nj3_body1
+  rotate: true
+  xy: 2, 222
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+nj3_head1
+  rotate: true
+  xy: 2, 287
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+nj3_head2
+  rotate: true
+  xy: 24, 395
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+nj3_wq
+  rotate: true
+  xy: 2, 124
+  size: 96, 46
+  orig: 96, 46
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 2, 2
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

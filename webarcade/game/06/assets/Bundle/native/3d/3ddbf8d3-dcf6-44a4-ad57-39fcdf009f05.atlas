@@ -1,0 +1,181 @@
+
+p3.png
+size: 377,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 2, 59
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 84, 59
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+右刘海
+  rotate: true
+  xy: 56, 2
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 286, 89
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+右手彩带01
+  rotate: true
+  xy: 332, 53
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+右手彩带02
+  rotate: false
+  xy: 222, 19
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+右流苏
+  rotate: false
+  xy: 136, 9
+  size: 6, 16
+  orig: 6, 16
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: true
+  xy: 286, 2
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 2, 2
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+头冠
+  rotate: false
+  xy: 108, 3
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+头发后
+  rotate: true
+  xy: 56, 27
+  size: 30, 90
+  orig: 30, 90
+  offset: 0, 0
+  index: -1
+头发飘带01
+  rotate: false
+  xy: 248, 67
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+头发飘带02
+  rotate: true
+  xy: 148, 30
+  size: 27, 72
+  orig: 27, 72
+  offset: 0, 0
+  index: -1
+左刘海
+  rotate: false
+  xy: 249, 8
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+左彩带01
+  rotate: false
+  xy: 286, 19
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+左彩带02
+  rotate: true
+  xy: 325, 19
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+左流苏
+  rotate: false
+  xy: 360, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+左胳膊
+  rotate: false
+  xy: 333, 87
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: true
+  xy: 323, 2
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+左袖子
+  rotate: true
+  xy: 184, 11
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+睁眼
+  rotate: true
+  xy: 361, 17
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+腰带
+  rotate: false
+  xy: 144, 5
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 286, 52
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+闭眼
+  rotate: false
+  xy: 148, 18
+  size: 34, 10
+  orig: 34, 10
+  offset: 0, 0
+  index: -1
+风
+  rotate: false
+  xy: 166, 59
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

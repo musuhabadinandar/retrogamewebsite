@@ -1,0 +1,160 @@
+
+skillUI.png
+size: 624,1026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI前
+  rotate: true
+  xy: 2, 18
+  size: 392, 154
+  orig: 410, 166
+  offset: 1, 10
+  index: -1
+UI底
+  rotate: false
+  xy: 2, 686
+  size: 614, 338
+  orig: 616, 354
+  offset: 1, 15
+  index: -1
+ef
+  rotate: false
+  xy: 2, 412
+  size: 349, 272
+  orig: 361, 337
+  offset: 1, 11
+  index: -1
+r2ADD
+  rotate: false
+  xy: 2, 412
+  size: 349, 272
+  orig: 361, 337
+  offset: 1, 11
+  index: -1
+r3ADD
+  rotate: false
+  xy: 2, 412
+  size: 349, 272
+  orig: 361, 337
+  offset: 1, 11
+  index: -1
+r4ADD
+  rotate: false
+  xy: 2, 412
+  size: 349, 272
+  orig: 361, 337
+  offset: 1, 11
+  index: -1
+r5ADD
+  rotate: false
+  xy: 2, 412
+  size: 349, 272
+  orig: 361, 337
+  offset: 1, 11
+  index: -1
+r2
+  rotate: false
+  xy: 353, 354
+  size: 202, 330
+  orig: 413, 340
+  offset: 0, 10
+  index: -1
+r3
+  rotate: false
+  xy: 353, 354
+  size: 202, 330
+  orig: 413, 340
+  offset: 0, 10
+  index: -1
+r4
+  rotate: false
+  xy: 353, 354
+  size: 202, 330
+  orig: 413, 340
+  offset: 0, 10
+  index: -1
+r5
+  rotate: false
+  xy: 353, 354
+  size: 202, 330
+  orig: 413, 340
+  offset: 0, 10
+  index: -1
+头
+  rotate: false
+  xy: 353, 354
+  size: 202, 330
+  orig: 413, 340
+  offset: 0, 10
+  index: -1
+z1
+  rotate: true
+  xy: 565, 42
+  size: 283, 57
+  orig: 378, 86
+  offset: 47, 16
+  index: -1
+z10
+  rotate: true
+  xy: 445, 67
+  size: 285, 58
+  orig: 378, 86
+  offset: 47, 15
+  index: -1
+z2
+  rotate: true
+  xy: 158, 125
+  size: 285, 61
+  orig: 378, 86
+  offset: 46, 13
+  index: -1
+z3
+  rotate: true
+  xy: 221, 125
+  size: 285, 61
+  orig: 378, 86
+  offset: 46, 13
+  index: -1
+z4
+  rotate: true
+  xy: 346, 139
+  size: 213, 60
+  orig: 378, 86
+  offset: 83, 14
+  index: -1
+z5
+  rotate: false
+  xy: 158, 63
+  size: 285, 59
+  orig: 378, 86
+  offset: 47, 15
+  index: -1
+z6
+  rotate: true
+  xy: 284, 124
+  size: 286, 60
+  orig: 378, 86
+  offset: 45, 13
+  index: -1
+z7
+  rotate: false
+  xy: 158, 2
+  size: 285, 59
+  orig: 378, 86
+  offset: 47, 14
+  index: -1
+z8
+  rotate: true
+  xy: 505, 42
+  size: 283, 58
+  orig: 378, 86
+  offset: 50, 15
+  index: -1
+z9
+  rotate: true
+  xy: 557, 327
+  size: 357, 59
+  orig: 378, 86
+  offset: 10, 14
+  index: -1

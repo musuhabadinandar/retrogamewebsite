@@ -1,0 +1,202 @@
+
+monster_10.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 367, 2
+  size: 65, 87
+  orig: 65, 87
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 680, 136
+  size: 56, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 674, 194
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+head_attack_01_opt
+  rotate: false
+  xy: 89, 6
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+head_attack_opt
+  rotate: false
+  xy: 421, 70
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+head_back_opt
+  rotate: false
+  xy: 594, 74
+  size: 84, 89
+  orig: 86, 89
+  offset: 1, 0
+  index: -1
+head_die_opt
+  rotate: false
+  xy: 2, 4
+  size: 85, 95
+  orig: 86, 97
+  offset: 1, 1
+  index: -1
+head_eye_opt
+  rotate: false
+  xy: 524, 165
+  size: 85, 89
+  orig: 87, 89
+  offset: 2, 0
+  index: -1
+head_plume
+  rotate: true
+  xy: 194, 114
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+head_smile_opt
+  rotate: false
+  xy: 508, 72
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+head_stand_01_opt
+  rotate: false
+  xy: 347, 162
+  size: 88, 92
+  orig: 88, 96
+  offset: 0, 3
+  index: -1
+head_stand_opt
+  rotate: false
+  xy: 437, 164
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+leg_L_01
+  rotate: false
+  xy: 593, 3
+  size: 51, 67
+  orig: 52, 68
+  offset: 1, 1
+  index: -1
+leg_L_02
+  rotate: false
+  xy: 720, 40
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+leg_R_01
+  rotate: false
+  xy: 539, 3
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+leg_R_02
+  rotate: false
+  xy: 728, 92
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+shoulder_L_01
+  rotate: false
+  xy: 680, 88
+  size: 46, 46
+  orig: 46, 48
+  offset: 0, 1
+  index: -1
+shoulder_L_02
+  rotate: true
+  xy: 611, 182
+  size: 72, 61
+  orig: 72, 62
+  offset: 0, 1
+  index: -1
+shoulder_R_01
+  rotate: false
+  xy: 735, 207
+  size: 46, 47
+  orig: 46, 48
+  offset: 0, 1
+  index: -1
+shoulder_R_02
+  rotate: false
+  xy: 646, 10
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+sword3-effect_all
+  rotate: true
+  xy: 299, 10
+  size: 120, 66
+  orig: 120, 66
+  offset: 0, 0
+  index: -1
+wing_L_01
+  rotate: true
+  xy: 367, 69
+  size: 91, 52
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+wing_L_01_1
+  rotate: true
+  xy: 282, 132
+  size: 122, 63
+  orig: 122, 89
+  offset: 0, 1
+  index: -1
+wing_L_02_1_opt
+  rotate: true
+  xy: 104, 109
+  size: 145, 88
+  orig: 145, 88
+  offset: 0, 0
+  index: -1
+wing_L_02_cutter_opt
+  rotate: true
+  xy: 2, 101
+  size: 153, 100
+  orig: 153, 102
+  offset: 0, 2
+  index: -1
+wing_L_02_opt
+  rotate: true
+  xy: 242, 12
+  size: 100, 55
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+wing_R_01
+  rotate: true
+  xy: 456, 4
+  size: 64, 81
+  orig: 78, 85
+  offset: 8, 0
+  index: -1
+wing_R_01_1
+  rotate: true
+  xy: 177, 2
+  size: 105, 63
+  orig: 105, 88
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+jiesuan.png
+size: 712,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G1
+  rotate: false
+  xy: 564, 156
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+G2
+  rotate: false
+  xy: 666, 70
+  size: 44, 186
+  orig: 44, 186
+  offset: 0, 0
+  index: -1
+JB
+  rotate: true
+  xy: 2, 2
+  size: 254, 347
+  orig: 254, 347
+  offset: 0, 0
+  index: -1
+JB_G
+  rotate: true
+  xy: 351, 98
+  size: 158, 211
+  orig: 158, 211
+  offset: 0, 0
+  index: -1
+JB_ZI
+  rotate: false
+  xy: 351, 20
+  size: 262, 76
+  orig: 262, 76
+  offset: 0, 0
+  index: -1

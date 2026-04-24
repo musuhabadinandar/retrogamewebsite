@@ -1,0 +1,27 @@
+
+fx_pulsecannon.png
+size: 275,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+point1
+  rotate: true
+  xy: 214, 36
+  size: 60, 59
+  orig: 64, 61
+  offset: 2, 1
+  index: -1
+point2
+  rotate: true
+  xy: 100, 22
+  size: 74, 112
+  orig: 78, 115
+  offset: 2, 2
+  index: -1
+pointbg
+  rotate: false
+  xy: 2, 2
+  size: 96, 94
+  orig: 102, 100
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,111 @@
+
+lvup_lock.png
+size: 769,768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+017
+  rotate: false
+  xy: 639, 638
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+G0
+  rotate: false
+  xy: 2, 456
+  size: 304, 310
+  orig: 304, 310
+  offset: 0, 0
+  index: -1
+G1
+  rotate: false
+  xy: 445, 574
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+G2
+  rotate: false
+  xy: 378, 273
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+G3
+  rotate: false
+  xy: 572, 380
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+G4
+  rotate: false
+  xy: 572, 186
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+xxb
+  rotate: true
+  xy: 228, 7
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+yaoban5b
+  rotate: true
+  xy: 271, 198
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+渡劫
+  rotate: false
+  xy: 308, 467
+  size: 176, 99
+  orig: 176, 99
+  offset: 0, 0
+  index: -1
+灵气
+  rotate: true
+  xy: 393, 134
+  size: 137, 154
+  orig: 137, 154
+  offset: 0, 0
+  index: -1
+突破
+  rotate: true
+  xy: 2, 2
+  size: 183, 111
+  orig: 183, 111
+  offset: 0, 0
+  index: -1
+解锁
+  rotate: true
+  xy: 115, 2
+  size: 183, 111
+  orig: 183, 111
+  offset: 0, 0
+  index: -1
+连续突破
+  rotate: false
+  xy: 549, 34
+  size: 143, 150
+  orig: 143, 150
+  offset: 0, 0
+  index: -1
+驱魔
+  rotate: true
+  xy: 308, 568
+  size: 198, 135
+  orig: 198, 135
+  offset: 0, 0
+  index: -1
+龟龟
+  rotate: false
+  xy: 2, 187
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1

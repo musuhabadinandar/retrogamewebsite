@@ -1,0 +1,76 @@
+
+fabao30.png
+size: 458,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dba
+  rotate: false
+  xy: 237, 230
+  size: 196, 226
+  orig: 196, 226
+  offset: 0, 0
+  index: -1
+fb3001
+  rotate: false
+  xy: 2, 44
+  size: 116, 172
+  orig: 116, 172
+  offset: 0, 0
+  index: -1
+fb3002
+  rotate: false
+  xy: 2, 5
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+fb3003
+  rotate: false
+  xy: 120, 60
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+fb3004
+  rotate: false
+  xy: 207, 163
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+fb3005
+  rotate: false
+  xy: 61, 11
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+fb3006
+  rotate: false
+  xy: 435, 415
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+fb3007
+  rotate: false
+  xy: 120, 95
+  size: 85, 121
+  orig: 85, 121
+  offset: 0, 0
+  index: -1
+fb3008
+  rotate: false
+  xy: 237, 2
+  size: 196, 226
+  orig: 196, 226
+  offset: 0, 0
+  index: -1
+fb3009
+  rotate: false
+  xy: 2, 218
+  size: 233, 238
+  orig: 233, 238
+  offset: 0, 0
+  index: -1

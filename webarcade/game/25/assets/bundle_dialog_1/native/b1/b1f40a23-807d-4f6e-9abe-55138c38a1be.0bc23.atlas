@@ -1,0 +1,62 @@
+
+tadonghua.png
+size: 1950,1628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 754, 535
+  size: 475, 750
+  orig: 476, 750
+  offset: 0, 0
+  index: -1
+1_0
+  rotate: true
+  xy: 754, 68
+  size: 465, 607
+  orig: 485, 624
+  offset: 0, 17
+  index: -1
+2
+  rotate: false
+  xy: 1506, 1130
+  size: 442, 496
+  orig: 443, 496
+  offset: 1, 0
+  index: -1
+3
+  rotate: false
+  xy: 1363, 74
+  size: 445, 459
+  orig: 445, 459
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 754, 1012
+  size: 614, 750
+  orig: 615, 750
+  offset: 1, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 2
+  size: 1624, 750
+  orig: 1624, 750
+  offset: 0, 0
+  index: -1
+duihuakuang
+  rotate: true
+  xy: 1506, 560
+  size: 568, 347
+  orig: 568, 347
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: true
+  xy: 1855, 886
+  size: 242, 76
+  orig: 242, 76
+  offset: 0, 0
+  index: -1

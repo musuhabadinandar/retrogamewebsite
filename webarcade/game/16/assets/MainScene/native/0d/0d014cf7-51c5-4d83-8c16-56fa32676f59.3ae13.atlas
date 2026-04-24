@@ -1,0 +1,20 @@
+
+huodong.png
+size: 215,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wu2
+  rotate: false
+  xy: 2, 85
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+x5a
+  rotate: false
+  xy: 2, 2
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1

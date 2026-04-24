@@ -1,0 +1,13 @@
+
+zhunxing.png
+size: 118,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhunxing
+  rotate: false
+  xy: 2, 2
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1

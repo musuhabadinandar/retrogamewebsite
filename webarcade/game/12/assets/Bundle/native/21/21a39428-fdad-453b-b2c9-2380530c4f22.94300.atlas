@@ -1,0 +1,62 @@
+
+tupo-chenggong.png
+size: 434,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dujie/di
+  rotate: false
+  xy: 1, 246
+  size: 178, 179
+  orig: 178, 179
+  offset: 0, 0
+  index: -1
+dujie/andi
+  rotate: false
+  xy: 259, 1
+  size: 173, 177
+  orig: 173, 177
+  offset: 0, 0
+  index: -1
+dujie/quan2
+  rotate: false
+  xy: 181, 350
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+dujie/quan1
+  rotate: false
+  xy: 290, 284
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+dujie/shandian
+  rotate: false
+  xy: 181, 246
+  size: 107, 102
+  orig: 128, 128
+  offset: 12, 12
+  index: -1
+dujie/zhaun
+  rotate: false
+  xy: 1, 1
+  size: 256, 243
+  orig: 256, 256
+  offset: 0, 4
+  index: -1
+dujie/zi
+  rotate: false
+  xy: 1, 427
+  size: 96, 51
+  orig: 96, 51
+  offset: 0, 0
+  index: -1
+dujie/zi1
+  rotate: false
+  xy: 290, 180
+  size: 96, 102
+  orig: 96, 102
+  offset: 0, 0
+  index: -1

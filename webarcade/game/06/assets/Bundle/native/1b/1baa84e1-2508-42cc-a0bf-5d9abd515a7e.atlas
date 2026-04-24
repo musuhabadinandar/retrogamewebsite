@@ -1,0 +1,62 @@
+
+fabao5.png
+size: 229,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fq_yinzhang
+  rotate: false
+  xy: 131, 132
+  size: 87, 95
+  orig: 87, 95
+  offset: 0, 0
+  index: -1
+fq_yinzhang01
+  rotate: false
+  xy: 26, 59
+  size: 87, 29
+  orig: 87, 29
+  offset: 0, 0
+  index: -1
+fq_yinzhang02
+  rotate: true
+  xy: 26, 5
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+fq_yinzhang03
+  rotate: false
+  xy: 2, 2
+  size: 22, 86
+  orig: 22, 86
+  offset: 0, 0
+  index: -1
+fq_yinzhang04
+  rotate: true
+  xy: 26, 33
+  size: 24, 60
+  orig: 24, 60
+  offset: 0, 0
+  index: -1
+fq_yinzhang05
+  rotate: false
+  xy: 88, 8
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+fq_yinzhang06
+  rotate: false
+  xy: 2, 90
+  size: 127, 137
+  orig: 127, 137
+  offset: 0, 0
+  index: -1
+fq_yinzhang07
+  rotate: false
+  xy: 131, 35
+  size: 87, 95
+  orig: 87, 95
+  offset: 0, 0
+  index: -1

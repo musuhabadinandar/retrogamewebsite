@@ -1,0 +1,41 @@
+
+jingling_bing.png
+size: 659,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houbing
+  rotate: false
+  xy: 279, 30
+  size: 216, 236
+  orig: 216, 236
+  offset: 0, 0
+  index: -1
+qianbing
+  rotate: true
+  xy: 2, 2
+  size: 264, 275
+  orig: 268, 275
+  offset: 0, 0
+  index: -1
+toubu
+  rotate: false
+  xy: 497, 104
+  size: 160, 162
+  orig: 160, 162
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 497, 37
+  size: 131, 65
+  orig: 132, 65
+  offset: 0, 0
+  index: -1
+yanjing_2
+  rotate: false
+  xy: 279, 13
+  size: 42, 15
+  orig: 111, 47
+  offset: 66, 24
+  index: -1

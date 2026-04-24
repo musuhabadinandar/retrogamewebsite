@@ -1,0 +1,195 @@
+
+ShuiChan.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DZX_Qian_L
+  rotate: false
+  xy: 196, 2
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+DZX_Qian_R
+  rotate: false
+  xy: 177, 2
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+DZX_Tui_L
+  rotate: true
+  xy: 159, 3
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+DZX_Tui_R
+  rotate: true
+  xy: 140, 3
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+DaZhaXie
+  rotate: true
+  xy: 296, 33
+  size: 29, 23
+  orig: 31, 25
+  offset: 1, 1
+  index: -1
+DuiXia
+  rotate: false
+  xy: 213, 2
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+JiJu
+  rotate: true
+  xy: 63, 14
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+JiaYu
+  rotate: true
+  xy: 23, 10
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+JiaYu_Tou
+  rotate: true
+  xy: 311, 11
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+LiYu
+  rotate: true
+  xy: 92, 16
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+LiYu_Qi
+  rotate: false
+  xy: 123, 9
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+QP_0
+  rotate: false
+  xy: 101, 3
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+QP_1
+  rotate: false
+  xy: 84, 2
+  size: 15, 10
+  orig: 17, 12
+  offset: 1, 1
+  index: -1
+QP_2
+  rotate: false
+  xy: 267, 32
+  size: 27, 30
+  orig: 29, 32
+  offset: 1, 1
+  index: -1
+QP_3
+  rotate: false
+  xy: 280, 4
+  size: 29, 26
+  orig: 31, 28
+  offset: 1, 1
+  index: -1
+QP_4
+  rotate: true
+  xy: 140, 23
+  size: 39, 29
+  orig: 41, 31
+  offset: 1, 1
+  index: -1
+QP_5
+  rotate: true
+  xy: 114, 5
+  size: 9, 7
+  orig: 11, 9
+  offset: 1, 1
+  index: -1
+QP_6
+  rotate: false
+  xy: 63, 2
+  size: 19, 10
+  orig: 21, 12
+  offset: 1, 1
+  index: -1
+ShanBei
+  rotate: true
+  xy: 208, 30
+  size: 32, 28
+  orig: 34, 30
+  offset: 1, 1
+  index: -1
+ShanBei_Di
+  rotate: true
+  xy: 238, 30
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Shu_DuiXia
+  rotate: true
+  xy: 2, 6
+  size: 56, 19
+  orig: 60, 21
+  offset: 2, 1
+  index: -1
+Shu_LiYu
+  rotate: true
+  xy: 2, 6
+  size: 56, 19
+  orig: 60, 21
+  offset: 2, 1
+  index: -1
+Shui_DZX
+  rotate: true
+  xy: 2, 6
+  size: 56, 19
+  orig: 60, 21
+  offset: 2, 1
+  index: -1
+Shui_JiYu
+  rotate: true
+  xy: 2, 6
+  size: 56, 19
+  orig: 60, 21
+  offset: 2, 1
+  index: -1
+Shui_JiaYu
+  rotate: true
+  xy: 2, 6
+  size: 56, 19
+  orig: 60, 21
+  offset: 2, 1
+  index: -1
+Shui_ShanBei
+  rotate: true
+  xy: 119, 18
+  size: 44, 19
+  orig: 46, 21
+  offset: 1, 1
+  index: -1
+fish_XiaoLongXia
+  rotate: true
+  xy: 171, 25
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1

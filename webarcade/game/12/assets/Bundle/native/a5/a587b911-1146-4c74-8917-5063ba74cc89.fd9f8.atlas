@@ -1,0 +1,55 @@
+
+ef9.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixina
+  rotate: true
+  xy: 636, 2
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+aixinb
+  rotate: true
+  xy: 276, 25
+  size: 226, 178
+  orig: 226, 178
+  offset: 0, 0
+  index: -1
+aixinguanghuan
+  rotate: true
+  xy: 456, 25
+  size: 226, 178
+  orig: 226, 178
+  offset: 0, 0
+  index: -1
+baiquan
+  rotate: false
+  xy: 788, 4
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+baozhayan
+  rotate: false
+  xy: 2, 46
+  size: 272, 205
+  orig: 272, 205
+  offset: 0, 0
+  index: -1
+dd
+  rotate: true
+  xy: 636, 86
+  size: 165, 150
+  orig: 165, 150
+  offset: 0, 0
+  index: -1
+soul01SKL2b_nob
+  rotate: false
+  xy: 788, 98
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1

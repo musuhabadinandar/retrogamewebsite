@@ -1,0 +1,62 @@
+
+fabao2.png
+size: 228,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fq_yumao01
+  rotate: false
+  xy: 2, 2
+  size: 86, 95
+  orig: 86, 95
+  offset: 0, 0
+  index: -1
+fq_yumao02
+  rotate: false
+  xy: 120, 99
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+fq_yumao03
+  rotate: false
+  xy: 120, 172
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+fq_yumao04
+  rotate: false
+  xy: 166, 176
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+fq_yumao05
+  rotate: true
+  xy: 166, 147
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+fq_yumao06
+  rotate: false
+  xy: 120, 129
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+fq_yumao07
+  rotate: false
+  xy: 90, 2
+  size: 86, 95
+  orig: 86, 95
+  offset: 0, 0
+  index: -1
+fq_yumao08
+  rotate: false
+  xy: 2, 99
+  size: 116, 127
+  orig: 116, 127
+  offset: 0, 0
+  index: -1

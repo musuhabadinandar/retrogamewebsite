@@ -1,0 +1,34 @@
+
+kuang2.png
+size: 289,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1_g
+  rotate: false
+  xy: 201, 2
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+hero_di
+  rotate: true
+  xy: 124, 18
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+jn_gd1
+  rotate: false
+  xy: 2, 25
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+lz1
+  rotate: true
+  xy: 201, 69
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1

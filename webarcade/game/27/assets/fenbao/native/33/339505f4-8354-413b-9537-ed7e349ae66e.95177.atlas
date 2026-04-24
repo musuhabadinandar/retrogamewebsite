@@ -1,0 +1,90 @@
+
+qiliu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 1495, 349
+  size: 157, 100
+  orig: 447, 387
+  offset: 230, 173
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 32
+  size: 265, 142
+  orig: 447, 387
+  offset: 129, 152
+  index: -1
+1_00002
+  rotate: true
+  xy: 1223, 9
+  size: 310, 253
+  orig: 447, 387
+  offset: 92, 47
+  index: -1
+1_00003
+  rotate: false
+  xy: 913, 5
+  size: 308, 256
+  orig: 447, 387
+  offset: 87, 45
+  index: -1
+1_00004
+  rotate: false
+  xy: 593, 4
+  size: 318, 253
+  orig: 447, 387
+  offset: 90, 45
+  index: -1
+1_00005
+  rotate: false
+  xy: 257, 259
+  size: 336, 247
+  orig: 447, 387
+  offset: 64, 46
+  index: -1
+1_00006
+  rotate: true
+  xy: 2, 176
+  size: 330, 253
+  orig: 447, 387
+  offset: 60, 50
+  index: -1
+1_00007
+  rotate: false
+  xy: 269, 2
+  size: 322, 255
+  orig: 447, 387
+  offset: 63, 53
+  index: -1
+1_00008
+  rotate: false
+  xy: 595, 263
+  size: 313, 243
+  orig: 447, 387
+  offset: 66, 64
+  index: -1
+1_00009
+  rotate: false
+  xy: 910, 263
+  size: 299, 243
+  orig: 447, 387
+  offset: 72, 61
+  index: -1
+1_00010
+  rotate: false
+  xy: 1211, 321
+  size: 282, 185
+  orig: 447, 387
+  offset: 84, 113
+  index: -1
+1_00011
+  rotate: true
+  xy: 1478, 61
+  size: 258, 115
+  orig: 447, 387
+  offset: 98, 177
+  index: -1

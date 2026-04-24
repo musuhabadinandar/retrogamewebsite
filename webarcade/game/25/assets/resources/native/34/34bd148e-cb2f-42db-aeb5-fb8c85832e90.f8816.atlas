@@ -1,0 +1,76 @@
+
+TYTX_bsxgj01.png
+size: 320,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_huoqiu0001
+  rotate: false
+  xy: 276, 3
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+TX_huoqiu0002
+  rotate: false
+  xy: 243, 3
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+TX_huoqiu0003
+  rotate: false
+  xy: 141, 3
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TX_huoqiu0004
+  rotate: false
+  xy: 175, 3
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TX_huoqiu0005
+  rotate: false
+  xy: 37, 3
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+TX_huoqiu0006
+  rotate: false
+  xy: 72, 3
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+TX_huoqiu0007
+  rotate: false
+  xy: 209, 3
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TX_huoqiu0008
+  rotate: false
+  xy: 107, 2
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TX_huoqiu0009
+  rotate: false
+  xy: 2, 2
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 308, 21
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1

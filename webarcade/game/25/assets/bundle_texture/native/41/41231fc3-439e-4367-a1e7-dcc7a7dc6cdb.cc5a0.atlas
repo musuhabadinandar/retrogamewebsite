@@ -1,0 +1,69 @@
+
+TX_fight.png
+size: 1090,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di_bai
+  rotate: false
+  xy: 2, 2
+  size: 196, 52
+  orig: 196, 52
+  offset: 0, 0
+  index: -1
+di_cheng
+  rotate: false
+  xy: 200, 2
+  size: 196, 52
+  orig: 196, 52
+  offset: 0, 0
+  index: -1
+di_lan
+  rotate: false
+  xy: 398, 2
+  size: 196, 52
+  orig: 196, 52
+  offset: 0, 0
+  index: -1
+di_lv
+  rotate: false
+  xy: 596, 2
+  size: 196, 52
+  orig: 196, 52
+  offset: 0, 0
+  index: -1
+di_zi
+  rotate: false
+  xy: 794, 2
+  size: 196, 52
+  orig: 196, 52
+  offset: 0, 0
+  index: -1
+tx_cheng
+  rotate: true
+  xy: 992, 5
+  size: 49, 23
+  orig: 51, 25
+  offset: 1, 1
+  index: -1
+tx_lan
+  rotate: true
+  xy: 1017, 5
+  size: 49, 23
+  orig: 51, 25
+  offset: 1, 1
+  index: -1
+tx_lv
+  rotate: true
+  xy: 1042, 6
+  size: 48, 22
+  orig: 51, 24
+  offset: 2, 1
+  index: -1
+tx_zi
+  rotate: true
+  xy: 1066, 6
+  size: 48, 22
+  orig: 51, 24
+  offset: 2, 1
+  index: -1

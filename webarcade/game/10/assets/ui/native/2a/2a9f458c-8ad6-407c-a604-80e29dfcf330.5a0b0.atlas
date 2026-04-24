@@ -1,0 +1,27 @@
+
+zjm_bg.png
+size: 466,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhutou1
+  rotate: true
+  xy: 2, 2
+  size: 209, 158
+  orig: 211, 160
+  offset: 1, 1
+  index: -1
+zhutou2
+  rotate: true
+  xy: 162, 2
+  size: 209, 155
+  orig: 211, 157
+  offset: 1, 1
+  index: -1
+zhutou3
+  rotate: true
+  xy: 319, 4
+  size: 207, 145
+  orig: 207, 145
+  offset: 0, 0
+  index: -1

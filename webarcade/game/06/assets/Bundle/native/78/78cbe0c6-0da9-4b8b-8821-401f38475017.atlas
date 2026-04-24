@@ -1,0 +1,83 @@
+
+fabao26.png
+size: 567,565
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb2601
+  rotate: false
+  xy: 189, 31
+  size: 176, 188
+  orig: 176, 188
+  offset: 0, 0
+  index: -1
+fb2602
+  rotate: false
+  xy: 2, 345
+  size: 205, 218
+  orig: 205, 218
+  offset: 0, 0
+  index: -1
+fb2603
+  rotate: false
+  xy: 2, 146
+  size: 185, 197
+  orig: 185, 197
+  offset: 0, 0
+  index: -1
+fb2604
+  rotate: false
+  xy: 209, 393
+  size: 227, 170
+  orig: 227, 170
+  offset: 0, 0
+  index: -1
+fb2606
+  rotate: false
+  xy: 209, 221
+  size: 227, 170
+  orig: 227, 170
+  offset: 0, 0
+  index: -1
+fb26glow_000
+  rotate: false
+  xy: 438, 441
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+fb26glow_001
+  rotate: false
+  xy: 2, 22
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+fb26glow_002
+  rotate: false
+  xy: 438, 317
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+fb26glow_003
+  rotate: false
+  xy: 438, 193
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+fb26glow_004
+  rotate: false
+  xy: 367, 69
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1
+fb26glow_005
+  rotate: false
+  xy: 467, 69
+  size: 98, 122
+  orig: 98, 122
+  offset: 0, 0
+  index: -1

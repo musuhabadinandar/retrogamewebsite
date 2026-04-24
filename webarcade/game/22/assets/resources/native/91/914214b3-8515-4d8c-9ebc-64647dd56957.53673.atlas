@@ -1,0 +1,160 @@
+
+flower.png
+size: 345,892
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 279, 188
+  size: 44, 64
+  orig: 46, 66
+  offset: 1, 1
+  index: -1
+02
+  rotate: true
+  xy: 279, 140
+  size: 46, 62
+  orig: 48, 64
+  offset: 1, 1
+  index: -1
+03
+  rotate: true
+  xy: 279, 92
+  size: 46, 62
+  orig: 48, 64
+  offset: 1, 1
+  index: -1
+04
+  rotate: false
+  xy: 89, 2
+  size: 52, 49
+  orig: 54, 51
+  offset: 1, 1
+  index: -1
+05
+  rotate: false
+  xy: 279, 41
+  size: 52, 49
+  orig: 54, 51
+  offset: 1, 1
+  index: -1
+06
+  rotate: true
+  xy: 145, 51
+  size: 55, 75
+  orig: 57, 77
+  offset: 1, 1
+  index: -1
+07
+  rotate: false
+  xy: 222, 31
+  size: 55, 75
+  orig: 57, 77
+  offset: 1, 1
+  index: -1
+08
+  rotate: false
+  xy: 107, 53
+  size: 36, 85
+  orig: 38, 87
+  offset: 1, 1
+  index: -1
+09
+  rotate: true
+  xy: 2, 21
+  size: 36, 85
+  orig: 38, 87
+  offset: 1, 1
+  index: -1
+10
+  rotate: true
+  xy: 2, 59
+  size: 31, 87
+  orig: 33, 89
+  offset: 1, 1
+  index: -1
+bz01
+  rotate: false
+  xy: 148, 108
+  size: 129, 124
+  orig: 179, 180
+  offset: 26, 3
+  index: -1
+bz02
+  rotate: false
+  xy: 2, 246
+  size: 146, 142
+  orig: 179, 180
+  offset: 16, 2
+  index: -1
+bz03
+  rotate: false
+  xy: 177, 556
+  size: 164, 168
+  orig: 179, 180
+  offset: 8, 6
+  index: -1
+bz04
+  rotate: true
+  xy: 2, 559
+  size: 169, 173
+  orig: 179, 180
+  offset: 6, 3
+  index: -1
+bz05
+  rotate: true
+  xy: 2, 390
+  size: 167, 169
+  orig: 179, 180
+  offset: 6, 5
+  index: -1
+bz06
+  rotate: false
+  xy: 2, 730
+  size: 179, 160
+  orig: 179, 180
+  offset: 0, 11
+  index: -1
+bz07
+  rotate: false
+  xy: 173, 395
+  size: 169, 159
+  orig: 179, 180
+  offset: 5, 14
+  index: -1
+bz08
+  rotate: false
+  xy: 173, 234
+  size: 167, 159
+  orig: 179, 180
+  offset: 6, 10
+  index: -1
+bz09
+  rotate: true
+  xy: 183, 726
+  size: 164, 160
+  orig: 179, 180
+  offset: 8, 10
+  index: -1
+bz10
+  rotate: false
+  xy: 2, 140
+  size: 144, 104
+  orig: 179, 180
+  offset: 17, 41
+  index: -1
+heart
+  rotate: false
+  xy: 143, 18
+  size: 65, 31
+  orig: 67, 33
+  offset: 1, 1
+  index: -1
+leaf
+  rotate: false
+  xy: 2, 92
+  size: 103, 46
+  orig: 105, 48
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+HuaYuan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flowers_BaiHe
+  rotate: true
+  xy: 211, 4
+  size: 112, 125
+  orig: 112, 131
+  offset: 0, 6
+  index: -1
+flowers_BaiHe_C
+  rotate: true
+  xy: 338, 4
+  size: 46, 74
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+flowers_JuHua
+  rotate: true
+  xy: 249, 131
+  size: 118, 113
+  orig: 119, 113
+  offset: 0, 0
+  index: -1
+flowers_JuHua_C
+  rotate: true
+  xy: 364, 138
+  size: 49, 60
+  orig: 61, 61
+  offset: 12, 0
+  index: -1
+flowers_MeiGui
+  rotate: false
+  xy: 107, 5
+  size: 102, 103
+  orig: 102, 112
+  offset: 0, 9
+  index: -1
+flowers_MeiGui_C
+  rotate: false
+  xy: 338, 52
+  size: 47, 77
+  orig: 55, 77
+  offset: 3, 0
+  index: -1
+flowers_MoLi
+  rotate: false
+  xy: 2, 110
+  size: 125, 139
+  orig: 168, 139
+  offset: 40, 0
+  index: -1
+flowers_MoLi_C
+  rotate: false
+  xy: 419, 189
+  size: 49, 60
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+flowers_XunYiCao
+  rotate: false
+  xy: 129, 118
+  size: 118, 131
+  orig: 126, 131
+  offset: 4, 0
+  index: -1
+flowers_XunYiCao_C
+  rotate: false
+  xy: 364, 189
+  size: 53, 60
+  orig: 55, 61
+  offset: 1, 0
+  index: -1
+flowers_YuJinXiang
+  rotate: true
+  xy: 2, 2
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+flowers_YuJinXiang_C
+  rotate: false
+  xy: 387, 84
+  size: 50, 52
+  orig: 51, 58
+  offset: 0, 5
+  index: -1

@@ -1,0 +1,34 @@
+
+kpg.png
+size: 776, 581
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gx2
+  rotate: false
+  xy: 2, 2
+  size: 594, 577
+  orig: 600, 588
+  offset: 2, 10
+  index: -1
+jt
+  rotate: true
+  xy: 598, 350
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+图层 4267
+  rotate: true
+  xy: 598, 402
+  size: 177, 176
+  orig: 202, 201
+  offset: 12, 15
+  index: -1
+图层 4276
+  rotate: true
+  xy: 598, 339
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+skill_05.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+todo
+  rotate: false
+  xy: 2, 2
+  size: 400, 371
+  orig: 400, 371
+  offset: 0, 0
+  index: -1

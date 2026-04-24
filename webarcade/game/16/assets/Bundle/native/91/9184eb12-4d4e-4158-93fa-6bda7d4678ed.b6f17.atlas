@@ -1,0 +1,178 @@
+
+lunhui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+人
+  rotate: false
+  xy: 516, 798
+  size: 201, 217
+  orig: 201, 217
+  offset: 0, 0
+  index: -1
+光点
+  rotate: false
+  xy: 260, 24
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+圈外字
+  rotate: false
+  xy: 2, 503
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+圈篮圈
+  rotate: false
+  xy: 722, 715
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+圈紫圈
+  rotate: false
+  xy: 722, 413
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+墨迹2
+  rotate: false
+  xy: 748, 91
+  size: 256, 320
+  orig: 256, 320
+  offset: 0, 0
+  index: -1
+星火三
+  rotate: false
+  xy: 388, 4
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+星火二
+  rotate: false
+  xy: 568, 4
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+环字一
+  rotate: false
+  xy: 516, 648
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+环字三
+  rotate: false
+  xy: 2, 117
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+球一
+  rotate: false
+  xy: 388, 169
+  size: 332, 332
+  orig: 332, 332
+  offset: 0, 0
+  index: -1
+白块
+  rotate: false
+  xy: 260, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+耀斑
+  rotate: false
+  xy: 2, 10
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+聚光
+  rotate: false
+  xy: 516, 518
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+lunhui2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+人光
+  rotate: false
+  xy: 2, 215
+  size: 267, 293
+  orig: 267, 293
+  offset: 0, 0
+  index: -1
+圈轮回
+  rotate: false
+  xy: 2, 510
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+墨迹1
+  rotate: false
+  xy: 271, 2
+  size: 256, 247
+  orig: 256, 247
+  offset: 0, 0
+  index: -1
+火星
+  rotate: false
+  xy: 516, 728
+  size: 265, 294
+  orig: 265, 294
+  offset: 0, 0
+  index: -1
+火纹
+  rotate: false
+  xy: 530, 470
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+环字二
+  rotate: false
+  xy: 271, 251
+  size: 257, 257
+  orig: 257, 257
+  offset: 0, 0
+  index: -1
+
+lunhui3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+圈轮回er
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+lunhui4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+环字四
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

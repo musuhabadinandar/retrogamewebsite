@@ -1,0 +1,48 @@
+
+fabao20.png
+size: 450,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gj01
+  rotate: false
+  xy: 2, 15
+  size: 162, 189
+  orig: 162, 189
+  offset: 0, 0
+  index: -1
+gj02
+  rotate: false
+  xy: 340, 76
+  size: 71, 128
+  orig: 71, 128
+  offset: 0, 0
+  index: -1
+gj03
+  rotate: false
+  xy: 166, 36
+  size: 172, 168
+  orig: 172, 168
+  offset: 0, 0
+  index: -1
+gj04
+  rotate: false
+  xy: 2, 206
+  size: 222, 240
+  orig: 222, 240
+  offset: 0, 0
+  index: -1
+gj05
+  rotate: false
+  xy: 226, 206
+  size: 222, 240
+  orig: 222, 240
+  offset: 0, 0
+  index: -1
+gj06
+  rotate: true
+  xy: 340, 28
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1

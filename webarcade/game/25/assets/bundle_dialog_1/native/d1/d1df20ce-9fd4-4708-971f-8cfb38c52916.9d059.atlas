@@ -1,0 +1,76 @@
+
+TianJiaXiaoChengXu.png
+size: 1923,694
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MengBan3
+  rotate: true
+  xy: 217, 65
+  size: 627, 579
+  orig: 627, 579
+  offset: 0, 0
+  index: -1
+MengBan5
+  rotate: true
+  xy: 798, 65
+  size: 627, 494
+  orig: 627, 494
+  offset: 0, 0
+  index: -1
+MengBan6
+  rotate: false
+  xy: 1294, 198
+  size: 627, 494
+  orig: 627, 494
+  offset: 0, 0
+  index: -1
+TX_quan
+  rotate: false
+  xy: 1294, 2
+  size: 194, 194
+  orig: 201, 201
+  offset: 3, 4
+  index: -1
+baidian
+  rotate: false
+  xy: 217, 12
+  size: 135, 51
+  orig: 135, 51
+  offset: 0, 0
+  index: -1
+duihuakuang
+  rotate: true
+  xy: 2, 2
+  size: 690, 213
+  orig: 708, 213
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: false
+  xy: 1625, 68
+  size: 123, 128
+  orig: 126, 130
+  offset: 2, 1
+  index: -1
+finger2
+  rotate: true
+  xy: 1490, 61
+  size: 135, 133
+  orig: 139, 137
+  offset: 2, 2
+  index: -1
+wenzi1
+  rotate: false
+  xy: 354, 38
+  size: 194, 25
+  orig: 194, 25
+  offset: 0, 0
+  index: -1
+wenzi2
+  rotate: false
+  xy: 354, 15
+  size: 341, 21
+  orig: 341, 21
+  offset: 0, 0
+  index: -1

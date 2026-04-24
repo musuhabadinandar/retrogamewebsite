@@ -1,0 +1,104 @@
+
+renwu3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N3-xiao/tui
+  rotate: false
+  xy: 1, 351
+  size: 285, 70
+  orig: 285, 70
+  offset: 0, 0
+  index: -1
+N3-xiao/qianbai1
+  rotate: false
+  xy: 1, 209
+  size: 152, 140
+  orig: 152, 140
+  offset: 0, 0
+  index: -1
+N3-xiao/ceibai
+  rotate: false
+  xy: 1, 423
+  size: 173, 87
+  orig: 173, 87
+  offset: 0, 0
+  index: -1
+N3-xiao/ceibai1
+  rotate: false
+  xy: 288, 380
+  size: 173, 87
+  orig: 173, 87
+  offset: 0, 0
+  index: -1
+N3-xiao/qianbai_0
+  rotate: false
+  xy: 406, 1
+  size: 85, 113
+  orig: 85, 113
+  offset: 0, 0
+  index: -1
+N3-xiao/qianbai
+  rotate: false
+  xy: 155, 209
+  size: 86, 113
+  orig: 86, 113
+  offset: 0, 0
+  index: -1
+N3-xiao/xiuzi_0
+  rotate: false
+  xy: 180, 1
+  size: 117, 167
+  orig: 117, 167
+  offset: 0, 0
+  index: -1
+N3-xiao/xiuzi
+  rotate: false
+  xy: 288, 209
+  size: 116, 169
+  orig: 116, 169
+  offset: 0, 0
+  index: -1
+N3-xiao/yaodai1
+  rotate: false
+  xy: 1, 1
+  size: 177, 206
+  orig: 177, 206
+  offset: 0, 0
+  index: -1
+N3-xiao/01
+  rotate: false
+  xy: 242, 458
+  size: 8, 33
+  orig: 8, 33
+  offset: 0, 0
+  index: -1
+N3-xiao/02
+  rotate: false
+  xy: 242, 423
+  size: 8, 33
+  orig: 8, 33
+  offset: 0, 0
+  index: -1
+N3-xiao/lian
+  rotate: false
+  xy: 176, 423
+  size: 64, 81
+  orig: 71, 89
+  offset: 3, 3
+  index: -1
+N3-xiao/liuhai1
+  rotate: false
+  xy: 299, 1
+  size: 69, 103
+  orig: 69, 103
+  offset: 0, 0
+  index: -1
+N3-xiao/liuhai
+  rotate: false
+  xy: 299, 106
+  size: 45, 90
+  orig: 45, 90
+  offset: 0, 0
+  index: -1

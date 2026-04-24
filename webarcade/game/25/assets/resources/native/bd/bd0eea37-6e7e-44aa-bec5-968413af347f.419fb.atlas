@@ -1,0 +1,230 @@
+
+rengoushi_putong.png
+size: 361,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hei/cefa
+  rotate: false
+  xy: 129, 168
+  size: 99, 24
+  orig: 99, 24
+  offset: 0, 0
+  index: -1
+hei/dizuo
+  rotate: false
+  xy: 2, 392
+  size: 174, 130
+  orig: 174, 130
+  offset: 0, 0
+  index: -1
+hei/huofa
+  rotate: false
+  xy: 2, 269
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
+hei/qianfa
+  rotate: true
+  xy: 129, 194
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+hei/qugan
+  rotate: false
+  xy: 125, 108
+  size: 87, 58
+  orig: 87, 58
+  offset: 0, 0
+  index: -1
+hei/suishi
+  rotate: false
+  xy: 214, 62
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+hei/toubu
+  rotate: false
+  xy: 258, 267
+  size: 101, 123
+  orig: 101, 123
+  offset: 0, 0
+  index: -1
+hei/touding
+  rotate: true
+  xy: 2, 2
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+hei/xiazhi
+  rotate: true
+  xy: 2, 61
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+hei/youshangbi
+  rotate: false
+  xy: 103, 151
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+hei/yousuishi
+  rotate: false
+  xy: 214, 99
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+hei/youxiabi
+  rotate: false
+  xy: 230, 142
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+hei/zuoshangbi
+  rotate: true
+  xy: 299, 113
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+hei/zuosuishi
+  rotate: false
+  xy: 173, 8
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+hei/zuoxiabi
+  rotate: false
+  xy: 262, 68
+  size: 43, 30
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+hong/cefa
+  rotate: false
+  xy: 2, 168
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+hong/dizuo
+  rotate: false
+  xy: 178, 392
+  size: 174, 130
+  orig: 174, 130
+  offset: 0, 0
+  index: -1
+hong/huofa
+  rotate: false
+  xy: 130, 269
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
+hong/qianfa
+  rotate: true
+  xy: 2, 193
+  size: 74, 125
+  orig: 74, 125
+  offset: 0, 0
+  index: -1
+hong/qugan
+  rotate: false
+  xy: 2, 107
+  size: 87, 59
+  orig: 87, 59
+  offset: 0, 0
+  index: -1
+hong/suishi
+  rotate: true
+  xy: 115, 61
+  size: 43, 30
+  orig: 45, 35
+  offset: 2, 2
+  index: -1
+hong/toubu
+  rotate: false
+  xy: 256, 141
+  size: 100, 124
+  orig: 100, 124
+  offset: 0, 0
+  index: -1
+hong/touding
+  rotate: true
+  xy: 147, 59
+  size: 47, 65
+  orig: 57, 67
+  offset: 2, 0
+  index: -1
+hong/xiazhi
+  rotate: false
+  xy: 307, 11
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+hong/youshangbi
+  rotate: false
+  xy: 124, 19
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+hong/yousuishi
+  rotate: true
+  xy: 256, 100
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+hong/youxiabi
+  rotate: true
+  xy: 146, 7
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+hong/zuoshangbi
+  rotate: true
+  xy: 307, 85
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+hong/zuosuishi
+  rotate: true
+  xy: 222, 12
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+hong/zuoxiabi
+  rotate: true
+  xy: 91, 106
+  size: 43, 31
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 76, 61
+  size: 37, 43
+  orig: 52, 43
+  offset: 15, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 71, 8
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

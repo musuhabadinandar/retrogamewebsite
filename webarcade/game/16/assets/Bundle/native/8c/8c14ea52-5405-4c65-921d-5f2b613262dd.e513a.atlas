@@ -1,0 +1,55 @@
+
+dujiechenggong.png
+size: 417,957
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 259, 500
+  size: 156, 109
+  orig: 156, 109
+  offset: 0, 0
+  index: -1
+chibang_guang
+  rotate: false
+  xy: 1, 1
+  size: 411, 381
+  orig: 411, 381
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1, 776
+  size: 195, 179
+  orig: 195, 179
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 259, 611
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+dujiechenggong
+  rotate: false
+  xy: 1, 670
+  size: 391, 104
+  orig: 391, 104
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 1, 500
+  size: 256, 168
+  orig: 256, 168
+  offset: 0, 0
+  index: -1
+dujiechenggong_guang
+  rotate: false
+  xy: 1, 384
+  size: 407, 114
+  orig: 407, 114
+  offset: 0, 0
+  index: -1

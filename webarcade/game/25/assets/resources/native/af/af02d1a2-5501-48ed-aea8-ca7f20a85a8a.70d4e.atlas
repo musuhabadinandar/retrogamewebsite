@@ -1,0 +1,111 @@
+
+jinjuren.png
+size: 929,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hongshuijing
+  rotate: false
+  xy: 422, 708
+  size: 325, 310
+  orig: 325, 310
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 2, 304
+  size: 366, 315
+  orig: 366, 315
+  offset: 0, 0
+  index: -1
+toubu
+  rotate: false
+  xy: 2, 2
+  size: 334, 300
+  orig: 334, 300
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: false
+  xy: 2, 621
+  size: 418, 397
+  orig: 418, 397
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: true
+  xy: 370, 556
+  size: 63, 45
+  orig: 64, 46
+  offset: 0, 1
+  index: -1
+yanjing2
+  rotate: true
+  xy: 338, 240
+  size: 62, 29
+  orig: 64, 31
+  offset: 1, 1
+  index: -1
+youmuzhi
+  rotate: false
+  xy: 785, 619
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: -1
+youquan1
+  rotate: true
+  xy: 749, 887
+  size: 131, 178
+  orig: 131, 178
+  offset: 0, 0
+  index: -1
+youquan2
+  rotate: false
+  xy: 749, 726
+  size: 171, 159
+  orig: 171, 159
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: false
+  xy: 370, 219
+  size: 308, 246
+  orig: 308, 246
+  offset: 0, 0
+  index: -1
+youxiabi
+  rotate: false
+  xy: 680, 208
+  size: 225, 257
+  orig: 225, 257
+  offset: 0, 0
+  index: -1
+zuomuzhi
+  rotate: false
+  xy: 837, 85
+  size: 65, 121
+  orig: 65, 121
+  offset: 0, 0
+  index: -1
+zuoquan
+  rotate: false
+  xy: 618, 25
+  size: 217, 181
+  orig: 217, 181
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 422, 467
+  size: 239, 361
+  orig: 239, 361
+  offset: 0, 0
+  index: -1
+zuoxiabi
+  rotate: false
+  xy: 338, 9
+  size: 278, 208
+  orig: 278, 208
+  offset: 0, 0
+  index: -1

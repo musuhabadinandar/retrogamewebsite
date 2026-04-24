@@ -1,0 +1,118 @@
+
+yechahou_TX.png
+size: 804,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_houjiao_0001
+  rotate: false
+  xy: 2, 433
+  size: 123, 118
+  orig: 200, 200
+  offset: 40, 41
+  index: -1
+tx_houjiao_0002
+  rotate: false
+  xy: 451, 385
+  size: 174, 166
+  orig: 200, 200
+  offset: 15, 17
+  index: -1
+tx_houjiao_0003
+  rotate: false
+  xy: 179, 213
+  size: 186, 176
+  orig: 200, 200
+  offset: 9, 13
+  index: -1
+tx_houjiao_0004
+  rotate: false
+  xy: 367, 203
+  size: 194, 180
+  orig: 200, 200
+  offset: 5, 10
+  index: -1
+tx_houjiao_0005
+  rotate: false
+  xy: 563, 195
+  size: 195, 181
+  orig: 200, 200
+  offset: 5, 9
+  index: -1
+tx_houjiao_0006
+  rotate: false
+  xy: 627, 378
+  size: 175, 173
+  orig: 200, 200
+  offset: 13, 14
+  index: -1
+tx_houjiao_0010
+  rotate: false
+  xy: 627, 378
+  size: 175, 173
+  orig: 200, 200
+  offset: 13, 14
+  index: -1
+tx_houjiao_0007
+  rotate: false
+  xy: 2, 26
+  size: 185, 185
+  orig: 200, 200
+  offset: 7, 8
+  index: -1
+tx_houjiao_0011
+  rotate: false
+  xy: 2, 26
+  size: 185, 185
+  orig: 200, 200
+  offset: 7, 8
+  index: -1
+tx_houjiao_0008
+  rotate: false
+  xy: 376, 2
+  size: 191, 191
+  orig: 200, 200
+  offset: 4, 5
+  index: -1
+tx_houjiao_0012
+  rotate: false
+  xy: 376, 2
+  size: 191, 191
+  orig: 200, 200
+  offset: 4, 5
+  index: -1
+tx_houjiao_0009
+  rotate: false
+  xy: 127, 391
+  size: 160, 160
+  orig: 200, 200
+  offset: 20, 20
+  index: -1
+tx_houjiao_0013
+  rotate: false
+  xy: 289, 391
+  size: 160, 160
+  orig: 200, 200
+  offset: 20, 20
+  index: -1
+tx_houjiao_0014
+  rotate: false
+  xy: 2, 216
+  size: 175, 173
+  orig: 200, 200
+  offset: 13, 14
+  index: -1
+tx_houjiao_0015
+  rotate: false
+  xy: 189, 16
+  size: 185, 185
+  orig: 200, 200
+  offset: 7, 8
+  index: -1
+tx_houjiao_0016
+  rotate: false
+  xy: 569, 2
+  size: 191, 191
+  orig: 200, 200
+  offset: 4, 5
+  index: -1

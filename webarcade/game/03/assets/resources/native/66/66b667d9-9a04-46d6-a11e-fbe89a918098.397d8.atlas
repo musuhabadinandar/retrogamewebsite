@@ -1,0 +1,202 @@
+
+pet.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GouWo
+  rotate: false
+  xy: 2, 20
+  size: 91, 106
+  orig: 93, 108
+  offset: 1, 1
+  index: -1
+GouWoDiMian
+  rotate: false
+  xy: 416, 6
+  size: 60, 63
+  orig: 62, 65
+  offset: 1, 1
+  index: -1
+Gou_Bi
+  rotate: true
+  xy: 312, 7
+  size: 11, 10
+  orig: 13, 12
+  offset: 1, 1
+  index: -1
+Gou_Er_L
+  rotate: false
+  xy: 100, 7
+  size: 10, 12
+  orig: 12, 14
+  offset: 1, 1
+  index: -1
+Gou_Er_R
+  rotate: false
+  xy: 300, 6
+  size: 10, 12
+  orig: 12, 14
+  offset: 1, 1
+  index: -1
+Gou_Lian
+  rotate: true
+  xy: 352, 22
+  size: 31, 27
+  orig: 33, 29
+  offset: 1, 1
+  index: -1
+Gou_SD
+  rotate: true
+  xy: 121, 5
+  size: 35, 45
+  orig: 38, 47
+  offset: 2, 1
+  index: -1
+Gou_She
+  rotate: false
+  xy: 90, 5
+  size: 8, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+Gou_Shen
+  rotate: false
+  xy: 201, 4
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Gou_Tui_L
+  rotate: true
+  xy: 27, 3
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Gou_Tui_R
+  rotate: true
+  xy: 2, 2
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+Gou_Wei
+  rotate: true
+  xy: 271, 6
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+JiaZi
+  rotate: true
+  xy: 232, 55
+  size: 71, 182
+  orig: 71, 182
+  offset: 0, 0
+  index: -1
+Long_Di
+  rotate: true
+  xy: 416, 71
+  size: 55, 66
+  orig: 57, 68
+  offset: 1, 1
+  index: -1
+Mao_Bi
+  rotate: true
+  xy: 324, 7
+  size: 11, 8
+  orig: 13, 10
+  offset: 1, 1
+  index: -1
+Mao_Er_L
+  rotate: false
+  xy: 345, 9
+  size: 8, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+Mao_Er_R
+  rotate: false
+  xy: 334, 9
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+Mao_SD
+  rotate: false
+  xy: 271, 20
+  size: 54, 33
+  orig: 57, 36
+  offset: 2, 1
+  index: -1
+Mao_She
+  rotate: false
+  xy: 112, 10
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+Mao_Shen
+  rotate: true
+  xy: 236, 7
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+Mao_Tou
+  rotate: true
+  xy: 327, 20
+  size: 33, 23
+  orig: 35, 25
+  offset: 1, 1
+  index: -1
+Mao_Tui_Hou_R
+  rotate: true
+  xy: 95, 21
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+Mao_Tui_Qian_L
+  rotate: true
+  xy: 52, 4
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Mao_Tui_Qian_R
+  rotate: false
+  xy: 67, 5
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+Mao_Wei
+  rotate: true
+  xy: 381, 25
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+Mao_zhu
+  rotate: true
+  xy: 95, 42
+  size: 84, 78
+  orig: 86, 80
+  offset: 1, 1
+  index: -1
+Niao
+  rotate: true
+  xy: 168, 6
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+NiaoLong
+  rotate: false
+  xy: 175, 49
+  size: 55, 77
+  orig: 57, 79
+  offset: 1, 1
+  index: -1

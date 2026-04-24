@@ -1,0 +1,69 @@
+
+fei15.png
+size: 866,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1
+  rotate: false
+  xy: 2, 2
+  size: 85, 166
+  orig: 85, 166
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 110, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+形状 86
+  rotate: false
+  xy: 218, 2
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+形状 88
+  rotate: false
+  xy: 326, 2
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+形状 90
+  rotate: false
+  xy: 434, 2
+  size: 106, 118
+  orig: 106, 118
+  offset: 0, 0
+  index: -1
+形状 91 拷贝
+  rotate: false
+  xy: 542, 2
+  size: 52, 202
+  orig: 52, 202
+  offset: 0, 0
+  index: -1
+椭圆 4
+  rotate: false
+  xy: 650, 2
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+椭圆 4 拷贝 4
+  rotate: false
+  xy: 650, 2
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1
+椭圆 4 拷贝 3
+  rotate: false
+  xy: 758, 2
+  size: 4, 14
+  orig: 4, 14
+  offset: 0, 0
+  index: -1

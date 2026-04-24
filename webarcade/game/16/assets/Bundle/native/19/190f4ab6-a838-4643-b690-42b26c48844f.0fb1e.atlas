@@ -1,0 +1,41 @@
+
+dujieshibai.png
+size: 250,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yumao
+  rotate: false
+  xy: 200, 1
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 1, 1
+  size: 195, 179
+  orig: 195, 179
+  offset: 0, 0
+  index: -1
+dujie
+  rotate: false
+  xy: 1, 182
+  size: 197, 102
+  orig: 197, 102
+  offset: 0, 0
+  index: -1
+shi
+  rotate: false
+  xy: 1, 374
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 1, 286
+  size: 108, 86
+  orig: 108, 86
+  offset: 0, 0
+  index: -1

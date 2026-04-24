@@ -1,0 +1,62 @@
+
+fabao19.png
+size: 342,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao19/liusu
+  rotate: false
+  xy: 137, 140
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+fabao19/bazi2
+  rotate: false
+  xy: 253, 127
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+fabao19/hulu
+  rotate: false
+  xy: 253, 1
+  size: 87, 124
+  orig: 87, 124
+  offset: 0, 0
+  index: -1
+fabao19/bagua
+  rotate: false
+  xy: 1, 179
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+fabao19/bazi1
+  rotate: false
+  xy: 193, 140
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+fabao19/faguang
+  rotate: false
+  xy: 1, 1
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+fabao19/yunwu
+  rotate: false
+  xy: 137, 1
+  size: 114, 137
+  orig: 114, 137
+  offset: 0, 0
+  index: -1
+faqi10/fabao10-diandian
+  rotate: false
+  xy: 230, 140
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1

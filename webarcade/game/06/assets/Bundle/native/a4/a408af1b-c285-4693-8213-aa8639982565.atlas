@@ -1,0 +1,34 @@
+
+fabao16.png
+size: 282,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb1601
+  rotate: false
+  xy: 151, 180
+  size: 111, 100
+  orig: 111, 100
+  offset: 0, 0
+  index: -1
+fb1602
+  rotate: false
+  xy: 151, 75
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+fb1603
+  rotate: false
+  xy: 2, 142
+  size: 147, 138
+  orig: 147, 138
+  offset: 0, 0
+  index: -1
+fb1604
+  rotate: false
+  xy: 2, 2
+  size: 147, 138
+  orig: 147, 138
+  offset: 0, 0
+  index: -1

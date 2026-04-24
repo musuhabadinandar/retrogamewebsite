@@ -1,0 +1,55 @@
+
+renwu5.png
+size: 246,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N5-xiao/lian
+  rotate: true
+  xy: 133, 155
+  size: 67, 83
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+N5-xiao/qianbai
+  rotate: true
+  xy: 2, 151
+  size: 378, 129
+  orig: 378, 149
+  offset: 0, 0
+  index: -1
+N5-xiao/shoubi1
+  rotate: false
+  xy: 131, 3
+  size: 112, 146
+  orig: 112, 146
+  offset: 0, 0
+  index: -1
+N5-xiao/shoubi2
+  rotate: false
+  xy: 133, 387
+  size: 109, 142
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+N5-xiao/toufa
+  rotate: true
+  xy: 133, 303
+  size: 82, 111
+  orig: 82, 111
+  offset: 0, 0
+  index: -1
+N5-xiao/yaodai
+  rotate: true
+  xy: 133, 224
+  size: 77, 102
+  orig: 77, 102
+  offset: 0, 0
+  index: -1
+N5-xiao/yifu
+  rotate: true
+  xy: 2, 2
+  size: 147, 127
+  orig: 147, 131
+  offset: 0, 0
+  index: -1

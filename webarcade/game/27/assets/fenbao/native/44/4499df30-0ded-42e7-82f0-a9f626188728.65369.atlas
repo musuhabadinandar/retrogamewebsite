@@ -1,0 +1,13 @@
+
+skill_09.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+potal_02
+  rotate: true
+  xy: 2, 2
+  size: 16, 47
+  orig: 16, 50
+  offset: 0, 1
+  index: -1

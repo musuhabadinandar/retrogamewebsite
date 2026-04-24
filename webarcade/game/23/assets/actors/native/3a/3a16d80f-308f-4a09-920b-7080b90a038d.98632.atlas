@@ -1,0 +1,69 @@
+
+e16.png
+size: 168,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nj4_arm_L1
+  rotate: true
+  xy: 94, 4
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+nj4_arm_L2
+  rotate: false
+  xy: 129, 26
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+nj4_arm_R1
+  rotate: true
+  xy: 56, 5
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+nj4_arm_R2
+  rotate: false
+  xy: 34, 2
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+nj4_body1
+  rotate: true
+  xy: 56, 33
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+nj4_head1
+  rotate: false
+  xy: 110, 46
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+nj4_head2
+  rotate: true
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+nj4_wq
+  rotate: false
+  xy: 56, 98
+  size: 110, 44
+  orig: 110, 44
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 2, 22
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

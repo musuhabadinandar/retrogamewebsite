@@ -1,0 +1,55 @@
+
+fx_atkup.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hp
+  rotate: false
+  xy: 742, 187
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+ip
+  rotate: true
+  xy: 742, 139
+  size: 20, 16
+  orig: 22, 18
+  offset: 1, 1
+  index: -1
+l1
+  rotate: false
+  xy: 0, 0
+  size: 248, 248
+  orig: 250, 250
+  offset: 1, 1
+  index: -1
+l2
+  rotate: false
+  xy: 250, 4
+  size: 244, 244
+  orig: 246, 246
+  offset: 1, 1
+  index: -1
+l3
+  rotate: false
+  xy: 496, 4
+  size: 244, 244
+  orig: 246, 246
+  offset: 1, 1
+  index: -1
+lp
+  rotate: false
+  xy: 742, 213
+  size: 35, 35
+  orig: 37, 37
+  offset: 1, 1
+  index: -1
+tak
+  rotate: false
+  xy: 742, 161
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1

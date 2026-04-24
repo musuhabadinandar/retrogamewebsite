@@ -1,0 +1,62 @@
+
+WanShengJieNanGuaJieMian.png
+size: 182,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 130, 35
+  size: 29, 50
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 48, 2
+  size: 28, 42
+  orig: 29, 43
+  offset: 0, 1
+  index: -1
+3
+  rotate: true
+  xy: 92, 4
+  size: 28, 36
+  orig: 30, 39
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 90, 34
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+5
+  rotate: true
+  xy: 2, 32
+  size: 32, 42
+  orig: 33, 43
+  offset: 0, 1
+  index: -1
+6
+  rotate: true
+  xy: 46, 32
+  size: 32, 42
+  orig: 36, 46
+  offset: 1, 3
+  index: -1
+7
+  rotate: true
+  xy: 130, 4
+  size: 29, 44
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 2
+  size: 28, 44
+  orig: 29, 46
+  offset: 0, 1
+  index: -1

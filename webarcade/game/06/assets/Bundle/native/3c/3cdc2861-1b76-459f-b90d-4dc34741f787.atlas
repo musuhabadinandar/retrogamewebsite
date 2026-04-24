@@ -1,0 +1,230 @@
+
+liandan.png
+size: 996,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+上字
+  rotate: false
+  xy: 916, 719
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+下字
+  rotate: false
+  xy: 454, 243
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+中圈
+  rotate: true
+  xy: 204, 2
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1
+丹炉上
+  rotate: true
+  xy: 2, 480
+  size: 302, 293
+  orig: 302, 293
+  offset: 0, 0
+  index: -1
+丹炉下
+  rotate: true
+  xy: 421, 599
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+丹炉盖
+  rotate: true
+  xy: 454, 316
+  size: 162, 124
+  orig: 162, 124
+  offset: 0, 0
+  index: -1
+光01
+  rotate: false
+  xy: 400, 480
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+内圈
+  rotate: false
+  xy: 2, 204
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+右字
+  rotate: false
+  xy: 524, 243
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+图层 6
+  rotate: true
+  xy: 297, 480
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+圆环
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+外圈
+  rotate: true
+  xy: 405, 12
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1
+左字
+  rotate: false
+  xy: 502, 527
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+星点
+  rotate: true
+  xy: 515, 632
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+星点01
+  rotate: true
+  xy: 278, 214
+  size: 264, 174
+  orig: 264, 174
+  offset: 0, 0
+  index: -1
+烟雾_01
+  rotate: false
+  xy: 567, 502
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_02
+  rotate: false
+  xy: 656, 654
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_03
+  rotate: false
+  xy: 580, 372
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_04
+  rotate: false
+  xy: 697, 524
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_05
+  rotate: false
+  xy: 786, 654
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_06
+  rotate: false
+  xy: 589, 242
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_07
+  rotate: false
+  xy: 710, 394
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_08
+  rotate: false
+  xy: 827, 524
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_09
+  rotate: false
+  xy: 840, 394
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_10
+  rotate: false
+  xy: 606, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_11
+  rotate: false
+  xy: 719, 264
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_12
+  rotate: false
+  xy: 849, 264
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_13
+  rotate: false
+  xy: 736, 134
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_14
+  rotate: false
+  xy: 736, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_15
+  rotate: false
+  xy: 866, 134
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+烟雾_16
+  rotate: false
+  xy: 866, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+矩形 1
+  rotate: true
+  xy: 297, 582
+  size: 200, 122
+  orig: 200, 122
+  offset: 0, 0
+  index: -1

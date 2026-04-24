@@ -1,0 +1,118 @@
+
+hcjmnv.png
+size: 451, 125
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eye1
+  rotate: true
+  xy: 357, 3
+  size: 54, 17
+  orig: 55, 17
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 235, 4
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 10
+  size: 123, 113
+  orig: 123, 113
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 376, 2
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+sssss
+  rotate: true
+  xy: 217, 35
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 329, 47
+  size: 10, 9
+  orig: 11, 11
+  offset: 0, 1
+  index: -1
+刘海
+  rotate: true
+  xy: 263, 44
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+图层组40
+  rotate: false
+  xy: 375, 61
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+图层组41
+  rotate: false
+  xy: 329, 59
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+图层组44
+  rotate: false
+  xy: 188, 4
+  size: 22, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+图层组45
+  rotate: false
+  xy: 212, 6
+  size: 21, 23
+  orig: 22, 25
+  offset: 1, 1
+  index: -1
+图层组46
+  rotate: true
+  xy: 295, 5
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+图层组47
+  rotate: false
+  xy: 414, 13
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+眉毛
+  rotate: true
+  xy: 427, 79
+  size: 44, 10
+  orig: 45, 11
+  offset: 1, 0
+  index: -1
+马尾
+  rotate: false
+  xy: 127, 31
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+鬓角
+  rotate: true
+  xy: 127, 3
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1

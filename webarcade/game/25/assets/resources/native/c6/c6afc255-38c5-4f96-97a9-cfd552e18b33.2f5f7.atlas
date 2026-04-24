@@ -1,0 +1,104 @@
+
+jurenwang.png
+size: 2008,808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 1306, 35
+  size: 464, 336
+  orig: 464, 345
+  offset: 0, 9
+  index: -1
+shangbanshen
+  rotate: false
+  xy: 2, 214
+  size: 474, 592
+  orig: 632, 592
+  offset: 0, 0
+  index: -1
+toubu
+  rotate: true
+  xy: 1361, 394
+  size: 412, 384
+  orig: 412, 384
+  offset: 0, 0
+  index: -1
+xiabanshen
+  rotate: true
+  xy: 478, 329
+  size: 477, 453
+  orig: 477, 453
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 933, 373
+  size: 433, 426
+  orig: 433, 426
+  offset: 0, 0
+  index: -1
+youmuzhi
+  rotate: true
+  xy: 619, 257
+  size: 70, 122
+  orig: 70, 122
+  offset: 0, 0
+  index: -1
+youquan1
+  rotate: true
+  xy: 1772, 100
+  size: 163, 213
+  orig: 163, 213
+  offset: 0, 0
+  index: -1
+youquan2
+  rotate: true
+  xy: 298, 15
+  size: 197, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: false
+  xy: 2, 2
+  size: 294, 210
+  orig: 294, 210
+  offset: 0, 0
+  index: -1
+youxiabi
+  rotate: false
+  xy: 1747, 513
+  size: 256, 293
+  orig: 256, 293
+  offset: 0, 0
+  index: -1
+zuomuzhi
+  rotate: false
+  xy: 478, 252
+  size: 139, 75
+  orig: 139, 75
+  offset: 0, 0
+  index: -1
+zuoquan
+  rotate: true
+  xy: 1772, 265
+  size: 246, 234
+  orig: 246, 234
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 812, 71
+  size: 256, 492
+  orig: 256, 492
+  offset: 0, 0
+  index: -1
+zuoxiabi
+  rotate: false
+  xy: 488, 11
+  size: 322, 239
+  orig: 322, 239
+  offset: 0, 0
+  index: -1

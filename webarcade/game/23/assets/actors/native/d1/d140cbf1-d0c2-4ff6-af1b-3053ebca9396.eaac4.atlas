@@ -1,0 +1,125 @@
+
+c4.png
+size: 458,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A1
+  rotate: true
+  xy: 381, 654
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+A2
+  rotate: false
+  xy: 234, 697
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+A3
+  rotate: true
+  xy: 2, 45
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+A4
+  rotate: true
+  xy: 61, 45
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+A5
+  rotate: true
+  xy: 120, 45
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+A6
+  rotate: true
+  xy: 2, 2
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+A7
+  rotate: true
+  xy: 61, 2
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+A8
+  rotate: true
+  xy: 120, 2
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+CJ1
+  rotate: false
+  xy: 2, 88
+  size: 214, 213
+  orig: 214, 213
+  offset: 0, 0
+  index: -1
+CJ2
+  rotate: true
+  xy: 234, 428
+  size: 224, 222
+  orig: 224, 222
+  offset: 0, 0
+  index: -1
+CJ3
+  rotate: false
+  xy: 2, 529
+  size: 230, 225
+  orig: 230, 225
+  offset: 0, 0
+  index: -1
+CJ4
+  rotate: false
+  xy: 2, 303
+  size: 230, 224
+  orig: 230, 224
+  offset: 0, 0
+  index: -1
+CJ5
+  rotate: false
+  xy: 234, 212
+  size: 220, 214
+  orig: 220, 214
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 218, 10
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TT
+  rotate: false
+  xy: 381, 697
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 2, 756
+  size: 14, 275
+  orig: 14, 275
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 279, 670
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

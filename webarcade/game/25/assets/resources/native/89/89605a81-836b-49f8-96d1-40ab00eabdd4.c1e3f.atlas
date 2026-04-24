@@ -1,0 +1,20 @@
+
+bingfen_tx2.png
+size: 369,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingkuai_tx2
+  rotate: true
+  xy: 2, 2
+  size: 155, 255
+  orig: 155, 255
+  offset: 0, 0
+  index: -1
+dszgyx_bz_tx_4
+  rotate: false
+  xy: 259, 31
+  size: 108, 126
+  orig: 128, 128
+  offset: 20, 2
+  index: -1

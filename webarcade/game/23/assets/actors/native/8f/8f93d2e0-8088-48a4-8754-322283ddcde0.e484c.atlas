@@ -1,0 +1,69 @@
+
+e14.png
+size: 380,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nj2_arm_L1
+  rotate: false
+  xy: 351, 23
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+nj2_arm_L2
+  rotate: false
+  xy: 355, 3
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+nj2_arm_R1
+  rotate: true
+  xy: 313, 30
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+nj2_arm_R2
+  rotate: false
+  xy: 333, 3
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+nj2_body1
+  rotate: false
+  xy: 124, 4
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+nj2_head1
+  rotate: true
+  xy: 189, 7
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+nj2_head2
+  rotate: false
+  xy: 313, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+nj2_wq
+  rotate: false
+  xy: 241, 14
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 4
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+guang.png
+size: 84,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: false
+  xy: 2, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

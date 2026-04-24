@@ -1,0 +1,535 @@
+
+jianhun_mojian_tx1.png
+size: 2042,2038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_10_1
+  rotate: true
+  xy: 2, 36
+  size: 212, 256
+  orig: 215, 262
+  offset: 1, 3
+  index: -1
+texiao_10_2
+  rotate: true
+  xy: 1566, 13
+  size: 86, 178
+  orig: 90, 183
+  offset: 2, 3
+  index: -1
+texiao_10_5
+  rotate: false
+  xy: 1215, 97
+  size: 173, 151
+  orig: 178, 156
+  offset: 3, 2
+  index: -1
+texiao_10_7
+  rotate: true
+  xy: 1746, 22
+  size: 77, 43
+  orig: 81, 48
+  offset: 2, 2
+  index: -1
+texiao_10_8
+  rotate: false
+  xy: 1390, 100
+  size: 174, 148
+  orig: 180, 153
+  offset: 2, 2
+  index: -1
+texiao_11_1
+  rotate: true
+  xy: 1566, 101
+  size: 147, 246
+  orig: 158, 304
+  offset: 5, 27
+  index: -1
+texiao_11_2
+  rotate: false
+  xy: 1814, 2
+  size: 147, 246
+  orig: 158, 304
+  offset: 5, 27
+  index: -1
+texiao_9_3
+  rotate: false
+  xy: 2, 1144
+  size: 2038, 892
+  orig: 2038, 892
+  offset: 0, 0
+  index: -1
+texiao_9_4
+  rotate: false
+  xy: 2, 250
+  size: 2038, 892
+  orig: 2038, 892
+  offset: 0, 0
+  index: -1
+tx_1
+  rotate: false
+  xy: 260, 54
+  size: 433, 194
+  orig: 448, 206
+  offset: 5, 5
+  index: -1
+tx_41
+  rotate: false
+  xy: 695, 95
+  size: 518, 153
+  orig: 520, 154
+  offset: 1, 1
+  index: -1
+
+jianhun_mojian_tx12.png
+size: 2012,1924
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_1
+  rotate: false
+  xy: 2, 1435
+  size: 561, 351
+  orig: 583, 401
+  offset: 0, 0
+  index: -1
+texiao_10_3
+  rotate: true
+  xy: 345, 1788
+  size: 134, 266
+  orig: 138, 272
+  offset: 3, 3
+  index: -1
+texiao_10_4
+  rotate: true
+  xy: 2, 1808
+  size: 114, 173
+  orig: 117, 177
+  offset: 1, 2
+  index: -1
+texiao_10_6
+  rotate: true
+  xy: 177, 1791
+  size: 131, 166
+  orig: 135, 170
+  offset: 2, 2
+  index: -1
+texiao_2
+  rotate: false
+  xy: 1438, 1151
+  size: 572, 468
+  orig: 572, 468
+  offset: 0, 0
+  index: -1
+tx_11_hikari
+  rotate: false
+  xy: 613, 1621
+  size: 1295, 301
+  orig: 1295, 301
+  offset: 0, 0
+  index: -1
+tx_2
+  rotate: false
+  xy: 2, 660
+  size: 679, 321
+  orig: 693, 329
+  offset: 6, 4
+  index: -1
+tx_28
+  rotate: false
+  xy: 2, 126
+  size: 566, 532
+  orig: 578, 547
+  offset: 6, 8
+  index: -1
+tx_3
+  rotate: false
+  xy: 875, 829
+  size: 678, 320
+  orig: 692, 328
+  offset: 6, 4
+  index: -1
+tx_30
+  rotate: true
+  xy: 1555, 405
+  size: 744, 429
+  orig: 754, 441
+  offset: 4, 5
+  index: -1
+tx_39
+  rotate: false
+  xy: 565, 1302
+  size: 871, 317
+  orig: 884, 327
+  offset: 8, 6
+  index: -1
+tx_40
+  rotate: false
+  xy: 2, 983
+  size: 871, 317
+  orig: 885, 328
+  offset: 9, 7
+  index: -1
+tx_6
+  rotate: false
+  xy: 570, 2
+  size: 875, 414
+  orig: 892, 422
+  offset: 9, 4
+  index: -1
+tx_8
+  rotate: false
+  xy: 683, 418
+  size: 757, 409
+  orig: 776, 420
+  offset: 11, 5
+  index: -1
+
+jianhun_mojian_tx13.png
+size: 1912,1818
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_29
+  rotate: false
+  xy: 2, 22
+  size: 743, 532
+  orig: 754, 547
+  offset: 4, 8
+  index: -1
+tx_32
+  rotate: false
+  xy: 747, 2
+  size: 1030, 484
+  orig: 1038, 492
+  offset: 4, 4
+  index: -1
+tx_33
+  rotate: false
+  xy: 881, 488
+  size: 1029, 483
+  orig: 1038, 492
+  offset: 5, 5
+  index: -1
+tx_37
+  rotate: false
+  xy: 905, 973
+  size: 876, 426
+  orig: 890, 435
+  offset: 9, 5
+  index: -1
+tx_38
+  rotate: false
+  xy: 2, 556
+  size: 877, 426
+  orig: 891, 435
+  offset: 9, 5
+  index: -1
+tx_4
+  rotate: false
+  xy: 879, 1401
+  size: 902, 415
+  orig: 919, 423
+  offset: 9, 4
+  index: -1
+tx_5
+  rotate: false
+  xy: 2, 984
+  size: 901, 415
+  orig: 919, 423
+  offset: 10, 4
+  index: -1
+tx_7
+  rotate: false
+  xy: 2, 1402
+  size: 875, 414
+  orig: 892, 423
+  offset: 9, 4
+  index: -1
+
+jianhun_mojian_tx14.png
+size: 1632,2011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_20
+  rotate: false
+  xy: 1027, 927
+  size: 590, 541
+  orig: 607, 558
+  offset: 12, 10
+  index: -1
+tx_21
+  rotate: false
+  xy: 1027, 927
+  size: 590, 541
+  orig: 607, 558
+  offset: 12, 10
+  index: -1
+tx_25
+  rotate: false
+  xy: 1033, 1470
+  size: 582, 539
+  orig: 597, 552
+  offset: 8, 5
+  index: -1
+tx_26
+  rotate: false
+  xy: 1027, 382
+  size: 603, 543
+  orig: 619, 556
+  offset: 9, 5
+  index: -1
+tx_27
+  rotate: false
+  xy: 2, 2
+  size: 585, 548
+  orig: 600, 564
+  offset: 9, 9
+  index: -1
+tx_34
+  rotate: false
+  xy: 2, 1525
+  size: 1029, 484
+  orig: 1038, 494
+  offset: 5, 6
+  index: -1
+tx_35
+  rotate: false
+  xy: 2, 1039
+  size: 1023, 484
+  orig: 1035, 495
+  offset: 8, 6
+  index: -1
+tx_36
+  rotate: false
+  xy: 2, 552
+  size: 1023, 485
+  orig: 1035, 494
+  offset: 8, 5
+  index: -1
+
+jianhun_mojian_tx15.png
+size: 1993,1701
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_10
+  rotate: false
+  xy: 2, 75
+  size: 759, 565
+  orig: 777, 575
+  offset: 10, 4
+  index: -1
+tx_12
+  rotate: false
+  xy: 763, 2
+  size: 759, 565
+  orig: 774, 578
+  offset: 7, 7
+  index: -1
+tx_22
+  rotate: false
+  xy: 1374, 569
+  size: 617, 574
+  orig: 632, 588
+  offset: 9, 5
+  index: -1
+tx_23
+  rotate: false
+  xy: 1034, 1145
+  size: 585, 554
+  orig: 598, 574
+  offset: 8, 5
+  index: -1
+tx_24
+  rotate: false
+  xy: 766, 581
+  size: 606, 562
+  orig: 621, 576
+  offset: 10, 8
+  index: -1
+tx_31
+  rotate: false
+  xy: 2, 1201
+  size: 1030, 498
+  orig: 1038, 516
+  offset: 4, 14
+  index: -1
+tx_9
+  rotate: false
+  xy: 2, 642
+  size: 762, 557
+  orig: 780, 566
+  offset: 10, 4
+  index: -1
+
+jianhun_mojian_tx16.png
+size: 1725,1506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 2
+  size: 1624, 750
+  orig: 1624, 750
+  offset: 0, 0
+  index: -1
+texiao_6_1
+  rotate: false
+  xy: 2, 754
+  size: 1721, 750
+  orig: 1721, 750
+  offset: 0, 0
+  index: -1
+
+jianhun_mojian_tx17.png
+size: 1628,1506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 2, 754
+  size: 1624, 750
+  orig: 1624, 750
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 2, 2
+  size: 1624, 750
+  orig: 1624, 750
+  offset: 0, 0
+  index: -1
+
+jianhun_mojian_tx18.png
+size: 1923,1741
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_11
+  rotate: false
+  xy: 2, 1169
+  size: 759, 570
+  orig: 774, 583
+  offset: 7, 7
+  index: -1
+tx_13
+  rotate: false
+  xy: 763, 1165
+  size: 739, 574
+  orig: 753, 586
+  offset: 7, 6
+  index: -1
+tx_14
+  rotate: false
+  xy: 2, 593
+  size: 740, 574
+  orig: 754, 586
+  offset: 7, 6
+  index: -1
+tx_15
+  rotate: false
+  xy: 598, 2
+  size: 583, 580
+  orig: 594, 593
+  offset: 6, 7
+  index: -1
+tx_16
+  rotate: false
+  xy: 1183, 2
+  size: 582, 580
+  orig: 593, 593
+  offset: 6, 7
+  index: -1
+tx_17
+  rotate: false
+  xy: 744, 584
+  size: 583, 579
+  orig: 595, 592
+  offset: 6, 7
+  index: -1
+tx_18
+  rotate: false
+  xy: 1329, 584
+  size: 592, 579
+  orig: 604, 592
+  offset: 6, 7
+  index: -1
+tx_19
+  rotate: false
+  xy: 2, 12
+  size: 594, 579
+  orig: 605, 592
+  offset: 6, 7
+  index: -1
+
+jianhun_mojian_tx19.png
+size: 1786,1413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_3
+  rotate: false
+  xy: 2, 829
+  size: 675, 582
+  orig: 676, 582
+  offset: 1, 0
+  index: -1
+texiao_4
+  rotate: false
+  xy: 679, 662
+  size: 1105, 749
+  orig: 1105, 749
+  offset: 0, 0
+  index: -1
+texiao_6_2
+  rotate: false
+  xy: 2, 2
+  size: 1389, 658
+  orig: 1400, 658
+  offset: 11, 0
+  index: -1
+
+jianhun_mojian_tx110.png
+size: 1432,1527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_5
+  rotate: false
+  xy: 2, 2
+  size: 1420, 797
+  orig: 1420, 797
+  offset: 0, 0
+  index: -1
+texiao_7
+  rotate: false
+  xy: 2, 801
+  size: 1428, 724
+  orig: 1430, 738
+  offset: 2, 6
+  index: -1
+
+jianhun_mojian_tx111.png
+size: 1879,1232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_8_1
+  rotate: false
+  xy: 2, 2
+  size: 974, 1228
+  orig: 1005, 1228
+  offset: 16, 0
+  index: -1
+texiao_8_2
+  rotate: false
+  xy: 978, 2
+  size: 899, 1228
+  orig: 928, 1228
+  offset: 15, 0
+  index: -1

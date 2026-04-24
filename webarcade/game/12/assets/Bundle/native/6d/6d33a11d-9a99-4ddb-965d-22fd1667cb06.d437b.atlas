@@ -1,0 +1,41 @@
+
+ef5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12321
+  rotate: false
+  xy: 260, 286
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+duzhen2
+  rotate: false
+  xy: 2, 2
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+duzhen3
+  rotate: false
+  xy: 2, 130
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+duzhen4
+  rotate: false
+  xy: 516, 644
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+duzhen7
+  rotate: false
+  xy: 2, 388
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

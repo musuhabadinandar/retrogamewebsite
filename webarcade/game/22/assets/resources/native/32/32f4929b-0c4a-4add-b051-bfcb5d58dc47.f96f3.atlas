@@ -1,0 +1,76 @@
+
+fx_shield_ground.png
+size: 1762,778
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_gl1
+  rotate: true
+  xy: 644, 34
+  size: 742, 610
+  orig: 754, 621
+  offset: 6, 5
+  index: -1
+fx_gl2
+  rotate: true
+  xy: 1256, 82
+  size: 694, 504
+  orig: 697, 506
+  offset: 1, 1
+  index: -1
+fx_gl3
+  rotate: true
+  xy: 2, 2
+  size: 774, 640
+  orig: 801, 680
+  offset: 14, 17
+  index: -1
+fx_glp1
+  rotate: false
+  xy: 1497, 21
+  size: 57, 59
+  orig: 65, 65
+  offset: 4, 3
+  index: -1
+fx_glp2
+  rotate: false
+  xy: 1556, 22
+  size: 57, 58
+  orig: 64, 64
+  offset: 3, 3
+  index: -1
+fx_glp3
+  rotate: false
+  xy: 1317, 21
+  size: 58, 59
+  orig: 65, 63
+  offset: 4, 1
+  index: -1
+fx_glp4
+  rotate: true
+  xy: 1256, 20
+  size: 60, 59
+  orig: 66, 67
+  offset: 3, 4
+  index: -1
+fx_glp5
+  rotate: false
+  xy: 1377, 21
+  size: 58, 59
+  orig: 64, 65
+  offset: 3, 3
+  index: -1
+fx_glp6
+  rotate: false
+  xy: 1615, 22
+  size: 57, 58
+  orig: 64, 64
+  offset: 3, 3
+  index: -1
+fx_glp7
+  rotate: false
+  xy: 1437, 21
+  size: 58, 59
+  orig: 64, 65
+  offset: 3, 3
+  index: -1

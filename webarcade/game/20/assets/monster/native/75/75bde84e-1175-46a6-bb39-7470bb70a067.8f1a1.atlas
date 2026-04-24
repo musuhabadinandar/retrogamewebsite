@@ -1,0 +1,104 @@
+
+monster_11.png
+size: 813,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bs3_st
+  rotate: true
+  xy: 259, 38
+  size: 98, 160
+  orig: 98, 160
+  offset: 0, 0
+  index: -1
+bs3_st2
+  rotate: false
+  xy: 421, 43
+  size: 147, 93
+  orig: 147, 93
+  offset: 0, 0
+  index: -1
+bs3_tou
+  rotate: false
+  xy: 570, 48
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+bs3_wq
+  rotate: false
+  xy: 2, 2
+  size: 255, 134
+  orig: 255, 134
+  offset: 0, 0
+  index: -1
+bs3_xb
+  rotate: true
+  xy: 655, 47
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+bs3_ys1
+  rotate: false
+  xy: 733, 3
+  size: 73, 67
+  orig: 74, 67
+  offset: 1, 0
+  index: -1
+bs3_ys2
+  rotate: true
+  xy: 495, 16
+  size: 25, 51
+  orig: 25, 52
+  offset: 0, 1
+  index: -1
+bs3_yt1
+  rotate: true
+  xy: 548, 3
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+bs3_yt2
+  rotate: false
+  xy: 611, 6
+  size: 17, 40
+  orig: 18, 42
+  offset: 1, 1
+  index: -1
+bs3_zs1
+  rotate: false
+  xy: 733, 72
+  size: 78, 64
+  orig: 78, 65
+  offset: 0, 1
+  index: -1
+bs3_zs2
+  rotate: true
+  xy: 446, 4
+  size: 37, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+bs3_zt1
+  rotate: false
+  xy: 583, 9
+  size: 26, 37
+  orig: 26, 38
+  offset: 0, 1
+  index: -1
+bs3_zt2
+  rotate: true
+  xy: 402, 3
+  size: 33, 42
+  orig: 33, 44
+  offset: 0, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 259, 6
+  size: 141, 30
+  orig: 141, 30
+  offset: 0, 0
+  index: -1

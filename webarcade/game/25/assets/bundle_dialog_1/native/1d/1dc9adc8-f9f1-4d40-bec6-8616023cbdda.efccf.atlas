@@ -1,0 +1,27 @@
+
+zhujiemianqipao.png
+size: 174,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao1
+  rotate: false
+  xy: 143, 55
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+qipao2
+  rotate: false
+  xy: 143, 78
+  size: 29, 30
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+qipao3
+  rotate: false
+  xy: 2, 2
+  size: 139, 106
+  orig: 139, 106
+  offset: 0, 0
+  index: -1

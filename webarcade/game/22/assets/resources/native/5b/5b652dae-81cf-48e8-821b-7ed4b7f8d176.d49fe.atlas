@@ -1,0 +1,69 @@
+
+long_ng_f.png
+size: 561,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f002
+  rotate: false
+  xy: 525, 80
+  size: 28, 37
+  orig: 29, 39
+  offset: 0, 1
+  index: -1
+f003
+  rotate: false
+  xy: 525, 161
+  size: 34, 43
+  orig: 35, 45
+  offset: 1, 1
+  index: -1
+f004
+  rotate: false
+  xy: 525, 119
+  size: 33, 40
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+f005
+  rotate: false
+  xy: 525, 53
+  size: 27, 25
+  orig: 28, 27
+  offset: 0, 1
+  index: -1
+f006
+  rotate: false
+  xy: 234, 2
+  size: 27, 18
+  orig: 29, 21
+  offset: 1, 2
+  index: -1
+h1
+  rotate: false
+  xy: 2, 6
+  size: 230, 198
+  orig: 230, 198
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 373, 79
+  size: 125, 150
+  orig: 125, 150
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 373, 2
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1
+m1
+  rotate: true
+  xy: 234, 22
+  size: 182, 137
+  orig: 182, 137
+  offset: 0, 0
+  index: -1

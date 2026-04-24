@@ -1,0 +1,83 @@
+
+fabao16.png
+size: 248,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao16/tx05
+  rotate: false
+  xy: 137, 98
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+fabao16/tx04
+  rotate: false
+  xy: 26, 148
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+fabao16/tx03
+  rotate: false
+  xy: 49, 148
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+fabao16/tx02
+  rotate: false
+  xy: 1, 148
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+fabao16/tx01
+  rotate: false
+  xy: 83, 119
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+fabao16/zhuzhu
+  rotate: false
+  xy: 83, 65
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+fabao16/loukomgfaguang
+  rotate: false
+  xy: 152, 1
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+fabao16/loukong
+  rotate: false
+  xy: 1, 65
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+fabao16/01
+  rotate: false
+  xy: 1, 1
+  size: 149, 62
+  orig: 149, 62
+  offset: 0, 0
+  index: -1
+fabao16/02
+  rotate: false
+  xy: 1, 180
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+faqi10/fabao10-diandian
+  rotate: false
+  xy: 137, 65
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1

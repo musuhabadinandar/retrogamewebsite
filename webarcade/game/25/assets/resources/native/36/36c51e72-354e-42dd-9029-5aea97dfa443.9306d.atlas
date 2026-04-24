@@ -1,0 +1,34 @@
+
+TX_Fire.png
+size: 702,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1
+  rotate: true
+  xy: 537, 2
+  size: 257, 163
+  orig: 262, 168
+  offset: 1, 2
+  index: -1
+fire2
+  rotate: true
+  xy: 361, 6
+  size: 253, 174
+  orig: 260, 179
+  offset: 2, 2
+  index: -1
+fire3
+  rotate: true
+  xy: 2, 3
+  size: 256, 179
+  orig: 264, 185
+  offset: 3, 3
+  index: -1
+fire4
+  rotate: true
+  xy: 183, 7
+  size: 252, 176
+  orig: 264, 188
+  offset: 8, 8
+  index: -1

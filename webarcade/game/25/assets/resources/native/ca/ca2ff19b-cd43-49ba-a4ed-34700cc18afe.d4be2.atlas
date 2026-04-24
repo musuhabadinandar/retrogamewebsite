@@ -1,0 +1,48 @@
+
+maoyao_TX.png
+size: 592,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VFX_1
+  rotate: false
+  xy: 2, 177
+  size: 395, 92
+  orig: 399, 92
+  offset: 0, 0
+  index: -1
+VFX_2
+  rotate: true
+  xy: 434, 2
+  size: 135, 154
+  orig: 138, 155
+  offset: 1, 1
+  index: -1
+VFX_3
+  rotate: false
+  xy: 2, 271
+  size: 436, 160
+  orig: 438, 160
+  offset: 1, 0
+  index: -1
+VFX_4
+  rotate: false
+  xy: 2, 23
+  size: 193, 152
+  orig: 195, 153
+  offset: 1, 0
+  index: -1
+VFX_5
+  rotate: false
+  xy: 440, 139
+  size: 150, 292
+  orig: 152, 293
+  offset: 0, 0
+  index: -1
+VFX_6
+  rotate: false
+  xy: 197, 65
+  size: 235, 110
+  orig: 236, 112
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,391 @@
+
+soulbox.png
+size: 1909,1196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianA
+  rotate: false
+  xy: 1798, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+dianB
+  rotate: false
+  xy: 1752, 1066
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dianC
+  rotate: false
+  xy: 1762, 525
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+x3a
+  rotate: true
+  xy: 1567, 654
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+x4a
+  rotate: true
+  xy: 1577, 835
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+x5a
+  rotate: true
+  xy: 1732, 655
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+x6a
+  rotate: true
+  xy: 1587, 1016
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+xxb
+  rotate: true
+  xy: 1742, 836
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+yaoban1b
+  rotate: false
+  xy: 1557, 401
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+yaoban4b
+  rotate: false
+  xy: 1557, 294
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+yaoban6b
+  rotate: true
+  xy: 1691, 36
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+yu01
+  rotate: false
+  xy: 1014, 214
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+流光B1
+  rotate: true
+  xy: 2, 3
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B10
+  rotate: false
+  xy: 1014, 442
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B11
+  rotate: false
+  xy: 1014, 251
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B12
+  rotate: false
+  xy: 1148, 60
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B13
+  rotate: true
+  xy: 1195, 834
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B14
+  rotate: true
+  xy: 1205, 1015
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B15
+  rotate: false
+  xy: 1195, 643
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B16
+  rotate: false
+  xy: 1195, 452
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B17
+  rotate: false
+  xy: 1195, 261
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B18
+  rotate: false
+  xy: 1329, 70
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B19
+  rotate: true
+  xy: 1376, 653
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B2
+  rotate: true
+  xy: 193, 3
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B20
+  rotate: true
+  xy: 1386, 834
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B21
+  rotate: true
+  xy: 1396, 1015
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B22
+  rotate: false
+  xy: 1376, 462
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B23
+  rotate: false
+  xy: 1376, 271
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B24
+  rotate: false
+  xy: 1510, 80
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B3
+  rotate: true
+  xy: 384, 3
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B4
+  rotate: true
+  xy: 575, 3
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B5
+  rotate: true
+  xy: 766, 3
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B6
+  rotate: true
+  xy: 957, 3
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B7
+  rotate: true
+  xy: 1014, 1015
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B8
+  rotate: false
+  xy: 1014, 824
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+流光B9
+  rotate: false
+  xy: 1014, 633
+  size: 179, 189
+  orig: 179, 189
+  offset: 0, 0
+  index: -1
+环消散/环消散_1
+  rotate: false
+  xy: 2, 943
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_10
+  rotate: false
+  xy: 508, 690
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_11
+  rotate: false
+  xy: 508, 437
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_12
+  rotate: false
+  xy: 508, 184
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_13
+  rotate: false
+  xy: 761, 943
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_14
+  rotate: false
+  xy: 761, 690
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_15
+  rotate: false
+  xy: 761, 437
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_16
+  rotate: false
+  xy: 761, 184
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_17
+  rotate: false
+  xy: 761, 184
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_2
+  rotate: false
+  xy: 2, 690
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_3
+  rotate: false
+  xy: 2, 437
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_4
+  rotate: false
+  xy: 2, 184
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_5
+  rotate: false
+  xy: 255, 943
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_6
+  rotate: false
+  xy: 255, 690
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_7
+  rotate: false
+  xy: 255, 437
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_8
+  rotate: false
+  xy: 255, 184
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+环消散/环消散_9
+  rotate: false
+  xy: 508, 943
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+盖子
+  rotate: true
+  xy: 1798, 95
+  size: 197, 109
+  orig: 197, 109
+  offset: 0, 0
+  index: -1
+箱子
+  rotate: false
+  xy: 1557, 508
+  size: 203, 143
+  orig: 203, 143
+  offset: 0, 0
+  index: -1

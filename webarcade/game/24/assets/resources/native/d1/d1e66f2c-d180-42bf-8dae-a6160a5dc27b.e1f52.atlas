@@ -1,0 +1,167 @@
+
+boss14_syhou.png
+size: 1264,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 956, 146
+  size: 154, 153
+  orig: 154, 153
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 660, 3
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 437, 25
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 800, 49
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 146, 9
+  size: 138, 128
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 484, 141
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 644, 144
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 162, 140
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 323, 140
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 139
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 802, 144
+  size: 156, 152
+  orig: 156, 152
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 1111, 2
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1111, 153
+  size: 151, 147
+  orig: 151, 147
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 7
+  size: 142, 130
+  orig: 142, 130
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 552, 43
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 960, 71
+  size: 73, 73
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 286, 19
+  size: 119, 149
+  orig: 127, 149
+  offset: 1, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 892, 3
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 608, 45
+  size: 50, 94
+  orig: 50, 94
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 960, 3
+  size: 54, 66
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 800, 5
+  size: 42, 65
+  orig: 42, 66
+  offset: 0, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 892, 57
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: true
+  xy: 1035, 87
+  size: 57, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+fx_long_boss_attack1.png
+size: 723,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+r/r1
+  rotate: true
+  xy: 292, 4
+  size: 145, 143
+  orig: 160, 160
+  offset: 7, 7
+  index: -1
+r/r2
+  rotate: false
+  xy: 147, 2
+  size: 143, 147
+  orig: 160, 160
+  offset: 9, 7
+  index: -1
+r/r3
+  rotate: false
+  xy: 581, 2
+  size: 140, 147
+  orig: 160, 160
+  offset: 6, 8
+  index: -1
+r/r4
+  rotate: true
+  xy: 437, 3
+  size: 146, 142
+  orig: 160, 160
+  offset: 3, 8
+  index: -1
+r/r5
+  rotate: false
+  xy: 2, 2
+  size: 143, 147
+  orig: 160, 160
+  offset: 4, 4
+  index: -1

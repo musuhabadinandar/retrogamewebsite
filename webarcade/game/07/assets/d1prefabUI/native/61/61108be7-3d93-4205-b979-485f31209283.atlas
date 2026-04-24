@@ -1,0 +1,13 @@
+
+gth.png
+size: 32, 32
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ui_hd
+  rotate: false
+  xy: 2, 2
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

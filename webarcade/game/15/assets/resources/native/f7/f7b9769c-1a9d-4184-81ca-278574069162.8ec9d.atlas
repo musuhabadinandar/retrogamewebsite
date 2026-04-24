@@ -1,0 +1,216 @@
+
+fei3.png
+size: 690,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1
+  rotate: true
+  xy: 497, 2
+  size: 96, 155
+  orig: 96, 155
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: true
+  xy: 2, 132
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 116, 204
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+图层 4
+  rotate: false
+  xy: 141, 204
+  size: 75, 17
+  orig: 75, 17
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: false
+  xy: 423, 193
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+多边形 1 拷贝 3
+  rotate: false
+  xy: 239, 126
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+形状 149
+  rotate: false
+  xy: 218, 204
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+形状 155
+  rotate: true
+  xy: 616, 188
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+形状 157
+  rotate: true
+  xy: 197, 65
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+形状 158
+  rotate: false
+  xy: 503, 103
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+形状 160
+  rotate: true
+  xy: 285, 58
+  size: 59, 210
+  orig: 59, 210
+  offset: 0, 0
+  index: -1
+形状 160 拷贝
+  rotate: true
+  xy: 2, 4
+  size: 59, 210
+  orig: 59, 210
+  offset: 0, 0
+  index: -1
+形状 161
+  rotate: true
+  xy: 60, 131
+  size: 41, 177
+  orig: 41, 177
+  offset: 0, 0
+  index: -1
+形状 161 拷贝
+  rotate: true
+  xy: 324, 119
+  size: 41, 177
+  orig: 41, 177
+  offset: 0, 0
+  index: -1
+形状 162
+  rotate: true
+  xy: 30, 206
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+形状 162 拷贝
+  rotate: true
+  xy: 73, 206
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+形状 175
+  rotate: true
+  xy: 467, 193
+  size: 28, 147
+  orig: 28, 147
+  offset: 0, 0
+  index: -1
+形状 175 拷贝
+  rotate: true
+  xy: 91, 174
+  size: 28, 147
+  orig: 28, 147
+  offset: 0, 0
+  index: -1
+形状 176
+  rotate: true
+  xy: 373, 162
+  size: 29, 133
+  orig: 29, 133
+  offset: 0, 0
+  index: -1
+形状 33 拷贝
+  rotate: true
+  xy: 329, 162
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+形状 34
+  rotate: true
+  xy: 2, 87
+  size: 42, 193
+  orig: 42, 193
+  offset: 0, 0
+  index: -1
+形状 48
+  rotate: false
+  xy: 2, 218
+  size: 12, 3
+  orig: 12, 3
+  offset: 0, 0
+  index: -1
+形状 48 拷贝
+  rotate: false
+  xy: 16, 218
+  size: 12, 3
+  orig: 12, 3
+  offset: 0, 0
+  index: -1
+形状 86
+  rotate: false
+  xy: 253, 201
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+组 10
+  rotate: true
+  xy: 288, 200
+  size: 21, 133
+  orig: 21, 133
+  offset: 0, 0
+  index: -1
+组 10 拷贝
+  rotate: true
+  xy: 508, 155
+  size: 31, 132
+  orig: 33, 132
+  offset: 0, 0
+  index: -1
+组 7
+  rotate: false
+  xy: 642, 128
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+组 7 拷贝 2
+  rotate: true
+  xy: 558, 100
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+组 8
+  rotate: true
+  xy: 2, 176
+  size: 28, 87
+  orig: 28, 87
+  offset: 0, 0
+  index: -1
+组 8 拷贝
+  rotate: true
+  xy: 240, 170
+  size: 28, 87
+  orig: 28, 87
+  offset: 0, 0
+  index: -1

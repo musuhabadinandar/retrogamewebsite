@@ -1,0 +1,27 @@
+
+fx_invincible.png
+size: 1468,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgl
+  rotate: false
+  xy: 542, 36
+  size: 514, 514
+  orig: 516, 516
+  offset: 1, 1
+  index: -1
+hl
+  rotate: true
+  xy: 1058, 5
+  size: 545, 408
+  orig: 556, 510
+  offset: 7, 4
+  index: -1
+outline
+  rotate: true
+  xy: 2, 2
+  size: 548, 538
+  orig: 555, 546
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,69 @@
+
+juqisfz_TX.png
+size: 692,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+VFX_D1
+  rotate: false
+  xy: 556, 32
+  size: 123, 123
+  orig: 125, 125
+  offset: 1, 1
+  index: -1
+VFX_D2
+  rotate: false
+  xy: 202, 124
+  size: 194, 194
+  orig: 196, 196
+  offset: 1, 1
+  index: -1
+VFX_D3
+  rotate: false
+  xy: 2, 4
+  size: 119, 117
+  orig: 128, 125
+  offset: 3, 3
+  index: -1
+VFX_D4
+  rotate: false
+  xy: 2, 123
+  size: 198, 195
+  orig: 209, 204
+  offset: 3, 3
+  index: -1
+VFX_D5
+  rotate: false
+  xy: 123, 38
+  size: 48, 83
+  orig: 51, 91
+  offset: 1, 3
+  index: -1
+VFX_S1
+  rotate: true
+  xy: 398, 151
+  size: 167, 152
+  orig: 170, 154
+  offset: 2, 1
+  index: -1
+VFX_S2
+  rotate: false
+  xy: 398, 8
+  size: 156, 141
+  orig: 159, 143
+  offset: 2, 1
+  index: -1
+VFX_S3
+  rotate: true
+  xy: 552, 157
+  size: 161, 138
+  orig: 163, 141
+  offset: 1, 2
+  index: -1
+VFX_S4
+  rotate: false
+  xy: 202, 2
+  size: 132, 120
+  orig: 134, 123
+  offset: 1, 1
+  index: -1

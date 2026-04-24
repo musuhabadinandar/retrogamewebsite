@@ -1,0 +1,76 @@
+
+fabao21.png
+size: 340,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao21/ganzi
+  rotate: false
+  xy: 131, 315
+  size: 142, 69
+  orig: 142, 69
+  offset: 0, 0
+  index: -1
+fabao21/liusu1
+  rotate: false
+  xy: 131, 386
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1
+fabao21/liusu2
+  rotate: false
+  xy: 35, 445
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+fabao21/liusu3
+  rotate: false
+  xy: 1, 445
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+fabao21/faguang1
+  rotate: false
+  xy: 1, 1
+  size: 289, 312
+  orig: 289, 312
+  offset: 0, 0
+  index: -1
+fabao21/faguang2
+  rotate: false
+  xy: 1, 315
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fabao21/denglong
+  rotate: false
+  xy: 275, 315
+  size: 63, 138
+  orig: 63, 138
+  offset: 0, 0
+  index: -1
+fabao21/bazi1
+  rotate: false
+  xy: 212, 386
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+fabao21/bazi2
+  rotate: false
+  xy: 292, 1
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+faqi10/fabao10-diandian
+  rotate: false
+  xy: 254, 386
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1

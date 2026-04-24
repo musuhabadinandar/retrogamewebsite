@@ -1,0 +1,132 @@
+
+pet_3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet_3/a0_01
+  rotate: false
+  xy: 624, 31
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+pet_3/body
+  rotate: false
+  xy: 403, 110
+  size: 215, 145
+  orig: 215, 145
+  offset: 0, 0
+  index: -1
+pet_3/daizi1
+  rotate: false
+  xy: 777, 91
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+pet_3/daizi2
+  rotate: false
+  xy: 922, 103
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+pet_3/daizi4
+  rotate: false
+  xy: 522, 8
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+pet_3/daizi5
+  rotate: true
+  xy: 923, 217
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+pet_3/dianzi2
+  rotate: false
+  xy: 853, 94
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+pet_3/guang
+  rotate: true
+  xy: 1, 5
+  size: 250, 401
+  orig: 250, 401
+  offset: 0, 0
+  index: -1
+pet_3/jiao
+  rotate: false
+  xy: 403, 1
+  size: 118, 108
+  orig: 118, 108
+  offset: 0, 0
+  index: -1
+pet_3/luan
+  rotate: false
+  xy: 927, 163
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+pet_3/peishi2
+  rotate: true
+  xy: 624, 22
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1
+pet_3/tizi1
+  rotate: true
+  xy: 619, 123
+  size: 54, 157
+  orig: 54, 157
+  offset: 0, 0
+  index: -1
+pet_3/tizi2
+  rotate: true
+  xy: 786, 169
+  size: 39, 140
+  orig: 39, 140
+  offset: 0, 0
+  index: -1
+pet_3/tou
+  rotate: false
+  xy: 777, 31
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+pet_3/tui1
+  rotate: true
+  xy: 619, 178
+  size: 77, 166
+  orig: 77, 166
+  offset: 0, 0
+  index: -1
+pet_3/tui2
+  rotate: true
+  xy: 786, 209
+  size: 46, 136
+  orig: 46, 136
+  offset: 0, 0
+  index: -1
+pet_3/zhuangshi
+  rotate: false
+  xy: 978, 103
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+pet_3/zhuangshi2
+  rotate: true
+  xy: 716, 35
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1

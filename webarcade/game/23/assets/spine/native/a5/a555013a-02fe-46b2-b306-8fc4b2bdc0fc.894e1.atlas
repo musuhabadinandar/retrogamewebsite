@@ -1,0 +1,41 @@
+
+playerup.png
+size: 952,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SJ_cb
+  rotate: true
+  xy: 715, 219
+  size: 181, 228
+  orig: 181, 228
+  offset: 0, 0
+  index: -1
+SJ_d
+  rotate: false
+  xy: 377, 45
+  size: 336, 355
+  orig: 336, 355
+  offset: 0, 0
+  index: -1
+SJ_d_G
+  rotate: false
+  xy: 1, 7
+  size: 374, 393
+  orig: 374, 393
+  offset: 0, 0
+  index: -1
+SJ_d_cb
+  rotate: false
+  xy: 715, 1
+  size: 169, 216
+  orig: 169, 216
+  offset: 0, 0
+  index: -1
+SJ_xx
+  rotate: false
+  xy: 886, 113
+  size: 65, 104
+  orig: 65, 104
+  offset: 0, 0
+  index: -1

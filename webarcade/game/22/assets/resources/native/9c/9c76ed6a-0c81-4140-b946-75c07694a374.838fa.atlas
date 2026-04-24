@@ -1,0 +1,76 @@
+
+fx_sword.png
+size: 1344,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust1
+  rotate: true
+  xy: 1159, 8
+  size: 188, 172
+  orig: 265, 353
+  offset: 44, 132
+  index: -1
+dust2
+  rotate: false
+  xy: 1125, 198
+  size: 217, 219
+  orig: 265, 353
+  offset: 28, 78
+  index: -1
+dust3
+  rotate: true
+  xy: 779, 11
+  size: 177, 193
+  orig: 265, 353
+  offset: 38, 53
+  index: -1
+dust4
+  rotate: false
+  xy: 628, 3
+  size: 149, 94
+  orig: 265, 353
+  offset: 53, 51
+  index: -1
+l1
+  rotate: false
+  xy: 974, 2
+  size: 183, 186
+  orig: 505, 449
+  offset: 167, 45
+  index: -1
+l2
+  rotate: true
+  xy: 455, 99
+  size: 318, 281
+  orig: 505, 449
+  offset: 92, 46
+  index: -1
+l3
+  rotate: false
+  xy: 2, 79
+  size: 451, 338
+  orig: 505, 449
+  offset: 35, 71
+  index: -1
+l4
+  rotate: false
+  xy: 738, 190
+  size: 385, 227
+  orig: 505, 449
+  offset: 66, 194
+  index: -1
+l5
+  rotate: false
+  xy: 2, 6
+  size: 353, 71
+  orig: 505, 449
+  offset: 92, 351
+  index: -1
+l6
+  rotate: false
+  xy: 357, 27
+  size: 269, 50
+  orig: 505, 449
+  offset: 149, 371
+  index: -1

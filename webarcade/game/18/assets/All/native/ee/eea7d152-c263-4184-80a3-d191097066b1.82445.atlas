@@ -1,0 +1,146 @@
+
+lihui5.png
+size: 205,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gksrq_bb
+  rotate: true
+  xy: 2, 259
+  size: 154, 158
+  orig: 156, 160
+  offset: 1, 1
+  index: -1
+gksrq_bd
+  rotate: false
+  xy: 54, 7
+  size: 14, 43
+  orig: 16, 45
+  offset: 1, 1
+  index: -1
+gksrq_bz
+  rotate: false
+  xy: 2, 415
+  size: 163, 66
+  orig: 165, 68
+  offset: 1, 1
+  index: -1
+gksrq_f3
+  rotate: false
+  xy: 74, 22
+  size: 55, 42
+  orig: 57, 44
+  offset: 1, 1
+  index: -1
+gksrq_lian
+  rotate: false
+  xy: 74, 66
+  size: 64, 66
+  orig: 66, 68
+  offset: 1, 1
+  index: -1
+gksrq_s1
+  rotate: true
+  xy: 131, 17
+  size: 25, 43
+  orig: 27, 45
+  offset: 1, 1
+  index: -1
+gksrq_s2
+  rotate: false
+  xy: 167, 451
+  size: 34, 30
+  orig: 36, 32
+  offset: 1, 1
+  index: -1
+gksrq_s3
+  rotate: true
+  xy: 162, 317
+  size: 30, 40
+  orig: 32, 42
+  offset: 1, 1
+  index: -1
+gksrq_s4
+  rotate: true
+  xy: 167, 420
+  size: 29, 34
+  orig: 31, 36
+  offset: 1, 1
+  index: -1
+gksrq_st
+  rotate: true
+  xy: 140, 44
+  size: 53, 63
+  orig: 55, 65
+  offset: 1, 1
+  index: -1
+gksrq_t1
+  rotate: true
+  xy: 2, 100
+  size: 50, 70
+  orig: 52, 72
+  offset: 1, 1
+  index: -1
+gksrq_t2
+  rotate: true
+  xy: 2, 52
+  size: 46, 70
+  orig: 48, 72
+  offset: 1, 1
+  index: -1
+gksrq_tf1
+  rotate: true
+  xy: 2, 152
+  size: 60, 82
+  orig: 62, 84
+  offset: 1, 1
+  index: -1
+gksrq_tf2
+  rotate: false
+  xy: 86, 134
+  size: 53, 78
+  orig: 55, 80
+  offset: 1, 1
+  index: -1
+gksrq_tf4
+  rotate: true
+  xy: 142, 138
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+gksrq_wq
+  rotate: true
+  xy: 2, 214
+  size: 43, 138
+  orig: 46, 141
+  offset: 2, 1
+  index: -1
+gksrq_yd
+  rotate: true
+  xy: 162, 248
+  size: 67, 37
+  orig: 69, 39
+  offset: 1, 1
+  index: -1
+gksrq_yj
+  rotate: true
+  xy: 167, 349
+  size: 69, 33
+  orig: 71, 35
+  offset: 1, 1
+  index: -1
+gksrq_zhi1
+  rotate: true
+  xy: 141, 99
+  size: 37, 58
+  orig: 39, 60
+  offset: 1, 1
+  index: -1
+gksrq_zhi2
+  rotate: false
+  xy: 2, 2
+  size: 50, 48
+  orig: 52, 50
+  offset: 1, 1
+  index: -1

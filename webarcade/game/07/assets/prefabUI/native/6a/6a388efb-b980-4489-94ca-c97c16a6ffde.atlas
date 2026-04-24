@@ -1,0 +1,34 @@
+
+hdtc.png
+size: 461, 405
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+fss
+  rotate: false
+  xy: 426, 337
+  size: 31, 31
+  orig: 42, 34
+  offset: 7, 1
+  index: -1
+q1
+  rotate: false
+  xy: 426, 370
+  size: 33, 33
+  orig: 57, 38
+  offset: 9, 2
+  index: -1
+q2
+  rotate: false
+  xy: 426, 317
+  size: 19, 18
+  orig: 22, 22
+  offset: 2, 2
+  index: -1
+q4
+  rotate: true
+  xy: 2, 2
+  size: 401, 422
+  orig: 427, 448
+  offset: 14, 13
+  index: -1

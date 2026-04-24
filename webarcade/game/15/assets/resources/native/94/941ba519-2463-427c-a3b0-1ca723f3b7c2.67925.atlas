@@ -1,0 +1,62 @@
+
+fei14.png
+size: 594,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1
+  rotate: false
+  xy: 2, 2
+  size: 8, 46
+  orig: 8, 46
+  offset: 0, 0
+  index: -1
+图层 37 拷贝 4
+  rotate: false
+  xy: 76, 2
+  size: 47, 106
+  orig: 47, 106
+  offset: 0, 0
+  index: -1
+形状 78
+  rotate: false
+  xy: 150, 2
+  size: 8, 46
+  orig: 8, 46
+  offset: 0, 0
+  index: -1
+形状 86
+  rotate: false
+  xy: 224, 2
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+形状 89 拷贝
+  rotate: false
+  xy: 298, 2
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+组 5
+  rotate: false
+  xy: 372, 2
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+组 7
+  rotate: false
+  xy: 446, 2
+  size: 47, 106
+  orig: 47, 106
+  offset: 0, 0
+  index: -1
+组 8
+  rotate: false
+  xy: 520, 2
+  size: 72, 234
+  orig: 72, 234
+  offset: 0, 0
+  index: -1

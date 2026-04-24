@@ -1,0 +1,76 @@
+
+fabao17.png
+size: 368,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb1701
+  rotate: false
+  xy: 2, 2
+  size: 91, 124
+  orig: 91, 124
+  offset: 0, 0
+  index: -1
+fb1702
+  rotate: false
+  xy: 95, 15
+  size: 57, 11
+  orig: 57, 11
+  offset: 0, 0
+  index: -1
+fb1703
+  rotate: false
+  xy: 181, 52
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+fb1704
+  rotate: false
+  xy: 95, 41
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+fb1705
+  rotate: false
+  xy: 181, 86
+  size: 85, 40
+  orig: 85, 40
+  offset: 0, 0
+  index: -1
+fb1706
+  rotate: false
+  xy: 300, 237
+  size: 16, 77
+  orig: 16, 77
+  offset: 0, 0
+  index: -1
+fb1707
+  rotate: false
+  xy: 95, 28
+  size: 81, 11
+  orig: 81, 11
+  offset: 0, 0
+  index: -1
+fb1708
+  rotate: false
+  xy: 300, 316
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+fb1709
+  rotate: false
+  xy: 2, 128
+  size: 147, 238
+  orig: 147, 238
+  offset: 0, 0
+  index: -1
+fb1710
+  rotate: false
+  xy: 151, 128
+  size: 147, 238
+  orig: 147, 238
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+xiaochu.png
+size: 243,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 2, 2
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 178, 118
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+skill_11.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 39, 116
+  orig: 39, 116
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 77, 5
+  size: 32, 113
+  orig: 32, 113
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 111, 4
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 173, 3
+  size: 25, 115
+  orig: 25, 115
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 43, 3
+  size: 32, 115
+  orig: 32, 115
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 144, 3
+  size: 27, 115
+  orig: 27, 115
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Gate_4.png
+size: 820,925
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengmen
+  rotate: true
+  xy: 481, 8
+  size: 153, 294
+  orig: 154, 295
+  offset: 1, 0
+  index: -1
+xiangao
+  rotate: false
+  xy: 2, 431
+  size: 574, 492
+  orig: 584, 493
+  offset: 10, 0
+  index: -1
+zhedang
+  rotate: false
+  xy: 2, 2
+  size: 477, 427
+  orig: 480, 429
+  offset: 1, 0
+  index: -1
+zhedang 2
+  rotate: true
+  xy: 578, 620
+  size: 303, 238
+  orig: 303, 240
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 578, 163
+  size: 121, 455
+  orig: 123, 456
+  offset: 1, 0
+  index: -1
+zhuzi2
+  rotate: false
+  xy: 701, 178
+  size: 117, 440
+  orig: 119, 441
+  offset: 1, 0
+  index: -1

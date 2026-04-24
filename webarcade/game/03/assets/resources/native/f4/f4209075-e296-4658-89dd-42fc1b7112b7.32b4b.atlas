@@ -1,0 +1,55 @@
+
+ManHua.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MH_1
+  rotate: false
+  xy: 2, 2
+  size: 543, 624
+  orig: 545, 626
+  offset: 1, 1
+  index: -1
+MH_2
+  rotate: false
+  xy: 547, 2
+  size: 528, 624
+  orig: 530, 626
+  offset: 1, 1
+  index: -1
+MH_3
+  rotate: true
+  xy: 1084, 1068
+  size: 620, 706
+  orig: 622, 708
+  offset: 1, 1
+  index: -1
+MH_4
+  rotate: true
+  xy: 2, 628
+  size: 452, 706
+  orig: 454, 708
+  offset: 1, 1
+  index: -1
+MH_5
+  rotate: false
+  xy: 1077, 170
+  size: 474, 450
+  orig: 476, 452
+  offset: 1, 1
+  index: -1
+MH_6
+  rotate: false
+  xy: 1077, 622
+  size: 603, 444
+  orig: 605, 446
+  offset: 1, 1
+  index: -1
+MH_7
+  rotate: false
+  xy: 2, 1082
+  size: 1080, 606
+  orig: 1082, 608
+  offset: 1, 1
+  index: -1

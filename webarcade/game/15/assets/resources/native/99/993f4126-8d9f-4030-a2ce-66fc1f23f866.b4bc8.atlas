@@ -1,0 +1,83 @@
+
+fei9.png
+size: 860,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1
+  rotate: false
+  xy: 2, 2
+  size: 70, 125
+  orig: 70, 125
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 80, 2
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+图层 75 拷贝
+  rotate: false
+  xy: 158, 2
+  size: 70, 125
+  orig: 70, 125
+  offset: 0, 0
+  index: -1
+形状 119 拷贝 4
+  rotate: false
+  xy: 548, 2
+  size: 76, 207
+  orig: 76, 207
+  offset: 0, 0
+  index: -1
+形状 122 拷贝
+  rotate: false
+  xy: 626, 2
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+形状 130
+  rotate: false
+  xy: 704, 2
+  size: 53, 102
+  orig: 53, 102
+  offset: 0, 0
+  index: -1
+形状 74 拷贝 3
+  rotate: false
+  xy: 236, 2
+  size: 49, 205
+  orig: 49, 205
+  offset: 0, 0
+  index: -1
+形状 86
+  rotate: false
+  xy: 314, 2
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+形状 99
+  rotate: false
+  xy: 392, 2
+  size: 51, 162
+  orig: 51, 162
+  offset: 0, 0
+  index: -1
+形状 99 拷贝
+  rotate: false
+  xy: 470, 2
+  size: 51, 162
+  orig: 51, 162
+  offset: 0, 0
+  index: -1
+组 8
+  rotate: false
+  xy: 782, 2
+  size: 29, 109
+  orig: 29, 109
+  offset: 0, 0
+  index: -1

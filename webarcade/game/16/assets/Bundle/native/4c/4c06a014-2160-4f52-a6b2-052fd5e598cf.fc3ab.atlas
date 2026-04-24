@@ -1,0 +1,76 @@
+
+fabao29.png
+size: 464,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao29/sidai2
+  rotate: false
+  xy: 1, 242
+  size: 164, 99
+  orig: 164, 99
+  offset: 0, 0
+  index: -1
+fabao29/san
+  rotate: false
+  xy: 244, 1
+  size: 184, 229
+  orig: 184, 229
+  offset: 0, 0
+  index: -1
+fabao29/quan
+  rotate: false
+  xy: 1, 474
+  size: 169, 18
+  orig: 169, 18
+  offset: 0, 0
+  index: -1
+fabao29/sangu
+  rotate: false
+  xy: 1, 343
+  size: 206, 65
+  orig: 206, 65
+  offset: 0, 0
+  index: -1
+fabao29/sidai
+  rotate: false
+  xy: 244, 232
+  size: 218, 141
+  orig: 218, 141
+  offset: 0, 0
+  index: -1
+fabao29/guang2
+  rotate: false
+  xy: 209, 375
+  size: 89, 97
+  orig: 89, 97
+  offset: 0, 0
+  index: -1
+fabao29/guang1
+  rotate: false
+  xy: 167, 242
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+fabao29/faguang
+  rotate: false
+  xy: 1, 1
+  size: 241, 239
+  orig: 241, 239
+  offset: 0, 0
+  index: -1
+faqi10/fabao10-diandian
+  rotate: false
+  xy: 230, 251
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+fabao11/tx
+  rotate: false
+  xy: 230, 242
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1

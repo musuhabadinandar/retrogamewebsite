@@ -1,0 +1,20 @@
+
+csz.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cs
+  rotate: true
+  xy: 286, 203
+  size: 175, 146
+  orig: 175, 146
+  offset: 0, 0
+  index: -1
+csz
+  rotate: false
+  xy: 2, 2
+  size: 282, 376
+  orig: 282, 376
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+fabao27.png
+size: 318,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb2701
+  rotate: false
+  xy: 109, 10
+  size: 97, 140
+  orig: 97, 140
+  offset: 0, 0
+  index: -1
+fb2702
+  rotate: false
+  xy: 258, 276
+  size: 10, 38
+  orig: 10, 38
+  offset: 0, 0
+  index: -1
+fb2703
+  rotate: false
+  xy: 208, 83
+  size: 108, 102
+  orig: 108, 102
+  offset: 0, 0
+  index: -1
+fb2704
+  rotate: false
+  xy: 134, 187
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+fb2705
+  rotate: false
+  xy: 2, 152
+  size: 130, 162
+  orig: 130, 162
+  offset: 0, 0
+  index: -1
+fb2706
+  rotate: false
+  xy: 2, 2
+  size: 105, 148
+  orig: 105, 148
+  offset: 0, 0
+  index: -1

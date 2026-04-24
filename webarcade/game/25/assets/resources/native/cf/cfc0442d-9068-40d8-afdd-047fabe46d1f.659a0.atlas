@@ -1,0 +1,111 @@
+
+gebulin.png
+size: 308,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangzi
+  rotate: false
+  xy: 126, 173
+  size: 135, 90
+  orig: 179, 94
+  offset: 44, 4
+  index: -1
+bizi
+  rotate: false
+  xy: 101, 51
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 12
+  size: 97, 129
+  orig: 97, 129
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 2, 143
+  size: 122, 120
+  orig: 137, 154
+  offset: 0, 10
+  index: -1
+yanjing
+  rotate: false
+  xy: 230, 2
+  size: 35, 34
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: true
+  xy: 163, 58
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+yanjing_s
+  rotate: false
+  xy: 263, 62
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+yerd
+  rotate: false
+  xy: 173, 6
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 263, 169
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 101, 16
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+zerd
+  rotate: false
+  xy: 236, 111
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 263, 40
+  size: 35, 20
+  orig: 39, 27
+  offset: 2, 7
+  index: -1
+zui2
+  rotate: false
+  xy: 267, 23
+  size: 29, 15
+  orig: 36, 21
+  offset: 2, 3
+  index: -1
+zuoshou
+  rotate: true
+  xy: 126, 115
+  size: 56, 108
+  orig: 56, 108
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 230, 38
+  size: 31, 71
+  orig: 31, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+cao.png
+size: 101,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xx
+  rotate: false
+  xy: 2, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+草
+  rotate: false
+  xy: 80, 58
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1

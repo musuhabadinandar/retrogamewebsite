@@ -1,0 +1,104 @@
+
+build01e.png
+size: 205,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx01
+  rotate: true
+  xy: 121, 40
+  size: 36, 56
+  orig: 39, 60
+  offset: 1, 2
+  index: -1
+fx02
+  rotate: false
+  xy: 66, 38
+  size: 53, 38
+  orig: 56, 42
+  offset: 2, 2
+  index: -1
+fx03
+  rotate: true
+  xy: 179, 34
+  size: 42, 21
+  orig: 45, 25
+  offset: 1, 2
+  index: -1
+j1
+  rotate: false
+  xy: 37, 10
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+j2
+  rotate: true
+  xy: 52, 7
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+m
+  rotate: false
+  xy: 184, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 17, 9
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+q
+  rotate: true
+  xy: 66, 3
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 169, 16
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 188, 15
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 121, 3
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 2, 22
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 169, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 2, 8
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1

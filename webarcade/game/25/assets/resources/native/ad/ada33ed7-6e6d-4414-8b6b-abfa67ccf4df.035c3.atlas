@@ -1,0 +1,125 @@
+
+diyan_tx1.png
+size: 311,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_yanjing
+  rotate: true
+  xy: 259, 193
+  size: 106, 42
+  orig: 106, 45
+  offset: 0, 2
+  index: -1
+D_yankuang
+  rotate: true
+  xy: 2, 2
+  size: 192, 96
+  orig: 194, 98
+  offset: 0, 1
+  index: -1
+D_yanpi
+  rotate: true
+  xy: 151, 85
+  size: 109, 43
+  orig: 111, 47
+  offset: 0, 3
+  index: -1
+SC_guangyun
+  rotate: false
+  xy: 157, 200
+  size: 100, 99
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SC_jiguang
+  rotate: true
+  xy: 100, 35
+  size: 159, 49
+  orig: 160, 50
+  offset: 1, 1
+  index: -1
+SC_jiguang2
+  rotate: false
+  xy: 196, 96
+  size: 100, 95
+  orig: 100, 100
+  offset: 0, 5
+  index: -1
+SC_jiguang3
+  rotate: true
+  xy: 300, 744
+  size: 100, 4
+  orig: 100, 4
+  offset: 0, 0
+  index: -1
+TX_ksq0001
+  rotate: false
+  xy: 161, 301
+  size: 116, 113
+  orig: 164, 164
+  offset: 26, 51
+  index: -1
+TX_ksq0002
+  rotate: false
+  xy: 164, 416
+  size: 127, 125
+  orig: 164, 164
+  offset: 19, 39
+  index: -1
+TX_ksq0003
+  rotate: true
+  xy: 164, 543
+  size: 139, 135
+  orig: 164, 164
+  offset: 13, 29
+  index: -1
+TX_ksq0004
+  rotate: true
+  xy: 164, 846
+  size: 157, 145
+  orig: 164, 164
+  offset: 7, 19
+  index: -1
+TX_ksq0005
+  rotate: true
+  xy: 2, 196
+  size: 160, 153
+  orig: 164, 164
+  offset: 2, 11
+  index: -1
+TX_ksq0006
+  rotate: false
+  xy: 2, 520
+  size: 160, 159
+  orig: 164, 164
+  offset: 2, 5
+  index: -1
+TX_ksq0007
+  rotate: false
+  xy: 2, 843
+  size: 160, 160
+  orig: 164, 164
+  offset: 2, 4
+  index: -1
+TX_ksq0008
+  rotate: false
+  xy: 2, 681
+  size: 160, 160
+  orig: 164, 164
+  offset: 2, 4
+  index: -1
+TX_ksq0009
+  rotate: false
+  xy: 2, 358
+  size: 157, 160
+  orig: 164, 164
+  offset: 7, 4
+  index: -1
+TX_ksq0010
+  rotate: false
+  xy: 164, 684
+  size: 134, 160
+  orig: 164, 164
+  offset: 14, 4
+  index: -1

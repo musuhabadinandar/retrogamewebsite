@@ -1,0 +1,76 @@
+
+fx_arrows.png
+size: 348,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a01
+  rotate: false
+  xy: 305, 199
+  size: 41, 80
+  orig: 43, 83
+  offset: 1, 2
+  index: -1
+a02
+  rotate: false
+  xy: 2, 21
+  size: 44, 258
+  orig: 46, 262
+  offset: 1, 1
+  index: -1
+l01
+  rotate: false
+  xy: 250, 141
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+l02
+  rotate: true
+  xy: 246, 199
+  size: 80, 57
+  orig: 80, 57
+  offset: 0, 0
+  index: -1
+l03
+  rotate: false
+  xy: 188, 181
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
+l04
+  rotate: true
+  xy: 188, 157
+  size: 22, 60
+  orig: 22, 62
+  offset: 0, 2
+  index: -1
+l05
+  rotate: true
+  xy: 2, 10
+  size: 9, 31
+  orig: 9, 32
+  offset: 0, 1
+  index: -1
+s01
+  rotate: false
+  xy: 187, 3
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+s02
+  rotate: false
+  xy: 48, 141
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+s03
+  rotate: false
+  xy: 48, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+callPet.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet
+  rotate: false
+  xy: 2, 2
+  size: 94, 81
+  orig: 100, 100
+  offset: 3, 10
+  index: -1

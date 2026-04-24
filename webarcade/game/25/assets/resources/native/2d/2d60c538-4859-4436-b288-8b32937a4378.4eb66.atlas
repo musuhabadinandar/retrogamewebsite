@@ -1,0 +1,188 @@
+
+maoyao.png
+size: 269,765
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baimaoyao/st
+  rotate: false
+  xy: 2, 283
+  size: 121, 84
+  orig: 121, 84
+  offset: 0, 0
+  index: -1
+baimaoyao/t
+  rotate: true
+  xy: 147, 515
+  size: 123, 116
+  orig: 123, 116
+  offset: 0, 0
+  index: -1
+baimaoyao/tf
+  rotate: true
+  xy: 2, 626
+  size: 137, 143
+  orig: 137, 146
+  offset: 0, 0
+  index: -1
+baimaoyao/wb
+  rotate: false
+  xy: 134, 313
+  size: 129, 114
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+baimaoyao/yanjing2
+  rotate: false
+  xy: 150, 25
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+baimaoyao/yed
+  rotate: true
+  xy: 69, 2
+  size: 58, 59
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+baimaoyao/yj
+  rotate: true
+  xy: 225, 187
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+baimaoyao/ys
+  rotate: true
+  xy: 115, 189
+  size: 47, 108
+  orig: 47, 108
+  offset: 0, 0
+  index: -1
+baimaoyao/yt
+  rotate: true
+  xy: 2, 83
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+baimaoyao/z
+  rotate: false
+  xy: 238, 278
+  size: 16, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+hongmaoyao/z
+  rotate: false
+  xy: 238, 278
+  size: 16, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+baimaoyao/zed
+  rotate: false
+  xy: 125, 238
+  size: 111, 73
+  orig: 111, 73
+  offset: 0, 0
+  index: -1
+baimaoyao/zs
+  rotate: true
+  xy: 112, 142
+  size: 45, 105
+  orig: 45, 105
+  offset: 0, 0
+  index: -1
+baimaoyao/zt
+  rotate: true
+  xy: 76, 62
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+hongmaoyao/st
+  rotate: false
+  xy: 146, 429
+  size: 121, 84
+  orig: 121, 84
+  offset: 0, 0
+  index: -1
+hongmaoyao/t
+  rotate: true
+  xy: 147, 640
+  size: 123, 116
+  orig: 123, 116
+  offset: 0, 0
+  index: -1
+hongmaoyao/tf
+  rotate: true
+  xy: 2, 486
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+hongmaoyao/wb
+  rotate: false
+  xy: 2, 369
+  size: 130, 115
+  orig: 130, 115
+  offset: 0, 0
+  index: -1
+hongmaoyao/yanjing2
+  rotate: false
+  xy: 2, 26
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+hongmaoyao/yed
+  rotate: true
+  xy: 150, 82
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+hongmaoyao/yj
+  rotate: false
+  xy: 217, 37
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+hongmaoyao/ys
+  rotate: true
+  xy: 2, 163
+  size: 44, 108
+  orig: 47, 108
+  offset: 0, 0
+  index: -1
+hongmaoyao/yt
+  rotate: true
+  xy: 2, 123
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+hongmaoyao/zed
+  rotate: false
+  xy: 2, 209
+  size: 111, 72
+  orig: 111, 72
+  offset: 0, 0
+  index: -1
+hongmaoyao/zs
+  rotate: false
+  xy: 219, 80
+  size: 45, 105
+  orig: 45, 105
+  offset: 0, 0
+  index: -1
+hongmaoyao/zt
+  rotate: true
+  xy: 76, 102
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1

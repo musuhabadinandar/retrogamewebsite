@@ -1,0 +1,132 @@
+
+dianjingling_B.png
+size: 555,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hounao
+  rotate: false
+  xy: 2, 24
+  size: 159, 228
+  orig: 171, 228
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 2, 254
+  size: 272, 205
+  orig: 301, 238
+  offset: 7, 33
+  index: -1
+qugan
+  rotate: true
+  xy: 411, 18
+  size: 77, 113
+  orig: 77, 113
+  offset: 0, 0
+  index: -1
+shandian1
+  rotate: false
+  xy: 332, 120
+  size: 111, 173
+  orig: 111, 173
+  offset: 0, 0
+  index: -1
+shandian2
+  rotate: true
+  xy: 321, 295
+  size: 118, 178
+  orig: 118, 178
+  offset: 0, 0
+  index: -1
+shandian3
+  rotate: true
+  xy: 445, 97
+  size: 171, 108
+  orig: 171, 108
+  offset: 0, 0
+  index: -1
+toubu
+  rotate: true
+  xy: 300, 8
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+toudian1
+  rotate: true
+  xy: 321, 415
+  size: 111, 231
+  orig: 111, 231
+  offset: 0, 0
+  index: -1
+toudian2
+  rotate: false
+  xy: 163, 22
+  size: 135, 230
+  orig: 135, 230
+  offset: 0, 0
+  index: -1
+toudian3
+  rotate: false
+  xy: 209, 291
+  size: 110, 235
+  orig: 110, 235
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 501, 369
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 501, 328
+  size: 42, 39
+  orig: 44, 51
+  offset: 2, 12
+  index: -1
+youshangbi
+  rotate: true
+  xy: 209, 255
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+youxiabi
+  rotate: false
+  xy: 501, 270
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 2, 2
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: true
+  xy: 32, 5
+  size: 17, 27
+  orig: 20, 28
+  offset: 2, 1
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 271, 255
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+zuoxiabi
+  rotate: false
+  xy: 300, 197
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1

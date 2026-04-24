@@ -1,0 +1,41 @@
+
+fabao21.png
+size: 423,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fb2101
+  rotate: false
+  xy: 2, 2
+  size: 165, 191
+  orig: 165, 191
+  offset: 0, 0
+  index: -1
+fb2102
+  rotate: false
+  xy: 169, 4
+  size: 130, 59
+  orig: 130, 59
+  offset: 0, 0
+  index: -1
+fb2103
+  rotate: false
+  xy: 2, 195
+  size: 201, 226
+  orig: 201, 226
+  offset: 0, 0
+  index: -1
+fb2104
+  rotate: false
+  xy: 205, 195
+  size: 201, 226
+  orig: 201, 226
+  offset: 0, 0
+  index: -1
+fb2105
+  rotate: false
+  xy: 169, 65
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+p4_2.png
+size: 312,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sm_WQ
+  rotate: false
+  xy: 174, 9
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+sm_WQ2
+  rotate: true
+  xy: 257, 44
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+sm_arm_RJ
+  rotate: true
+  xy: 284, 38
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+sm_arm_RS1
+  rotate: true
+  xy: 257, 27
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+sm_arm_RS2
+  rotate: true
+  xy: 220, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+sm_arm_lS1
+  rotate: true
+  xy: 257, 3
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+sm_arm_lS2
+  rotate: false
+  xy: 234, 2
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+sm_body
+  rotate: false
+  xy: 220, 17
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+sm_eye_R
+  rotate: false
+  xy: 248, 4
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+sm_head
+  rotate: true
+  xy: 2, 4
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+sm_leg_L
+  rotate: false
+  xy: 273, 5
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+sm_leg_R
+  rotate: true
+  xy: 290, 21
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 52, 8
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+TX_anniu.png
+size: 416,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ICON_biankuang
+  rotate: false
+  xy: 198, 78
+  size: 132, 129
+  orig: 132, 129
+  offset: 0, 0
+  index: -1
+TX_jiantou1
+  rotate: false
+  xy: 332, 140
+  size: 82, 67
+  orig: 92, 76
+  offset: 5, 5
+  index: -1
+TX_jiantou2
+  rotate: false
+  xy: 198, 9
+  size: 82, 67
+  orig: 92, 76
+  offset: 4, 5
+  index: -1
+TX_jiantou3
+  rotate: false
+  xy: 332, 71
+  size: 82, 67
+  orig: 92, 76
+  offset: 5, 5
+  index: -1
+TX_jiantou4
+  rotate: false
+  xy: 282, 2
+  size: 82, 67
+  orig: 92, 76
+  offset: 4, 5
+  index: -1
+TX_quan
+  rotate: false
+  xy: 2, 13
+  size: 194, 194
+  orig: 201, 201
+  offset: 3, 4
+  index: -1

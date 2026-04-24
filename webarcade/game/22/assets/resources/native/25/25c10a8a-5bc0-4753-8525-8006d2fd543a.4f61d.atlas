@@ -1,0 +1,62 @@
+
+role_aobing.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aobing_body
+  rotate: true
+  xy: 94, 70
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+aobing_hand1
+  rotate: false
+  xy: 94, 109
+  size: 63, 50
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+aobing_hand2
+  rotate: false
+  xy: 138, 0
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+aobing_head
+  rotate: true
+  xy: 57, 14
+  size: 51, 79
+  orig: 51, 79
+  offset: 0, 0
+  index: -1
+aobing_leg
+  rotate: true
+  xy: 159, 80
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+bgl
+  rotate: false
+  xy: 0, 67
+  size: 92, 92
+  orig: 106, 106
+  offset: 7, 7
+  index: -1
+hl
+  rotate: false
+  xy: 159, 116
+  size: 43, 43
+  orig: 45, 45
+  offset: 1, 1
+  index: -1
+ol
+  rotate: false
+  xy: 0, 10
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 1
+  index: -1

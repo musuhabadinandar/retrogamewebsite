@@ -1,0 +1,62 @@
+
+fx_burning.png
+size: 439,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 225, 107
+  size: 114, 105
+  orig: 120, 120
+  offset: 5, 0
+  index: -1
+11
+  rotate: true
+  xy: 110, 106
+  size: 115, 113
+  orig: 120, 120
+  offset: 5, 1
+  index: -1
+13
+  rotate: true
+  xy: 2, 2
+  size: 101, 110
+  orig: 120, 120
+  offset: 15, 0
+  index: -1
+15
+  rotate: true
+  xy: 222, 2
+  size: 102, 105
+  orig: 120, 120
+  offset: 5, 0
+  index: -1
+3
+  rotate: false
+  xy: 329, 2
+  size: 106, 103
+  orig: 120, 120
+  offset: 14, 1
+  index: -1
+5
+  rotate: true
+  xy: 114, 2
+  size: 102, 106
+  orig: 120, 120
+  offset: 8, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 105
+  size: 106, 116
+  orig: 120, 120
+  offset: 11, 0
+  index: -1
+9
+  rotate: false
+  xy: 332, 116
+  size: 105, 105
+  orig: 120, 120
+  offset: 8, 2
+  index: -1

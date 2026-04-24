@@ -1,0 +1,20 @@
+
+qiandaokuang.png
+size: 309,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiandaodiban
+  rotate: false
+  xy: 209, 87
+  size: 98, 99
+  orig: 105, 105
+  offset: 4, 3
+  index: -1
+saoguang
+  rotate: true
+  xy: 2, 2
+  size: 184, 205
+  orig: 184, 205
+  offset: 0, 0
+  index: -1

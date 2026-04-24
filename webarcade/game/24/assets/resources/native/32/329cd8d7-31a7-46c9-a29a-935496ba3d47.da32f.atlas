@@ -1,0 +1,20 @@
+
+boss04_skill1.png
+size: 345,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFenemy09_01
+  rotate: false
+  xy: 286, 160
+  size: 57, 107
+  orig: 57, 108
+  offset: 0, 1
+  index: -1
+EFFenemy09_02
+  rotate: false
+  xy: 2, 2
+  size: 282, 265
+  orig: 282, 265
+  offset: 0, 0
+  index: -1

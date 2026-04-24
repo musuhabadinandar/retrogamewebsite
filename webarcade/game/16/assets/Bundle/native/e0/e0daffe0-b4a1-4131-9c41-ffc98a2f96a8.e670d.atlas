@@ -1,0 +1,69 @@
+
+battlestart.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 628, 677
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 901, 925
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 260, 469
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 2
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+mo_long
+  rotate: false
+  xy: 628, 748
+  size: 271, 249
+  orig: 271, 249
+  offset: 0, 0
+  index: -1
+yaoban1b
+  rotate: false
+  xy: 260, 537
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+墨迹1
+  rotate: false
+  xy: 2, 73
+  size: 256, 247
+  orig: 256, 247
+  offset: 0, 0
+  index: -1
+墨迹2
+  rotate: false
+  xy: 2, 322
+  size: 256, 320
+  orig: 256, 320
+  offset: 0, 0
+  index: -1
+战斗开始
+  rotate: false
+  xy: 2, 644
+  size: 624, 353
+  orig: 624, 353
+  offset: 0, 0
+  index: -1

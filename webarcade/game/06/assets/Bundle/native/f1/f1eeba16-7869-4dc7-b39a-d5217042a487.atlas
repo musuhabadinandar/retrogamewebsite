@@ -1,0 +1,132 @@
+
+pet_4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pet_4/a0_01
+  rotate: false
+  xy: 1, 1
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+pet_4/body
+  rotate: false
+  xy: 371, 227
+  size: 292, 274
+  orig: 292, 274
+  offset: 0, 0
+  index: -1
+pet_4/eye
+  rotate: true
+  xy: 93, 75
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+pet_4/guang
+  rotate: false
+  xy: 1, 205
+  size: 369, 296
+  orig: 369, 296
+  offset: 0, 0
+  index: -1
+pet_4/houtui
+  rotate: false
+  xy: 664, 395
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+pet_4/huwan1
+  rotate: false
+  xy: 915, 460
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+pet_4/huwan2
+  rotate: false
+  xy: 950, 462
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+pet_4/huxu
+  rotate: false
+  xy: 371, 206
+  size: 116, 20
+  orig: 116, 20
+  offset: 0, 0
+  index: -1
+pet_4/huxu2
+  rotate: false
+  xy: 109, 95
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+pet_4/jiao
+  rotate: true
+  xy: 664, 289
+  size: 105, 57
+  orig: 105, 57
+  offset: 0, 0
+  index: -1
+pet_4/maofa1
+  rotate: false
+  xy: 207, 145
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+pet_4/maofa2
+  rotate: false
+  xy: 109, 131
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+pet_4/maofa3
+  rotate: false
+  xy: 283, 165
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+pet_4/maofa4
+  rotate: false
+  xy: 870, 424
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+pet_4/moafa5
+  rotate: false
+  xy: 827, 419
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+pet_4/qianti
+  rotate: false
+  xy: 745, 414
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+pet_4/weibahuan
+  rotate: false
+  xy: 664, 252
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+pet_4/weibamao
+  rotate: false
+  xy: 1, 93
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1

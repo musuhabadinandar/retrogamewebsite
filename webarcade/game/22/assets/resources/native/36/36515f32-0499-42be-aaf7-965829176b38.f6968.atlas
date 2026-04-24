@@ -1,0 +1,27 @@
+
+fx_sword_ground.png
+size: 403,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crack1
+  rotate: true
+  xy: 280, 2
+  size: 87, 121
+  orig: 129, 476
+  offset: 22, 90
+  index: -1
+crack2
+  rotate: true
+  xy: 2, 12
+  size: 77, 276
+  orig: 129, 476
+  offset: 29, 30
+  index: -1
+crack3
+  rotate: true
+  xy: 2, 91
+  size: 77, 385
+  orig: 129, 476
+  offset: 30, 77
+  index: -1

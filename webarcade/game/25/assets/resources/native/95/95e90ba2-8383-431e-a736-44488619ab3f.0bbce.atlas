@@ -1,0 +1,103 @@
+
+CTLTS_boss.png
+size: 1998,1999
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chushou1
+  rotate: true
+  xy: 2, 354
+  size: 616, 617
+  orig: 617, 619
+  offset: 0, 1
+  index: -1
+chushou2
+  rotate: false
+  xy: 774, 617
+  size: 1068, 613
+  orig: 1069, 614
+  offset: 0, 0
+  index: -1
+chushou3
+  rotate: false
+  xy: 621, 2
+  size: 1068, 613
+  orig: 1069, 615
+  offset: 0, 1
+  index: -1
+chushou4
+  rotate: false
+  xy: 2, 972
+  size: 770, 434
+  orig: 771, 437
+  offset: 0, 2
+  index: -1
+houzhuan
+  rotate: false
+  xy: 454, 1816
+  size: 690, 181
+  orig: 732, 181
+  offset: 24, 0
+  index: -1
+qianzhuan
+  rotate: true
+  xy: 2, 1875
+  size: 122, 181
+  orig: 128, 183
+  offset: 3, 0
+  index: -1
+qugan
+  rotate: true
+  xy: 1563, 1658
+  size: 339, 433
+  orig: 341, 434
+  offset: 1, 1
+  index: -1
+shange
+  rotate: false
+  xy: 2, 1408
+  size: 850, 406
+  orig: 861, 407
+  offset: 8, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 1146, 1738
+  size: 415, 259
+  orig: 417, 261
+  offset: 1, 1
+  index: -1
+xiae
+  rotate: false
+  xy: 854, 1232
+  size: 822, 424
+  orig: 825, 425
+  offset: 3, 0
+  index: -1
+zuoya
+  rotate: true
+  xy: 185, 1848
+  size: 149, 267
+  orig: 149, 268
+  offset: 0, 0
+  index: -1
+
+CTLTS_boss2.png
+size: 1622,737
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hou
+  rotate: false
+  xy: 2, 2
+  size: 935, 733
+  orig: 1117, 743
+  offset: 93, 9
+  index: -1
+qiu
+  rotate: false
+  xy: 939, 49
+  size: 681, 686
+  orig: 687, 704
+  offset: 4, 8
+  index: -1

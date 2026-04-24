@@ -1,0 +1,69 @@
+
+renwu7.png
+size: 1032,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N7-xiao/erhuan
+  rotate: false
+  xy: 963, 39
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+N7-xiao/erhuan1
+  rotate: false
+  xy: 976, 39
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+N7-xiao/lian
+  rotate: false
+  xy: 963, 54
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+N7-xiao/qianbai
+  rotate: false
+  xy: 2, 6
+  size: 380, 131
+  orig: 380, 373
+  offset: 0, 0
+  index: -1
+N7-xiao/toushi
+  rotate: false
+  xy: 876, 40
+  size: 85, 97
+  orig: 93, 113
+  offset: 5, 16
+  index: -1
+N7-xiao/xiuzi1
+  rotate: false
+  xy: 686, 2
+  size: 108, 135
+  orig: 108, 143
+  offset: 0, 0
+  index: -1
+N7-xiao/xiuzi2
+  rotate: false
+  xy: 572, 4
+  size: 112, 133
+  orig: 112, 133
+  offset: 0, 0
+  index: -1
+N7-xiao/yaodai
+  rotate: false
+  xy: 796, 7
+  size: 78, 130
+  orig: 78, 130
+  offset: 0, 0
+  index: -1
+N7-xiao/yifu
+  rotate: false
+  xy: 384, 9
+  size: 186, 128
+  orig: 283, 239
+  offset: 97, 111
+  index: -1

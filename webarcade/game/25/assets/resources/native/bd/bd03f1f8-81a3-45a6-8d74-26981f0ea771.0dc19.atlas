@@ -1,0 +1,125 @@
+
+NeiCeWanJia.png
+size: 1766,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_TuBiao
+  rotate: false
+  xy: 1042, 22
+  size: 231, 35
+  orig: 231, 35
+  offset: 0, 0
+  index: -1
+2_TuBiao
+  rotate: false
+  xy: 720, 13
+  size: 231, 35
+  orig: 231, 35
+  offset: 0, 0
+  index: -1
+3_HeiBu
+  rotate: false
+  xy: 1517, 127
+  size: 232, 79
+  orig: 232, 79
+  offset: 0, 0
+  index: -1
+4_ShengDouShi
+  rotate: false
+  xy: 2, 12
+  size: 231, 194
+  orig: 231, 194
+  offset: 0, 0
+  index: -1
+5_WenZi
+  rotate: false
+  xy: 235, 10
+  size: 231, 35
+  orig: 231, 35
+  offset: 0, 0
+  index: -1
+6_Bai
+  rotate: false
+  xy: 468, 10
+  size: 230, 35
+  orig: 230, 35
+  offset: 0, 0
+  index: -1
+liangxing
+  rotate: false
+  xy: 1359, 4
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: true
+  xy: 1042, 59
+  size: 147, 164
+  orig: 147, 164
+  offset: 0, 0
+  index: -1
+skill016_hit_0000
+  rotate: true
+  xy: 1517, 2
+  size: 123, 128
+  orig: 125, 130
+  offset: 1, 0
+  index: -1
+skill016_hit_0001
+  rotate: false
+  xy: 720, 50
+  size: 159, 156
+  orig: 160, 158
+  offset: 1, 1
+  index: -1
+skill016_hit_0002
+  rotate: false
+  xy: 559, 47
+  size: 159, 159
+  orig: 160, 160
+  offset: 1, 0
+  index: -1
+skill016_hit_0003
+  rotate: false
+  xy: 235, 47
+  size: 160, 159
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+skill016_hit_0004
+  rotate: false
+  xy: 397, 47
+  size: 160, 159
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+skill016_hit_0005
+  rotate: true
+  xy: 881, 54
+  size: 152, 159
+  orig: 155, 160
+  offset: 2, 0
+  index: -1
+skill016_hit_0006
+  rotate: false
+  xy: 1208, 59
+  size: 149, 147
+  orig: 152, 149
+  offset: 2, 1
+  index: -1
+skill016_hit_0007
+  rotate: false
+  xy: 1359, 79
+  size: 156, 127
+  orig: 158, 128
+  offset: 1, 0
+  index: -1
+skill016_hit_0008
+  rotate: true
+  xy: 1647, 4
+  size: 121, 117
+  orig: 123, 120
+  offset: 1, 1
+  index: -1

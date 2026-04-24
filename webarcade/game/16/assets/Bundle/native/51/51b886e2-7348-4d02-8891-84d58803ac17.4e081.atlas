@@ -1,0 +1,41 @@
+
+ef8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a0_01
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+baiban
+  rotate: false
+  xy: 269, 369
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+duzhen7
+  rotate: false
+  xy: 2, 391
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+jiana1
+  rotate: false
+  xy: 604, 839
+  size: 45, 152
+  orig: 45, 152
+  offset: 0, 0
+  index: -1
+火星
+  rotate: false
+  xy: 2, 95
+  size: 265, 294
+  orig: 265, 294
+  offset: 0, 0
+  index: -1

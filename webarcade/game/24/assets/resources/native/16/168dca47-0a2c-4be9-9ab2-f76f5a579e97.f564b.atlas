@@ -1,0 +1,41 @@
+
+effect001_hudun.png
+size: 636,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss护盾/hudun01
+  rotate: true
+  xy: 2, 2
+  size: 298, 390
+  orig: 394, 392
+  offset: 1, 1
+  index: -1
+boss护盾/hudun02
+  rotate: false
+  xy: 539, 28
+  size: 91, 132
+  orig: 197, 196
+  offset: 18, 34
+  index: -1
+boss护盾/hudun03
+  rotate: false
+  xy: 539, 162
+  size: 95, 138
+  orig: 197, 196
+  offset: 17, 32
+  index: -1
+boss护盾/hudun04
+  rotate: true
+  xy: 394, 5
+  size: 99, 142
+  orig: 197, 196
+  offset: 15, 29
+  index: -1
+boss护盾/hudun05
+  rotate: false
+  xy: 394, 106
+  size: 143, 194
+  orig: 197, 196
+  offset: 0, 1
+  index: -1

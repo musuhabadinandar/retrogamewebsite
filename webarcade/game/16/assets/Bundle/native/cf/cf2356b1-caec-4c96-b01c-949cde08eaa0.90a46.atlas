@@ -1,0 +1,41 @@
+
+ef11.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000 (1)
+  rotate: false
+  xy: 2, 2
+  size: 150, 33
+  orig: 150, 33
+  offset: 0, 0
+  index: -1
+013ss
+  rotate: false
+  xy: 2, 37
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+gc
+  rotate: false
+  xy: 293, 70
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+宗师技
+  rotate: false
+  xy: 293, 40
+  size: 83, 28
+  orig: 83, 28
+  offset: 0, 0
+  index: -1
+小技能
+  rotate: false
+  xy: 551, 298
+  size: 83, 28
+  orig: 83, 28
+  offset: 0, 0
+  index: -1

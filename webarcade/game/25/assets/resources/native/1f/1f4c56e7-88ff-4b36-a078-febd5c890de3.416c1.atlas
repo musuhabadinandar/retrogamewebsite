@@ -1,0 +1,118 @@
+
+BOSS_NiuTou.png
+size: 1554,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouren/binjiao
+  rotate: false
+  xy: 798, 18
+  size: 174, 51
+  orig: 174, 51
+  offset: 0, 0
+  index: -1
+shouren/qugan
+  rotate: true
+  xy: 407, 6
+  size: 209, 242
+  orig: 209, 242
+  offset: 0, 0
+  index: -1
+shouren/shange
+  rotate: false
+  xy: 1387, 89
+  size: 149, 126
+  orig: 149, 148
+  offset: 0, 0
+  index: -1
+shouren/toufa
+  rotate: true
+  xy: 651, 51
+  size: 164, 145
+  orig: 164, 145
+  offset: 0, 0
+  index: -1
+shouren/wuqi
+  rotate: false
+  xy: 2, 2
+  size: 403, 213
+  orig: 404, 213
+  offset: 0, 0
+  index: -1
+shouren/xiae
+  rotate: false
+  xy: 1387, 11
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+shouren/youdatui
+  rotate: false
+  xy: 1099, 105
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+shouren/youerduo
+  rotate: true
+  xy: 1488, 7
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+shouren/youshangbi
+  rotate: true
+  xy: 1123, 26
+  size: 77, 129
+  orig: 77, 129
+  offset: 0, 0
+  index: -1
+shouren/youxiabi
+  rotate: true
+  xy: 798, 71
+  size: 144, 140
+  orig: 144, 150
+  offset: 0, 0
+  index: -1
+shouren/youxiaotui
+  rotate: true
+  xy: 1254, 33
+  size: 73, 131
+  orig: 73, 132
+  offset: 0, 1
+  index: -1
+shouren/zuodatui
+  rotate: true
+  xy: 974, 13
+  size: 76, 147
+  orig: 78, 147
+  offset: 0, 0
+  index: -1
+shouren/zuoerduo
+  rotate: true
+  xy: 1317, 137
+  size: 78, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+shouren/zuoshangbi
+  rotate: false
+  xy: 1208, 108
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+shouren/zuoxiabi
+  rotate: true
+  xy: 940, 91
+  size: 124, 157
+  orig: 124, 157
+  offset: 0, 0
+  index: -1
+shouren/zuoxiaotui
+  rotate: true
+  xy: 651, 4
+  size: 45, 98
+  orig: 45, 100
+  offset: 0, 1
+  index: -1

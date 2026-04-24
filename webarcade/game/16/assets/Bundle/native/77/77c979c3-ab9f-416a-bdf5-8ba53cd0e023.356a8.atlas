@@ -1,0 +1,69 @@
+
+fabao12.png
+size: 300,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fabao12/tx2
+  rotate: false
+  xy: 217, 1
+  size: 81, 134
+  orig: 81, 134
+  offset: 0, 0
+  index: -1
+fabao12/tx1
+  rotate: false
+  xy: 108, 128
+  size: 107, 109
+  orig: 107, 109
+  offset: 0, 0
+  index: -1
+fabao12/tx0
+  rotate: false
+  xy: 1, 1
+  size: 105, 130
+  orig: 105, 130
+  offset: 0, 0
+  index: -1
+fabao12/liusu
+  rotate: false
+  xy: 1, 204
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+fabao12/yue
+  rotate: false
+  xy: 1, 133
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+fabao12/daizi
+  rotate: false
+  xy: 61, 133
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+fabao12/faguang
+  rotate: false
+  xy: 108, 1
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: -1
+fabao12/dian1
+  rotate: false
+  xy: 61, 161
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+fabao12/dian2
+  rotate: false
+  xy: 49, 204
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

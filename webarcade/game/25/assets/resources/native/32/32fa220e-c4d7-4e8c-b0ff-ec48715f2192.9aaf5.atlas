@@ -1,0 +1,55 @@
+
+ZYG_heti.png
+size: 909,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti1
+  rotate: false
+  xy: 2, 7
+  size: 426, 415
+  orig: 426, 415
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 708, 171
+  size: 198, 251
+  orig: 201, 251
+  offset: 3, 0
+  index: -1
+shenti3
+  rotate: false
+  xy: 430, 4
+  size: 276, 418
+  orig: 283, 418
+  offset: 7, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 708, 60
+  size: 79, 109
+  orig: 79, 109
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 780, 3
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+yanjing3
+  rotate: true
+  xy: 852, 108
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+yanjing4
+  rotate: false
+  xy: 708, 2
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1

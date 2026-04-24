@@ -1,0 +1,434 @@
+{
+  "generatedAt": "2026-04-07T11:57:32.408969+00:00",
+  "scope": "Detailed static audit of the 25 HTML5 titles that remain under review in the public Webarcade module.",
+  "summary": {
+    "totalUnderReview": 13,
+    "riskTiers": {
+      "high": 13
+    },
+    "recommendations": {
+      "keep_blocked": 13
+    }
+  },
+  "games": [
+    {
+      "id": "02",
+      "name": "Breakout Assault",
+      "hint": "All-out breakout / nonstop combat",
+      "category": "Action Shooter",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "A bundled mini-app SDK and analytics/openid handling are embedded in the title.",
+      "signals": [
+        "banner_or_video_ads",
+        "miniapp_sdk"
+      ],
+      "evidence": [
+        {
+          "file": "game/02/assets/main/index.js",
+          "signals": [
+            "miniapp_sdk",
+            "banner_or_video_ads"
+          ]
+        },
+        {
+          "file": "game/02/assets/UI/index.js",
+          "signals": [
+            "banner_or_video_ads"
+          ]
+        },
+        {
+          "file": "game/02/src/assets/uniSdk/uniSdk.min.js",
+          "signals": [
+            "miniapp_sdk",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Beggar to Emperor",
+      "hint": "Underdog rise / emperor builder",
+      "category": "Strategy Battle",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "ByteDance requests, a mini-app SDK, payment/backend domains, and rewarded/interstitial ads are all present.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "bytedance_request",
+        "miniapp_sdk",
+        "wechat_launch_options",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/15/assets/main/index.f337f.js",
+          "signals": [
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_request",
+            "miniapp_sdk",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Wukong's Immortal Path",
+      "hint": "Idle cultivation / ascension trials",
+      "category": "Fantasy Adventure",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "WeChat ad/share hooks are mixed with hardcoded dev or internal endpoints and external service domains.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "wechat_launch_options",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/16/assets/main/index.51609.js",
+          "signals": [
+            "wechat_launch_options",
+            "wechat_share",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Blast the Ghosts",
+      "hint": "Idle action / hero growth",
+      "category": "Casual Survival",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "Dual login flows, analytics, and dev/cooperation endpoints are present in the application script.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "bytedance_login",
+        "wechat_login"
+      ],
+      "evidence": [
+        {
+          "file": "game/19/assets/game_script/index.a12d0.js",
+          "signals": [
+            "wechat_login",
+            "bytedance_login",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Hero on Paper",
+      "hint": "Idle training / hero growth",
+      "category": "Casual Survival",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "This is the riskiest title in the pack, with `sfplay` tracking, login/request hooks, and internal-style endpoints.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "bytedance_launch_options",
+        "bytedance_login",
+        "bytedance_request",
+        "sfplay_tracking",
+        "wechat_launch_options",
+        "wechat_login",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/20/assets/main/index.070c8.js",
+          "signals": [
+            "wechat_login",
+            "wechat_share",
+            "bytedance_login",
+            "bytedance_request",
+            "bytedance_launch_options",
+            "ad_units",
+            "banner_or_video_ads",
+            "sfplay_tracking"
+          ]
+        },
+        {
+          "file": "game/20/src/assets/scripts/plugins/sfdata.025e9.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "bytedance_login",
+            "bytedance_launch_options",
+            "sfplay_tracking"
+          ]
+        },
+        {
+          "file": "game/20/src/assets/scripts/plugins/sfzt.e6b28.js",
+          "signals": [
+            "bytedance_login",
+            "bytedance_request",
+            "bytedance_launch_options",
+            "sfplay_tracking"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Slayed a Dragon",
+      "hint": "Defeat the dragon / hero growth",
+      "category": "Action Shooter",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "Mini-app SDK glue, telemetry domains, local/internal endpoints, and login/share hooks are mixed together.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "miniapp_sdk",
+        "wechat_launch_options",
+        "wechat_login",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/22/assets/main/index.2e432.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "miniapp_sdk",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        },
+        {
+          "file": "game/22/assets/resources/import/01/0129f0881.b524d.json",
+          "signals": [
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Arad Warriors",
+      "hint": "Dungeon crawler / sword warrior",
+      "category": "Action Adventure",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "WeChat login, ByteDance request/share, heavy ads, and several external service domains are bundled into the title.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "bytedance_request",
+        "wechat_login"
+      ],
+      "evidence": [
+        {
+          "file": "game/25/assets/main/index.17774.js",
+          "signals": [
+            "wechat_login",
+            "bytedance_request",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Flying Blade Brawl",
+      "hint": "The duel begins / hero adventure",
+      "category": "Strategy Battle",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "Mini-app SDK code, login/share hooks, and remote service domains are embedded in project code.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "miniapp_sdk",
+        "wechat_launch_options",
+        "wechat_login",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/28/src/project.19ff7.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "miniapp_sdk",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "name": "Carefree Immortal Quest",
+      "hint": "Idle cultivation / heavenly trials",
+      "category": "Fantasy Adventure",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "This build is hardwired to WeChat and ByteDance ad and scene APIs, including launch-option logic and mini-program jumps.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "bytedance_launch_options",
+        "wechat_launch_options",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/06/assets/main/index.js",
+          "signals": [
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_launch_options",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "name": "Go, Capybara!",
+      "hint": "Cute creature challenge / whimsical adventure",
+      "category": "Fantasy Adventure",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "A dedicated `p8sdk-wechat` layer and ad-attribution fields make this too coupled to mini-app distribution.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "bytedance_request",
+        "wechat_launch_options",
+        "wechat_login",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/08/assets/main/index.8fb46.js",
+          "signals": [
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_request",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        },
+        {
+          "file": "game/08/src/assets/_plugs/loading/p8sdk-wechat-2.0.20.25a9b.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "name": "Ghosts in Space",
+      "hint": "Space suspense / ghost hunt",
+      "category": "Action Shooter",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "WeChat and ByteDance ad stacks are both embedded in the application bundle.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/09/assets/main/index.6c761.js",
+          "signals": [
+            "wechat_share",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Immortal Cultivation Simulator",
+      "hint": "Idle cultivation / ascension trials",
+      "category": "Fantasy Adventure",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "Multi-platform ads, jumps, and telemetry domains are embedded directly in the game code.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "bytedance_launch_options",
+        "wechat_launch_options",
+        "wechat_login",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/12/assets/main/index.c41fe.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_launch_options",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "When Dreams Meet Fairy Tales",
+      "hint": "Fairytale town / dream management",
+      "category": "Management Sim",
+      "riskTier": "high",
+      "recommendation": "keep_blocked",
+      "recommendationText": "This title is dense with ByteDance traffic, ad-attribution, and multi-platform mini-app hooks.",
+      "signals": [
+        "ad_units",
+        "banner_or_video_ads",
+        "bytedance_launch_options",
+        "bytedance_login",
+        "bytedance_request",
+        "miniapp_sdk",
+        "wechat_launch_options",
+        "wechat_login",
+        "wechat_share"
+      ],
+      "evidence": [
+        {
+          "file": "game/11/assets/main/index.e7338.js",
+          "signals": [
+            "wechat_login",
+            "wechat_launch_options",
+            "wechat_share",
+            "bytedance_login",
+            "bytedance_request",
+            "bytedance_launch_options",
+            "miniapp_sdk",
+            "ad_units",
+            "banner_or_video_ads"
+          ]
+        }
+      ]
+    }
+  ]
+}

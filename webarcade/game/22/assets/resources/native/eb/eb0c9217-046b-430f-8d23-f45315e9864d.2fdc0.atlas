@@ -1,0 +1,90 @@
+
+spark.png
+size: 341,849
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 2, 498
+  size: 201, 215
+  orig: 224, 264
+  offset: 15, 16
+  index: -1
+02
+  rotate: true
+  xy: 2, 701
+  size: 146, 225
+  orig: 224, 264
+  offset: 52, 1
+  index: -1
+03
+  rotate: false
+  xy: 2, 23
+  size: 157, 157
+  orig: 224, 264
+  offset: 22, 69
+  index: -1
+04
+  rotate: false
+  xy: 201, 314
+  size: 129, 182
+  orig: 224, 264
+  offset: 50, 45
+  index: -1
+05
+  rotate: false
+  xy: 219, 515
+  size: 120, 184
+  orig: 224, 264
+  offset: 52, 41
+  index: -1
+06
+  rotate: true
+  xy: 161, 2
+  size: 154, 155
+  orig: 224, 264
+  offset: 37, 70
+  index: -1
+07
+  rotate: false
+  xy: 2, 182
+  size: 169, 160
+  orig: 224, 264
+  offset: 26, 66
+  index: -1
+08
+  rotate: false
+  xy: 173, 158
+  size: 166, 154
+  orig: 224, 264
+  offset: 37, 71
+  index: -1
+10
+  rotate: true
+  xy: 2, 344
+  size: 152, 197
+  orig: 224, 264
+  offset: 49, 30
+  index: -1
+arrow1
+  rotate: true
+  xy: 229, 811
+  size: 36, 83
+  orig: 36, 83
+  offset: 0, 0
+  index: -1
+arrow2
+  rotate: true
+  xy: 229, 773
+  size: 36, 83
+  orig: 36, 83
+  offset: 0, 0
+  index: -1
+arrow3
+  rotate: true
+  xy: 229, 735
+  size: 36, 83
+  orig: 36, 83
+  offset: 0, 0
+  index: -1

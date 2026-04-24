@@ -1,0 +1,13 @@
+
+role_captive.png
+size: 65,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+role_captive
+  rotate: false
+  xy: 2, 2
+  size: 61, 182
+  orig: 61, 182
+  offset: 0, 0
+  index: -1

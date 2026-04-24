@@ -1,0 +1,153 @@
+
+boss02_shitouren1.png
+size: 875,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: true
+  xy: 2, 141
+  size: 124, 377
+  orig: 133, 389
+  offset: 4, 6
+  index: -1
+guang11
+  rotate: false
+  xy: 381, 86
+  size: 25, 85
+  orig: 25, 85
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 267
+  size: 420, 288
+  orig: 476, 330
+  offset: 28, 21
+  index: -1
+guang22
+  rotate: false
+  xy: 411, 572
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 561, 16
+  size: 74, 125
+  orig: 80, 131
+  offset: 3, 3
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 557
+  size: 407, 472
+  orig: 508, 588
+  offset: 21, 115
+  index: -1
+tou11
+  rotate: true
+  xy: 2, 13
+  size: 126, 140
+  orig: 164, 162
+  offset: 19, 5
+  index: -1
+tun
+  rotate: true
+  xy: 796, 220
+  size: 148, 70
+  orig: 148, 70
+  offset: 0, 0
+  index: -1
+yan11
+  rotate: true
+  xy: 349, 18
+  size: 66, 18
+  orig: 66, 18
+  offset: 0, 0
+  index: -1
+yanguang11
+  rotate: true
+  xy: 381, 173
+  size: 92, 35
+  orig: 95, 38
+  offset: 1, 1
+  index: -1
+yiling11
+  rotate: false
+  xy: 796, 137
+  size: 64, 81
+  orig: 64, 83
+  offset: 0, 2
+  index: -1
+yiling22
+  rotate: false
+  xy: 144, 36
+  size: 203, 103
+  orig: 216, 104
+  offset: 0, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 643, 104
+  size: 146, 56
+  orig: 146, 56
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 668, 580
+  size: 171, 187
+  orig: 171, 187
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 688, 6
+  size: 96, 136
+  orig: 98, 136
+  offset: 0, 0
+  index: -1
+youxhouguang22
+  rotate: false
+  xy: 643, 162
+  size: 151, 206
+  orig: 160, 220
+  offset: 4, 7
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 411, 575
+  size: 176, 255
+  orig: 176, 255
+  offset: 0, 0
+  index: -1
+zuodabi11
+  rotate: true
+  xy: 643, 370
+  size: 203, 202
+  orig: 203, 202
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 408, 2
+  size: 88, 151
+  orig: 88, 152
+  offset: 0, 1
+  index: -1
+zuoshouguang11
+  rotate: true
+  xy: 411, 753
+  size: 276, 462
+  orig: 302, 592
+  offset: 10, 111
+  index: -1
+zuoxiaobi11
+  rotate: false
+  xy: 424, 92
+  size: 217, 481
+  orig: 253, 631
+  offset: 3, 102
+  index: -1

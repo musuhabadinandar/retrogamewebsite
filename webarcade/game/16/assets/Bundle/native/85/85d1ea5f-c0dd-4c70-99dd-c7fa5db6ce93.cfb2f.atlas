@@ -1,0 +1,55 @@
+
+ningchong2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lingchong2/tui2
+  rotate: false
+  xy: 363, 335
+  size: 65, 137
+  orig: 65, 137
+  offset: 0, 0
+  index: -1
+lingchong2/chibang2
+  rotate: false
+  xy: 241, 335
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1
+lingchong2/body
+  rotate: false
+  xy: 241, 1
+  size: 222, 125
+  orig: 222, 125
+  offset: 0, 0
+  index: -1
+lingchong2/zhuaizi1
+  rotate: false
+  xy: 1, 394
+  size: 104, 43
+  orig: 104, 43
+  offset: 0, 0
+  index: -1
+lingchong2/tui1
+  rotate: false
+  xy: 107, 394
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+lingchong2/chibang1
+  rotate: false
+  xy: 241, 128
+  size: 130, 205
+  orig: 130, 205
+  offset: 0, 0
+  index: -1
+lingchong2guang
+  rotate: false
+  xy: 1, 1
+  size: 238, 391
+  orig: 238, 391
+  offset: 0, 0
+  index: -1

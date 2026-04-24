@@ -1,0 +1,34 @@
+
+e5.png
+size: 223,69
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rng2_body1
+  rotate: false
+  xy: 2, 2
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+rng2_body2
+  rotate: true
+  xy: 191, 35
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+rng2_body3
+  rotate: false
+  xy: 191, 3
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 69, 15
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

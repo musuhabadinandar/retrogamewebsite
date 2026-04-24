@@ -1,0 +1,27 @@
+
+gift.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LiHe
+  rotate: true
+  xy: 173, 34
+  size: 111, 113
+  orig: 116, 119
+  offset: 2, 3
+  index: -1
+QiQiu
+  rotate: true
+  xy: 2, 2
+  size: 143, 169
+  orig: 148, 174
+  offset: 3, 3
+  index: -1
+Xian
+  rotate: false
+  xy: 288, 54
+  size: 7, 91
+  orig: 7, 91
+  offset: 0, 0
+  index: -1

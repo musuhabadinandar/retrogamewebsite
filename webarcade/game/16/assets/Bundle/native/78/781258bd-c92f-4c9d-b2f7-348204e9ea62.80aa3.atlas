@@ -1,0 +1,41 @@
+
+fabao7.png
+size: 241,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fq_qin01
+  rotate: true
+  xy: 2, 35
+  size: 15, 64
+  orig: 15, 64
+  offset: 0, 0
+  index: -1
+fq_qin02
+  rotate: false
+  xy: 2, 52
+  size: 170, 76
+  orig: 170, 76
+  offset: 0, 0
+  index: -1
+fq_qin03
+  rotate: false
+  xy: 2, 130
+  size: 189, 107
+  orig: 189, 107
+  offset: 0, 0
+  index: -1
+fq_qin04
+  rotate: false
+  xy: 193, 189
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+fq_qin05
+  rotate: true
+  xy: 174, 43
+  size: 85, 60
+  orig: 85, 60
+  offset: 0, 0
+  index: -1

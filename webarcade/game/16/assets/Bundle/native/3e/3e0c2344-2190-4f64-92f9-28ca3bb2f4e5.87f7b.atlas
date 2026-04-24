@@ -1,0 +1,76 @@
+
+bg.png
+size: 1980,1552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+云a
+  rotate: true
+  xy: 1629, 310
+  size: 607, 341
+  orig: 608, 343
+  offset: 0, 1
+  index: -1
+云b
+  rotate: true
+  xy: 1629, 919
+  size: 631, 349
+  orig: 635, 350
+  offset: 2, 0
+  index: -1
+光
+  rotate: true
+  xy: 2, 209
+  size: 589, 1027
+  orig: 595, 1042
+  offset: 1, 1
+  index: -1
+光点
+  rotate: false
+  xy: 1031, 204
+  size: 485, 594
+  orig: 485, 594
+  offset: 0, 0
+  index: -1
+符文a
+  rotate: true
+  xy: 2, 2
+  size: 205, 386
+  orig: 209, 389
+  offset: 2, 2
+  index: -1
+符文b
+  rotate: true
+  xy: 1019, 13
+  size: 189, 256
+  orig: 192, 260
+  offset: 1, 2
+  index: -1
+符文c
+  rotate: false
+  xy: 1518, 24
+  size: 426, 284
+  orig: 429, 287
+  offset: 2, 2
+  index: -1
+符文d
+  rotate: true
+  xy: 390, 15
+  size: 192, 308
+  orig: 195, 312
+  offset: 1, 2
+  index: -1
+符文e
+  rotate: false
+  xy: 700, 29
+  size: 317, 178
+  orig: 320, 182
+  offset: 2, 2
+  index: -1
+背景
+  rotate: true
+  xy: 2, 800
+  size: 750, 1625
+  orig: 750, 1625
+  offset: 0, 0
+  index: -1

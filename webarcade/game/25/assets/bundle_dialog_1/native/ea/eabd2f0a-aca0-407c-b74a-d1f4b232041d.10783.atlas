@@ -1,0 +1,62 @@
+
+TX_MainGoldDiamond.png
+size: 204,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 95, 64
+  size: 107, 35
+  orig: 107, 35
+  offset: 0, 0
+  index: -1
+anniujia
+  rotate: false
+  xy: 135, 29
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+fuhuobi
+  rotate: false
+  xy: 135, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: true
+  xy: 174, 3
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+liangxing
+  rotate: false
+  xy: 2, 9
+  size: 91, 90
+  orig: 91, 91
+  offset: 0, 1
+  index: -1
+saoguang
+  rotate: false
+  xy: 95, 27
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+tili
+  rotate: true
+  xy: 95, 6
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+zuanshi
+  rotate: true
+  xy: 174, 31
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1

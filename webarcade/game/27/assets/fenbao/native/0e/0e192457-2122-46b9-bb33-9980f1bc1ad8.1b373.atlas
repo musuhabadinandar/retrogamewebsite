@@ -1,0 +1,167 @@
+
+pet_06.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 157, 100
+  size: 154, 93
+  orig: 154, 93
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 204, 5
+  size: 154, 93
+  orig: 154, 93
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: true
+  xy: 252, 100
+  size: 154, 93
+  orig: 154, 93
+  offset: 0, 0
+  index: -1
+face_attack
+  rotate: true
+  xy: 360, 20
+  size: 91, 140
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+face_die
+  rotate: false
+  xy: 391, 114
+  size: 91, 140
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+flower
+  rotate: true
+  xy: 2, 2
+  size: 77, 87
+  orig: 77, 87
+  offset: 0, 0
+  index: -1
+flower_01
+  rotate: false
+  xy: 2, 81
+  size: 153, 173
+  orig: 153, 173
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 484, 114
+  size: 91, 140
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 502, 21
+  size: 91, 140
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 577, 114
+  size: 91, 140
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: true
+  xy: 644, 21
+  size: 91, 140
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: false
+  xy: 670, 114
+  size: 91, 140
+  orig: 91, 140
+  offset: 0, 0
+  index: -1
+head_Acc_01
+  rotate: false
+  xy: 862, 11
+  size: 25, 34
+  orig: 32, 40
+  offset: 4, 3
+  index: -1
+head_Acc_02
+  rotate: true
+  xy: 786, 3
+  size: 42, 24
+  orig: 68, 60
+  offset: 16, 23
+  index: -1
+head_Acc_03
+  rotate: true
+  xy: 812, 10
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+head_Acc_04
+  rotate: true
+  xy: 763, 170
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+leg_L_01
+  rotate: true
+  xy: 91, 11
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+leg_R_01
+  rotate: true
+  xy: 152, 11
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+prearm_L
+  rotate: false
+  xy: 786, 47
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+prearm_R
+  rotate: true
+  xy: 838, 47
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+sand
+  rotate: true
+  xy: 347, 113
+  size: 141, 42
+  orig: 152, 42
+  offset: 11, 0
+  index: -1
+shoulder_L
+  rotate: false
+  xy: 763, 114
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+shoulder_R
+  rotate: false
+  xy: 816, 114
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1

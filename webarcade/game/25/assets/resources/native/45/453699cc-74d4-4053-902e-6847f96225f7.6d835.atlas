@@ -1,0 +1,20 @@
+
+TX_zuanshikuang.png
+size: 430,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liangxing
+  rotate: true
+  xy: 338, 221
+  size: 91, 90
+  orig: 91, 91
+  offset: 0, 1
+  index: -1
+zuanshikuang
+  rotate: false
+  xy: 2, 2
+  size: 334, 310
+  orig: 336, 312
+  offset: 1, 1
+  index: -1

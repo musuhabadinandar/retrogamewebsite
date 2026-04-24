@@ -1,0 +1,471 @@
+
+tupo.png
+size: 2033,2043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DC002
+  rotate: false
+  xy: 2, 1241
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+baozha0b
+  rotate: false
+  xy: 1450, 47
+  size: 546, 546
+  orig: 546, 546
+  offset: 0, 0
+  index: -1
+光环
+  rotate: true
+  xy: 1772, 1465
+  size: 576, 259
+  orig: 576, 259
+  offset: 0, 0
+  index: -1
+光线
+  rotate: true
+  xy: 804, 1253
+  size: 64, 257
+  orig: 64, 257
+  offset: 0, 0
+  index: -1
+火焰b1
+  rotate: false
+  xy: 2, 2
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b16
+  rotate: false
+  xy: 2, 2
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b2
+  rotate: true
+  xy: 707, 517
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b3
+  rotate: false
+  xy: 726, 33
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b4
+  rotate: true
+  xy: 804, 1319
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b5
+  rotate: true
+  xy: 1191, 595
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b6
+  rotate: true
+  xy: 1288, 1319
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+白光
+  rotate: false
+  xy: 2, 486
+  size: 703, 753
+  orig: 703, 753
+  offset: 0, 0
+  index: -1
+聚光b
+  rotate: false
+  xy: 1675, 596
+  size: 249, 144
+  orig: 249, 144
+  offset: 0, 0
+  index: -1
+聚光d
+  rotate: false
+  xy: 1772, 1336
+  size: 153, 127
+  orig: 153, 127
+  offset: 0, 0
+  index: -1
+聚光光线
+  rotate: true
+  xy: 1675, 742
+  size: 575, 336
+  orig: 575, 336
+  offset: 0, 0
+  index: -1
+
+tupo2.png
+size: 2028,1966
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+火焰a1
+  rotate: false
+  xy: 1450, 2
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰b10
+  rotate: false
+  xy: 2, 514
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b11
+  rotate: false
+  xy: 726, 998
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b12
+  rotate: true
+  xy: 1450, 1242
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b13
+  rotate: false
+  xy: 2, 30
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b14
+  rotate: false
+  xy: 726, 514
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b15
+  rotate: true
+  xy: 1450, 518
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b17
+  rotate: false
+  xy: 726, 30
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b7
+  rotate: false
+  xy: 2, 1482
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b8
+  rotate: false
+  xy: 2, 998
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b9
+  rotate: false
+  xy: 726, 1482
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+组 2 拷贝
+  rotate: true
+  xy: 1934, 1542
+  size: 422, 92
+  orig: 422, 92
+  offset: 0, 0
+  index: -1
+
+tupo3.png
+size: 2032,2015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光柱a
+  rotate: false
+  xy: 126, 1280
+  size: 155, 733
+  orig: 155, 733
+  offset: 0, 0
+  index: -1
+光柱a 拷贝
+  rotate: false
+  xy: 2, 1130
+  size: 122, 883
+  orig: 122, 883
+  offset: 0, 0
+  index: -1
+光柱b 拷贝
+  rotate: false
+  xy: 2, 293
+  size: 152, 835
+  orig: 152, 835
+  offset: 0, 0
+  index: -1
+光点
+  rotate: true
+  xy: 1640, 434
+  size: 611, 390
+  orig: 611, 390
+  offset: 0, 0
+  index: -1
+火焰a2
+  rotate: false
+  xy: 164, 40
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a3
+  rotate: false
+  xy: 641, 51
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a4
+  rotate: false
+  xy: 1118, 51
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a5
+  rotate: true
+  xy: 1124, 570
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰b18
+  rotate: true
+  xy: 156, 556
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b19
+  rotate: true
+  xy: 283, 1291
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b20
+  rotate: true
+  xy: 640, 567
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b21
+  rotate: true
+  xy: 767, 1291
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b22
+  rotate: false
+  xy: 1251, 1531
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b23
+  rotate: false
+  xy: 1251, 1047
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+聚光a
+  rotate: true
+  xy: 2, 2
+  size: 289, 160
+  orig: 289, 160
+  offset: 0, 0
+  index: -1
+聚光c
+  rotate: false
+  xy: 1595, 263
+  size: 282, 169
+  orig: 282, 169
+  offset: 0, 0
+  index: -1
+
+tupo4.png
+size: 1934,1970
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光柱b
+  rotate: false
+  xy: 1758, 558
+  size: 154, 686
+  orig: 154, 686
+  offset: 0, 0
+  index: -1
+火焰a10
+  rotate: true
+  xy: 1242, 525
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a11
+  rotate: false
+  xy: 1433, 9
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a6
+  rotate: false
+  xy: 2, 2
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a7
+  rotate: true
+  xy: 726, 525
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a8
+  rotate: false
+  xy: 479, 2
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a9
+  rotate: false
+  xy: 956, 9
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰b24
+  rotate: false
+  xy: 2, 1486
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b25
+  rotate: false
+  xy: 2, 1002
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b26
+  rotate: false
+  xy: 726, 1486
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b27
+  rotate: false
+  xy: 2, 518
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b28
+  rotate: false
+  xy: 726, 1002
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+火焰b29
+  rotate: true
+  xy: 1450, 1246
+  size: 722, 482
+  orig: 722, 482
+  offset: 0, 0
+  index: -1
+
+tupo5.png
+size: 2027,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+火焰a12
+  rotate: true
+  xy: 2, 479
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a13
+  rotate: true
+  xy: 518, 479
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a14
+  rotate: true
+  xy: 1034, 479
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a15
+  rotate: false
+  xy: 1550, 440
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a16
+  rotate: true
+  xy: 2, 2
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a17
+  rotate: true
+  xy: 518, 2
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1
+火焰a18
+  rotate: true
+  xy: 1034, 2
+  size: 475, 514
+  orig: 475, 514
+  offset: 0, 0
+  index: -1

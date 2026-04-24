@@ -1,0 +1,76 @@
+
+long_sdj_f.png
+size: 458,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 326, 62
+  size: 32, 34
+  orig: 33, 35
+  offset: 1, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 366, 121
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+f002
+  rotate: true
+  xy: 327, 113
+  size: 28, 37
+  orig: 29, 39
+  offset: 0, 1
+  index: -1
+f003
+  rotate: false
+  xy: 291, 98
+  size: 34, 43
+  orig: 35, 45
+  offset: 1, 1
+  index: -1
+f004
+  rotate: false
+  xy: 291, 56
+  size: 33, 40
+  orig: 34, 42
+  offset: 0, 1
+  index: -1
+f005
+  rotate: false
+  xy: 360, 43
+  size: 27, 25
+  orig: 28, 27
+  offset: 0, 1
+  index: -1
+f006
+  rotate: true
+  xy: 360, 84
+  size: 27, 18
+  orig: 29, 21
+  offset: 1, 2
+  index: -1
+h1
+  rotate: true
+  xy: 2, 2
+  size: 254, 287
+  orig: 254, 287
+  offset: 0, 0
+  index: -1
+m1
+  rotate: true
+  xy: 396, 70
+  size: 186, 60
+  orig: 186, 60
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 291, 143
+  size: 103, 113
+  orig: 103, 113
+  offset: 0, 0
+  index: -1

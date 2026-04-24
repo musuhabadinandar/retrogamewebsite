@@ -1,0 +1,48 @@
+
+fx_stick_bullet.png
+size: 370,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+attackhl
+  rotate: true
+  xy: 2, 126
+  size: 160, 286
+  orig: 160, 321
+  offset: 0, 35
+  index: -1
+bulle
+  rotate: false
+  xy: 223, 28
+  size: 96, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+bulles1
+  rotate: false
+  xy: 321, 94
+  size: 32, 44
+  orig: 38, 51
+  offset: 3, 4
+  index: -1
+bulles2
+  rotate: true
+  xy: 290, 140
+  size: 37, 54
+  orig: 43, 61
+  offset: 3, 4
+  index: -1
+bulletail
+  rotate: false
+  xy: 290, 179
+  size: 78, 107
+  orig: 83, 114
+  offset: 2, 4
+  index: -1
+bulletbg
+  rotate: true
+  xy: 2, 2
+  size: 122, 219
+  orig: 132, 230
+  offset: 5, 6
+  index: -1

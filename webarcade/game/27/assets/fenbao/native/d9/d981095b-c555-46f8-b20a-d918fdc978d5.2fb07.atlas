@@ -1,0 +1,13 @@
+
+redPoint.png
+size: 32,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+redPoint
+  rotate: false
+  xy: 2, 2
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1

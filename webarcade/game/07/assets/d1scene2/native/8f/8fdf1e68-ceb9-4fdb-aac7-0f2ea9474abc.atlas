@@ -1,0 +1,279 @@
+
+xiuli.png
+size: 596, 267
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bbody
+  rotate: false
+  xy: 2, 34
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+bda
+  rotate: false
+  xy: 476, 145
+  size: 98, 36
+  orig: 98, 36
+  offset: 0, 0
+  index: -1
+bdm
+  rotate: false
+  xy: 377, 37
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+bhead
+  rotate: true
+  xy: 332, 83
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+bj1
+  rotate: false
+  xy: 578, 56
+  size: 16, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+bj2
+  rotate: false
+  xy: 576, 170
+  size: 16, 22
+  orig: 17, 23
+  offset: 0, 1
+  index: -1
+bw
+  rotate: false
+  xy: 541, 7
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+cheng1
+  rotate: false
+  xy: 408, 86
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+cheng2
+  rotate: true
+  xy: 518, 185
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+p11
+  rotate: false
+  xy: 70, 13
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+p22
+  rotate: true
+  xy: 575, 194
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+p55
+  rotate: false
+  xy: 332, 185
+  size: 101, 80
+  orig: 115, 80
+  offset: 0, 0
+  index: -1
+p66
+  rotate: false
+  xy: 168, 163
+  size: 162, 102
+  orig: 162, 102
+  offset: 0, 0
+  index: -1
+sad1
+  rotate: true
+  xy: 266, 16
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+sad2
+  rotate: false
+  xy: 518, 79
+  size: 47, 64
+  orig: 47, 65
+  offset: 0, 1
+  index: -1
+sad3
+  rotate: false
+  xy: 424, 144
+  size: 50, 37
+  orig: 54, 37
+  offset: 1, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 2, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 575, 20
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+yiz1
+  rotate: false
+  xy: 435, 183
+  size: 81, 82
+  orig: 81, 82
+  offset: 0, 0
+  index: -1
+yiz2
+  rotate: true
+  xy: 489, 4
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+zbody
+  rotate: false
+  xy: 164, 12
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+zbq
+  rotate: true
+  xy: 518, 50
+  size: 27, 16
+  orig: 28, 17
+  offset: 1, 0
+  index: -1
+zdad
+  rotate: false
+  xy: 266, 4
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+zdm
+  rotate: false
+  xy: 567, 99
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+zhand2
+  rotate: true
+  xy: 41, 7
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+zhead
+  rotate: false
+  xy: 168, 87
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+zj1
+  rotate: true
+  xy: 567, 81
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zj2
+  rotate: true
+  xy: 567, 81
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+zw
+  rotate: false
+  xy: 541, 40
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+图层492(3)
+  rotate: true
+  xy: 452, 14
+  size: 70, 35
+  orig: 71, 36
+  offset: 1, 0
+  index: -1
+图层组61
+  rotate: true
+  xy: 104, 8
+  size: 99, 58
+  orig: 99, 58
+  offset: 0, 0
+  index: -1
+工具
+  rotate: false
+  xy: 408, 143
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+帽子
+  rotate: true
+  xy: 331, 11
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+帽子6
+  rotate: true
+  xy: 408, 13
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+手
+  rotate: true
+  xy: 377, 7
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+扳手
+  rotate: false
+  xy: 575, 227
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+腰带u
+  rotate: true
+  xy: 490, 49
+  size: 94, 26
+  orig: 94, 26
+  offset: 0, 0
+  index: -1
+衣服ffytd
+  rotate: true
+  xy: 270, 63
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+跑步机1
+  rotate: false
+  xy: 2, 109
+  size: 164, 156
+  orig: 164, 156
+  offset: 0, 0
+  index: -1

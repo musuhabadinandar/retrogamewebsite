@@ -1,0 +1,90 @@
+
+beibao.png
+size: 479,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ
+  rotate: false
+  xy: 2, 528
+  size: 388, 503
+  orig: 388, 503
+  offset: 0, 0
+  index: -1
+G1
+  rotate: false
+  xy: 280, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+G2
+  rotate: true
+  xy: 280, 104
+  size: 44, 186
+  orig: 44, 186
+  offset: 0, 0
+  index: -1
+beibaotubiao
+  rotate: false
+  xy: 392, 621
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+fenpeizi
+  rotate: false
+  xy: 280, 150
+  size: 197, 46
+  orig: 197, 46
+  offset: 0, 0
+  index: -1
+lz
+  rotate: false
+  xy: 116, 20
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+tiao1
+  rotate: true
+  xy: 392, 703
+  size: 328, 80
+  orig: 328, 80
+  offset: 0, 0
+  index: -1
+tiao1G
+  rotate: true
+  xy: 116, 184
+  size: 342, 94
+  orig: 342, 94
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: true
+  xy: 212, 198
+  size: 328, 80
+  orig: 328, 80
+  offset: 0, 0
+  index: -1
+tiao3
+  rotate: true
+  xy: 294, 198
+  size: 328, 80
+  orig: 328, 80
+  offset: 0, 0
+  index: -1
+tiao4
+  rotate: true
+  xy: 376, 198
+  size: 328, 80
+  orig: 328, 80
+  offset: 0, 0
+  index: -1
+tiaoG
+  rotate: true
+  xy: 2, 64
+  size: 462, 112
+  orig: 462, 112
+  offset: 0, 0
+  index: -1

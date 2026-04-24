@@ -1,0 +1,118 @@
+
+monster12_xuexiao.png
+size: 248,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houjiao
+  rotate: false
+  xy: 122, 83
+  size: 60, 56
+  orig: 63, 61
+  offset: 2, 1
+  index: -1
+houjiao1
+  rotate: true
+  xy: 82, 82
+  size: 57, 38
+  orig: 60, 41
+  offset: 1, 1
+  index: -1
+houshangtui
+  rotate: true
+  xy: 119, 208
+  size: 61, 111
+  orig: 63, 113
+  offset: 1, 1
+  index: -1
+houshangtui1
+  rotate: false
+  xy: 113, 10
+  size: 69, 70
+  orig: 72, 74
+  offset: 2, 2
+  index: -1
+houxiatui
+  rotate: true
+  xy: 68, 5
+  size: 73, 43
+  orig: 76, 47
+  offset: 2, 3
+  index: -1
+houxiatui1
+  rotate: true
+  xy: 196, 141
+  size: 65, 50
+  orig: 67, 61
+  offset: 1, 10
+  index: -1
+qianshangbi
+  rotate: true
+  xy: 2, 250
+  size: 79, 115
+  orig: 83, 121
+  offset: 1, 1
+  index: -1
+qianshangbi1
+  rotate: true
+  xy: 2, 80
+  size: 65, 78
+  orig: 67, 81
+  offset: 1, 1
+  index: -1
+qianshou
+  rotate: true
+  xy: 184, 86
+  size: 53, 55
+  orig: 56, 58
+  offset: 2, 1
+  index: -1
+qianshou1
+  rotate: true
+  xy: 184, 36
+  size: 48, 53
+  orig: 50, 55
+  offset: 1, 1
+  index: -1
+qianxiabi
+  rotate: false
+  xy: 2, 2
+  size: 64, 76
+  orig: 66, 84
+  offset: 1, 7
+  index: -1
+qianxiabi1
+  rotate: false
+  xy: 112, 141
+  size: 82, 65
+  orig: 84, 67
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 389
+  size: 244, 147
+  orig: 244, 147
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: true
+  xy: 2, 147
+  size: 101, 108
+  orig: 104, 112
+  offset: 1, 2
+  index: -1
+tou
+  rotate: false
+  xy: 150, 271
+  size: 94, 116
+  orig: 96, 118
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 331
+  size: 146, 56
+  orig: 148, 58
+  offset: 1, 1
+  index: -1

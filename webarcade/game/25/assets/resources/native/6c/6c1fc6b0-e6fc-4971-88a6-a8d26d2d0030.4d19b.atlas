@@ -1,0 +1,160 @@
+
+Xielong.png
+size: 691,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TY-suolian_50
+  rotate: false
+  xy: 242, 62
+  size: 296, 23
+  orig: 296, 23
+  offset: 0, 0
+  index: -1
+dingzi_50
+  rotate: true
+  xy: 2, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+duhuo_tx0001
+  rotate: true
+  xy: 490, 388
+  size: 137, 99
+  orig: 150, 100
+  offset: 9, 0
+  index: -1
+duhuo_tx0002
+  rotate: true
+  xy: 590, 248
+  size: 138, 96
+  orig: 150, 100
+  offset: 7, 2
+  index: -1
+duhuo_tx0003
+  rotate: true
+  xy: 189, 234
+  size: 144, 98
+  orig: 150, 100
+  offset: 3, 0
+  index: -1
+duhuo_tx0004
+  rotate: true
+  xy: 203, 87
+  size: 145, 97
+  orig: 150, 100
+  offset: 1, 1
+  index: -1
+duhuo_tx0005
+  rotate: true
+  xy: 302, 92
+  size: 147, 93
+  orig: 150, 100
+  offset: 0, 0
+  index: -1
+duhuo_tx0006
+  rotate: true
+  xy: 189, 380
+  size: 145, 98
+  orig: 150, 100
+  offset: 4, 0
+  index: -1
+duhuo_tx0007
+  rotate: true
+  xy: 390, 245
+  size: 139, 98
+  orig: 150, 100
+  offset: 10, 0
+  index: -1
+duhuo_tx0008
+  rotate: true
+  xy: 397, 103
+  size: 140, 97
+  orig: 150, 100
+  offset: 9, 2
+  index: -1
+duhuo_tx0009
+  rotate: true
+  xy: 389, 386
+  size: 139, 99
+  orig: 150, 100
+  offset: 8, 0
+  index: -1
+duhuo_tx0010
+  rotate: true
+  xy: 289, 241
+  size: 140, 99
+  orig: 150, 100
+  offset: 7, 0
+  index: -1
+duhuo_tx0011
+  rotate: true
+  xy: 289, 383
+  size: 142, 98
+  orig: 150, 100
+  offset: 6, 0
+  index: -1
+duhuo_tx0012
+  rotate: true
+  xy: 496, 107
+  size: 139, 97
+  orig: 150, 100
+  offset: 8, 0
+  index: -1
+duhuo_tx0013
+  rotate: true
+  xy: 591, 390
+  size: 135, 98
+  orig: 150, 100
+  offset: 13, 0
+  index: -1
+duhuo_tx0014
+  rotate: false
+  xy: 540, 6
+  size: 135, 99
+  orig: 150, 100
+  offset: 13, 0
+  index: -1
+duhuo_tx0015
+  rotate: true
+  xy: 490, 248
+  size: 138, 98
+  orig: 150, 100
+  offset: 9, 0
+  index: -1
+houe_50
+  rotate: true
+  xy: 595, 114
+  size: 132, 87
+  orig: 132, 87
+  offset: 0, 0
+  index: -1
+jizhui_50
+  rotate: false
+  xy: 93, 78
+  size: 108, 145
+  orig: 108, 145
+  offset: 0, 0
+  index: -1
+shange_50
+  rotate: true
+  xy: 2, 225
+  size: 300, 185
+  orig: 300, 185
+  offset: 0, 0
+  index: -1
+shetou_50
+  rotate: false
+  xy: 93, 16
+  size: 147, 60
+  orig: 147, 60
+  offset: 0, 0
+  index: -1
+xiae_50
+  rotate: true
+  xy: 2, 25
+  size: 198, 89
+  orig: 198, 89
+  offset: 0, 0
+  index: -1

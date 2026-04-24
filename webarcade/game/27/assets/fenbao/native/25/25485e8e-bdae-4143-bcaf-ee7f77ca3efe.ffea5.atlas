@@ -1,0 +1,62 @@
+
+skill_10.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1copy
+  rotate: true
+  xy: 141, 4
+  size: 35, 49
+  orig: 41, 88
+  offset: 3, 2
+  index: -1
+2copy
+  rotate: true
+  xy: 343, 7
+  size: 32, 49
+  orig: 41, 88
+  offset: 5, 2
+  index: -1
+3copy
+  rotate: true
+  xy: 89, 4
+  size: 35, 50
+  orig: 41, 88
+  offset: 4, 3
+  index: -1
+4copy
+  rotate: true
+  xy: 2, 4
+  size: 35, 85
+  orig: 41, 88
+  offset: 4, 3
+  index: -1
+5copy
+  rotate: true
+  xy: 394, 5
+  size: 34, 44
+  orig: 41, 88
+  offset: 6, 3
+  index: -1
+6copy
+  rotate: true
+  xy: 243, 2
+  size: 37, 47
+  orig: 41, 88
+  offset: 4, 2
+  index: -1
+7copy
+  rotate: true
+  xy: 192, 4
+  size: 35, 49
+  orig: 41, 88
+  offset: 5, 2
+  index: -1
+8copy
+  rotate: true
+  xy: 292, 6
+  size: 33, 49
+  orig: 41, 88
+  offset: 4, 3
+  index: -1

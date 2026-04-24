@@ -1,0 +1,62 @@
+
+fabao4.png
+size: 204,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fq_yudi01
+  rotate: false
+  xy: 2, 39
+  size: 165, 69
+  orig: 165, 69
+  offset: 0, 0
+  index: -1
+fq_yudi02
+  rotate: true
+  xy: 2, 19
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+fq_yudi03
+  rotate: true
+  xy: 169, 80
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+fq_yudi04
+  rotate: false
+  xy: 2, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+fq_yudi05
+  rotate: false
+  xy: 193, 192
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+fq_yudi06
+  rotate: true
+  xy: 193, 184
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+fq_yudi07
+  rotate: false
+  xy: 57, 19
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+fq_yudi08
+  rotate: false
+  xy: 2, 110
+  size: 189, 91
+  orig: 189, 91
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+fei7.png
+size: 814,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1
+  rotate: false
+  xy: 2, 2
+  size: 45, 201
+  orig: 45, 201
+  offset: 0, 0
+  index: -1
+形状 172
+  rotate: false
+  xy: 118, 2
+  size: 10, 49
+  orig: 10, 49
+  offset: 0, 0
+  index: -1
+形状 172 拷贝
+  rotate: false
+  xy: 176, 2
+  size: 10, 49
+  orig: 10, 49
+  offset: 0, 0
+  index: -1
+形状 173
+  rotate: false
+  xy: 234, 2
+  size: 30, 105
+  orig: 30, 105
+  offset: 0, 0
+  index: -1
+形状 173 拷贝
+  rotate: false
+  xy: 292, 2
+  size: 30, 105
+  orig: 30, 105
+  offset: 0, 0
+  index: -1
+形状 184
+  rotate: false
+  xy: 350, 2
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+形状 188
+  rotate: false
+  xy: 408, 2
+  size: 33, 83
+  orig: 33, 83
+  offset: 0, 0
+  index: -1
+形状 195
+  rotate: false
+  xy: 466, 2
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+形状 195 拷贝
+  rotate: false
+  xy: 524, 2
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+形状 197
+  rotate: false
+  xy: 582, 2
+  size: 30, 160
+  orig: 30, 160
+  offset: 0, 0
+  index: -1
+形状 197 拷贝
+  rotate: false
+  xy: 640, 2
+  size: 30, 160
+  orig: 30, 160
+  offset: 0, 0
+  index: -1
+形状 199
+  rotate: false
+  xy: 698, 2
+  size: 48, 175
+  orig: 48, 175
+  offset: 0, 0
+  index: -1
+形状 86
+  rotate: false
+  xy: 60, 2
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+组 7
+  rotate: false
+  xy: 756, 2
+  size: 33, 119
+  orig: 33, 119
+  offset: 0, 0
+  index: -1

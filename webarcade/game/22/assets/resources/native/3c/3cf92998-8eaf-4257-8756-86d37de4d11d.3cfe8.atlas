@@ -1,0 +1,55 @@
+
+bx+wq.png
+size: 1879,1234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di05
+  rotate: false
+  xy: 1156, 2
+  size: 348, 254
+  orig: 348, 254
+  offset: 0, 0
+  index: -1
+gold01
+  rotate: false
+  xy: 897, 917
+  size: 923, 315
+  orig: 924, 315
+  offset: 0, 0
+  index: -1
+gold02
+  rotate: true
+  xy: 897, 60
+  size: 855, 257
+  orig: 856, 257
+  offset: 0, 0
+  index: -1
+hg
+  rotate: true
+  xy: 1156, 258
+  size: 657, 682
+  orig: 663, 689
+  offset: 5, 6
+  index: -1
+kai05
+  rotate: false
+  xy: 1506, 46
+  size: 371, 210
+  orig: 371, 210
+  offset: 0, 0
+  index: -1
+wall2
+  rotate: true
+  xy: 2, 107
+  size: 1125, 893
+  orig: 1125, 893
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 2, 57
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

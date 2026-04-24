@@ -1,0 +1,83 @@
+
+e8.png
+size: 126,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clr_arm_L1
+  rotate: false
+  xy: 73, 7
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+clr_arm_L2
+  rotate: false
+  xy: 31, 3
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+clr_arm_R1
+  rotate: true
+  xy: 2, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+clr_arm_R2
+  rotate: false
+  xy: 100, 14
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+clr_body1
+  rotate: true
+  xy: 58, 34
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+clr_eye_L
+  rotate: true
+  xy: 100, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+clr_eye_R
+  rotate: true
+  xy: 108, 55
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+clr_head
+  rotate: true
+  xy: 2, 25
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+clr_leg_L
+  rotate: false
+  xy: 108, 68
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+clr_leg_R
+  rotate: false
+  xy: 52, 3
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 88
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

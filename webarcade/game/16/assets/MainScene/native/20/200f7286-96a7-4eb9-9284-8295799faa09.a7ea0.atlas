@@ -1,0 +1,55 @@
+
+sboxUI.png
+size: 579,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianC
+  rotate: false
+  xy: 403, 36
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+log
+  rotate: false
+  xy: 2, 87
+  size: 219, 188
+  orig: 219, 188
+  offset: 0, 0
+  index: -1
+x5a
+  rotate: false
+  xy: 223, 5
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+yaoban1b
+  rotate: false
+  xy: 223, 170
+  size: 256, 105
+  orig: 256, 105
+  offset: 0, 0
+  index: -1
+灵匣
+  rotate: false
+  xy: 101, 57
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+箱子
+  rotate: false
+  xy: 2, 2
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+箱子G
+  rotate: true
+  xy: 481, 166
+  size: 109, 96
+  orig: 109, 96
+  offset: 0, 0
+  index: -1
